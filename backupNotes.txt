@@ -3,3 +3,6 @@ standard-6-23-V2
 standard-6-23-V3
 standard-6-23-V4
 standard-6-24-V1 : fix necessary components and testpoints
+
+
+standard-6-25-V5 : in processing with removing nets, but want to change to operation on the schematics
