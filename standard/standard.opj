@@ -83,7 +83,7 @@
       (Path "Design Resources" ".\standard.dsn" "SCHEMATIC1")
       (Path "Outputs")
       (Select "Design Resources" ".\standard.dsn" "SCHEMATIC1"
-         "PAGE-15  GPIO, I2C, LED CONTROL"))
+         "PAGE-06  TFP401 POWER"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -93,46 +93,35 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 100 1430 100 670")
-        (Scroll "0 40")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\MA\DROPBOX\DESIGN\ALLEGROPROJECT\HELPS\STANDARD\STANDARD.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE-06  TFP401 POWER"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 125 1459 125 699")
-        (Scroll "101 60")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\MA\DROPBOX\DESIGN\ALLEGROPROJECT\HELPS\STANDARD\STANDARD.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE-14  FLASH MEMORY INTERFACE"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 150 1484 150 724")
+        (Placement "44 0 1 -1 -1 -8 -30 50 1380 50 620")
         (Scroll "0 0")
         (Zoom "100")
         (Occurrence "/"))
       (Path
-         "C:\USERS\MA\DROPBOX\DESIGN\ALLEGROPROJECT\HELPS\STANDARD\STANDARD.DSN")
+         "C:\USERS\MA\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE-18  TP, ARM JTAG, RESET"))
+      (Page "PAGE-10  IO MUX"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 125 1459 125 699")
-        (Scroll "0 160")
+        (Placement "44 0 1 -1 -1 -8 -30 75 1409 75 649")
+        (Scroll "0 0")
         (Zoom "100")
         (Occurrence "/"))
       (Path
-         "C:\USERS\MA\DROPBOX\DESIGN\ALLEGROPROJECT\HELPS\STANDARD\STANDARD.DSN")
+         "C:\USERS\MA\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE-15  GPIO, I2C, LED CONTROL")))
+      (Page "PAGE-03  RGB MUXING"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 100 1434 100 674")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\MA\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE-06  TFP401 POWER")))
   (MPSSessionName "ma")
   (ISPCBBASICLICENSE "false"))
