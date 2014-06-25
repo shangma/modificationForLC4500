@@ -1,397 +1,3604 @@
-\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:00:00)     Journal start - Wed Jun 25 15:02:53 2014
-\t (00:00:00)         Host=INTERN2014-04 User=ma Pid=6076 CPUs=8
-\t (00:00:00) 
-\t (00:00:03) Opening existing design...
-\d (00:00:03) Database opened: C:/USERS/MA/DROPBOX/DESIGN/ALLEGROPROJECT/HELPS/STANDARD/allegro/STANDARD.brd
-\i (00:00:03) trapsize 610
-\i (00:00:03) trapsize 598
-\i (00:00:03) trapsize 612
-\i (00:00:03) trapsize 606
-\i (00:00:03) trapsize 632
-\i (00:00:04) generaledit 
-\i (00:00:04) trapsize 778
-\i (00:00:05) trapsize 632
-\i (00:00:05) zoom out 1 
-\i (00:00:05) setwindow pcb
-\i (00:00:05) zoom out -90.5470 -66.6113
-\i (00:00:05) trapsize 1264
-\i (00:00:05) zoom out 1 
-\i (00:00:05) setwindow pcb
-\i (00:00:05) zoom out -90.5470 -66.6114
-\i (00:00:05) trapsize 2528
-\i (00:00:05) zoom out 1 
-\i (00:00:05) setwindow pcb
-\i (00:00:05) zoom out -90.4965 -66.6113
-\i (00:00:05) trapsize 5057
-\i (00:00:07) zoom in 1 
-\i (00:00:07) setwindow pcb
-\i (00:00:07) zoom in -82.7088 -47.6983
-\i (00:00:07) trapsize 2528
-\i (00:00:07) zoom in 1 
-\i (00:00:07) setwindow pcb
-\i (00:00:07) zoom in -82.7593 -47.6983
-\i (00:00:07) trapsize 1264
-\i (00:00:10) drc update 
-\t (00:00:10) Performing DRC...
-\t (00:00:10) Multithreaded DRC update (8 threads).
-\t (00:00:11) No DRC errors detected.
-\i (00:00:11) generaledit 
-\i (00:00:12) zoom out 1 
-\i (00:00:12) setwindow pcb
-\i (00:00:12) zoom out -83.3156 -46.0295
-\i (00:00:12) trapsize 2528
-\i (00:00:13) zoom out 1 
-\i (00:00:13) setwindow pcb
-\i (00:00:13) zoom out -83.2650 -45.4732
-\i (00:00:13) trapsize 5057
-\i (00:00:14) roam start
-\i (00:00:14) roam y -64
-\i (00:00:14) roam y -48
-\i (00:00:14) roam y -32
-\i (00:00:14) roam y -48
-\i (00:00:15) roam x -16
-\i (00:00:15) roam y -48
-\i (00:00:15) roam x -16
-\i (00:00:15) roam y -32
-\i (00:00:15) roam y -48
-\i (00:00:15) roam y -32
-\i (00:00:15) roam x 16
-\i (00:00:15) roam y -16
-\i (00:00:15) roam x 16
-\i (00:00:15) roam x 16
-\i (00:00:16) roam x 16
-\i (00:00:16) roam x 16
-\i (00:00:16) roam x 16
-\i (00:00:16) roam end
-\i (00:00:16) zoom in 1 
-\i (00:00:16) setwindow pcb
-\i (00:00:16) zoom in 16.6007 -39.8032
-\i (00:00:16) trapsize 2528
-\i (00:00:17) zoom out 1 
-\i (00:00:17) setwindow pcb
-\i (00:00:17) zoom out 11.6449 -45.9727
-\i (00:00:17) trapsize 5057
-\i (00:01:48) pick grid 13.8700 -69.4371
-\t (00:01:48) last pick:  13.8684  -69.4436
+\t (00:00:41) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:41)     Journal start - Wed Jun 25 15:14:32 2014
+\t (00:00:41)         Host=INTERN2014-04 User=ma Pid=8708 CPUs=8
+\t (00:00:41) 
+\d (00:00:41) Database opened: C:/Users/ma/Dropbox/Design/allegroProject/designOnGit/modificationForLC4500/standard/allegro/STANDARD.brd
+\i (00:00:41) generaledit 
+\i (00:00:41) zoom out 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom out -86.1234 -58.6729
+\i (00:00:41) trapsize 1264
+\i (00:00:41) zoom out 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom out -85.9716 -58.9764
+\i (00:00:41) trapsize 2528
+\i (00:00:41) zoom out 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom out -85.8705 -59.1280
+\i (00:00:41) trapsize 5057
+\i (00:00:41) zoom out 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom out -85.8704 -59.1280
+\i (00:00:41) trapsize 10114
+\i (00:00:42) zoom in 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom in -87.4886 -60.5440
+\i (00:00:42) trapsize 5057
+\i (00:00:42) zoom in 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom in -87.4886 -60.5440
+\i (00:00:42) trapsize 2528
+\i (00:00:42) zoom out 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom out -88.0449 -58.8752
+\i (00:00:42) trapsize 5057
+\i (00:00:43) drc update 
+\t (00:00:44) Performing DRC...
+\t (00:00:44) Multithreaded DRC update (8 threads).
+\t (00:00:44) No DRC errors detected.
+\i (00:00:44) generaledit 
+\i (00:00:45) roam start
+\i (00:00:45) roam x 96
+\i (00:00:45) roam y -48
+\i (00:00:45) roam x 176
+\i (00:00:45) roam y -64
+\i (00:00:45) roam x 160
+\i (00:00:45) roam y -32
+\i (00:00:46) roam x 192
+\i (00:00:46) roam y -32
+\i (00:00:46) roam x 128
+\i (00:00:46) roam y -16
+\i (00:00:46) roam x 32
+\i (00:00:46) roam y -16
+\i (00:00:46) roam x -64
+\i (00:00:46) roam x -192
+\i (00:00:46) roam x -48
+\i (00:00:46) roam x 16
+\i (00:00:46) roam y -16
+\i (00:00:46) roam x -144
+\i (00:00:47) roam end
+\i (00:01:41) pick grid 19.5323 -51.4353
+\t (00:01:41) last pick:  19.5326  -51.4350
+\i (00:01:43) zoom in 1 
+\i (00:01:43) setwindow pcb
+\i (00:01:43) zoom in -81.8090 -48.4011
+\i (00:01:43) trapsize 2528
+\i (00:01:43) zoom in 1 
+\i (00:01:43) setwindow pcb
+\i (00:01:43) zoom in -81.8089 -48.4011
+\i (00:01:43) trapsize 1264
+\i (00:01:43) zoom in 1 
+\i (00:01:43) setwindow pcb
+\i (00:01:43) zoom in -81.8089 -48.4011
+\i (00:01:43) trapsize 632
+\i (00:01:44) zoom out 1 
+\i (00:01:44) setwindow pcb
+\i (00:01:44) zoom out -81.9733 -48.5907
+\i (00:01:44) trapsize 1264
+\i (00:01:44) zoom out 1 
+\i (00:01:44) setwindow pcb
+\i (00:01:44) zoom out -81.9732 -48.5906
+\i (00:01:44) trapsize 2528
+\i (00:01:47) zoom out 1 
+\i (00:01:47) setwindow pcb
+\i (00:01:47) zoom out -91.1263 -50.1583
+\i (00:01:47) trapsize 5057
+\i (00:01:48) zoom in 1 
+\i (00:01:48) setwindow pcb
+\i (00:01:48) zoom in -91.1263 -50.1584
+\i (00:01:48) trapsize 2528
+\i (00:01:48) zoom in 1 
+\i (00:01:48) setwindow pcb
+\i (00:01:48) zoom in -91.1263 -50.1583
+\i (00:01:48) trapsize 1264
+\i (00:01:48) zoom in 1 
+\i (00:01:48) setwindow pcb
+\i (00:01:48) zoom in -91.1263 -50.1583
+\i (00:01:48) trapsize 632
+\i (00:01:48) zoom out 1 
+\i (00:01:48) setwindow pcb
+\i (00:01:48) zoom out -91.1262 -50.1583
+\i (00:01:48) trapsize 1264
+\i (00:01:49) zoom out 1 
+\i (00:01:49) setwindow pcb
+\i (00:01:49) zoom out -91.1263 -50.1583
+\i (00:01:49) trapsize 2528
 \i (00:01:50) zoom in 1 
 \i (00:01:50) setwindow pcb
-\i (00:01:50) zoom in -95.2595 -67.1109
-\i (00:01:50) trapsize 2528
-\i (00:01:50) zoom in 1 
-\i (00:01:50) setwindow pcb
-\i (00:01:50) zoom in -95.2595 -67.1109
+\i (00:01:50) zoom in -85.5130 -56.8840
 \i (00:01:50) trapsize 1264
 \i (00:01:50) zoom in 1 
 \i (00:01:50) setwindow pcb
-\i (00:01:50) zoom in -88.5843 -66.6810
-\i (00:01:51) trapsize 632
-\i (00:01:51) zoom in 1 
+\i (00:01:50) zoom in -85.4877 -56.9092
+\i (00:01:50) trapsize 632
+\i (00:01:50) zoom in 1 
+\i (00:01:50) setwindow pcb
+\i (00:01:50) zoom in -85.2854 -56.3276
+\i (00:01:50) trapsize 316
+\i (00:01:50) zoom in 1 
+\i (00:01:50) setwindow pcb
+\i (00:01:50) zoom in -85.2854 -56.3276
+\i (00:01:50) trapsize 158
+\i (00:01:51) zoom out 1 
 \i (00:01:51) setwindow pcb
-\i (00:01:51) zoom in -88.6222 -65.4293
+\i (00:01:51) zoom out -85.2854 -56.3276
 \i (00:01:51) trapsize 316
 \i (00:01:51) zoom out 1 
 \i (00:01:51) setwindow pcb
-\i (00:01:51) zoom out -88.9888 -64.6265
+\i (00:01:51) zoom out -85.2916 -56.3276
 \i (00:01:51) trapsize 632
-\i (00:01:53) zoom out 1 
-\i (00:01:53) setwindow pcb
-\i (00:01:53) zoom out -86.7511 -61.7693
-\i (00:01:53) trapsize 1264
-\i (00:01:54) zoom in 1 
-\i (00:01:54) setwindow pcb
-\i (00:01:54) zoom in -91.2517 -73.3497
-\i (00:01:54) trapsize 632
-\i (00:01:54) zoom in 1 
-\i (00:01:54) setwindow pcb
-\i (00:01:54) zoom in -92.2505 -73.2106
-\i (00:01:54) trapsize 316
-\i (00:01:55) zoom out 1 
-\i (00:01:55) setwindow pcb
-\i (00:01:55) zoom out -91.4667 -73.2611
-\i (00:01:55) trapsize 632
-\i (00:02:01) setwindow form.vf_vis
-\i (00:02:01) FORM vf_vis 3 all_colorvisible NO 
-\i (00:02:02) FORM vf_vis 4 all_colorvisible NO 
-\i (00:02:06) setwindow pcb
-\i (00:02:06) roam start
-\i (00:02:06) roam x 48
-\i (00:02:06) roam y -32
-\i (00:02:06) roam x 32
-\i (00:02:06) roam y -16
-\i (00:02:06) roam x 32
-\i (00:02:06) roam y -32
-\i (00:02:06) roam x 16
-\i (00:02:06) roam y -32
-\i (00:02:06) roam y -16
-\i (00:02:06) roam y -48
-\i (00:02:07) roam y -32
-\i (00:02:07) roam y -16
-\i (00:02:07) roam y -16
-\i (00:02:07) roam y -16
-\i (00:02:07) roam y -16
-\i (00:02:07) roam y -32
-\i (00:02:07) roam y -16
-\i (00:02:07) roam y -16
-\i (00:02:07) roam x -16
-\i (00:02:07) roam y -16
-\i (00:02:07) roam x -16
-\i (00:02:07) roam x -16
-\i (00:02:07) roam y -16
-\i (00:02:07) roam x -16
-\i (00:02:08) roam y -16
-\i (00:02:08) roam y -16
-\i (00:02:08) roam y -16
-\i (00:02:08) roam x 16
-\i (00:02:08) roam x 16
-\i (00:02:08) roam x 16
-\i (00:02:08) roam x 16
-\i (00:02:08) roam x 16
-\i (00:02:08) roam y 16
-\i (00:02:08) roam x 16
-\i (00:02:08) roam y 16
-\i (00:02:08) roam x 16
-\i (00:02:08) roam y 48
-\i (00:02:08) roam y 32
-\i (00:02:08) roam y 48
-\i (00:02:08) roam x -32
-\i (00:02:08) roam y 80
-\i (00:02:08) roam x -16
-\i (00:02:08) roam y 64
-\i (00:02:09) roam x 16
-\i (00:02:09) roam y -16
-\i (00:02:09) roam x 16
-\i (00:02:09) roam y -16
-\i (00:02:09) roam x 16
-\i (00:02:09) roam x 32
-\i (00:02:09) roam x 32
-\i (00:02:09) roam y -16
-\i (00:02:09) roam x 16
-\i (00:02:09) roam y -16
-\i (00:02:09) roam end
-\i (00:02:11) setwindow form.vf_vis
-\i (00:02:11) FORM vf_vis 6 all_colorvisible NO 
-\i (00:02:15) setwindow pcb
-\i (00:02:15) zoom in 1 
-\i (00:02:15) setwindow pcb
-\i (00:02:15) zoom in -83.1238 -69.9437
-\i (00:02:15) trapsize 316
-\i (00:02:16) zoom out 1 
-\i (00:02:16) setwindow pcb
-\i (00:02:16) zoom out -83.6548 -70.1460
-\i (00:02:16) trapsize 632
-\i (00:02:16) zoom out 1 
-\i (00:02:16) setwindow pcb
-\i (00:02:16) zoom out -83.6548 -70.1460
-\i (00:02:16) trapsize 1264
-\i (00:02:18) zoom in 1 
-\i (00:02:18) setwindow pcb
-\i (00:02:18) zoom in -90.0517 -64.7097
-\i (00:02:18) trapsize 632
-\i (00:02:19) zoom in 1 
-\i (00:02:19) setwindow pcb
-\i (00:02:19) zoom in -90.5068 -63.7362
-\i (00:02:19) trapsize 316
-\i (00:02:19) zoom out 1 
-\i (00:02:19) setwindow pcb
-\i (00:02:19) zoom out -90.5258 -63.5782
-\i (00:02:19) trapsize 632
-\i (00:02:20) zoom out 1 
-\i (00:02:20) setwindow pcb
-\i (00:02:20) zoom out -89.0086 -59.8613
-\i (00:02:20) trapsize 1264
-\i (00:02:21) roam start
-\i (00:02:21) roam y -32
-\i (00:02:21) roam y -32
-\i (00:02:22) roam y -32
-\i (00:02:22) roam x 16
-\i (00:02:22) roam y -32
-\i (00:02:22) roam x 32
-\i (00:02:22) roam y -16
-\i (00:02:22) roam end
-\i (00:02:22) zoom in 1 
-\i (00:02:22) setwindow pcb
-\i (00:02:22) zoom in -85.8546 -59.0965
-\i (00:02:22) trapsize 632
-\i (00:02:23) zoom in 1 
-\i (00:02:23) setwindow pcb
-\i (00:02:23) zoom in -89.1037 -59.6274
-\i (00:02:23) trapsize 316
-\i (00:02:41) cmgr 
-\i (00:02:41) setwindow cmgr
-\i (00:02:41) cm newView ( worksheet 53:Electrical 66:Net 25:Routing 26:Wiring )
-\i (00:02:42) cm newView ( worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "58:All Layers" )
-\i (00:02:42) cm newView ( worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" )
-\i (00:02:42) cm newView ( worksheet "171:Same Net Spacing" 189:Net "190:All Layers" 191:Line )
-\i (00:02:42) cm newView ( worksheet 144:Properties 14:Net "67:Electrical Properties" "73:Electrical Properties" )
-\i (00:02:42) cm newView ( worksheet 144:Properties 14:Net "219:Ratsnest Bundle Properties" "220:Ratsnest Bundle Properties" )
-\i (00:02:43) cm newView ( worksheet 144:Properties 38:Component "39:Component Properties" 40:General )
-\i (00:02:43) cm newView ( worksheet 144:Properties 14:Net "36:General Properties" "37:General Properties" )
-\i (00:02:43) setwindow pcb
-\i (00:02:43) generaledit 
-\i (00:02:56) setwindow cmgr
-\i (00:02:56) cm scope Design "STANDARD"
-\i (00:02:56) cm putValue ( Net "P3P3V" ) FIXED (Clear) 0
-\i (00:02:56) cm endUndoBlock
-\i (00:02:57) setwindow pcb
-\i (00:02:57) pick grid -90.9052 -60.6451
-\t (00:02:57) last pick:  -90.9066  -60.6552
-\i (00:03:01) delete 
-\i (00:03:03) setwindow form.find
-\i (00:03:03) FORM find all_off  
-\i (00:03:03) FORM find cline_segs YES 
-\i (00:03:04) setwindow pcb
-\i (00:03:04) pick grid -91.4109 -60.7020
-\t (00:03:04) last pick:  -91.4146  -60.7060
-\t (00:03:04) Vertical Line Segment "P3p3v, Etch/Top"
-\i (00:03:04) setwindow cmgr
-\i (00:03:04) cm expand ( row ( Design "STANDARD" ) )
-\i (00:03:04) cm expand ( row ( Design "STANDARD" ) )
-\i (00:03:04) cm expand ( row ( Design "STANDARD" ) )
-\i (00:03:04) cm expand ( row ( "Net Class" "PWR_PH" ) )
-\i (00:03:04) cm expand ( row ( Design "STANDARD" ) )
-\i (00:03:04) cm expand ( row ( Design "STANDARD" ) )
-\i (00:03:04) cm expand ( row ( Design "STANDARD" ) )
-\i (00:03:04) cm expand ( row ( Design "STANDARD" ) )
-\i (00:03:05) setwindow pcb
-\i (00:03:05) pick grid -88.3830 -60.8095
-\t (00:03:05) last pick:  -88.3920  -60.8076
-\t (00:03:05) Vertical Line Segment "P3p3v, Etch/Top"
-\i (00:03:05) pick grid -88.1997 -60.4176
-\t (00:03:05) last pick:  -88.1888  -60.4266
-\t (00:03:05) Horizontal Line Segment "P3p3v, Etch/Top"
-\i (00:03:06) pick grid -88.0543 -60.3227
-\t (00:03:06) last pick:  -88.0618  -60.3250
-\t (00:03:06) Odd-angle Line Segment "Not On A Net, Etch/Top"
-\i (00:03:07) pick grid -88.3577 -60.4365
-\t (00:03:07) last pick:  -88.3666  -60.4266
-\i (00:03:09) prepopup -85.5385 -60.6704
-\i (00:03:09) done 
-\i (00:03:09) generaledit 
-\i (00:03:11) drc update 
-\t (00:03:11) Performing DRC...
-\t (00:03:11) Multithreaded DRC update (8 threads).
-\t (00:03:12) No DRC errors detected.
-\i (00:03:12) generaledit 
-\i (00:03:13) zoom out 1 
-\i (00:03:13) setwindow pcb
-\i (00:03:13) zoom out -86.2654 -59.9308
-\i (00:03:13) trapsize 632
-\i (00:03:16) setwindow cmgr
-\i (00:03:16) cm putValue ( Net "P3P3V" ) FIXED On 0
-\i (00:03:16) cm endUndoBlock
-\i (00:03:17) setwindow pcb
-\i (00:03:17) pick grid -83.3577 -61.6502
-\t (00:03:17) last pick:  -83.3628  -61.6458
-\i (00:03:18) roam start
-\i (00:03:18) roam x 48
-\i (00:03:18) roam y -48
-\i (00:03:19) roam x 64
-\i (00:03:19) roam y -64
-\i (00:03:19) roam x 32
-\i (00:03:19) roam y -48
-\i (00:03:19) roam x 16
-\i (00:03:19) roam y -32
-\i (00:03:19) roam x 32
-\i (00:03:19) roam y -16
-\i (00:03:19) roam x 32
-\i (00:03:19) roam y -16
-\i (00:03:19) roam x 32
-\i (00:03:19) roam x 32
-\i (00:03:19) roam x 48
-\i (00:03:19) roam y -16
-\i (00:03:19) roam x 48
-\i (00:03:19) roam x 16
-\i (00:03:19) roam y -16
-\i (00:03:19) roam x 16
-\i (00:03:19) roam x 32
-\i (00:03:19) roam x 32
-\i (00:03:20) roam x -32
-\i (00:03:20) roam end
-\i (00:03:20) zoom in 1 
-\i (00:03:20) setwindow pcb
-\i (00:03:20) zoom in -81.2402 -58.6793
-\i (00:03:20) trapsize 316
-\i (00:03:20) zoom in 1 
-\i (00:03:20) setwindow pcb
-\i (00:03:20) zoom in -81.2402 -58.6793
-\i (00:03:20) trapsize 158
-\i (00:03:21) zoom out 1 
-\i (00:03:21) setwindow pcb
-\i (00:03:21) zoom out -81.6163 -58.7677
-\i (00:03:21) trapsize 316
-\i (00:03:23) setwindow cmgr
-\i (00:03:23) cm putValue ( Net "P3P3V" ) FIXED (Clear) 0
-\i (00:03:24) cm endUndoBlock
-\i (00:03:25) setwindow pcb
-\i (00:03:25) pick grid -80.7187 -58.5339
-\t (00:03:25) last pick:  -80.7212  -58.5216
-\i (00:03:26) delete 
-\i (00:03:28) pick grid -82.4317 -58.1609
-\t (00:03:28) last pick:  -82.4230  -58.1660
-\t (00:03:28) Vertical Line Segment "P3p3v, Etch/Bottom"
-\i (00:03:29) prepopup -81.3318 -58.5086
-\i (00:03:30) done 
-\i (00:03:30) generaledit 
-\i (00:03:32) pick grid -82.5202 -59.6906
-\t (00:03:32) last pick:  -82.5246  -59.6900
-\i (00:03:32) setwindow cmgr
-\i (00:03:32) cm expand ( row ( Design "STANDARD" ) )
-\i (00:03:32) cm expand ( row ( Design "STANDARD" ) )
-\i (00:03:32) cm expand ( row ( Design "STANDARD" ) )
-\i (00:03:32) cm expand ( row ( "Net Class" "PWR_PH" ) )
-\i (00:03:32) cm expand ( row ( Design "STANDARD" ) )
-\i (00:03:32) cm expand ( row ( Design "STANDARD" ) )
-\i (00:03:32) cm expand ( row ( Design "STANDARD" ) )
-\i (00:03:32) cm expand ( row ( Design "STANDARD" ) )
-\i (00:03:34) cm putValue ( Net "GND" ) FIXED (Clear) 0
-\i (00:03:34) cm endUndoBlock
-\i (00:03:36) setwindow pcb
-\i (00:03:36) pick grid -81.4519 -58.4896
-\t (00:03:36) last pick:  -81.4578  -58.4962
-\i (00:03:37) delete 
-\i (00:03:38) pick grid -82.4064 -59.4757
-\t (00:03:38) last pick:  -82.3976  -59.4868
-\t (00:03:38) Vertical Line Segment "Gnd, Etch/Bottom"
-\i (00:03:38) setwindow cmgr
-\i (00:03:38) cm expand ( row ( Design "STANDARD" ) )
-\i (00:03:38) cm expand ( row ( Design "STANDARD" ) )
-\i (00:03:38) cm expand ( row ( Design "STANDARD" ) )
-\i (00:03:38) cm expand ( row ( "Net Class" "PWR_PH" ) )
-\i (00:03:38) cm expand ( row ( Design "STANDARD" ) )
-\i (00:03:38) cm expand ( row ( Design "STANDARD" ) )
-\i (00:03:38) cm expand ( row ( Design "STANDARD" ) )
-\i (00:03:38) cm expand ( row ( Design "STANDARD" ) )
+\i (00:01:53) cmgr 
+\i (00:01:55) setwindow cmgr
+\i (00:01:55) cm newView ( worksheet 53:Electrical 66:Net 25:Routing 26:Wiring )
+\i (00:01:55) cm newView ( worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "58:All Layers" )
+\i (00:01:55) cm newView ( worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" )
+\i (00:01:55) cm newView ( worksheet "171:Same Net Spacing" 189:Net "190:All Layers" 191:Line )
+\i (00:01:56) cm newView ( worksheet 144:Properties 14:Net "67:Electrical Properties" "73:Electrical Properties" )
+\i (00:01:56) cm newView ( worksheet 144:Properties 14:Net "219:Ratsnest Bundle Properties" "220:Ratsnest Bundle Properties" )
+\i (00:01:56) cm newView ( worksheet 144:Properties 38:Component "39:Component Properties" 40:General )
+\i (00:01:57) cm newView ( worksheet 144:Properties 14:Net "36:General Properties" "37:General Properties" )
+\i (00:01:57) setwindow pcb
+\i (00:01:57) generaledit 
+\i (00:01:59) pick grid -86.1387 -56.9470
+\t (00:01:59) last pick:  -86.1314  -56.9468
+\i (00:02:01) setwindow form.find
+\i (00:02:01) FORM find all_off  
+\i (00:02:01) setwindow pcb
+\i (00:02:01) pick grid -86.7834 -56.8711
+\t (00:02:01) last pick:  -86.7918  -56.8706
+\i (00:02:02) zoom in 1 
+\i (00:02:02) setwindow pcb
+\i (00:02:02) zoom in -89.5142 -56.3781
+\i (00:02:02) trapsize 316
+\i (00:02:06) setwindow form.find
+\i (00:02:06) FORM find cline_segs YES 
+\i (00:02:13) setwindow pcb
+\i (00:02:13) zoom out 1 
+\i (00:02:13) setwindow pcb
+\i (00:02:13) zoom out -86.9857 -57.0734
+\i (00:02:13) trapsize 632
+\i (00:02:16) setwindow form.vf_vis
+\i (00:02:16) FORM vf_vis all_all_visible YES 
+\i (00:02:20) FORM vf_vis 4 all_colorvisible NO 
+\i (00:02:24) setwindow pcb
+\i (00:02:24) zoom in 1 
+\i (00:02:24) setwindow pcb
+\i (00:02:24) zoom in -87.0995 -56.7826
+\i (00:02:24) trapsize 316
+\i (00:02:26) zoom out 1 
+\i (00:02:26) setwindow pcb
+\i (00:02:26) zoom out -87.0110 -56.4602
+\i (00:02:26) trapsize 632
+\i (00:02:26) zoom out 1 
+\i (00:02:26) setwindow pcb
+\i (00:02:26) zoom out -87.0110 -56.4602
+\i (00:02:26) trapsize 1264
+\i (00:03:07) zoom in 1 
+\i (00:03:07) setwindow pcb
+\i (00:03:07) zoom in -86.9605 -56.1568
+\i (00:03:07) trapsize 632
+\i (00:03:07) zoom in 1 
+\i (00:03:07) setwindow pcb
+\i (00:03:07) zoom in -86.9478 -56.1568
+\i (00:03:07) trapsize 316
+\i (00:03:07) zoom in 1 
+\i (00:03:07) setwindow pcb
+\i (00:03:07) zoom in -86.9478 -56.1568
+\i (00:03:07) trapsize 158
+\i (00:03:08) zoom out 1 
+\i (00:03:08) setwindow pcb
+\i (00:03:08) zoom out -86.9414 -56.1505
+\i (00:03:08) trapsize 316
+\i (00:03:08) zoom out 1 
+\i (00:03:08) setwindow pcb
+\i (00:03:08) zoom out -86.9414 -56.1504
+\i (00:03:08) trapsize 632
+\i (00:03:26) setwindow form.find
+\i (00:03:26) FORM find name_type Symbol (or Pin) 
+\i (00:03:29) FORM find find_name c9 
+\i (00:03:29) setwindow cmgr
+\i (00:03:29) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:29) cm scope Design "STANDARD"
+\i (00:03:29) cm expand ( row ( "Part Definition" "SC2D2U10V3ZY_0_CAP_0603_10UF:CAP_0603:10uF:" ) )
+\t (00:03:33) > Symbol "C9"
+\i (00:03:33) setwindow worldview
+\i (00:03:33) trapsize 351
+\i (00:03:36) setwindow form.find
+\i (00:03:36) FORM find symbols YES 
 \i (00:03:39) setwindow pcb
-\i (00:03:39) prepopup -80.9905 -58.7614
-\i (00:03:39) done 
-\i (00:03:39) generaledit 
-\i (00:03:42) setwindow cmgr
-\i (00:03:42) cm putValue ( Net "GND" ) FIXED (Clear) 0
-\i (00:03:42) cm endUndoBlock
-\i (00:03:45) cm putValue ( Net "GND" ) FIXED On 0
-\i (00:03:45) cm endUndoBlock
-\i (00:03:46) setwindow pcb
-\i (00:03:46) pick grid -78.6074 -58.6477
-\t (00:03:46) last pick:  -78.6130  -58.6486
+\i (00:03:39) zoom out 1 
+\i (00:03:39) setwindow pcb
+\i (00:03:39) zoom out -76.7651 -47.2053
+\i (00:03:39) trapsize 703
+\i (00:03:40) zoom out 1 
+\i (00:03:40) setwindow pcb
+\i (00:03:40) zoom out -76.7651 -47.2052
+\i (00:03:40) trapsize 1406
+\i (00:03:43) setwindow form.find
+\i (00:03:43) FORM find symbols NO 
+\i (00:03:44) FORM find cline_segs NO 
+\i (00:03:45) setwindow pcb
+\i (00:03:45) zoom in 1 
+\i (00:03:45) setwindow pcb
+\i (00:03:45) zoom in -86.1265 -51.7033
+\i (00:03:45) trapsize 703
+\i (00:03:45) zoom in 1 
+\i (00:03:45) setwindow pcb
+\i (00:03:45) zoom in -85.9578 -51.8438
+\i (00:03:45) trapsize 351
 \i (00:03:46) zoom out 1 
 \i (00:03:46) setwindow pcb
-\i (00:03:46) zoom out -78.6769 -58.5971
-\i (00:03:46) trapsize 632
-\i (00:03:51) drc update 
-\t (00:03:51) Performing DRC...
-\t (00:03:51) Multithreaded DRC update (8 threads).
-\t (00:03:52) No DRC errors detected.
-\i (00:03:52) generaledit 
-\i (00:05:33) pick grid -77.9817 -58.4706
-\t (00:05:33) last pick:  -77.9780  -58.4708
-\i (00:05:35) drc update 
-\t (00:05:35) Performing DRC...
-\t (00:05:35) Multithreaded DRC update (8 threads).
-\t (00:05:36) No DRC errors detected.
-\i (00:05:36) generaledit 
-\i (00:05:37) save 
-\i (00:05:38) fillin yes 
-\i (00:05:39) generaledit 
-\i (00:05:40) exit 
-\t (00:05:41)     Journal end - Wed Jun 25 15:08:34 2014
+\i (00:03:46) zoom out -85.6696 -51.9913
+\i (00:03:46) trapsize 703
+\i (00:03:47) zoom out 1 
+\i (00:03:47) setwindow pcb
+\i (00:03:47) zoom out -85.6556 -52.0898
+\i (00:03:47) trapsize 1406
+\i (00:03:47) zoom in 1 
+\i (00:03:47) setwindow pcb
+\i (00:03:47) zoom in -87.3987 -55.7443
+\i (00:03:47) trapsize 703
+\i (00:03:47) zoom in 1 
+\i (00:03:47) setwindow pcb
+\i (00:03:47) zoom in -87.2581 -55.9832
+\i (00:03:47) trapsize 351
+\i (00:03:47) zoom in 1 
+\i (00:03:47) setwindow pcb
+\i (00:03:47) zoom in -87.2510 -56.0113
+\i (00:03:47) trapsize 176
+\i (00:03:53) setwindow form.find
+\i (00:03:53) FORM find name_type Net 
+\i (00:04:00) FORM find find_name ovcc_3v3 
+\i (00:04:00) setwindow cmgr
+\i (00:04:00) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:00) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:00) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:00) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:00) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:00) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:03) setwindow pcb
+\i (00:04:03) zoom out 1 
+\i (00:04:03) setwindow pcb
+\i (00:04:03) zoom out -87.5707 -54.7814
+\i (00:04:03) trapsize 351
+\i (00:04:04) zoom out 1 
+\i (00:04:04) setwindow pcb
+\i (00:04:04) zoom out -87.5708 -54.7814
+\i (00:04:04) trapsize 703
+\i (00:04:04) zoom out 1 
+\i (00:04:04) setwindow pcb
+\i (00:04:04) zoom out -87.5708 -54.7813
+\i (00:04:04) trapsize 1406
+\i (00:04:05) zoom out 1 
+\i (00:04:05) setwindow pcb
+\i (00:04:05) zoom out -84.5628 -53.6006
+\i (00:04:05) trapsize 2811
+\i (00:04:06) zoom in 1 
+\i (00:04:06) setwindow pcb
+\i (00:04:06) zoom in -83.0448 -46.1227
+\i (00:04:06) trapsize 1406
+\i (00:04:07) zoom in 1 
+\i (00:04:07) setwindow pcb
+\i (00:04:07) zoom in -85.1251 -48.3154
+\i (00:04:07) trapsize 703
+\i (00:04:09) zoom out 1 
+\i (00:04:09) setwindow pcb
+\i (00:04:09) zoom out -85.0407 -48.3294
+\i (00:04:09) trapsize 1406
+\i (00:04:14) zoom in 1 
+\i (00:04:14) setwindow pcb
+\i (00:04:14) zoom in -87.8239 -53.8394
+\i (00:04:14) trapsize 703
+\i (00:04:14) zoom in 1 
+\i (00:04:14) setwindow pcb
+\i (00:04:14) zoom in -87.8239 -53.8394
+\i (00:04:14) trapsize 351
+\i (00:04:14) zoom in 1 
+\i (00:04:14) setwindow pcb
+\i (00:04:14) zoom in -87.8239 -53.8394
+\i (00:04:14) trapsize 176
+\i (00:04:15) zoom out 1 
+\i (00:04:15) setwindow pcb
+\i (00:04:15) zoom out -87.8239 -53.8394
+\i (00:04:15) trapsize 351
+\i (00:04:15) zoom out 1 
+\i (00:04:15) setwindow pcb
+\i (00:04:15) zoom out -87.8239 -53.8394
+\i (00:04:15) trapsize 703
+\i (00:04:16) zoom out 1 
+\i (00:04:16) setwindow pcb
+\i (00:04:16) zoom out -87.8240 -53.8393
+\i (00:04:16) trapsize 1406
+\i (00:04:20) setwindow form.vf_vis
+\i (00:04:20) FORM vf_vis all_all_visible NO 
+\i (00:04:21) FORM vf_vis all_all_visible YES 
+\i (00:04:22) setwindow pcb
+\i (00:04:22) zoom in 1 
+\i (00:04:22) setwindow pcb
+\i (00:04:22) zoom in -85.9404 -53.6988
+\i (00:04:22) trapsize 703
+\i (00:04:23) zoom in 1 
+\i (00:04:23) setwindow pcb
+\i (00:04:23) zoom in -85.9404 -53.6144
+\i (00:04:23) trapsize 351
+\i (00:04:24) zoom in 1 
+\i (00:04:24) setwindow pcb
+\i (00:04:24) zoom in -86.9806 -53.7198
+\i (00:04:24) trapsize 176
+\i (00:04:24) zoom in 1 
+\i (00:04:24) setwindow pcb
+\i (00:04:24) zoom in -86.9805 -53.7197
+\i (00:04:24) trapsize 88
+\i (00:04:24) zoom out 1 
+\i (00:04:24) setwindow pcb
+\i (00:04:24) zoom out -86.9823 -53.7197
+\i (00:04:24) trapsize 176
+\i (00:04:24) zoom out 1 
+\i (00:04:24) setwindow pcb
+\i (00:04:24) zoom out -86.9824 -53.7197
+\i (00:04:24) trapsize 351
+\i (00:04:24) zoom out 1 
+\i (00:04:24) setwindow pcb
+\i (00:04:24) zoom out -86.9824 -53.7197
+\i (00:04:24) trapsize 703
+\i (00:04:25) zoom in 1 
+\i (00:04:25) setwindow pcb
+\i (00:04:25) zoom in -86.9823 -53.7197
+\i (00:04:25) trapsize 351
+\i (00:04:26) zoom in 1 
+\i (00:04:26) setwindow pcb
+\i (00:04:26) zoom in -86.9823 -54.3874
+\i (00:04:26) trapsize 176
+\i (00:04:26) zoom out 1 
+\i (00:04:26) setwindow pcb
+\i (00:04:26) zoom out -86.9823 -54.3873
+\i (00:04:26) trapsize 351
+\i (00:04:27) zoom in 1 
+\i (00:04:27) setwindow pcb
+\i (00:04:27) zoom in -86.7152 -54.6755
+\i (00:04:27) trapsize 176
+\i (00:04:28) zoom in 1 
+\i (00:04:28) setwindow pcb
+\i (00:04:28) zoom in -86.7151 -54.6755
+\i (00:04:28) trapsize 88
+\i (00:04:28) zoom out 1 
+\i (00:04:28) setwindow pcb
+\i (00:04:28) zoom out -86.7168 -54.6755
+\i (00:04:28) trapsize 176
+\i (00:04:28) zoom out 1 
+\i (00:04:28) setwindow pcb
+\i (00:04:28) zoom out -86.7169 -54.6754
+\i (00:04:28) trapsize 351
+\i (00:04:29) zoom out 1 
+\i (00:04:29) setwindow pcb
+\i (00:04:29) zoom out -86.7168 -54.6754
+\i (00:04:29) trapsize 703
+\i (00:04:30) zoom out 1 
+\i (00:04:30) setwindow pcb
+\i (00:04:30) zoom out -86.9136 -49.8681
+\i (00:04:30) trapsize 1406
+\i (00:04:37) zoom in 1 
+\i (00:04:37) setwindow pcb
+\i (00:04:37) zoom in -76.7085 -55.5188
+\i (00:04:37) trapsize 703
+\i (00:04:37) zoom in 1 
+\i (00:04:37) setwindow pcb
+\i (00:04:37) zoom in -76.6944 -55.4907
+\i (00:04:37) trapsize 351
+\i (00:04:38) zoom in 1 
+\i (00:04:38) setwindow pcb
+\i (00:04:38) zoom in -76.6522 -55.2096
+\i (00:04:38) trapsize 176
+\i (00:04:38) zoom in 1 
+\i (00:04:38) setwindow pcb
+\i (00:04:38) zoom in -76.6522 -55.2060
+\i (00:04:38) trapsize 88
+\i (00:04:38) zoom out 1 
+\i (00:04:38) setwindow pcb
+\i (00:04:38) zoom out -77.8365 -55.1726
+\i (00:04:38) trapsize 176
+\i (00:04:39) zoom out 1 
+\i (00:04:39) setwindow pcb
+\i (00:04:39) zoom out -77.8365 -55.1725
+\i (00:04:39) trapsize 351
+\i (00:04:39) zoom out 1 
+\i (00:04:39) setwindow pcb
+\i (00:04:39) zoom out -77.8434 -55.1656
+\i (00:04:39) trapsize 703
+\i (00:04:39) zoom out 1 
+\i (00:04:39) setwindow pcb
+\i (00:04:39) zoom out -78.6728 -54.8000
+\i (00:04:39) trapsize 1406
+\i (00:04:40) zoom in 1 
+\i (00:04:40) setwindow pcb
+\i (00:04:40) zoom in -80.5564 -49.4866
+\i (00:04:40) trapsize 703
+\i (00:04:41) zoom out 1 
+\i (00:04:41) setwindow pcb
+\i (00:04:41) zoom out -80.5845 -49.3461
+\i (00:04:41) trapsize 1406
+\i (00:04:41) zoom out 1 
+\i (00:04:41) setwindow pcb
+\i (00:04:41) zoom out -80.5283 -49.3741
+\i (00:04:41) trapsize 2811
+\i (00:04:42) roam start
+\i (00:04:42) roam x -48
+\i (00:04:42) roam y -16
+\i (00:04:42) roam x -16
+\i (00:04:42) roam x -176
+\i (00:04:42) roam y -16
+\i (00:04:43) roam x -288
+\i (00:04:43) roam y -96
+\i (00:04:43) roam x -160
+\i (00:04:43) roam y -96
+\i (00:04:43) roam x -48
+\i (00:04:43) roam y -32
+\i (00:04:43) roam y -32
+\i (00:04:43) roam x 96
+\i (00:04:43) roam y -16
+\i (00:04:43) roam x 240
+\i (00:04:43) roam y -48
+\i (00:04:43) roam x 112
+\i (00:04:43) roam x 48
+\i (00:04:43) roam x 32
+\i (00:04:43) roam x 16
+\i (00:04:43) roam y 32
+\i (00:04:43) roam x -16
+\i (00:04:43) roam y 16
+\i (00:04:43) roam y 16
+\i (00:04:44) roam y 16
+\i (00:04:44) roam y 32
+\i (00:04:44) roam y 48
+\i (00:04:44) roam y 16
+\i (00:04:44) roam x 32
+\i (00:04:44) roam y 48
+\i (00:04:44) roam x 48
+\i (00:04:44) roam y 32
+\i (00:04:44) roam x 16
+\i (00:04:47) roam x -16
+\i (00:04:47) roam x -16
+\i (00:04:47) roam x -16
+\i (00:04:47) roam x -16
+\i (00:04:47) roam y -16
+\i (00:04:47) roam x -48
+\i (00:04:47) roam x -32
+\i (00:04:47) roam x -16
+\i (00:04:48) roam y -16
+\i (00:04:48) roam x -48
+\i (00:04:48) roam x -16
+\i (00:04:49) roam end
+\i (00:04:59) zoom out 1 
+\i (00:04:59) setwindow pcb
+\i (00:04:59) zoom out -73.6402 -46.0247
+\i (00:04:59) trapsize 5623
+\i (00:05:00) roam start
+\i (00:05:00) roam x -16
+\i (00:05:00) roam y -64
+\i (00:05:00) roam y -32
+\i (00:05:00) roam x 16
+\i (00:05:00) roam y -32
+\i (00:05:00) roam end
+\i (00:05:00) zoom in 1 
+\i (00:05:00) setwindow pcb
+\i (00:05:00) zoom in -65.2624 -30.3375
+\i (00:05:00) trapsize 2811
+\i (00:05:00) zoom in 1 
+\i (00:05:00) setwindow pcb
+\i (00:05:00) zoom in -65.2624 -30.3374
+\i (00:05:00) trapsize 1406
+\i (00:05:01) zoom out 1 
+\i (00:05:01) setwindow pcb
+\i (00:05:01) zoom out -65.2624 -30.3374
+\i (00:05:01) trapsize 2811
+\i (00:05:03) zoom in 1 
+\i (00:05:03) setwindow pcb
+\i (00:05:03) zoom in -65.8247 -40.9642
+\i (00:05:03) trapsize 1406
+\i (00:05:04) zoom in 1 
+\i (00:05:04) setwindow pcb
+\i (00:05:04) zoom in -68.6079 -38.6308
+\i (00:05:04) trapsize 703
+\i (00:05:04) zoom in 1 
+\i (00:05:04) setwindow pcb
+\i (00:05:04) zoom in -68.6078 -38.6308
+\i (00:05:04) trapsize 351
+\i (00:05:05) zoom in 1 
+\i (00:05:05) setwindow pcb
+\i (00:05:05) zoom in -68.6078 -38.6308
+\i (00:05:05) trapsize 176
+\i (00:05:05) zoom out 1 
+\i (00:05:05) setwindow pcb
+\i (00:05:05) zoom out -68.6183 -38.6308
+\i (00:05:05) trapsize 351
+\i (00:05:05) zoom out 1 
+\i (00:05:05) setwindow pcb
+\i (00:05:05) zoom out -68.6253 -38.6307
+\i (00:05:05) trapsize 703
+\i (00:05:06) zoom out 1 
+\i (00:05:06) setwindow pcb
+\i (00:05:06) zoom out -68.6393 -38.6307
+\i (00:05:06) trapsize 1406
+\i (00:05:06) zoom out 1 
+\i (00:05:06) setwindow pcb
+\i (00:05:06) zoom out -68.6674 -38.6307
+\i (00:05:06) trapsize 2811
+\i (00:05:06) zoom out 1 
+\i (00:05:06) setwindow pcb
+\i (00:05:06) zoom out -68.7799 -38.6307
+\i (00:05:06) trapsize 5623
+\i (00:05:07) zoom in 1 
+\i (00:05:07) setwindow pcb
+\i (00:05:07) zoom in -68.8924 -38.6306
+\i (00:05:07) trapsize 2811
+\i (00:05:08) zoom in 1 
+\i (00:05:08) setwindow pcb
+\i (00:05:08) zoom in -68.8924 -38.6306
+\i (00:05:08) trapsize 1406
+\i (00:05:09) zoom out 1 
+\i (00:05:09) setwindow pcb
+\i (00:05:09) zoom out -67.2337 -48.6108
+\i (00:05:09) trapsize 2811
+\t (00:05:10) > Net "Ovcc_3V3"
+\i (00:05:10) setwindow worldview
+\i (00:05:10) trapsize 1191
+\i (00:05:12) setwindow pcb
+\i (00:05:12) zoom out 1 
+\i (00:05:12) setwindow pcb
+\i (00:05:12) zoom out -86.5958 -52.7251
+\i (00:05:12) trapsize 2382
+\i (00:05:14) zoom out 1 
+\i (00:05:14) setwindow pcb
+\i (00:05:14) zoom out -99.1702 -52.9632
+\i (00:05:14) trapsize 4763
+\i (00:05:14) zoom in 1 
+\i (00:05:14) setwindow pcb
+\i (00:05:14) zoom in -84.4048 -52.6774
+\i (00:05:14) trapsize 2382
+\i (00:05:14) zoom in 1 
+\i (00:05:14) setwindow pcb
+\i (00:05:14) zoom in -84.4048 -52.6774
+\i (00:05:14) trapsize 1191
+\i (00:05:18) zoom in 1 
+\i (00:05:18) setwindow pcb
+\i (00:05:18) zoom in -68.3295 -53.8920
+\i (00:05:18) trapsize 595
+\i (00:05:18) zoom in 1 
+\i (00:05:18) setwindow pcb
+\i (00:05:18) zoom in -68.5914 -53.7967
+\i (00:05:18) trapsize 298
+\i (00:05:18) zoom in 1 
+\i (00:05:18) setwindow pcb
+\i (00:05:18) zoom in -68.6093 -53.7967
+\i (00:05:18) trapsize 149
+\i (00:05:19) zoom out 1 
+\i (00:05:19) setwindow pcb
+\i (00:05:19) zoom out -69.1928 -53.7729
+\i (00:05:19) trapsize 298
+\i (00:05:22) zoom out 1 
+\i (00:05:22) setwindow pcb
+\i (00:05:22) zoom out -69.5917 -53.7550
+\i (00:05:22) trapsize 595
+\i (00:05:22) zoom out 1 
+\i (00:05:22) setwindow pcb
+\i (00:05:22) zoom out -69.5918 -53.7550
+\i (00:05:22) trapsize 1191
+\i (00:05:23) zoom out 1 
+\i (00:05:23) setwindow pcb
+\i (00:05:23) zoom out -69.5679 -53.5169
+\i (00:05:23) trapsize 2382
+\i (00:05:26) zoom out 1 
+\i (00:05:26) setwindow pcb
+\i (00:05:26) zoom out -51.6587 -53.5645
+\i (00:05:26) trapsize 4763
+\i (00:05:26) zoom out 1 
+\i (00:05:26) setwindow pcb
+\i (00:05:26) zoom out -51.7540 -53.3739
+\i (00:05:26) trapsize 9526
+\i (00:05:26) pick grid 16.0725 -59.2801
+\t (00:05:26) last pick:  16.0782  -59.2836
+\i (00:05:27) zoom in 1 
+\i (00:05:27) setwindow pcb
+\i (00:05:27) zoom in 16.0725 -59.2801
+\i (00:05:27) trapsize 4763
+\i (00:05:28) pick grid 16.0726 -59.1848
+\t (00:05:28) last pick:  16.0782  -59.1820
+\t (00:05:30) > Symbol "Tp11"
+\i (00:05:30) setwindow worldview
+\i (00:05:30) trapsize 479
+\i (00:05:31) setwindow pcb
+\i (00:05:31) zoom out 1 
+\i (00:05:31) setwindow pcb
+\i (00:05:31) zoom out -39.5536 -27.1113
+\i (00:05:31) trapsize 957
+\i (00:05:31) zoom out 1 
+\i (00:05:31) setwindow pcb
+\i (00:05:31) zoom out -39.5918 -27.1113
+\i (00:05:31) trapsize 1915
+\i (00:05:31) zoom out 1 
+\i (00:05:31) setwindow pcb
+\i (00:05:31) zoom out -36.2984 -26.1540
+\i (00:05:31) trapsize 3830
+\i (00:05:31) zoom out 1 
+\i (00:05:31) setwindow pcb
+\i (00:05:31) zoom out -36.2984 -26.0008
+\i (00:05:31) trapsize 7659
+\i (00:05:33) zoom out 1 
+\i (00:05:33) setwindow pcb
+\i (00:05:33) zoom out 7.5116 -31.8217
+\i (00:05:33) trapsize 15318
+\i (00:05:34) zoom in 1 
+\i (00:05:34) setwindow pcb
+\i (00:05:34) zoom in -80.8367 -48.5366
+\i (00:05:34) trapsize 7659
+\i (00:05:34) zoom in 1 
+\i (00:05:34) setwindow pcb
+\i (00:05:34) zoom in -80.6834 -48.3834
+\i (00:05:34) trapsize 3830
+\i (00:05:38) setwindow form.find
+\i (00:05:38) FORM find name_type Symbol (or Pin) 
+\i (00:05:43) FORM find find_name l2 
+\i (00:05:43) setwindow cmgr
+\i (00:05:43) cm expand ( row ( Design "STANDARD" ) )
+\i (00:05:43) cm expand ( row ( "Part Definition" "INDUCTOR_L0402_MMZ1005D330C:L0402:MMZ1005D330C:" ) )
+\i (00:05:45) setwindow pcb
+\i (00:05:45) zoom in 1 
+\i (00:05:45) setwindow pcb
+\i (00:05:45) zoom in -77.3134 -48.4599
+\i (00:05:45) trapsize 1915
+\i (00:05:45) zoom in 1 
+\i (00:05:45) setwindow pcb
+\i (00:05:45) zoom in -77.3134 -48.4599
+\i (00:05:45) trapsize 957
+\i (00:05:45) zoom in 1 
+\i (00:05:45) setwindow pcb
+\i (00:05:45) zoom in -77.3134 -48.4598
+\i (00:05:45) trapsize 479
+\i (00:05:45) zoom in 1 
+\i (00:05:45) setwindow pcb
+\i (00:05:45) zoom in -77.3134 -48.4598
+\i (00:05:45) trapsize 239
+\i (00:05:47) zoom out 1 
+\i (00:05:47) setwindow pcb
+\i (00:05:47) zoom out -77.5145 -48.5794
+\i (00:05:47) trapsize 479
+\i (00:05:49) zoom out 1 
+\i (00:05:49) setwindow pcb
+\i (00:05:49) zoom out -77.6388 -44.3574
+\i (00:05:49) trapsize 957
+\i (00:05:50) zoom in 1 
+\i (00:05:50) setwindow pcb
+\i (00:05:50) zoom in -77.0644 -43.4957
+\i (00:05:50) trapsize 479
+\i (00:05:50) zoom in 1 
+\i (00:05:50) setwindow pcb
+\i (00:05:50) zoom in -77.0644 -43.4957
+\i (00:05:50) trapsize 239
+\i (00:05:50) zoom in 1 
+\i (00:05:50) setwindow pcb
+\i (00:05:50) zoom in -77.0644 -43.4957
+\i (00:05:50) trapsize 120
+\i (00:05:51) zoom out 1 
+\i (00:05:51) setwindow pcb
+\i (00:05:51) zoom out -77.1720 -43.5076
+\i (00:05:51) trapsize 239
+\i (00:05:51) zoom out 1 
+\i (00:05:51) setwindow pcb
+\i (00:05:51) zoom out -77.1721 -43.5076
+\i (00:05:51) trapsize 479
+\i (00:05:55) zoom out 1 
+\i (00:05:55) setwindow pcb
+\i (00:05:55) zoom out -77.1720 -43.5076
+\i (00:05:55) trapsize 957
+\i (00:05:57) zoom out 1 
+\i (00:05:57) setwindow pcb
+\i (00:05:57) zoom out -77.7848 -49.9796
+\i (00:05:57) trapsize 1915
+\i (00:05:59) zoom in 1 
+\i (00:05:59) setwindow pcb
+\i (00:05:59) zoom in -89.3884 -51.7412
+\i (00:05:59) trapsize 957
+\i (00:05:59) zoom in 1 
+\i (00:05:59) setwindow pcb
+\i (00:05:59) zoom in -89.3884 -51.7604
+\i (00:05:59) trapsize 479
+\i (00:05:59) zoom in 1 
+\i (00:05:59) setwindow pcb
+\i (00:05:59) zoom in -86.4971 -51.8465
+\i (00:05:59) trapsize 239
+\i (00:06:00) zoom in 1 
+\i (00:06:00) setwindow pcb
+\i (00:06:00) zoom in -86.4923 -51.8465
+\i (00:06:00) trapsize 120
+\i (00:06:00) zoom out 1 
+\i (00:06:00) setwindow pcb
+\i (00:06:00) zoom out -87.1863 -51.9565
+\i (00:06:00) trapsize 239
+\i (00:06:01) zoom out 1 
+\i (00:06:01) setwindow pcb
+\i (00:06:01) zoom out -87.7799 -52.4927
+\i (00:06:01) trapsize 479
+\i (00:06:03) zoom in 1 
+\i (00:06:03) setwindow pcb
+\i (00:06:03) zoom in -84.8887 -51.0471
+\i (00:06:03) trapsize 239
+\i (00:06:05) zoom out 1 
+\i (00:06:05) setwindow pcb
+\i (00:06:05) zoom out -84.8983 -51.0471
+\i (00:06:05) trapsize 479
+\i (00:06:06) roam start
+\i (00:06:06) roam x -48
+\i (00:06:06) roam y 64
+\i (00:06:07) roam y 48
+\i (00:06:07) roam x -32
+\i (00:06:07) roam y 32
+\i (00:06:07) roam x -64
+\i (00:06:07) roam y 32
+\i (00:06:07) roam x -48
+\i (00:06:07) roam y 16
+\i (00:06:07) roam x -16
+\i (00:06:07) roam y 16
+\i (00:06:07) roam x -48
+\i (00:06:07) roam y 16
+\i (00:06:07) roam x -16
+\i (00:06:07) roam y 32
+\i (00:06:07) roam y 32
+\i (00:06:07) roam y 32
+\i (00:06:07) roam y 32
+\i (00:06:07) roam x -16
+\i (00:06:07) roam y 16
+\i (00:06:08) roam y 16
+\i (00:06:08) roam y 16
+\i (00:06:08) roam end
+\i (00:06:08) zoom in 1 
+\i (00:06:08) setwindow pcb
+\i (00:06:08) zoom in -86.5526 -55.1700
+\i (00:06:08) trapsize 239
+\i (00:06:08) zoom in 1 
+\i (00:06:08) setwindow pcb
+\i (00:06:08) zoom in -86.5526 -55.1700
+\i (00:06:08) trapsize 120
+\i (00:06:09) zoom out 1 
+\i (00:06:09) setwindow pcb
+\i (00:06:09) zoom out -86.8948 -54.9737
+\i (00:06:09) trapsize 239
+\i (00:06:13) zoom out 1 
+\i (00:06:13) setwindow pcb
+\i (00:06:13) zoom out -86.6363 -54.4089
+\i (00:06:13) trapsize 479
+\i (00:06:21) zoom out 1 
+\i (00:06:21) setwindow pcb
+\i (00:06:21) zoom out -86.6172 -54.3993
+\i (00:06:21) trapsize 957
+\i (00:06:25) zoom in 1 
+\i (00:06:25) setwindow pcb
+\i (00:06:25) zoom in -77.8666 -48.5401
+\i (00:06:25) trapsize 479
+\i (00:06:26) zoom in 1 
+\i (00:06:26) setwindow pcb
+\i (00:06:26) zoom in -77.8666 -48.5401
+\i (00:06:26) trapsize 239
+\i (00:06:26) zoom in 1 
+\i (00:06:26) setwindow pcb
+\i (00:06:26) zoom in -77.8858 -48.5258
+\i (00:06:26) trapsize 120
+\i (00:06:26) zoom out 1 
+\i (00:06:26) setwindow pcb
+\i (00:06:26) zoom out -77.8786 -48.5114
+\i (00:06:26) trapsize 239
+\i (00:06:26) zoom out 1 
+\i (00:06:26) setwindow pcb
+\i (00:06:26) zoom out -77.8785 -48.5114
+\i (00:06:26) trapsize 479
+\i (00:06:27) roam start
+\i (00:06:28) roam x 16
+\i (00:06:28) roam y -64
+\i (00:06:28) roam x 16
+\i (00:06:28) roam y -16
+\i (00:06:28) roam x 16
+\i (00:06:28) roam y -32
+\i (00:06:28) roam y -48
+\i (00:06:28) roam x -16
+\i (00:06:28) roam y -16
+\i (00:06:28) roam end
+\i (00:06:29) zoom in 1 
+\i (00:06:29) setwindow pcb
+\i (00:06:29) zoom in -76.7107 -47.6928
+\i (00:06:29) trapsize 239
+\i (00:06:29) zoom in 1 
+\i (00:06:29) setwindow pcb
+\i (00:06:29) zoom in -76.7107 -47.6928
+\i (00:06:29) trapsize 120
+\i (00:06:30) zoom out 1 
+\i (00:06:30) setwindow pcb
+\i (00:06:30) zoom out -76.7705 -47.9010
+\i (00:06:30) trapsize 239
+\t (00:06:32) Pick to complete the window.
+\i (00:06:33) prepopup -76.1879 -46.8680
+\i (00:06:34) cancel 
+\i (00:06:34) generaledit 
+\i (00:06:35) zoom out 1 
+\i (00:06:35) setwindow pcb
+\i (00:06:35) zoom out -76.4689 -46.7953
+\i (00:06:35) trapsize 479
+\i (00:06:37) zoom in 1 
+\i (00:06:37) setwindow pcb
+\i (00:06:37) zoom in -78.1251 -48.3653
+\i (00:06:37) trapsize 239
+\t (00:06:40) Pick to complete the window.
+\i (00:06:41) pick -76.5024 -48.1260
+\t (00:06:41) last pick:  -76.5024  -48.1260
+\i (00:06:41) setwindow pcb
+\i (00:06:41) zoom points
+\i (00:06:41) pick -76.4689 -48.1643
+\i (00:06:41) pick -76.5332 -48.1260
+\i (00:06:41) trapsize 2
+\i (00:06:41) generaledit 
+\i (00:06:41) prepopup -76.4823 -48.1365
+\i (00:06:42) pick grid -76.4866 -48.1381
+\t (00:06:42) last pick:  -76.4794  -48.1330
+\i (00:06:43) zoom out 1 
+\i (00:06:43) setwindow pcb
+\i (00:06:43) zoom out -76.4867 -48.1381
+\i (00:06:43) trapsize 4
+\i (00:06:43) zoom out 1 
+\i (00:06:43) setwindow pcb
+\i (00:06:43) zoom out -76.4866 -48.1382
+\i (00:06:43) trapsize 8
+\i (00:06:43) zoom out 1 
+\i (00:06:43) setwindow pcb
+\i (00:06:43) zoom out -76.4867 -48.1381
+\i (00:06:43) trapsize 16
+\i (00:06:43) zoom out 1 
+\i (00:06:43) setwindow pcb
+\i (00:06:43) zoom out -76.4867 -48.1380
+\i (00:06:43) trapsize 32
+\i (00:06:43) zoom out 1 
+\i (00:06:43) setwindow pcb
+\i (00:06:43) zoom out -76.4867 -48.1381
+\i (00:06:43) trapsize 64
+\i (00:06:44) zoom out 1 
+\i (00:06:44) setwindow pcb
+\i (00:06:44) zoom out -76.4918 -48.1279
+\i (00:06:44) trapsize 127
+\i (00:06:44) zoom out 1 
+\i (00:06:44) setwindow pcb
+\i (00:06:44) zoom out -76.4918 -48.1278
+\i (00:06:44) trapsize 254
+\i (00:06:44) zoom out 1 
+\i (00:06:44) setwindow pcb
+\i (00:06:44) zoom out -76.4918 -48.1278
+\i (00:06:44) trapsize 509
+\i (00:06:44) zoom in 1 
+\i (00:06:44) setwindow pcb
+\i (00:06:44) zoom in -76.9392 -48.0363
+\i (00:06:44) trapsize 254
+\i (00:06:45) roam start
+\i (00:06:45) roam x 16
+\i (00:06:45) roam y -96
+\i (00:06:46) roam x 32
+\i (00:06:46) roam y -96
+\i (00:06:46) roam x 16
+\i (00:06:46) roam y -32
+\i (00:06:46) roam x 16
+\i (00:06:46) roam y -32
+\i (00:06:46) roam x 16
+\i (00:06:46) roam y -32
+\i (00:06:46) roam y -32
+\i (00:06:46) roam y -16
+\i (00:06:46) roam y -16
+\i (00:06:46) roam x -48
+\i (00:06:46) roam y -32
+\i (00:06:46) roam x -16
+\i (00:06:46) roam y -16
+\i (00:06:46) roam x -32
+\i (00:06:46) roam x -32
+\i (00:06:46) roam y -32
+\i (00:06:46) zoom in 1 
+\i (00:06:46) setwindow pcb
+\i (00:06:46) zoom in -77.3353 -45.2939
+\i (00:06:46) trapsize 127
+\i (00:06:46) roam y -32
+\i (00:06:46) roam x 16
+\i (00:06:46) roam y -80
+\i (00:06:46) roam x 32
+\i (00:06:46) roam y -80
+\i (00:06:46) roam x 16
+\i (00:06:46) roam y -32
+\i (00:06:46) roam y -16
+\i (00:06:46) roam x 16
+\i (00:06:46) roam y -16
+\i (00:06:47) roam x 16
+\i (00:06:47) roam y -16
+\i (00:06:47) roam x 16
+\i (00:06:47) roam y -32
+\i (00:06:47) roam x 32
+\i (00:06:47) roam y -48
+\i (00:06:47) roam x 16
+\i (00:06:47) roam y -64
+\i (00:06:47) roam x 16
+\i (00:06:47) roam y -64
+\i (00:06:47) roam y -64
+\i (00:06:47) roam x 16
+\i (00:06:47) roam y -48
+\i (00:06:47) roam y -48
+\i (00:06:47) roam y -16
+\i (00:06:47) roam y -16
+\i (00:06:47) roam y -16
+\i (00:06:47) roam x -16
+\i (00:06:47) roam y -16
+\i (00:06:47) roam y -16
+\i (00:06:47) roam x -16
+\i (00:06:47) roam y -16
+\i (00:06:47) roam x -16
+\i (00:06:47) roam y -16
+\i (00:06:47) roam x -16
+\i (00:06:47) roam y -16
+\i (00:06:47) roam y -16
+\i (00:06:47) roam x -16
+\i (00:06:47) roam y -16
+\i (00:06:47) roam end
+\i (00:06:48) zoom out 1 
+\i (00:06:48) setwindow pcb
+\i (00:06:48) zoom out -77.0326 -43.4020
+\i (00:06:48) trapsize 254
+\i (00:06:49) zoom out 1 
+\i (00:06:49) setwindow pcb
+\i (00:06:49) zoom out -77.2310 -43.6002
+\i (00:06:49) trapsize 509
+\i (00:06:57) setwindow form.find
+\i (00:06:57) FORM find symbols YES 
+\i (00:07:16) FORM find find_name c296 
+\i (00:07:16) setwindow cmgr
+\i (00:07:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:07:16) cm expand ( row ( "Part Definition" "CAP NP_CAP_0402_0.1UF:CAP_0402:0.1uF:" ) )
+\i (00:07:18) setwindow pcb
+\i (00:07:18) zoom out 1 
+\i (00:07:18) setwindow pcb
+\i (00:07:18) zoom out -84.5749 -46.4788
+\i (00:07:18) trapsize 1017
+\i (00:07:20) zoom in 1 
+\i (00:07:20) setwindow pcb
+\i (00:07:20) zoom in -89.8030 -43.7122
+\i (00:07:20) trapsize 509
+\i (00:07:21) zoom in 1 
+\i (00:07:21) setwindow pcb
+\i (00:07:21) zoom in -90.2810 -43.9055
+\i (00:07:21) trapsize 254
+\i (00:07:21) zoom in 1 
+\i (00:07:21) setwindow pcb
+\i (00:07:21) zoom in -86.2734 -44.1242
+\i (00:07:21) trapsize 127
+\i (00:07:22) zoom out 1 
+\i (00:07:22) setwindow pcb
+\i (00:07:22) zoom out -88.3179 -44.1216
+\i (00:07:22) trapsize 254
+\i (00:07:22) zoom out 1 
+\i (00:07:22) setwindow pcb
+\i (00:07:22) zoom out -88.3230 -44.1064
+\i (00:07:22) trapsize 509
+\t (00:07:25) > Symbol "C296"
+\i (00:07:25) setwindow worldview
+\i (00:07:25) trapsize 368
+\i (00:07:27) setwindow pcb
+\i (00:07:27) zoom in 1 
+\i (00:07:27) setwindow pcb
+\i (00:07:27) zoom in -89.4098 -44.5125
+\i (00:07:27) trapsize 184
+\i (00:07:28) zoom in 1 
+\i (00:07:28) setwindow pcb
+\i (00:07:28) zoom in -89.4061 -44.5236
+\i (00:07:28) trapsize 92
+\i (00:07:29) zoom out 1 
+\i (00:07:29) setwindow pcb
+\i (00:07:29) zoom out -89.4098 -44.5217
+\i (00:07:29) trapsize 184
+\i (00:07:36) pick grid -88.0805 -44.8420
+\t (00:07:36) last pick:  -88.0872  -44.8310
+\i (00:07:37) zoom out 1 
+\i (00:07:37) setwindow pcb
+\i (00:07:37) zoom out -88.0805 -44.8420
+\i (00:07:37) trapsize 368
+\i (00:07:43) setwindow form.find
+\i (00:07:43) FORM find symbols NO 
+\i (00:07:46) setwindow pcb
+\i (00:07:46) pick grid -88.2205 -44.7315
+\t (00:07:46) last pick:  -88.2142  -44.7294
+\i (00:07:47) roam start
+\i (00:07:47) roam x 48
+\i (00:07:47) roam x 32
+\i (00:07:47) roam x 80
+\i (00:07:47) roam x 48
+\i (00:07:47) roam x 80
+\i (00:07:47) roam x 16
+\i (00:07:47) roam x 64
+\i (00:07:47) roam x 16
+\i (00:07:47) roam x 32
+\i (00:07:47) roam x 32
+\i (00:07:47) roam x 32
+\i (00:07:48) roam end
+\i (00:07:49) zoom out 1 
+\i (00:07:49) setwindow pcb
+\i (00:07:49) zoom out -88.1321 -44.9082
+\i (00:07:49) trapsize 736
+\i (00:07:49) zoom out 1 
+\i (00:07:49) setwindow pcb
+\i (00:07:49) zoom out -88.1320 -44.9082
+\i (00:07:49) trapsize 1473
+\i (00:07:50) zoom in 1 
+\i (00:07:50) setwindow pcb
+\i (00:07:50) zoom in -90.0764 -45.6742
+\i (00:07:50) trapsize 736
+\i (00:07:50) zoom in 1 
+\i (00:07:50) setwindow pcb
+\i (00:07:50) zoom in -90.0911 -45.6889
+\i (00:07:50) trapsize 368
+\i (00:07:51) zoom out 1 
+\i (00:07:51) setwindow pcb
+\i (00:07:51) zoom out -89.5166 -45.1660
+\i (00:07:51) trapsize 736
+\i (00:07:53) roam start
+\i (00:07:53) roam y -32
+\i (00:07:53) roam y -32
+\i (00:07:53) roam y -32
+\i (00:07:54) roam y -16
+\i (00:07:54) roam y -16
+\i (00:07:54) roam y -16
+\i (00:07:54) roam y 16
+\i (00:07:54) roam y 16
+\i (00:07:54) roam y 16
+\i (00:07:54) roam y 32
+\i (00:07:54) roam end
+\i (00:07:55) zoom in 1 
+\i (00:07:55) setwindow pcb
+\i (00:07:55) zoom in -89.3105 -44.6859
+\i (00:07:55) trapsize 368
+\i (00:07:55) zoom in 1 
+\i (00:07:55) setwindow pcb
+\i (00:07:55) zoom in -89.3104 -44.6932
+\i (00:07:55) trapsize 184
+\i (00:07:55) zoom in 1 
+\i (00:07:55) setwindow pcb
+\i (00:07:55) zoom in -89.3104 -44.7043
+\i (00:07:55) trapsize 92
+\i (00:08:06) zoom out 1 
+\i (00:08:06) setwindow pcb
+\i (00:08:06) zoom out -89.3103 -44.7061
+\i (00:08:06) trapsize 184
+\i (00:08:06) zoom out 1 
+\i (00:08:06) setwindow pcb
+\i (00:08:06) zoom out -89.3104 -44.7061
+\i (00:08:06) trapsize 368
+\i (00:08:10) zoom out 1 
+\i (00:08:10) setwindow pcb
+\i (00:08:10) zoom out -88.3677 -46.2673
+\i (00:08:10) trapsize 736
+\i (00:08:12) roam start
+\i (00:08:12) roam x 64
+\i (00:08:12) roam x 96
+\i (00:08:12) roam x 128
+\i (00:08:12) roam x 64
+\i (00:08:12) roam x 64
+\i (00:08:12) roam x 48
+\i (00:08:12) roam x 64
+\i (00:08:12) zoom out 1 
+\i (00:08:12) setwindow pcb
+\i (00:08:12) zoom out -77.8287 -48.0055
+\i (00:08:12) trapsize 1473
+\i (00:08:12) roam x 32
+\i (00:08:13) roam x 96
+\i (00:08:13) roam x 32
+\i (00:08:13) roam end
+\i (00:08:13) zoom in 1 
+\i (00:08:13) setwindow pcb
+\i (00:08:13) zoom in -76.5913 -46.4147
+\i (00:08:13) trapsize 736
+\i (00:08:14) zoom in 1 
+\i (00:08:14) setwindow pcb
+\i (00:08:14) zoom in -76.5913 -46.4147
+\i (00:08:14) trapsize 368
+\i (00:08:14) zoom in 1 
+\i (00:08:14) setwindow pcb
+\i (00:08:14) zoom in -76.5912 -46.4147
+\i (00:08:14) trapsize 184
+\i (00:08:14) zoom in 1 
+\i (00:08:14) setwindow pcb
+\i (00:08:14) zoom in -76.5765 -46.4147
+\i (00:08:14) trapsize 92
+\i (00:08:14) zoom out 1 
+\i (00:08:14) setwindow pcb
+\i (00:08:14) zoom out -75.9339 -46.3502
+\i (00:08:14) trapsize 184
+\i (00:08:14) zoom out 1 
+\i (00:08:14) setwindow pcb
+\i (00:08:14) zoom out -75.9339 -46.3465
+\i (00:08:14) trapsize 368
+\i (00:08:15) zoom out 1 
+\i (00:08:15) setwindow pcb
+\i (00:08:15) zoom out -76.3316 -46.3687
+\i (00:08:15) trapsize 736
+\i (00:08:17) roam start
+\i (00:08:17) roam y 32
+\i (00:08:18) roam y 32
+\i (00:08:18) roam y 32
+\i (00:08:18) roam x -16
+\i (00:08:18) roam y 16
+\i (00:08:18) roam y 16
+\i (00:08:19) roam y 16
+\i (00:08:19) roam y 16
+\i (00:08:19) roam x -16
+\i (00:08:19) roam y 16
+\i (00:08:19) roam end
+\i (00:08:21) zoom in 1 
+\i (00:08:21) setwindow pcb
+\i (00:08:21) zoom in -73.0267 -48.1327
+\i (00:08:21) trapsize 368
+\i (00:08:21) zoom in 1 
+\i (00:08:21) setwindow pcb
+\i (00:08:21) zoom in -73.0267 -48.1327
+\i (00:08:21) trapsize 184
+\i (00:08:25) setwindow form.find
+\i (00:08:25) FORM find find_name l2 
+\i (00:08:25) setwindow cmgr
+\i (00:08:25) cm expand ( row ( Design "STANDARD" ) )
+\i (00:08:25) cm expand ( row ( "Part Definition" "INDUCTOR_L0402_MMZ1005D330C:L0402:MMZ1005D330C:" ) )
+\i (00:08:28) setwindow pcb
+\i (00:08:28) zoom out 1 
+\i (00:08:28) setwindow pcb
+\i (00:08:28) zoom out -77.4492 -48.7108
+\i (00:08:28) trapsize 368
+\i (00:08:34) pick grid -76.1016 -45.6839
+\t (00:08:34) last pick:  -76.0984  -45.6946
+\i (00:08:34) zoom out 1 
+\i (00:08:34) setwindow pcb
+\i (00:08:34) zoom out -76.1973 -45.7133
+\i (00:08:34) trapsize 736
+\i (00:08:35) zoom in 1 
+\i (00:08:35) setwindow pcb
+\i (00:08:35) zoom in -75.0337 -45.4335
+\i (00:08:35) trapsize 368
+\i (00:08:36) zoom in 1 
+\i (00:08:36) setwindow pcb
+\i (00:08:36) zoom in -75.0337 -45.4335
+\i (00:08:36) trapsize 184
+\i (00:08:39) zoom out 1 
+\i (00:08:39) setwindow pcb
+\i (00:08:39) zoom out -74.3157 -45.5440
+\i (00:08:39) trapsize 368
+\i (00:08:40) zoom out 1 
+\i (00:08:40) setwindow pcb
+\i (00:08:40) zoom out -74.3157 -45.5440
+\i (00:08:40) trapsize 736
+\i (00:08:41) zoom out 1 
+\i (00:08:41) setwindow pcb
+\i (00:08:41) zoom out -81.6363 -48.7844
+\i (00:08:41) trapsize 1473
+\i (00:08:44) zoom in 1 
+\i (00:08:44) setwindow pcb
+\i (00:08:44) zoom in -79.6036 -50.1691
+\i (00:08:44) trapsize 736
+\i (00:08:44) zoom in 1 
+\i (00:08:44) setwindow pcb
+\i (00:08:44) zoom in -79.6036 -50.1985
+\i (00:08:44) trapsize 368
+\i (00:08:44) zoom in 1 
+\i (00:08:44) setwindow pcb
+\i (00:08:44) zoom in -79.6035 -50.1985
+\i (00:08:44) trapsize 184
+\i (00:08:46) zoom out 1 
+\i (00:08:46) setwindow pcb
+\i (00:08:46) zoom out -77.9943 -49.1121
+\i (00:08:46) trapsize 368
+\i (00:08:48) zoom out 1 
+\i (00:08:48) setwindow pcb
+\i (00:08:48) zoom out -77.0296 -48.5082
+\i (00:08:48) trapsize 736
+\i (00:08:51) zoom out 1 
+\i (00:08:51) setwindow pcb
+\i (00:08:51) zoom out -77.1474 -48.4052
+\i (00:08:51) trapsize 1473
+\i (00:08:54) setwindow form.find
+\i (00:08:54) FORM find name_type Net 
+\i (00:09:00) FORM find find_name ovcc_3v3 
+\i (00:09:00) setwindow cmgr
+\i (00:09:00) cm expand ( row ( Design "STANDARD" ) )
+\i (00:09:00) cm expand ( row ( Design "STANDARD" ) )
+\i (00:09:00) cm expand ( row ( Design "STANDARD" ) )
+\i (00:09:00) cm expand ( row ( Design "STANDARD" ) )
+\i (00:09:00) cm expand ( row ( Design "STANDARD" ) )
+\i (00:09:00) cm expand ( row ( Design "STANDARD" ) )
+\i (00:09:02) setwindow pcb
+\i (00:09:02) zoom in 1 
+\i (00:09:02) setwindow pcb
+\i (00:09:02) zoom in -87.7528 -55.9468
+\i (00:09:02) trapsize 736
+\i (00:09:02) zoom in 1 
+\i (00:09:02) setwindow pcb
+\i (00:09:02) zoom in -87.7528 -55.9468
+\i (00:09:02) trapsize 368
+\i (00:09:06) zoom out 1 
+\i (00:09:06) setwindow pcb
+\i (00:09:06) zoom out -85.9557 -55.0630
+\i (00:09:06) trapsize 736
+\i (00:09:08) zoom out 1 
+\i (00:09:08) setwindow pcb
+\i (00:09:08) zoom out -80.2996 -54.8274
+\i (00:09:08) trapsize 1473
+\i (00:09:10) zoom in 1 
+\i (00:09:10) setwindow pcb
+\i (00:09:10) zoom in -75.9690 -46.9027
+\i (00:09:10) trapsize 736
+\i (00:09:10) zoom in 1 
+\i (00:09:10) setwindow pcb
+\i (00:09:10) zoom in -76.0721 -46.7112
+\i (00:09:10) trapsize 368
+\i (00:09:11) zoom out 1 
+\i (00:09:11) setwindow pcb
+\i (00:09:11) zoom out -76.0720 -46.7112
+\i (00:09:11) trapsize 736
+\i (00:09:12) zoom in 1 
+\i (00:09:12) setwindow pcb
+\i (00:09:12) zoom in -73.4944 -45.1498
+\i (00:09:12) trapsize 368
+\i (00:09:12) zoom in 1 
+\i (00:09:12) setwindow pcb
+\i (00:09:12) zoom in -73.4944 -45.1940
+\i (00:09:12) trapsize 184
+\i (00:09:13) zoom in 1 
+\i (00:09:13) setwindow pcb
+\i (00:09:13) zoom in -73.6712 -45.2456
+\i (00:09:13) trapsize 92
+\i (00:09:14) zoom out 1 
+\i (00:09:14) setwindow pcb
+\i (00:09:14) zoom out -73.6804 -45.2511
+\i (00:09:14) trapsize 184
+\i (00:09:14) zoom out 1 
+\i (00:09:14) setwindow pcb
+\i (00:09:14) zoom out -73.6803 -45.2510
+\i (00:09:14) trapsize 368
+\i (00:09:18) zoom out 1 
+\i (00:09:18) setwindow pcb
+\i (00:09:18) zoom out -75.8382 -45.5014
+\i (00:09:18) trapsize 736
+\i (00:09:20) zoom out 1 
+\i (00:09:20) setwindow pcb
+\i (00:09:20) zoom out -75.8677 -45.4720
+\i (00:09:20) trapsize 1473
+\i (00:09:22) zoom in 1 
+\i (00:09:22) setwindow pcb
+\i (00:09:22) zoom in -67.2951 -54.1919
+\i (00:09:22) trapsize 736
+\i (00:09:25) zoom in 1 
+\i (00:09:25) setwindow pcb
+\i (00:09:25) zoom in -69.3720 -55.1787
+\i (00:09:25) trapsize 368
+\i (00:09:26) zoom in 1 
+\i (00:09:26) setwindow pcb
+\i (00:09:26) zoom in -69.3498 -55.9889
+\i (00:09:26) trapsize 184
+\i (00:09:26) zoom in 1 
+\i (00:09:26) setwindow pcb
+\i (00:09:26) zoom in -69.3535 -55.9888
+\i (00:09:26) trapsize 92
+\i (00:09:26) zoom out 1 
+\i (00:09:26) setwindow pcb
+\i (00:09:26) zoom out -69.3663 -55.9869
+\i (00:09:26) trapsize 184
+\i (00:09:27) zoom out 1 
+\i (00:09:27) setwindow pcb
+\i (00:09:27) zoom out -69.3664 -55.9870
+\i (00:09:27) trapsize 368
+\i (00:09:27) zoom in 1 
+\i (00:09:27) setwindow pcb
+\i (00:09:27) zoom in -69.4032 -55.9574
+\i (00:09:27) trapsize 184
+\i (00:09:29) zoom out 1 
+\i (00:09:29) setwindow pcb
+\i (00:09:29) zoom out -69.4142 -55.9464
+\i (00:09:29) trapsize 368
+\i (00:09:30) zoom out 1 
+\i (00:09:30) setwindow pcb
+\i (00:09:30) zoom out -69.4143 -55.9463
+\i (00:09:30) trapsize 736
+\i (00:09:31) zoom in 1 
+\i (00:09:31) setwindow pcb
+\i (00:09:31) zoom in -69.4143 -55.9464
+\i (00:09:31) trapsize 368
+\i (00:09:31) zoom in 1 
+\i (00:09:31) setwindow pcb
+\i (00:09:31) zoom in -69.4143 -55.9463
+\i (00:09:31) trapsize 184
+\i (00:09:33) zoom out 1 
+\i (00:09:33) setwindow pcb
+\i (00:09:33) zoom out -69.3296 -56.3992
+\i (00:09:33) trapsize 368
+\i (00:09:36) zoom out 1 
+\i (00:09:36) setwindow pcb
+\i (00:09:36) zoom out -69.3076 -57.2683
+\i (00:09:36) trapsize 736
+\i (00:09:44) setwindow form.find
+\i (00:09:44) FORM find symbols YES 
+\i (00:09:54) setwindow pcb
+\i (00:09:54) zoom in 1 
+\i (00:09:54) setwindow pcb
+\i (00:09:54) zoom in -70.6038 -56.6790
+\i (00:09:54) trapsize 368
+\i (00:09:54) zoom in 1 
+\i (00:09:54) setwindow pcb
+\i (00:09:54) zoom in -70.6038 -56.6790
+\i (00:09:54) trapsize 184
+\i (00:10:19) zoom out 1 
+\i (00:10:19) setwindow pcb
+\i (00:10:19) zoom out -70.6775 -56.2407
+\i (00:10:19) trapsize 368
+\i (00:10:19) zoom out 1 
+\i (00:10:19) setwindow pcb
+\i (00:10:19) zoom out -70.6775 -56.2408
+\i (00:10:19) trapsize 736
+\i (00:10:26) zoom out 1 
+\i (00:10:26) setwindow pcb
+\i (00:10:26) zoom out -71.0752 -56.1376
+\i (00:10:26) trapsize 1473
+\i (00:10:28) zoom in 1 
+\i (00:10:28) setwindow pcb
+\i (00:10:28) zoom in -76.3484 -39.0806
+\i (00:10:28) trapsize 736
+\i (00:10:28) zoom in 1 
+\i (00:10:28) setwindow pcb
+\i (00:10:28) zoom in -76.3926 -39.0806
+\i (00:10:28) trapsize 368
+\i (00:10:28) zoom in 1 
+\i (00:10:28) setwindow pcb
+\i (00:10:28) zoom in -76.4073 -39.0879
+\i (00:10:28) trapsize 184
+\i (00:10:30) zoom out 1 
+\i (00:10:30) setwindow pcb
+\i (00:10:30) zoom out -76.7240 -38.8707
+\i (00:10:30) trapsize 368
+\i (00:10:31) zoom out 1 
+\i (00:10:31) setwindow pcb
+\i (00:10:31) zoom out -77.4089 -39.2830
+\i (00:10:31) trapsize 736
+\i (00:10:32) zoom out 1 
+\i (00:10:32) setwindow pcb
+\i (00:10:32) zoom out -77.4089 -39.2830
+\i (00:10:32) trapsize 1473
+\i (00:10:54) zoom in 1 
+\i (00:10:54) setwindow pcb
+\i (00:10:54) zoom in -73.4908 -50.3009
+\i (00:10:54) trapsize 736
+\i (00:10:55) zoom out 1 
+\i (00:10:55) setwindow pcb
+\i (00:10:55) zoom out -72.2240 -50.7133
+\i (00:10:55) trapsize 1473
+\i (00:10:55) zoom out 1 
+\i (00:10:55) setwindow pcb
+\i (00:10:55) zoom out -72.1650 -50.7133
+\i (00:10:55) trapsize 2946
+\i (00:10:58) setwindow form.find
+\i (00:10:58) FORM find name_type Symbol (or Pin) 
+\i (00:11:00) FORM find find_name l2 
+\i (00:11:00) setwindow cmgr
+\i (00:11:00) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:00) cm expand ( row ( "Part Definition" "INDUCTOR_L0402_MMZ1005D330C:L0402:MMZ1005D330C:" ) )
+\i (00:11:04) setwindow pcb
+\i (00:11:04) zoom in 1 
+\i (00:11:04) setwindow pcb
+\i (00:11:04) zoom in -75.8180 -48.0619
+\i (00:11:04) trapsize 1473
+\i (00:11:04) zoom in 1 
+\i (00:11:04) setwindow pcb
+\i (00:11:04) zoom in -75.8770 -47.9146
+\i (00:11:04) trapsize 736
+\i (00:11:04) zoom in 1 
+\i (00:11:04) setwindow pcb
+\i (00:11:04) zoom in -75.8917 -47.8557
+\i (00:11:04) trapsize 368
+\i (00:11:12) zoom out 1 
+\i (00:11:12) setwindow pcb
+\i (00:11:12) zoom out -76.8565 -47.6863
+\i (00:11:12) trapsize 736
+\i (00:11:15) zoom out 1 
+\i (00:11:15) setwindow pcb
+\i (00:11:15) zoom out -77.0774 -43.3852
+\i (00:11:15) trapsize 1473
+\i (00:11:20) zoom in 1 
+\i (00:11:20) setwindow pcb
+\i (00:11:20) zoom in -79.0806 -47.6569
+\i (00:11:21) trapsize 736
+\i (00:11:21) zoom in 1 
+\i (00:11:21) setwindow pcb
+\i (00:11:21) zoom in -79.1543 -47.9514
+\i (00:11:21) trapsize 368
+\i (00:11:29) zoom out 1 
+\i (00:11:29) setwindow pcb
+\i (00:11:29) zoom out -77.9906 -47.9366
+\i (00:11:29) trapsize 736
+\i (00:11:31) roam start
+\i (00:11:31) roam y -32
+\i (00:11:31) roam y -32
+\i (00:11:32) roam y -32
+\i (00:11:32) roam y -32
+\i (00:11:32) roam x 16
+\i (00:11:32) roam y -16
+\i (00:11:32) roam y -16
+\i (00:11:32) roam x 16
+\i (00:11:33) roam y -16
+\i (00:11:33) roam y -16
+\i (00:11:33) roam y -16
+\i (00:11:33) roam x -16
+\i (00:11:33) roam x -16
+\i (00:11:33) roam y -16
+\i (00:11:33) roam x -16
+\i (00:11:33) roam x -16
+\i (00:11:33) roam end
+\i (00:11:34) zoom in 1 
+\i (00:11:34) setwindow pcb
+\i (00:11:34) zoom in -77.0038 -44.0968
+\i (00:11:34) trapsize 368
+\i (00:11:34) zoom in 1 
+\i (00:11:34) setwindow pcb
+\i (00:11:34) zoom in -77.2837 -44.7596
+\i (00:11:34) trapsize 184
+\i (00:11:34) zoom in 1 
+\i (00:11:34) setwindow pcb
+\i (00:11:34) zoom in -77.2027 -44.8443
+\i (00:11:34) trapsize 92
+\i (00:11:35) zoom out 1 
+\i (00:11:35) setwindow pcb
+\i (00:11:35) zoom out -77.1253 -44.8222
+\i (00:11:35) trapsize 184
+\i (00:11:36) zoom out 1 
+\i (00:11:36) setwindow pcb
+\i (00:11:36) zoom out -77.1475 -44.8185
+\i (00:11:36) trapsize 368
+\i (00:11:37) zoom out 1 
+\i (00:11:37) setwindow pcb
+\i (00:11:37) zoom out -77.1549 -44.8185
+\i (00:11:37) trapsize 736
+\i (00:11:38) roam start
+\i (00:11:38) roam x -32
+\i (00:11:38) roam y -16
+\i (00:11:38) roam y -16
+\i (00:11:38) roam y -32
+\i (00:11:39) roam y -32
+\i (00:11:39) roam x 16
+\i (00:11:39) roam y -32
+\i (00:11:39) roam x 16
+\i (00:11:39) roam y -32
+\i (00:11:39) roam y -16
+\i (00:11:39) roam end
+\i (00:13:43) pick grid -82.7042 -43.1983
+\t (00:13:43) last pick:  -82.7024  -43.2054
+\i (00:13:44) zoom out 1 
+\i (00:13:44) setwindow pcb
+\i (00:13:44) zoom out -82.6895 -43.2425
+\i (00:13:44) trapsize 1473
+\i (00:13:44) zoom out 1 
+\i (00:13:44) setwindow pcb
+\i (00:13:44) zoom out -82.6895 -43.2424
+\i (00:13:44) trapsize 2946
+\i (00:13:50) setwindow form.vf_vis
+\i (00:13:50) FORM vf_vis 7 all_colorvisible YES 
+\i (00:13:53) FORM vf_vis 7 all_colorvisible NO 
+\i (00:13:54) setwindow pcb
+\i (00:13:54) zoom in 1 
+\i (00:13:54) setwindow pcb
+\i (00:13:54) zoom in -89.9954 -45.3635
+\i (00:13:54) trapsize 1473
+\i (00:13:54) zoom in 1 
+\i (00:13:54) setwindow pcb
+\i (00:13:54) zoom in -89.9954 -45.3635
+\i (00:13:54) trapsize 736
+\i (00:13:55) zoom out 1 
+\i (00:13:55) setwindow pcb
+\i (00:13:55) zoom out -90.0248 -45.3192
+\i (00:13:55) trapsize 1473
+\i (00:13:55) zoom out 1 
+\i (00:13:55) setwindow pcb
+\i (00:13:55) zoom out -90.0249 -45.3193
+\i (00:13:55) trapsize 2946
+\i (00:14:03) zoom in 1 
+\i (00:14:03) setwindow pcb
+\i (00:14:03) zoom in -78.3000 -52.0360
+\i (00:14:03) trapsize 1473
+\i (00:14:03) zoom in 1 
+\i (00:14:03) setwindow pcb
+\i (00:14:03) zoom in -81.3637 -52.6841
+\i (00:14:03) trapsize 736
+\i (00:14:03) zoom in 1 
+\i (00:14:03) setwindow pcb
+\i (00:14:03) zoom in -81.4079 -52.7283
+\i (00:14:03) trapsize 368
+\i (00:14:03) zoom in 1 
+\i (00:14:03) setwindow pcb
+\i (00:14:03) zoom in -81.4668 -52.8167
+\i (00:14:03) trapsize 184
+\i (00:14:03) zoom out 1 
+\i (00:14:03) setwindow pcb
+\i (00:14:03) zoom out -81.4705 -52.7615
+\i (00:14:03) trapsize 368
+\i (00:14:03) zoom out 1 
+\i (00:14:03) setwindow pcb
+\i (00:14:03) zoom out -81.4706 -52.7614
+\i (00:14:03) trapsize 736
+\i (00:14:04) zoom out 1 
+\i (00:14:04) setwindow pcb
+\i (00:14:04) zoom out -81.5442 -52.7467
+\i (00:14:04) trapsize 1473
+\i (00:14:05) pick grid -76.8307 -58.2261
+\t (00:14:05) last pick:  -76.8350  -58.2168
+\i (00:14:07) drc update 
+\t (00:14:07) Performing DRC...
+\t (00:14:07) Multithreaded DRC update (8 threads).
+\t (00:14:08) No DRC errors detected.
+\i (00:14:08) generaledit 
+\i (00:14:09) save 
+\i (00:14:10) fillin yes 
+\i (00:14:11) generaledit 
+\i (00:14:11) zoom in 1 
+\i (00:14:11) setwindow pcb
+\i (00:14:11) zoom in -85.1383 -52.3636
+\i (00:14:11) trapsize 736
+\i (00:14:12) zoom out 1 
+\i (00:14:12) setwindow pcb
+\i (00:14:12) zoom out -85.2119 -52.3341
+\i (00:14:12) trapsize 1473
+\i (00:14:12) zoom in 1 
+\i (00:14:12) setwindow pcb
+\i (00:14:12) zoom in -85.2414 -52.3341
+\i (00:14:12) trapsize 736
+\i (00:14:14) zoom in 1 
+\i (00:14:14) setwindow pcb
+\i (00:14:14) zoom in -84.6816 -54.6467
+\i (00:14:14) trapsize 368
+\i (00:14:14) zoom out 1 
+\i (00:14:14) setwindow pcb
+\i (00:14:14) zoom out -86.9352 -55.1548
+\i (00:14:14) trapsize 736
+\i (00:14:15) zoom out 1 
+\i (00:14:15) setwindow pcb
+\i (00:14:15) zoom out -87.4213 -55.4347
+\i (00:14:15) trapsize 1473
+\i (00:14:28) setwindow form.find
+\i (00:14:28) FORM find all_off  
+\i (00:14:29) setwindow pcb
+\i (00:14:29) drag_start grid -75.1367 -58.2922
+\i (00:14:30) drag_stop -90.2494 -52.8717
+\i (00:14:34) zoom selection 
+\i (00:14:34) generaledit 
+\i (00:14:36) drag_start grid -74.6948 -58.3806
+\i (00:14:37) drag_stop -88.6585 -53.3725
+\i (00:14:43) zoom selection 
+\i (00:14:43) generaledit 
+\i (00:14:47) drag_start grid -80.9107 -57.2317
+\i (00:14:47) drag_stop -83.2675 -56.4952
+\i (00:14:48) prepopup -78.7013 -57.5263
+\i (00:14:49) pick grid -79.2610 -57.4968
+\t (00:14:49) last pick:  -79.2734  -57.5056
+\i (00:14:51) zoom previous 
+\i (00:14:51) trapsize 736
+\i (00:14:54) zoom selection 
+\i (00:14:54) generaledit 
+\i (00:14:55) zoom out 1 
+\i (00:14:55) setwindow pcb
+\i (00:14:55) zoom out -81.9566 -50.6623
+\i (00:14:55) trapsize 1473
+\i (00:14:55) zoom out 1 
+\i (00:14:55) setwindow pcb
+\i (00:14:55) zoom out -82.0449 -50.6622
+\i (00:14:55) trapsize 2946
+\i (00:14:55) zoom out 1 
+\i (00:14:55) setwindow pcb
+\i (00:14:55) zoom out -82.2216 -50.4854
+\i (00:14:55) trapsize 5892
+\i (00:14:55) zoom in 1 
+\i (00:14:55) setwindow pcb
+\i (00:14:55) zoom in -84.4605 -55.6704
+\i (00:14:55) trapsize 2946
+\i (00:14:55) zoom in 1 
+\i (00:14:55) setwindow pcb
+\i (00:14:55) zoom in -84.4604 -55.7293
+\i (00:14:55) trapsize 1473
+\i (00:14:57) prepopup -75.4753 -58.2628
+\i (00:14:58) pick grid -76.0350 -58.4396
+\t (00:14:58) last pick:  -76.0476  -58.4454
+\i (00:15:04) pick grid -75.2101 -58.3512
+\t (00:15:04) last pick:  -75.2094  -58.3438
+\i (00:15:07) setwindow form.find
+\i (00:15:07) FORM find symbols YES 
+\i (00:15:09) setwindow pcb
+\i (00:15:09) pick grid -76.8893 -56.3774
+\t (00:15:09) last pick:  -76.8858  -56.3880
+\i (00:15:09) setwindow cmgr
+\i (00:15:09) cm expand ( row ( Design "STANDARD" ) )
+\i (00:15:09) cm expand ( row ( "Part Definition" "TFP401APZP_PZP_100_(S1+S2+S3)_T:PZP_100:TFP401APZP:" ) )
+\i (00:15:13) setwindow pcb
+\i (00:15:13) zoom selection 
+\i (00:15:13) trapsize 2121
+\i (00:15:13) generaledit 
+\i (00:15:13) setwindow cmgr
+\i (00:15:13) cm expand ( row ( Design "STANDARD" ) )
+\i (00:15:13) cm expand ( row ( "Part Definition" "TFP401APZP_PZP_100_(S1+S2+S3)_T:PZP_100:TFP401APZP:" ) )
+\i (00:15:14) setwindow pcb
+\i (00:15:14) zoom in 1 
+\i (00:15:14) setwindow pcb
+\i (00:15:14) zoom in -82.2275 -55.1975
+\i (00:15:14) trapsize 1061
+\i (00:15:14) zoom in 1 
+\i (00:15:14) setwindow pcb
+\i (00:15:14) zoom in -82.2275 -55.1763
+\i (00:15:14) trapsize 530
+\i (00:15:15) zoom out 1 
+\i (00:15:15) setwindow pcb
+\i (00:15:15) zoom out -82.2380 -55.1763
+\i (00:15:15) trapsize 1061
+\i (00:15:16) setwindow form.find
+\i (00:15:16) FORM find symbols NO 
+\i (00:15:18) setwindow pcb
+\i (00:15:18) drc update 
+\t (00:15:18) Performing DRC...
+\t (00:15:18) Multithreaded DRC update (8 threads).
+\t (00:15:18) No DRC errors detected.
+\i (00:15:19) generaledit 
+\i (00:15:19) setwindow cmgr
+\i (00:15:19) cm expand ( row ( Design "STANDARD" ) )
+\i (00:15:19) cm expand ( row ( "Part Definition" "TFP401APZP_PZP_100_(S1+S2+S3)_T:PZP_100:TFP401APZP:" ) )
+\i (00:15:22) setwindow form.find
+\i (00:15:22) FORM find all_on  
+\i (00:15:23) setwindow pcb
+\i (00:15:23) pick grid -75.2598 -58.3791
+\t (00:15:23) last pick:  -75.2602  -58.3692
+\i (00:15:26) setwindow form.find
+\i (00:15:26) FORM find all_off  
+\i (00:15:27) setwindow pcb
+\i (00:15:27) zoom in 1 
+\i (00:15:27) setwindow pcb
+\i (00:15:27) zoom in -88.0498 -55.4944
+\i (00:15:27) trapsize 530
+\i (00:15:28) zoom in 1 
+\i (00:15:28) setwindow pcb
+\i (00:15:28) zoom in -87.7104 -56.2155
+\i (00:15:28) trapsize 265
+\i (00:15:38) setwindow form.find
+\i (00:15:38) FORM find cline_segs YES 
+\i (00:15:41) setwindow pcb
+\i (00:15:41) delete 
+\i (00:15:50) setwindow form.vf_vis
+\i (00:15:50) FORM vf_vis 4 all_colorvisible NO 
+\i (00:15:56) setwindow pcb
+\i (00:15:56) prepopup -86.2628 -56.6821
+\i (00:15:56) cancel 
+\i (00:15:57) generaledit 
+\i (00:15:59) setwindow cmgr
+\i (00:15:59) cm putValue ( Net "GND" ) FIXED (Clear) 0
+\i (00:15:59) cm endUndoBlock
+\i (00:16:00) setwindow pcb
+\i (00:16:00) pick grid -85.8704 -56.8465
+\t (00:16:00) last pick:  -85.8774  -56.8452
+\i (00:16:02) delete 
+\i (00:16:03) pick grid -88.0180 -56.5814
+\t (00:16:03) last pick:  -88.0110  -56.5912
+\t (00:16:03) Vertical Line Segment "Gnd, Etch/Top"
+\i (00:16:03) setwindow cmgr
+\i (00:16:03) cm expand ( row ( Design "STANDARD" ) )
+\i (00:16:03) cm expand ( row ( Design "STANDARD" ) )
+\i (00:16:03) cm expand ( row ( Design "STANDARD" ) )
+\i (00:16:03) cm expand ( row ( "Net Class" "PWR_PH" ) )
+\i (00:16:03) cm expand ( row ( Design "STANDARD" ) )
+\i (00:16:03) cm expand ( row ( Design "STANDARD" ) )
+\i (00:16:03) cm expand ( row ( Design "STANDARD" ) )
+\i (00:16:03) cm expand ( row ( Design "STANDARD" ) )
+\i (00:16:04) setwindow pcb
+\i (00:16:04) pick grid -86.9204 -55.4201
+\t (00:16:04) last pick:  -86.9188  -55.4228
+\t (00:16:04) Vertical Line Segment "Ovcc_3V3, Etch/Top"
+\i (00:16:04) setwindow cmgr
+\i (00:16:04) cm expand ( row ( Design "STANDARD" ) )
+\i (00:16:04) cm expand ( row ( Design "STANDARD" ) )
+\i (00:16:04) cm expand ( row ( Design "STANDARD" ) )
+\i (00:16:04) cm expand ( row ( Design "STANDARD" ) )
+\i (00:16:04) cm expand ( row ( Design "STANDARD" ) )
+\i (00:16:04) cm expand ( row ( Design "STANDARD" ) )
+\i (00:16:05) setwindow pcb
+\i (00:16:05) pick grid -86.5863 -55.4572
+\t (00:16:05) last pick:  -86.5886  -55.4482
+\t (00:16:05) Vertical Line Segment "Gnd, Etch/Top"
+\i (00:16:05) pick grid -86.3477 -54.7626
+\t (00:16:05) last pick:  -86.3600  -54.7624
+\t (00:16:05) Odd-angle Line Segment "Gnd, Etch/Top"
+\i (00:16:06) pick grid -84.9478 -55.5049
+\t (00:16:06) last pick:  -84.9376  -55.4990
+\t (00:16:06) Vertical Line Segment "Avcc_3V3, Etch/Top"
+\i (00:16:06) setwindow cmgr
+\i (00:16:06) cm expand ( row ( Design "STANDARD" ) )
+\i (00:16:06) cm expand ( row ( Design "STANDARD" ) )
+\i (00:16:06) cm expand ( row ( Design "STANDARD" ) )
+\i (00:16:06) cm expand ( row ( Design "STANDARD" ) )
+\i (00:16:06) cm expand ( row ( Design "STANDARD" ) )
+\i (00:16:06) cm expand ( row ( Design "STANDARD" ) )
+\i (00:16:07) setwindow pcb
+\i (00:16:07) pick grid -84.8364 -54.3012
+\t (00:16:07) last pick:  -84.8360  -54.3052
+\t (00:16:07) Odd-angle Line Segment "Avcc_3V3, Etch/Top"
+\i (00:16:08) prepopup -85.7750 -56.8200
+\i (00:16:09) done 
+\i (00:16:09) generaledit 
+\i (00:16:17) setwindow cmgr
+\i (00:16:17) cm putValue ( Net "GND" ) FIXED On 0
+\i (00:16:17) cm endUndoBlock
+\i (00:16:17) setwindow pcb
+\i (00:16:17) pick grid -83.8978 -56.9844
+\t (00:16:17) last pick:  -83.8962  -56.9722
+\i (00:16:19) roam start
+\i (00:16:19) roam x 48
+\i (00:16:19) roam x 16
+\i (00:16:19) roam x 48
+\i (00:16:19) roam x 16
+\i (00:16:19) roam x 48
+\i (00:16:19) roam x 48
+\i (00:16:19) roam x 48
+\i (00:16:19) roam x 48
+\i (00:16:19) roam x 32
+\i (00:16:19) roam x 16
+\i (00:16:19) roam x 48
+\i (00:16:19) roam x 32
+\i (00:16:20) roam x 32
+\i (00:16:20) roam x 16
+\i (00:16:20) roam x 16
+\i (00:16:20) roam x 16
+\i (00:16:20) roam y 16
+\i (00:16:20) roam x 16
+\i (00:16:20) roam x 48
+\i (00:16:20) roam x 32
+\i (00:16:20) roam y 16
+\i (00:16:20) roam x 48
+\i (00:16:20) roam x 16
+\i (00:16:20) roam x 16
+\i (00:16:20) roam y 16
+\i (00:16:20) roam x 16
+\i (00:16:20) roam x 64
+\i (00:16:20) roam x 16
+\i (00:16:20) roam x 16
+\i (00:16:20) roam y -16
+\i (00:16:20) roam x 16
+\i (00:16:20) roam x 16
+\i (00:16:20) roam y -16
+\i (00:16:21) roam x 16
+\i (00:16:21) roam end
+\i (00:16:22) pick grid -79.5352 -57.1035
+\t (00:16:22) last pick:  -79.5274  -57.0992
+\i (00:16:24) delete 
+\i (00:16:26) pick grid -81.9851 -55.2051
+\t (00:16:26) last pick:  -81.9912  -55.1942
+\t (00:16:26) Cannot edit Horizontal Line Segment "Posense, Etch/3-Sig". Net "Posense" has the FIXED property.
+\t (00:16:26) Vertical Line Segment "Avcc_3V3, Etch/Top"
+\i (00:16:26) pick grid -82.1071 -54.3408
+\t (00:16:26) last pick:  -82.1182  -54.3306
+\t (00:16:26) Odd-angle Line Segment "Avcc_3V3, Etch/Top"
+\i (00:16:26) pick grid -82.3987 -54.2400
+\t (00:16:26) last pick:  -82.3976  -54.2290
+\t (00:16:26) Horizontal Line Segment "Avcc_3V3, Etch/Top"
+\i (00:16:27) pick grid -82.5260 -53.9908
+\t (00:16:27) last pick:  -82.5246  -54.0004
+\t (00:16:27) Odd-angle Line Segment "Avcc_3V3, Etch/Top"
+\i (00:16:28) pick grid -81.8631 -53.6939
+\t (00:16:28) last pick:  -81.8642  -53.6956
+\t (00:16:28) Horizontal Line Segment "Avcc_3V3, Etch/Top"
+\i (00:16:41) pick grid -78.7451 -53.8423
+\t (00:16:41) last pick:  -78.7400  -53.8480
+\t (00:16:41) Cannot edit Odd-angle Line Segment "Fan_Locked, Etch/3-Sig". Net "Fan_Locked" has the FIXED property.
+\t (00:16:41) Odd-angle Line Segment "Avcc_3V3, Etch/Top"
+\i (00:16:41) pick grid -78.5913 -54.3832
+\t (00:16:41) last pick:  -78.5876  -54.3814
+\t (00:16:41) Vertical Line Segment "Avcc_3V3, Etch/Top"
+\i (00:16:44) roam start
+\i (00:16:44) roam x 128
+\i (00:16:44) roam x 16
+\i (00:16:44) roam x 48
+\i (00:16:44) roam x 32
+\i (00:16:45) roam x 48
+\i (00:16:45) roam x 48
+\i (00:16:45) roam x 32
+\i (00:16:45) roam x 32
+\i (00:16:45) roam x 48
+\i (00:16:45) roam x 48
+\i (00:16:45) roam x 32
+\i (00:16:45) roam x 16
+\i (00:16:45) roam x 16
+\i (00:16:45) roam x 16
+\i (00:16:45) roam end
+\i (00:16:48) pick grid -77.5414 -54.2188
+\t (00:16:48) last pick:  -77.5462  -54.2290
+\t (00:16:48) Vertical Line Segment "N40129073, Etch/Top"
+\i (00:16:48) setwindow cmgr
+\i (00:16:48) cm expand ( row ( Design "STANDARD" ) )
+\i (00:16:48) cm expand ( row ( Design "STANDARD" ) )
+\i (00:16:48) cm expand ( row ( Design "STANDARD" ) )
+\i (00:16:48) cm expand ( row ( Design "STANDARD" ) )
+\i (00:16:48) cm expand ( row ( Design "STANDARD" ) )
+\i (00:16:48) cm expand ( row ( Design "STANDARD" ) )
+\i (00:16:50) setwindow pcb
+\i (00:16:50) zoom out 1 
+\i (00:16:50) setwindow pcb
+\i (00:16:50) zoom out -77.4036 -56.7694
+\i (00:16:50) trapsize 530
+\i (00:16:51) zoom out 1 
+\i (00:16:51) setwindow pcb
+\i (00:16:51) zoom out -74.5719 -56.9604
+\i (00:16:51) trapsize 1061
+\i (00:16:52) zoom in 1 
+\i (00:16:52) setwindow pcb
+\i (00:16:52) zoom in -70.6690 -57.6603
+\i (00:16:52) trapsize 530
+\i (00:16:53) zoom in 1 
+\i (00:16:53) setwindow pcb
+\i (00:16:53) zoom in -70.9341 -57.7663
+\i (00:16:53) trapsize 265
+\i (00:16:55) pick grid -75.9399 -56.5944
+\t (00:16:55) last pick:  -75.9460  -56.5912
+\t (00:16:55) Vertical Line Segment "N40123398, Etch/Top"
+\i (00:16:55) setwindow cmgr
+\i (00:16:55) cm expand ( row ( Design "STANDARD" ) )
+\i (00:16:55) cm expand ( row ( Design "STANDARD" ) )
+\i (00:16:55) cm expand ( row ( Design "STANDARD" ) )
+\i (00:16:55) cm expand ( row ( Design "STANDARD" ) )
+\i (00:16:55) cm expand ( row ( Design "STANDARD" ) )
+\i (00:16:55) cm expand ( row ( Design "STANDARD" ) )
+\i (00:16:55) setwindow pcb
+\i (00:16:55) pick grid -76.4967 -56.7111
+\t (00:16:55) last pick:  -76.5048  -56.7182
+\t (00:16:55) Vertical Line Segment "N40440838, Etch/Top"
+\i (00:16:55) setwindow cmgr
+\i (00:16:55) cm expand ( row ( Design "STANDARD" ) )
+\i (00:16:55) cm expand ( row ( Design "STANDARD" ) )
+\i (00:16:55) cm expand ( row ( Design "STANDARD" ) )
+\i (00:16:55) cm expand ( row ( Design "STANDARD" ) )
+\i (00:16:55) cm expand ( row ( Design "STANDARD" ) )
+\i (00:16:55) cm expand ( row ( Design "STANDARD" ) )
+\i (00:16:56) setwindow pcb
+\i (00:16:56) pick grid -75.6535 -57.3209
+\t (00:16:56) last pick:  -75.6412  -57.3278
+\t (00:16:56) Horizontal Line Segment "N40440838, Etch/Bottom"
+\i (00:16:56) pick grid -75.5581 -56.8861
+\t (00:16:56) last pick:  -75.5650  -56.8960
+\t (00:16:56) Horizontal Line Segment "N40123398, Etch/Bottom"
+\i (00:16:57) pick grid -74.8528 -57.5118
+\t (00:16:57) last pick:  -74.8538  -57.5056
+\t (00:16:57) Odd-angle Line Segment "N40440838, Etch/Bottom"
+\i (00:16:57) pick grid -74.7945 -56.8436
+\t (00:16:57) last pick:  -74.8030  -56.8452
+\t (00:16:57) Cannot edit Odd-angle Line Segment "Posense, Etch/3-Sig". Net "Posense" has the FIXED property.
+\t (00:16:57) Odd-angle Line Segment "N40123398, Etch/Bottom"
+\i (00:16:58) pick grid -74.4604 -56.7641
+\t (00:16:58) last pick:  -74.4728  -56.7690
+\t (00:16:58) Horizontal Line Segment "N40123398, Etch/Bottom"
+\i (00:16:59) pick grid -74.3756 -57.6815
+\t (00:16:59) last pick:  -74.3712  -57.6834
+\t (00:16:59) Horizontal Line Segment "N40440838, Etch/Bottom"
+\i (00:17:00) pick grid -71.5121 -56.7959
+\t (00:17:00) last pick:  -71.5010  -56.7944
+\t (00:17:00) Horizontal Line Segment "N40123398, Etch/Top"
+\i (00:17:01) roam start
+\i (00:17:01) roam x 32
+\i (00:17:01) roam x 48
+\i (00:17:01) roam x 32
+\i (00:17:01) roam x 32
+\i (00:17:01) roam x 48
+\i (00:17:01) roam x 32
+\i (00:17:01) roam x 32
+\i (00:17:01) roam x 48
+\i (00:17:01) roam x 32
+\i (00:17:01) roam x 32
+\i (00:17:02) roam end
+\i (00:17:03) zoom out 1 
+\i (00:17:03) setwindow pcb
+\i (00:17:03) zoom out -69.7994 -57.4110
+\i (00:17:03) trapsize 530
+\i (00:17:06) pick grid -77.4884 -54.8339
+\t (00:17:06) last pick:  -77.4954  -54.8386
+\t (00:17:06) Vertical Line Segment "N40129073, Etch/Bottom"
+\i (00:17:07) pick grid -77.5308 -54.0703
+\t (00:17:07) last pick:  -77.5208  -54.0766
+\t (00:17:07) Cannot edit Horizontal Line Segment "Fan_Locked, Etch/3-Sig". Net "Fan_Locked" has the FIXED property.
+\t (00:17:07) Odd-angle Line Segment "N40129073, Etch/Bottom"
+\i (00:17:08) pick grid -77.5202 -53.7098
+\t (00:17:08) last pick:  -77.5208  -53.7210
+\t (00:17:08) Cannot edit Horizontal Line Segment "Fan_Pwm, Etch/3-Sig". Net "Fan_Pwm" has the FIXED property.
+\t (00:17:08) Vertical Line Segment "N40129073, Etch/Bottom"
+\i (00:17:09) pick grid -77.1490 -53.1052
+\t (00:17:09) last pick:  -77.1398  -53.1114
+\t (00:17:09) Horizontal Line Segment "N40129073, Etch/Bottom"
+\i (00:17:10) pick grid -77.9656 -53.0522
+\t (00:17:10) last pick:  -77.9780  -53.0606
+\t (00:17:10) Horizontal Line Segment "N40129073, Etch/Bottom"
+\i (00:17:13) setwindow form.find
+\i (00:17:13) FORM find vias YES 
+\i (00:17:14) setwindow pcb
+\i (00:17:14) pick grid -77.1702 -52.9886
+\t (00:17:14) last pick:  -77.1652  -52.9844
+\t (00:17:14) Via "Not On A Net, Via30c15, (-77.4954 -52.9569)"
+\i (00:17:17) pick grid -77.2657 -53.2325
+\t (00:17:17) last pick:  -77.2668  -53.2384
+\i (00:17:19) prepopup -77.7853 -53.7734
+\i (00:17:19) done 
+\i (00:17:20) generaledit 
+\i (00:17:20) pick grid -77.7853 -53.7734
+\t (00:17:20) last pick:  -77.7748  -53.7718
+\i (00:17:20) zoom in 1 
+\i (00:17:20) setwindow pcb
+\i (00:17:20) zoom in -77.7853 -53.7734
+\i (00:17:20) trapsize 265
+\i (00:17:20) zoom in 1 
+\i (00:17:20) setwindow pcb
+\i (00:17:20) zoom in -77.7853 -53.7734
+\i (00:17:20) trapsize 133
+\i (00:17:21) zoom out 1 
+\i (00:17:21) setwindow pcb
+\i (00:17:21) zoom out -77.7853 -53.7734
+\i (00:17:21) trapsize 265
+\i (00:17:24) delete 
+\i (00:17:25) pick grid -77.4883 -53.0151
+\t (00:17:25) last pick:  -77.4954  -53.0098
+\t (00:17:25) Odd-angle Line Segment "Not On A Net, Etch/Top"
+\i (00:17:26) prepopup -77.5838 -53.3386
+\i (00:17:26) done 
+\i (00:17:26) generaledit 
+\i (00:17:26) pick grid -77.5838 -53.3386
+\t (00:17:26) last pick:  -77.5716  -53.3400
+\i (00:17:27) zoom out 1 
+\i (00:17:27) setwindow pcb
+\i (00:17:27) zoom out -77.5785 -53.3386
+\i (00:17:27) trapsize 530
+\i (00:17:27) zoom out 1 
+\i (00:17:27) setwindow pcb
+\i (00:17:27) zoom out -77.5784 -53.3385
+\i (00:17:27) trapsize 1061
+\i (00:17:29) drc update 
+\t (00:17:29) Performing DRC...
+\t (00:17:29) Multithreaded DRC update (8 threads).
+\t (00:17:29) No DRC errors detected.
+\i (00:17:29) generaledit 
+\i (00:17:31) zoom in 1 
+\i (00:17:31) setwindow pcb
+\i (00:17:31) zoom in -79.1056 -51.8326
+\i (00:17:31) trapsize 530
+\i (00:17:31) zoom in 1 
+\i (00:17:31) setwindow pcb
+\i (00:17:31) zoom in -80.0707 -51.9810
+\i (00:17:31) trapsize 265
+\i (00:17:36) delete 
+\i (00:17:37) pick grid -81.3275 -51.9280
+\t (00:17:37) last pick:  -81.3308  -51.9176
+\t (00:17:37) Vertical Line Segment "P3p3v, Etch/Bottom"
+\i (00:17:37) setwindow cmgr
+\i (00:17:37) cm expand ( row ( Design "STANDARD" ) )
+\i (00:17:37) cm expand ( row ( Design "STANDARD" ) )
+\i (00:17:37) cm expand ( row ( Design "STANDARD" ) )
+\i (00:17:37) cm expand ( row ( "Net Class" "PWR_PH" ) )
+\i (00:17:37) cm expand ( row ( Design "STANDARD" ) )
+\i (00:17:37) cm expand ( row ( Design "STANDARD" ) )
+\i (00:17:37) cm expand ( row ( Design "STANDARD" ) )
+\i (00:17:37) cm expand ( row ( Design "STANDARD" ) )
+\i (00:17:38) setwindow pcb
+\i (00:17:38) pick grid -80.3146 -51.9174
+\t (00:17:38) last pick:  -80.3148  -51.9176
+\t (00:17:38) Vertical Line Segment "P3p3v, Etch/Bottom"
+\i (00:17:39) pick grid -80.7548 -52.4795
+\t (00:17:39) last pick:  -80.7466  -52.4764
+\t (00:17:39) Horizontal Line Segment "P3p3v, Etch/Bottom"
+\i (00:17:40) zoom out 1 
+\i (00:17:40) setwindow pcb
+\i (00:17:40) zoom out -80.7601 -52.4636
+\i (00:17:40) trapsize 530
+\i (00:17:40) zoom out 1 
+\i (00:17:40) setwindow pcb
+\i (00:17:40) zoom out -80.7706 -52.4317
+\i (00:17:40) trapsize 1061
+\i (00:17:44) zoom in 1 
+\i (00:17:44) setwindow pcb
+\i (00:17:44) zoom in -81.2797 -53.2165
+\i (00:17:44) trapsize 530
+\i (00:17:44) zoom in 1 
+\i (00:17:44) setwindow pcb
+\i (00:17:44) zoom in -81.2797 -53.2165
+\i (00:17:44) trapsize 265
+\i (00:17:44) zoom in 1 
+\i (00:17:44) setwindow pcb
+\i (00:17:44) zoom in -81.2796 -53.2165
+\i (00:17:44) trapsize 133
+\i (00:17:45) zoom out 1 
+\i (00:17:45) setwindow pcb
+\i (00:17:45) zoom out -81.2876 -53.2138
+\i (00:17:45) trapsize 265
+\i (00:17:45) pick grid -79.8240 -53.2669
+\t (00:17:45) last pick:  -79.8322  -53.2638
+\t (00:17:45) Horizontal Line Segment "N40129073, Etch/Bottom"
+\i (00:17:46) pick grid -79.3945 -53.0866
+\t (00:17:46) last pick:  -79.4004  -53.0860
+\t (00:17:46) Odd-angle Line Segment "N40129073, Etch/Bottom"
+\i (00:17:46) pick grid -78.6415 -53.0866
+\t (00:17:46) last pick:  -78.6384  -53.0860
+\t (00:17:46) Horizontal Line Segment "N40129073, Etch/Bottom"
+\i (00:17:49) zoom out 1 
+\i (00:17:49) setwindow pcb
+\i (00:17:49) zoom out -80.8368 -53.1873
+\i (00:17:49) trapsize 530
+\i (00:17:50) roam start
+\i (00:17:50) roam x -96
+\i (00:17:50) roam x -64
+\i (00:17:50) roam x -48
+\i (00:17:50) roam x -16
+\i (00:17:50) roam x -32
+\i (00:17:50) roam y 16
+\i (00:17:50) roam x -32
+\i (00:17:51) roam x -32
+\i (00:17:51) roam x -64
+\i (00:17:51) roam y 16
+\i (00:17:51) roam x -80
+\i (00:17:51) roam x -64
+\i (00:17:51) roam y 16
+\i (00:17:51) roam x -16
+\i (00:17:51) roam y -16
+\i (00:17:51) roam y -16
+\i (00:17:51) roam y -16
+\i (00:17:51) roam x 16
+\i (00:17:51) roam y -16
+\i (00:17:51) roam x 16
+\i (00:17:51) roam y -16
+\i (00:17:51) roam y -16
+\i (00:17:52) roam end
+\i (00:17:56) setwindow form.vf_vis
+\i (00:17:56) FORM vf_vis all_all_visible YES 
+\i (00:17:58) FORM vf_vis all_all_visible_pln YES 
+\i (00:18:00) FORM vf_vis all_all_visible_pln NO 
+\i (00:18:03) FORM vf_vis 4 all_colorvisible NO 
+\i (00:18:05) setwindow pcb
+\i (00:18:05) zoom in 1 
+\i (00:18:05) setwindow pcb
+\i (00:18:05) zoom in -81.3912 -54.2718
+\i (00:18:05) trapsize 265
+\i (00:18:05) zoom out 1 
+\i (00:18:05) setwindow pcb
+\i (00:18:05) zoom out -82.0858 -54.1710
+\i (00:18:05) trapsize 530
+\i (00:18:10) setwindow form.find
+\i (00:18:10) FORM find shapes YES 
+\i (00:18:14) setwindow pcb
+\i (00:18:14) pick grid -82.4252 -53.9059
+\t (00:18:14) last pick:  -82.4230  -53.8988
+\t (00:18:14) Dynamic Shape "Avcc_3V3, Boundary/Bottom"
+\i (00:18:16) pick grid -83.8994 -54.9240
+\t (00:18:16) last pick:  -83.8962  -54.9148
+\t (00:18:16) Vertical Line Segment "Avcc_3V3, Etch/Top"
+\i (00:18:16) pick grid -83.7933 -54.8709
+\t (00:18:16) last pick:  -83.7946  -54.8640
+\t (00:18:16) Vertical Line Segment "Avcc_3V3, Etch/Bottom"
+\i (00:18:21) zoom in 1 
+\i (00:18:21) setwindow pcb
+\i (00:18:21) zoom in -86.9961 -52.1029
+\i (00:18:21) trapsize 265
+\i (00:18:21) zoom in 1 
+\i (00:18:21) setwindow pcb
+\i (00:18:21) zoom in -86.9961 -52.1029
+\i (00:18:21) trapsize 133
+\i (00:18:22) zoom out 1 
+\i (00:18:22) setwindow pcb
+\i (00:18:22) zoom out -86.9961 -52.1029
+\i (00:18:22) trapsize 265
+\i (00:18:27) setwindow form.find
+\i (00:18:27) FORM find symbols YES 
+\i (00:18:36) FORM find symbols NO 
+\i (00:18:37) FORM find vias NO 
+\i (00:18:39) setwindow pcb
+\i (00:18:39) pick grid -86.2219 -52.2301
+\t (00:18:39) last pick:  -86.2330  -52.2224
+\t (00:18:39) Dynamic Shape "P3p3v, Boundary/Bottom"
+\i (00:18:43) setwindow form.find
+\i (00:18:43) FORM find shapes NO 
+\i (00:18:44) FORM find vias YES 
+\i (00:18:44) FORM find vias NO 
+\i (00:18:45) setwindow pcb
+\i (00:18:45) prepopup -84.2334 -52.2991
+\i (00:18:45) done 
+\i (00:18:45) generaledit 
+\i (00:18:46) pick grid -84.2334 -52.2991
+\t (00:18:46) last pick:  -84.2264  -52.2986
+\i (00:18:48) drc update 
+\t (00:18:48) Performing DRC...
+\t (00:18:48) Multithreaded DRC update (8 threads).
+\t (00:18:48) No DRC errors detected.
+\i (00:18:48) generaledit 
+\i (00:18:50) pick grid -84.2652 -52.2460
+\t (00:18:50) last pick:  -84.2772  -52.2478
+\i (00:18:50) zoom out 1 
+\i (00:18:50) setwindow pcb
+\i (00:18:50) zoom out -84.4614 -52.2938
+\i (00:18:50) trapsize 530
+\i (00:18:53) zoom out 1 
+\i (00:18:53) setwindow pcb
+\i (00:18:53) zoom out -82.1281 -54.4572
+\i (00:18:53) trapsize 1061
+\i (00:18:54) zoom in 1 
+\i (00:18:54) setwindow pcb
+\i (00:18:54) zoom in -82.1282 -54.4573
+\i (00:18:54) trapsize 530
+\i (00:19:01) roam start
+\i (00:19:01) roam x 32
+\i (00:19:01) roam x 32
+\i (00:19:01) roam x 64
+\i (00:19:01) roam x 32
+\i (00:19:02) roam x 64
+\i (00:19:02) roam x 64
+\i (00:19:02) roam end
+\i (00:19:02) zoom in 1 
+\i (00:19:02) setwindow pcb
+\i (00:19:02) zoom in -78.2202 -56.4511
+\i (00:19:02) trapsize 265
+\i (00:19:03) zoom in 1 
+\i (00:19:03) setwindow pcb
+\i (00:19:03) zoom in -78.5012 -55.4859
+\i (00:19:03) trapsize 133
+\i (00:19:03) zoom out 1 
+\i (00:19:03) setwindow pcb
+\i (00:19:03) zoom out -78.5463 -55.4992
+\i (00:19:03) trapsize 265
+\i (00:19:04) zoom out 1 
+\i (00:19:04) setwindow pcb
+\i (00:19:04) zoom out -78.5515 -55.4991
+\i (00:19:04) trapsize 530
+\i (00:19:24) setwindow form.vf_vis
+\i (00:19:24) FORM vf_vis 3 all_colorvisible NO 
+\i (00:19:26) FORM vf_vis 6 all_colorvisible NO 
+\i (00:19:30) setwindow pcb
+\i (00:19:30) zoom out 1 
+\i (00:19:30) setwindow pcb
+\i (00:19:30) zoom out -82.9210 -52.1055
+\i (00:19:30) trapsize 1061
+\i (00:19:31) zoom in 1 
+\i (00:19:31) setwindow pcb
+\i (00:19:31) zoom in -85.1058 -56.7930
+\i (00:19:31) trapsize 530
+\i (00:19:32) zoom in 1 
+\i (00:19:32) setwindow pcb
+\i (00:19:32) zoom in -85.2224 -56.2097
+\i (00:19:32) trapsize 265
+\i (00:19:32) zoom in 1 
+\i (00:19:32) setwindow pcb
+\i (00:19:32) zoom in -85.2595 -56.0346
+\i (00:19:32) trapsize 133
+\i (00:19:33) zoom out 1 
+\i (00:19:33) setwindow pcb
+\i (00:19:33) zoom out -85.2887 -56.0054
+\i (00:19:33) trapsize 265
+\i (00:19:33) zoom out 1 
+\i (00:19:33) setwindow pcb
+\i (00:19:33) zoom out -85.6386 -56.4933
+\i (00:19:33) trapsize 530
+\i (00:19:33) zoom out 1 
+\i (00:19:33) setwindow pcb
+\i (00:19:33) zoom out -85.6386 -56.4826
+\i (00:19:33) trapsize 1061
+\i (00:19:39) roam start
+\i (00:19:39) roam x 48
+\i (00:19:39) roam y -64
+\i (00:19:39) roam y -16
+\i (00:19:39) roam x 16
+\i (00:19:39) roam y -32
+\i (00:19:39) roam x 16
+\i (00:19:39) roam y -32
+\i (00:19:39) roam y -48
+\i (00:19:39) roam y -48
+\i (00:19:39) roam x 16
+\i (00:19:39) roam y -16
+\i (00:19:39) roam y -32
+\i (00:19:39) roam y -16
+\i (00:19:39) roam y -16
+\i (00:19:39) roam x -16
+\i (00:19:39) roam y -48
+\i (00:19:39) roam y -16
+\i (00:19:40) roam x 16
+\i (00:19:40) roam x 32
+\i (00:19:40) roam x 16
+\i (00:19:40) roam y 16
+\i (00:19:40) roam x 16
+\i (00:19:40) roam y 16
+\i (00:19:40) roam x 16
+\i (00:19:40) roam y 16
+\i (00:19:40) roam x 16
+\i (00:19:40) roam x 16
+\i (00:19:41) roam x 16
+\i (00:19:41) roam end
+\i (00:19:41) zoom in 1 
+\i (00:19:41) setwindow pcb
+\i (00:19:41) zoom in -72.7902 -51.0160
+\i (00:19:41) trapsize 530
+\i (00:19:43) zoom in 1 
+\i (00:19:43) setwindow pcb
+\i (00:19:43) zoom in -73.4583 -53.9218
+\i (00:19:43) trapsize 265
+\i (00:19:43) zoom in 1 
+\i (00:19:43) setwindow pcb
+\i (00:19:43) zoom in -73.4741 -53.9218
+\i (00:19:43) trapsize 133
+\i (00:19:43) zoom out 1 
+\i (00:19:43) setwindow pcb
+\i (00:19:43) zoom out -73.4874 -53.9165
+\i (00:19:43) trapsize 265
+\i (00:19:45) zoom out 1 
+\i (00:19:45) setwindow pcb
+\i (00:19:45) zoom out -73.4555 -53.8422
+\i (00:19:45) trapsize 530
+\i (00:19:47) roam start
+\i (00:19:47) roam y -32
+\i (00:19:47) roam y -32
+\i (00:19:48) roam y -32
+\i (00:19:48) roam x 16
+\i (00:19:48) roam y -32
+\i (00:19:48) roam y -16
+\i (00:19:48) roam y -32
+\i (00:19:48) roam y -16
+\i (00:19:48) roam y -32
+\i (00:19:48) roam y -16
+\i (00:19:48) roam y -16
+\i (00:19:48) roam y -16
+\i (00:19:48) roam y -16
+\i (00:19:48) roam y -16
+\i (00:19:48) roam y -16
+\i (00:19:48) roam x -16
+\i (00:19:48) roam y -32
+\i (00:19:48) roam y -16
+\i (00:19:48) roam y -16
+\i (00:19:48) roam y -16
+\i (00:19:48) roam y -16
+\i (00:19:49) roam y -16
+\i (00:19:49) roam y -16
+\i (00:19:49) roam y -16
+\i (00:19:49) roam y -16
+\i (00:19:49) roam y -16
+\i (00:19:49) roam y -16
+\i (00:19:49) roam y -16
+\i (00:19:49) roam y -16
+\i (00:19:49) roam y -16
+\i (00:19:49) roam x 16
+\i (00:19:49) roam y -16
+\i (00:19:49) roam y -16
+\i (00:19:49) roam y -16
+\i (00:19:50) roam y 32
+\i (00:19:50) roam y 64
+\i (00:19:50) roam y 64
+\i (00:19:50) roam y 96
+\i (00:19:50) roam y 64
+\i (00:19:50) roam y 64
+\i (00:19:50) roam y 48
+\i (00:19:50) roam y 32
+\i (00:19:50) roam y 16
+\i (00:19:50) roam y 16
+\i (00:19:50) roam y 16
+\i (00:19:50) roam y 32
+\i (00:19:50) roam y 16
+\i (00:19:50) roam y 32
+\i (00:19:50) roam y 16
+\i (00:19:50) roam y 32
+\i (00:19:50) roam y 48
+\i (00:19:51) roam end
+\i (00:19:51) zoom in 1 
+\i (00:19:51) setwindow pcb
+\i (00:19:51) zoom in -73.3523 -53.2961
+\i (00:19:51) trapsize 265
+\i (00:19:55) zoom out 1 
+\i (00:19:55) setwindow pcb
+\i (00:19:55) zoom out -73.2568 -53.6938
+\i (00:19:55) trapsize 530
+\i (00:19:57) roam start
+\i (00:19:57) roam x 32
+\i (00:19:57) roam x 16
+\i (00:19:57) roam y 32
+\i (00:19:57) roam y 32
+\i (00:19:57) roam y 32
+\i (00:19:57) roam y 16
+\i (00:19:58) roam x 16
+\i (00:19:58) roam end
+\i (00:19:59) zoom in 1 
+\i (00:19:59) setwindow pcb
+\i (00:19:59) zoom in -72.8220 -55.6081
+\i (00:19:59) trapsize 265
+\i (00:20:02) delete 
+\i (00:20:02) setwindow form.find
+\i (00:20:02) FORM find all_off  
+\i (00:20:03) FORM find cline_segs YES 
+\i (00:20:05) setwindow pcb
+\i (00:20:05) pick grid -72.2122 -55.5392
+\t (00:20:05) last pick:  -72.2122  -55.5498
+\t (00:20:05) Odd-angle Line Segment "N40123354, Etch/Top"
+\i (00:20:05) setwindow cmgr
+\i (00:20:05) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:05) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:05) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:05) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:05) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:05) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:05) setwindow pcb
+\i (00:20:05) pick grid -72.5887 -54.9028
+\t (00:20:05) last pick:  -72.5932  -54.9148
+\t (00:20:05) Vertical Line Segment "N40123354, Etch/Top"
+\i (00:20:06) pick grid -72.8803 -54.3673
+\t (00:20:06) last pick:  -72.8726  -54.3560
+\t (00:20:06) Odd-angle Line Segment "N40123354, Etch/Top"
+\i (00:20:07) pick grid -73.4106 -54.0279
+\t (00:20:07) last pick:  -73.4060  -54.0258
+\t (00:20:07) Horizontal Line Segment "N40123354, Etch/Top"
+\i (00:20:09) roam start
+\i (00:20:10) roam y 32
+\i (00:20:10) roam end
+\i (00:20:11) pick grid -71.6395 -55.8467
+\t (00:20:11) last pick:  -71.6280  -55.8546
+\t (00:20:11) Horizontal Line Segment "N40123354, Etch/Top"
+\i (00:20:12) pick grid -74.5772 -53.5188
+\t (00:20:12) last pick:  -74.5744  -53.5178
+\t (00:20:12) Horizontal Line Segment "St_Mstr_Mux_Selz, Etch/Top"
+\i (00:20:12) setwindow cmgr
+\i (00:20:12) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:12) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:12) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:12) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:12) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:12) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:13) setwindow pcb
+\i (00:20:13) pick grid -75.3991 -52.9992
+\t (00:20:13) last pick:  -75.3872  -53.0098
+\t (00:20:13) Vertical Line Segment "St_Mstr_Mux_Selz, Etch/Top"
+\i (00:20:15) pick grid -73.9461 -53.0575
+\t (00:20:15) last pick:  -73.9394  -53.0606
+\t (00:20:15) Cannot edit Horizontal Line Segment "Gnd, Etch/Bottom". Net "Gnd" has the FIXED property.
+\t (00:20:15) Horizontal Line Segment "N40440345, Etch/Top"
+\i (00:20:15) setwindow cmgr
+\i (00:20:15) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:15) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:15) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:15) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:15) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:15) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:15) setwindow pcb
+\i (00:20:15) pick grid -73.2621 -53.3492
+\t (00:20:15) last pick:  -73.2536  -53.3400
+\t (00:20:16) Odd-angle Line Segment "N40440345, Etch/Top"
+\i (00:20:16) pick grid -72.1379 -54.0279
+\t (00:20:16) last pick:  -72.1360  -54.0258
+\t (00:20:16) Horizontal Line Segment "N40440345, Etch/Top"
+\i (00:20:18) pick grid -71.5069 -54.1021
+\t (00:20:18) last pick:  -71.5010  -54.1020
+\t (00:20:18) Horizontal Line Segment "N40440345, Etch/Top"
+\i (00:20:19) pick grid -74.1158 -52.5484
+\t (00:20:19) last pick:  -74.1172  -52.5526
+\t (00:20:19) Horizontal Line Segment "N40440442, Etch/Top"
+\i (00:20:19) setwindow cmgr
+\i (00:20:19) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:19) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:19) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:19) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:19) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:19) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:20) setwindow pcb
+\i (00:20:20) pick grid -73.1773 -52.7818
+\t (00:20:20) last pick:  -73.1774  -52.7812
+\t (00:20:20) Cannot edit Odd-angle Line Segment "Gnd, Etch/Bottom". Net "Gnd" has the FIXED property.
+\t (00:20:20) Odd-angle Line Segment "N40440442, Etch/Top"
+\i (00:20:20) pick grid -72.2493 -53.2325
+\t (00:20:20) last pick:  -72.2376  -53.2384
+\t (00:20:20) Horizontal Line Segment "N40440442, Etch/Top"
+\i (00:20:21) pick grid -71.4698 -53.2643
+\t (00:20:21) last pick:  -71.4756  -53.2638
+\t (00:20:21) Horizontal Line Segment "N40440442, Etch/Top"
+\i (00:20:24) zoom out 1 
+\i (00:20:24) setwindow pcb
+\i (00:20:24) zoom out -73.0765 -53.1105
+\i (00:20:24) trapsize 530
+\i (00:20:25) zoom in 1 
+\i (00:20:25) setwindow pcb
+\i (00:20:25) zoom in -72.9492 -54.9241
+\i (00:20:25) trapsize 265
+\i (00:20:27) pick grid -71.3424 -54.9983
+\t (00:20:27) last pick:  -71.3486  -54.9910
+\t (00:20:27) Horizontal Line Segment "St_Mstr_Mux_Selz, Etch/Bottom"
+\i (00:20:28) pick grid -72.1007 -54.8233
+\t (00:20:28) last pick:  -72.1106  -54.8132
+\t (00:20:28) Odd-angle Line Segment "St_Mstr_Mux_Selz, Etch/Bottom"
+\i (00:20:28) pick grid -72.3288 -54.1181
+\t (00:20:28) last pick:  -72.3392  -54.1274
+\t (00:20:28) Vertical Line Segment "St_Mstr_Mux_Selz, Etch/Bottom"
+\i (00:20:29) zoom out 1 
+\i (00:20:29) setwindow pcb
+\i (00:20:29) zoom out -72.3022 -54.1552
+\i (00:20:29) trapsize 530
+\i (00:20:30) pick grid -72.2599 -51.7159
+\t (00:20:30) last pick:  -72.2630  -51.7144
+\t (00:20:30) Odd-angle Line Segment "St_Mstr_Mux_Selz, Etch/Bottom"
+\i (00:20:30) pick grid -71.6978 -51.6099
+\t (00:20:30) last pick:  -71.7042  -51.6128
+\t (00:20:30) Horizontal Line Segment "St_Mstr_Mux_Selz, Etch/Bottom"
+\i (00:20:33) zoom in 1 
+\i (00:20:33) setwindow pcb
+\i (00:20:33) zoom in -73.8189 -51.2917
+\i (00:20:33) trapsize 265
+\i (00:20:33) zoom in 1 
+\i (00:20:33) setwindow pcb
+\i (00:20:33) zoom in -73.8188 -51.2917
+\i (00:20:33) trapsize 133
+\i (00:20:34) zoom out 1 
+\i (00:20:34) setwindow pcb
+\i (00:20:34) zoom out -73.8267 -51.5012
+\i (00:20:34) trapsize 265
+\i (00:20:35) pick grid -73.9540 -51.7291
+\t (00:20:35) last pick:  -73.9648  -51.7398
+\t (00:20:35) Odd-angle Line Segment "N40129063, Etch/Bottom"
+\i (00:20:35) setwindow cmgr
+\i (00:20:35) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:35) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:35) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:35) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:35) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:35) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:35) setwindow pcb
+\i (00:20:35) pick grid -73.7260 -51.5117
+\t (00:20:35) last pick:  -73.7362  -51.5112
+\t (00:20:35) Horizontal Line Segment "N40129063, Etch/Top"
+\i (00:20:38) pick grid -73.6995 -51.0503
+\t (00:20:38) last pick:  -73.7108  -51.0540
+\t (00:20:38) Horizontal Line Segment "N40123376, Etch/Top"
+\i (00:20:38) setwindow cmgr
+\i (00:20:38) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:38) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:38) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:38) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:38) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:38) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:39) setwindow pcb
+\i (00:20:39) pick grid -72.2200 -51.2253
+\t (00:20:39) last pick:  -72.2122  -51.2318
+\t (00:20:39) Odd-angle Line Segment "N40123376, Etch/Top"
+\i (00:20:40) pick grid -71.8382 -51.9147
+\t (00:20:40) last pick:  -71.8312  -51.9176
+\t (00:20:40) Vertical Line Segment "N40123376, Etch/Top"
+\i (00:20:40) pick grid -71.4458 -52.3283
+\t (00:20:40) last pick:  -71.4502  -52.3240
+\t (00:20:40) Horizontal Line Segment "N40123376, Etch/Top"
+\i (00:20:42) pick grid -71.5360 -53.2404
+\t (00:20:42) last pick:  -71.5264  -53.2384
+\t (00:20:42) Horizontal Line Segment "N40440442, Etch/Bottom"
+\i (00:20:42) pick grid -71.5094 -54.0941
+\t (00:20:42) last pick:  -71.5010  -54.1020
+\t (00:20:42) Horizontal Line Segment "N40440345, Etch/Bottom"
+\i (00:20:44) pick grid -71.8011 -54.8789
+\t (00:20:44) last pick:  -71.8058  -54.8894
+\t (00:20:44) Horizontal Line Segment "St_Mstr_Mux_Selz, Etch/Bottom"
+\i (00:20:46) pick grid -71.6155 -52.3495
+\t (00:20:46) last pick:  -71.6280  -52.3494
+\t (00:20:46) Horizontal Line Segment "N40123376, Etch/Bottom"
+\i (00:20:49) pick grid -73.1798 -51.5223
+\t (00:20:49) last pick:  -73.1774  -51.5112
+\t (00:20:49) Horizontal Line Segment "N40129063, Etch/Bottom"
+\i (00:20:50) zoom out 1 
+\i (00:20:50) setwindow pcb
+\i (00:20:50) zoom out -73.3124 -51.8298
+\i (00:20:50) trapsize 530
+\i (00:20:51) roam start
+\i (00:20:51) roam y -32
+\i (00:20:51) roam y -32
+\i (00:20:51) roam y -32
+\i (00:20:51) roam y -32
+\i (00:20:52) roam y -16
+\i (00:20:52) roam y -32
+\i (00:20:52) roam y -32
+\i (00:20:52) roam y -32
+\i (00:20:52) roam y -32
+\i (00:20:52) roam y -16
+\i (00:20:52) roam y -16
+\i (00:20:52) roam y -16
+\i (00:20:52) roam y -16
+\i (00:20:52) roam y -16
+\i (00:20:52) roam y -16
+\i (00:20:52) roam y -16
+\i (00:20:52) roam y -16
+\i (00:20:52) roam y -16
+\i (00:20:52) roam y -16
+\i (00:20:53) roam y -16
+\i (00:20:53) roam y -16
+\i (00:20:53) roam y -16
+\i (00:20:53) roam end
+\i (00:20:54) zoom in 1 
+\i (00:20:54) setwindow pcb
+\i (00:20:54) zoom in -72.6442 -50.9205
+\i (00:20:54) trapsize 265
+\i (00:20:54) zoom in 1 
+\i (00:20:54) setwindow pcb
+\i (00:20:54) zoom in -72.6442 -50.9205
+\i (00:20:54) trapsize 133
+\i (00:20:54) zoom out 1 
+\i (00:20:54) setwindow pcb
+\i (00:20:54) zoom out -72.6442 -50.9205
+\i (00:20:54) trapsize 265
+\i (00:20:57) pick grid -73.9487 -50.4856
+\t (00:20:57) last pick:  -73.9394  -50.4952
+\t (00:20:57) Horizontal Line Segment "Scdt, Etch/Top"
+\i (00:20:57) setwindow cmgr
+\i (00:20:57) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:57) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:57) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:57) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:57) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:57) cm expand ( row ( Design "STANDARD" ) )
+\i (00:20:58) setwindow pcb
+\i (00:20:58) pick grid -72.9836 -50.4114
+\t (00:20:58) last pick:  -72.9742  -50.4190
+\t (00:20:58) Odd-angle Line Segment "Scdt, Etch/Top"
+\i (00:20:59) pick grid -71.7480 -49.5841
+\t (00:20:59) last pick:  -71.7550  -49.5808
+\t (00:20:59) Horizontal Line Segment "Scdt, Etch/Top"
+\i (00:20:59) pick grid -71.2443 -49.7644
+\t (00:20:59) last pick:  -71.2470  -49.7586
+\t (00:20:59) Odd-angle Line Segment "Scdt, Etch/Top"
+\i (00:21:00) pick grid -70.7723 -49.8811
+\t (00:21:00) last pick:  -70.7644  -49.8856
+\t (00:21:00) Horizontal Line Segment "Scdt, Etch/Top"
+\i (00:21:06) pick grid -74.3994 -50.0137
+\t (00:21:06) last pick:  -74.3966  -50.0126
+\t (00:21:06) Horizontal Line Segment "St_Mstr_Mux_Selz, Etch/Top"
+\i (00:21:07) pick grid -75.3274 -50.1780
+\t (00:21:07) last pick:  -75.3364  -50.1904
+\t (00:21:07) Odd-angle Line Segment "Not On A Net, Etch/Top"
+\i (00:21:08) pick grid -74.6539 -49.5523
+\t (00:21:08) last pick:  -74.6506  -49.5554
+\t (00:21:08) Horizontal Line Segment "Dvb0, Etch/Top"
+\i (00:21:08) setwindow cmgr
+\i (00:21:08) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:08) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:08) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:08) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:08) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:08) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:08) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:08) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:08) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:08) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:08) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:08) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:08) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:08) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:08) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:08) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:09) setwindow pcb
+\i (00:21:09) pick grid -75.8046 -49.7750
+\t (00:21:09) last pick:  -75.7936  -49.7840
+\t (00:21:09) Odd-angle Line Segment "Dvb0, Etch/Top"
+\i (00:21:10) pick grid -76.0698 -50.1727
+\t (00:21:10) last pick:  -76.0730  -50.1650
+\t (00:21:10) Vertical Line Segment "Dvb0, Etch/Top"
+\i (00:21:11) pick grid -74.7494 -49.0592
+\t (00:21:11) last pick:  -74.7522  -49.0474
+\t (00:21:11) Horizontal Line Segment "Dvb1, Etch/Top"
+\i (00:21:11) setwindow cmgr
+\i (00:21:11) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:11) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:11) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:11) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:11) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:11) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:11) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:11) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:11) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:11) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:11) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:11) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:11) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:11) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:11) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:11) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:12) setwindow pcb
+\i (00:21:12) pick grid -75.8948 -49.0963
+\t (00:21:12) last pick:  -75.8952  -49.0982
+\t (00:21:12) Odd-angle Line Segment "Dvb1, Etch/Top"
+\i (00:21:25) roam start
+\i (00:21:25) roam y -96
+\i (00:21:25) roam x -16
+\i (00:21:25) roam y -48
+\i (00:21:25) roam x -32
+\i (00:21:25) roam y -48
+\i (00:21:26) roam x -32
+\i (00:21:26) roam y -16
+\i (00:21:26) roam x -64
+\i (00:21:26) roam y -16
+\i (00:21:26) roam x -48
+\i (00:21:26) roam y -16
+\i (00:21:26) roam x -48
+\i (00:21:26) roam y -16
+\i (00:21:26) roam x -16
+\i (00:21:26) roam y -64
+\i (00:21:26) roam x 64
+\i (00:21:26) roam y -32
+\i (00:21:26) roam y -16
+\i (00:21:26) roam end
+\i (00:21:27) pick grid -75.0545 -48.4919
+\t (00:21:27) last pick:  -75.0570  -48.4886
+\t (00:21:27) Horizontal Line Segment "Dvb2, Etch/Top"
+\i (00:21:27) setwindow cmgr
+\i (00:21:27) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:27) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:27) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:27) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:27) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:27) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:27) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:27) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:27) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:27) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:27) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:27) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:27) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:27) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:27) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:27) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:28) setwindow pcb
+\i (00:21:28) pick grid -74.8795 -48.0624
+\t (00:21:28) last pick:  -74.8792  -48.0568
+\t (00:21:28) Horizontal Line Segment "Dvb3, Etch/Top"
+\i (00:21:28) setwindow cmgr
+\i (00:21:28) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:28) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:28) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:28) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:28) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:28) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:28) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:28) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:28) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:28) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:28) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:28) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:28) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:28) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:28) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:28) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:28) setwindow pcb
+\i (00:21:28) pick grid -74.7470 -47.5851
+\t (00:21:28) last pick:  -74.7522  -47.5742
+\t (00:21:28) Horizontal Line Segment "Dvb4, Etch/Top"
+\i (00:21:28) setwindow cmgr
+\i (00:21:28) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:28) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:28) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:28) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:28) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:28) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:28) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:28) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:28) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:28) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:28) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:28) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:28) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:28) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:28) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:28) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:29) setwindow pcb
+\i (00:21:29) pick grid -74.7523 -47.0654
+\t (00:21:29) last pick:  -74.7522  -47.0662
+\t (00:21:30) Horizontal Line Segment "Dvb5, Etch/Top"
+\i (00:21:30) setwindow cmgr
+\i (00:21:30) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:30) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:30) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:30) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:30) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:30) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:30) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:30) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:30) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:30) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:30) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:30) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:30) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:30) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:30) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:30) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:30) setwindow pcb
+\i (00:21:30) pick grid -74.6568 -46.5458
+\t (00:21:30) last pick:  -74.6506  -46.5582
+\t (00:21:30) Horizontal Line Segment "Dvb6, Etch/Top"
+\i (00:21:30) setwindow cmgr
+\i (00:21:30) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:30) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:30) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:30) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:30) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:30) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:30) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:30) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:30) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:30) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:30) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:30) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:30) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:30) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:30) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:30) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:31) setwindow pcb
+\i (00:21:31) pick grid -74.5826 -46.0844
+\t (00:21:31) last pick:  -74.5744  -46.0756
+\t (00:21:31) Horizontal Line Segment "Dvb7, Etch/Top"
+\i (00:21:31) setwindow cmgr
+\i (00:21:31) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:31) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:31) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:31) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:31) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:31) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:31) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:31) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:31) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:31) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:31) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:31) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:31) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:31) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:31) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:31) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:32) setwindow pcb
+\i (00:21:32) roam start
+\i (00:21:32) roam y -64
+\i (00:21:32) roam y -48
+\i (00:21:32) roam x -16
+\i (00:21:32) roam y -32
+\i (00:21:32) roam y -32
+\i (00:21:32) roam y -16
+\i (00:21:32) roam x -16
+\i (00:21:32) roam y -32
+\i (00:21:32) roam y -48
+\i (00:21:32) roam y -48
+\i (00:21:32) roam y -32
+\i (00:21:32) roam y -32
+\i (00:21:32) roam y -32
+\i (00:21:32) roam x 16
+\i (00:21:32) roam y -32
+\i (00:21:33) roam y -16
+\i (00:21:33) roam x 16
+\i (00:21:33) roam y -32
+\i (00:21:33) roam x 16
+\i (00:21:33) roam y -32
+\i (00:21:33) roam x 16
+\i (00:21:33) roam y -32
+\i (00:21:33) roam y -32
+\i (00:21:33) roam end
+\i (00:21:35) pick grid -74.5242 -45.5436
+\t (00:21:35) last pick:  -74.5236  -45.5422
+\t (00:21:35) Horizontal Line Segment "Ovcc_3V3, Etch/Top"
+\i (00:21:36) pick grid -75.2083 -45.4163
+\t (00:21:36) last pick:  -75.2094  -45.4152
+\t (00:21:36) Odd-angle Line Segment "Ovcc_3V3, Etch/Top"
+\i (00:21:37) pick grid -75.4999 -44.7323
+\t (00:21:37) last pick:  -75.4888  -44.7294
+\t (00:21:37) Horizontal Line Segment "Dvg0, Etch/Top"
+\i (00:21:37) setwindow cmgr
+\i (00:21:37) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:37) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:37) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:37) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:37) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:37) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:37) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:37) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:37) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:37) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:37) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:37) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:37) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:37) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:37) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:37) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:37) setwindow pcb
+\i (00:21:37) pick grid -74.9803 -44.4777
+\t (00:21:37) last pick:  -74.9808  -44.4754
+\t (00:21:37) Horizontal Line Segment "Dvg0, Etch/Top"
+\i (00:21:38) pick grid -75.1924 -44.5467
+\t (00:21:38) last pick:  -75.1840  -44.5516
+\t (00:21:38) Odd-angle Line Segment "Not On A Net, Etch/Top"
+\i (00:21:39) pick grid -75.3515 -44.5573
+\t (00:21:39) last pick:  -75.3618  -44.5516
+\t (00:21:39) Horizontal Line Segment "Dvg0, Etch/Bottom"
+\i (00:21:40) pick grid -75.0386 -43.9899
+\t (00:21:40) last pick:  -75.0316  -43.9928
+\t (00:21:40) Horizontal Line Segment "Dvg1, Etch/Top"
+\i (00:21:40) setwindow cmgr
+\i (00:21:40) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:40) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:40) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:40) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:40) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:40) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:40) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:40) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:40) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:40) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:40) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:40) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:40) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:40) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:40) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:40) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:40) setwindow pcb
+\i (00:21:40) pick grid -75.0227 -43.4490
+\t (00:21:40) last pick:  -75.0316  -43.4594
+\t (00:21:40) Horizontal Line Segment "Dvg2, Etch/Top"
+\i (00:21:40) setwindow cmgr
+\i (00:21:40) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:40) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:40) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:40) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:40) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:40) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:40) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:40) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:40) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:40) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:40) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:40) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:40) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:40) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:40) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:40) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:41) setwindow pcb
+\i (00:21:41) pick grid -74.8053 -43.0354
+\t (00:21:41) last pick:  -74.8030  -43.0276
+\t (00:21:41) Horizontal Line Segment "Dvg3, Etch/Top"
+\i (00:21:41) setwindow cmgr
+\i (00:21:41) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:41) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:41) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:41) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:41) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:41) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:41) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:41) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:41) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:41) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:41) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:41) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:41) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:41) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:41) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:41) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:41) setwindow pcb
+\i (00:21:41) pick grid -74.7416 -42.5581
+\t (00:21:41) last pick:  -74.7522  -42.5704
+\t (00:21:41) Horizontal Line Segment "Dvg4, Etch/Top"
+\i (00:21:41) setwindow cmgr
+\i (00:21:41) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:41) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:41) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:41) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:41) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:41) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:41) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:41) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:41) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:41) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:41) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:41) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:41) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:41) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:41) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:41) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:42) setwindow pcb
+\i (00:21:42) zoom out 1 
+\i (00:21:42) setwindow pcb
+\i (00:21:42) zoom out -74.6568 -45.1936
+\i (00:21:42) trapsize 530
+\i (00:21:43) zoom out 1 
+\i (00:21:43) setwindow pcb
+\i (00:21:43) zoom out -75.1234 -48.2904
+\i (00:21:43) trapsize 1061
+\i (00:21:43) zoom out 1 
+\i (00:21:43) setwindow pcb
+\i (00:21:43) zoom out -75.0598 -48.3540
+\i (00:21:43) trapsize 2121
+\i (00:21:44) zoom in 1 
+\i (00:21:44) setwindow pcb
+\i (00:21:44) zoom in -74.3386 -51.0690
+\i (00:21:44) trapsize 1061
+\i (00:21:44) zoom in 1 
+\i (00:21:44) setwindow pcb
+\i (00:21:44) zoom in -74.4871 -51.0053
+\i (00:21:44) trapsize 530
+\i (00:21:45) zoom in 1 
+\i (00:21:45) setwindow pcb
+\i (00:21:45) zoom in -74.7946 -50.9523
+\i (00:21:45) trapsize 265
+\i (00:21:45) zoom in 1 
+\i (00:21:45) setwindow pcb
+\i (00:21:45) zoom in -74.9165 -50.9416
+\i (00:21:45) trapsize 133
+\i (00:21:45) pick grid -75.3036 -50.4803
+\t (00:21:45) last pick:  -75.3110  -50.4698
+\t (00:21:45) Horizontal Line Segment "Dvb0, Etch/Bottom"
+\i (00:21:46) pick grid -75.1631 -50.0243
+\t (00:21:46) last pick:  -75.1586  -50.0126
+\i (00:21:47) zoom out 1 
+\i (00:21:47) setwindow pcb
+\i (00:21:47) zoom out -75.1817 -50.1303
+\i (00:21:47) trapsize 265
+\i (00:21:48) pick grid -73.0923 -50.4803
+\t (00:21:48) last pick:  -73.1012  -50.4698
+\t (00:21:48) Horizontal Line Segment "P1_C2, Etch/Bottom"
+\i (00:21:48) setwindow cmgr
+\i (00:21:48) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:48) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:48) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:48) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:48) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:48) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:48) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:48) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:48) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:48) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:48) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:48) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:48) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:48) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:48) cm expand ( row ( Bus "P1_" ) )
+\i (00:21:48) cm expand ( row ( Design "STANDARD" ) )
+\i (00:21:51) setwindow pcb
+\i (00:21:51) zoom in 1 
+\i (00:21:51) setwindow pcb
+\i (00:21:51) zoom in -72.8537 -50.5121
+\i (00:21:51) trapsize 133
+\i (00:21:55) zoom out 1 
+\i (00:21:55) setwindow pcb
+\i (00:21:55) zoom out -73.5961 -50.6288
+\i (00:21:55) trapsize 265
+\i (00:22:01) pick grid -72.5461 -50.5492
+\t (00:22:01) last pick:  -72.5424  -50.5460
+\t (00:22:01) Horizontal Line Segment "P1_C2, Etch/Bottom"
+\i (00:22:02) pick grid -73.2938 -49.9871
+\t (00:22:02) last pick:  -73.3044  -49.9872
+\t (00:22:02) Horizontal Line Segment "P1_C3, Etch/Bottom"
+\i (00:22:02) setwindow cmgr
+\i (00:22:02) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:02) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:02) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:02) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:02) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:02) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:02) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:02) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:02) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:02) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:02) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:02) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:02) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:02) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:02) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:02) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:03) setwindow pcb
+\i (00:22:03) pick grid -75.1338 -49.9129
+\t (00:22:03) last pick:  -75.1332  -49.9110
+\t (00:22:03) Horizontal Line Segment "Dvb1, Etch/Bottom"
+\i (00:22:03) pick grid -75.5952 -49.7220
+\t (00:22:03) last pick:  -75.5904  -49.7332
+\t (00:22:03) Odd-angle Line Segment "Not On A Net, Etch/Bottom"
+\i (00:22:04) pick grid -75.0808 -49.4038
+\t (00:22:04) last pick:  -75.0824  -49.4030
+\t (00:22:04) Horizontal Line Segment "Dvb2, Etch/Bottom"
+\i (00:22:04) pick grid -75.3778 -49.2977
+\t (00:22:04) last pick:  -75.3872  -49.3014
+\t (00:22:04) Odd-angle Line Segment "Not On A Net, Etch/Bottom"
+\i (00:22:05) pick grid -72.6681 -50.4378
+\t (00:22:05) last pick:  -72.6694  -50.4444
+\t (00:22:05) Odd-angle Line Segment "Not On A Net, Etch/Bottom"
+\i (00:22:05) pick grid -73.0605 -49.4409
+\t (00:22:05) last pick:  -73.0504  -49.4284
+\t (00:22:05) Horizontal Line Segment "P1_C4, Etch/Bottom"
+\i (00:22:05) setwindow cmgr
+\i (00:22:05) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:05) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:05) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:05) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:05) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:05) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:05) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:05) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:05) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:05) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:05) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:05) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:05) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:05) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:05) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:05) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:06) setwindow pcb
+\i (00:22:06) pick grid -73.2991 -48.9266
+\t (00:22:06) last pick:  -73.3044  -48.9204
+\t (00:22:06) Horizontal Line Segment "P1_C5, Etch/Bottom"
+\i (00:22:06) setwindow cmgr
+\i (00:22:06) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:06) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:06) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:06) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:06) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:06) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:06) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:06) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:06) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:06) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:06) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:06) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:06) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:06) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:06) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:06) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:07) setwindow pcb
+\i (00:22:07) pick grid -72.6363 -49.4197
+\t (00:22:07) last pick:  -72.6440  -49.4284
+\t (00:22:07) Odd-angle Line Segment "P1_C4, Etch/Bottom"
+\i (00:22:08) pick grid -74.9589 -48.8523
+\t (00:22:08) last pick:  -74.9554  -48.8442
+\t (00:22:08) Horizontal Line Segment "Dvb3, Etch/Bottom"
+\i (00:22:09) pick grid -75.3247 -48.6826
+\t (00:22:09) last pick:  -75.3364  -48.6918
+\t (00:22:09) Odd-angle Line Segment "Not On A Net, Etch/Bottom"
+\i (00:22:09) pick grid -75.4467 -48.3645
+\t (00:22:09) last pick:  -75.4380  -48.3616
+\t (00:22:09) Vertical Line Segment "Not On A Net, Etch/Bottom"
+\i (00:22:10) pick grid -76.0883 -48.5342
+\t (00:22:10) last pick:  -76.0984  -48.5394
+\t (00:22:10) Vertical Line Segment "Not On A Net, Etch/Bottom"
+\i (00:22:11) pick grid -75.3460 -47.5744
+\t (00:22:11) last pick:  -75.3364  -47.5742
+\t (00:22:11) Horizontal Line Segment "Dvb4, Etch/Bottom"
+\i (00:22:12) pick grid -73.1931 -47.6380
+\t (00:22:12) last pick:  -73.2028  -47.6504
+\t (00:22:12) Horizontal Line Segment "P1_C6, Etch/Bottom"
+\i (00:22:12) setwindow cmgr
+\i (00:22:12) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:12) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:12) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:12) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:12) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:12) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:12) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:12) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:12) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:12) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:12) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:12) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:12) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:12) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:12) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:12) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:13) setwindow pcb
+\i (00:22:13) roam start
+\i (00:22:13) roam y -64
+\i (00:22:13) roam y -48
+\i (00:22:13) roam x 16
+\i (00:22:13) roam y -16
+\i (00:22:13) roam y -32
+\i (00:22:13) roam y -16
+\i (00:22:13) roam y -16
+\i (00:22:14) roam x 16
+\i (00:22:14) roam y -32
+\i (00:22:14) roam y -32
+\i (00:22:14) roam x -16
+\i (00:22:14) roam y -16
+\i (00:22:14) roam x -32
+\i (00:22:14) roam y -16
+\i (00:22:14) roam x -32
+\i (00:22:14) roam y -32
+\i (00:22:14) roam x -16
+\i (00:22:14) roam y -32
+\i (00:22:14) roam y -16
+\i (00:22:14) roam y -16
+\i (00:22:14) roam y -16
+\i (00:22:14) roam y -32
+\i (00:22:14) roam y -16
+\i (00:22:14) roam y -16
+\i (00:22:14) roam y -16
+\i (00:22:15) roam y -16
+\i (00:22:15) roam end
+\i (00:22:16) pick grid -75.1499 -46.9965
+\t (00:22:16) last pick:  -75.1586  -46.9900
+\t (00:22:16) Horizontal Line Segment "Dvb5, Etch/Bottom"
+\i (00:22:16) pick grid -73.3364 -47.0601
+\t (00:22:16) last pick:  -73.3298  -47.0662
+\t (00:22:16) Horizontal Line Segment "P1_C7, Etch/Bottom"
+\i (00:22:16) setwindow cmgr
+\i (00:22:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:16) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:16) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:16) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:16) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:16) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:16) setwindow pcb
+\i (00:22:16) pick grid -73.3470 -46.5511
+\t (00:22:16) last pick:  -73.3552  -46.5582
+\t (00:22:16) Horizontal Line Segment "P1_C8, Etch/Bottom"
+\i (00:22:16) setwindow cmgr
+\i (00:22:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:16) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:16) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:16) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:16) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:16) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:17) setwindow pcb
+\i (00:22:17) pick grid -75.0597 -46.4079
+\t (00:22:17) last pick:  -75.0570  -46.4058
+\t (00:22:17) Horizontal Line Segment "Dvb6, Etch/Bottom"
+\i (00:22:17) pick grid -75.1499 -45.9678
+\t (00:22:17) last pick:  -75.1586  -45.9740
+\t (00:22:17) Horizontal Line Segment "Dvb7, Etch/Bottom"
+\i (00:22:18) pick grid -73.5432 -45.8882
+\t (00:22:18) last pick:  -73.5330  -45.8978
+\t (00:22:18) Horizontal Line Segment "P1_C9, Etch/Bottom"
+\i (00:22:18) setwindow cmgr
+\i (00:22:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:18) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:18) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:18) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:18) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:18) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:19) setwindow pcb
+\i (00:22:19) pick grid -72.4137 -46.3549
+\t (00:22:19) last pick:  -72.4154  -46.3550
+\i (00:22:20) pick grid -72.7212 -47.5745
+\t (00:22:20) last pick:  -72.7202  -47.5742
+\t (00:22:20) Odd-angle Line Segment "P1_C6, Etch/Bottom"
+\i (00:22:21) pick grid -72.2599 -46.5352
+\t (00:22:21) last pick:  -72.2630  -46.5328
+\t (00:22:21) Horizontal Line Segment "P1_C8, Etch/Bottom"
+\i (00:22:21) pick grid -72.4667 -46.4715
+\t (00:22:21) last pick:  -72.4662  -46.4820
+\i (00:22:22) pick grid -72.7478 -46.4768
+\t (00:22:22) last pick:  -72.7456  -46.4820
+\t (00:22:22) Odd-angle Line Segment "Not On A Net, Etch/Bottom"
+\i (00:22:24) roam start
+\i (00:22:24) roam x -16
+\i (00:22:24) roam y -32
+\i (00:22:24) roam x -32
+\i (00:22:24) roam y -32
+\i (00:22:24) roam x -16
+\i (00:22:24) roam y -16
+\i (00:22:24) roam x -16
+\i (00:22:24) roam y -32
+\i (00:22:24) roam x -48
+\i (00:22:24) roam y -32
+\i (00:22:24) roam x -16
+\i (00:22:24) roam y -16
+\i (00:22:24) roam y -48
+\i (00:22:24) roam y -32
+\i (00:22:24) roam x 16
+\i (00:22:24) roam y -32
+\i (00:22:24) roam x 32
+\i (00:22:24) roam y -32
+\i (00:22:24) roam x 32
+\i (00:22:24) roam y -16
+\i (00:22:24) roam x 32
+\i (00:22:24) roam y -16
+\i (00:22:25) roam x 16
+\i (00:22:25) roam y -16
+\i (00:22:25) roam x 16
+\i (00:22:25) roam y -16
+\i (00:22:25) roam y -16
+\i (00:22:25) roam y -16
+\i (00:22:25) roam x -16
+\i (00:22:25) roam x -48
+\i (00:22:25) roam x -32
+\i (00:22:25) roam x -32
+\i (00:22:25) roam x -16
+\i (00:22:25) roam end
+\i (00:22:26) pick grid -73.3841 -44.6792
+\t (00:22:26) last pick:  -73.3806  -44.6786
+\t (00:22:26) Horizontal Line Segment "P1_B2, Etch/Bottom"
+\i (00:22:26) setwindow cmgr
+\i (00:22:26) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:26) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:26) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:26) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:26) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:26) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:26) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:26) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:26) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:26) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:26) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:26) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:26) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:26) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:26) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:26) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:27) setwindow pcb
+\i (00:22:27) pick grid -72.9758 -44.5838
+\t (00:22:27) last pick:  -72.9742  -44.5770
+\t (00:22:27) Odd-angle Line Segment "P1_B2, Etch/Bottom"
+\i (00:22:27) pick grid -74.9113 -44.1383
+\t (00:22:27) last pick:  -74.9046  -44.1452
+\t (00:22:27) Horizontal Line Segment "Dvg1, Etch/Bottom"
+\i (00:22:28) pick grid -75.1446 -43.5603
+\t (00:22:28) last pick:  -75.1332  -43.5610
+\t (00:22:28) Horizontal Line Segment "Dvg2, Etch/Bottom"
+\i (00:22:28) pick grid -75.0810 -42.9876
+\t (00:22:28) last pick:  -75.0824  -42.9768
+\t (00:22:29) Horizontal Line Segment "Dvg3, Etch/Bottom"
+\i (00:22:39) pick grid -73.3205 -43.6240
+\t (00:22:39) last pick:  -73.3298  -43.6118
+\t (00:22:39) Horizontal Line Segment "P1_B4, Etch/Bottom"
+\i (00:22:39) setwindow cmgr
+\i (00:22:39) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:39) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:39) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:39) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:39) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:39) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:39) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:39) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:39) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:39) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:39) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:39) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:39) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:39) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:39) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:39) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:39) setwindow pcb
+\i (00:22:39) pick grid -73.1455 -43.6240
+\t (00:22:39) last pick:  -73.1520  -43.6118
+\t (00:22:39) Horizontal Line Segment "P1_B4, Etch/Bottom"
+\i (00:22:40) pick grid -73.2674 -42.9983
+\t (00:22:40) last pick:  -73.2790  -43.0022
+\t (00:22:40) Horizontal Line Segment "P1_B5, Etch/Bottom"
+\i (00:22:40) setwindow cmgr
+\i (00:22:40) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:40) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:40) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:40) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:40) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:40) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:40) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:40) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:40) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:40) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:40) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:40) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:40) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:40) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:40) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:40) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:40) setwindow pcb
+\i (00:22:40) pick grid -72.7425 -43.2581
+\t (00:22:40) last pick:  -72.7456  -43.2562
+\i (00:22:41) pick grid -72.6470 -43.2634
+\t (00:22:41) last pick:  -72.6440  -43.2562
+\t (00:22:41) Odd-angle Line Segment "P1_B5, Etch/Bottom"
+\i (00:22:42) pick grid -73.3417 -43.6134
+\t (00:22:42) last pick:  -73.3298  -43.6118
+\t (00:22:42) Odd-angle Line Segment "Not On A Net, Etch/Bottom"
+\i (00:22:42) pick grid -73.1402 -44.0588
+\t (00:22:42) last pick:  -73.1520  -44.0690
+\t (00:22:42) Horizontal Line Segment "P1_B3, Etch/Bottom"
+\i (00:22:42) setwindow cmgr
+\i (00:22:42) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:42) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:42) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:42) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:42) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:42) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:42) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:42) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:42) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:42) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:42) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:42) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:42) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:42) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:42) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:42) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:43) setwindow pcb
+\i (00:22:43) pick grid -71.9364 -44.0429
+\t (00:22:43) last pick:  -71.9328  -44.0436
+\i (00:22:43) pick grid -72.3076 -43.5709
+\t (00:22:43) last pick:  -72.3138  -43.5610
+\t (00:22:43) Horizontal Line Segment "P1_B5, Etch/Bottom"
+\i (00:22:47) roam start
+\i (00:22:47) roam x -48
+\i (00:22:47) roam y -64
+\i (00:22:47) roam x -16
+\i (00:22:47) roam y -48
+\i (00:22:47) roam x 16
+\i (00:22:47) roam y -32
+\i (00:22:47) roam x 32
+\i (00:22:47) roam y -32
+\i (00:22:47) roam x 32
+\i (00:22:47) roam y -16
+\i (00:22:47) roam x 16
+\i (00:22:47) roam y -16
+\i (00:22:47) roam x 16
+\i (00:22:47) roam y -16
+\i (00:22:47) roam x -48
+\i (00:22:47) roam y -32
+\i (00:22:47) roam x -48
+\i (00:22:47) roam y -16
+\i (00:22:47) roam x -16
+\i (00:22:47) roam y -16
+\i (00:22:47) roam x 32
+\i (00:22:47) roam y -32
+\i (00:22:48) roam x -16
+\i (00:22:48) roam y -32
+\i (00:22:48) roam x -16
+\i (00:22:48) roam y -64
+\i (00:22:48) roam y -32
+\i (00:22:48) roam x -16
+\i (00:22:48) roam y -16
+\i (00:22:48) roam y -16
+\i (00:22:48) roam x 16
+\i (00:22:48) roam x 32
+\i (00:22:48) roam y -32
+\i (00:22:48) roam x 32
+\i (00:22:48) roam y -32
+\i (00:22:48) roam x 16
+\i (00:22:48) roam y -16
+\i (00:22:48) roam y -16
+\i (00:22:48) roam x 16
+\i (00:22:48) roam y -16
+\i (00:22:48) roam y -16
+\i (00:22:48) roam x -16
+\i (00:22:48) roam x -96
+\i (00:22:48) roam x -48
+\i (00:22:48) roam x -16
+\i (00:22:49) roam y 16
+\i (00:22:49) roam y 48
+\i (00:22:49) roam y 16
+\i (00:22:49) roam y 16
+\i (00:22:49) roam end
+\i (00:22:51) pick grid -74.5295 -42.0968
+\t (00:22:51) last pick:  -74.5236  -42.0878
+\t (00:22:51) Horizontal Line Segment "Dvg5, Etch/Top"
+\i (00:22:51) setwindow cmgr
+\i (00:22:51) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:51) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:51) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:51) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:51) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:51) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:51) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:51) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:51) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:51) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:51) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:51) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:51) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:51) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:51) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:51) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:51) setwindow pcb
+\i (00:22:51) pick grid -75.0491 -41.9483
+\t (00:22:51) last pick:  -75.0570  -41.9608
+\t (00:22:51) Odd-angle Line Segment "Dvg5, Etch/Top"
+\i (00:22:52) pick grid -75.6271 -42.2771
+\t (00:22:52) last pick:  -75.6158  -42.2656
+\t (00:22:52) Odd-angle Line Segment "Dvg4, Etch/Top"
+\i (00:22:52) pick grid -75.5847 -41.7786
+\t (00:22:52) last pick:  -75.5904  -41.7830
+\t (00:22:52) Horizontal Line Segment "Dvg4, Etch/Bottom"
+\i (00:22:53) pick grid -73.2250 -41.7786
+\t (00:22:53) last pick:  -73.2282  -41.7830
+\t (00:22:53) Horizontal Line Segment "P1_B6, Etch/Bottom"
+\i (00:22:53) setwindow cmgr
+\i (00:22:53) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:53) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:53) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:53) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:53) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:53) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:53) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:53) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:53) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:53) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:53) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:53) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:53) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:53) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:53) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:53) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:54) setwindow pcb
+\i (00:22:54) pick grid -72.2970 -41.5453
+\t (00:22:54) last pick:  -72.2884  -41.5544
+\t (00:22:54) Odd-angle Line Segment "P1_B6, Etch/Bottom"
+\i (00:22:55) pick grid -73.0924 -41.2059
+\t (00:22:55) last pick:  -73.1012  -41.1988
+\t (00:22:55) Odd-angle Line Segment "P1_B7, Etch/Bottom"
+\i (00:22:55) setwindow cmgr
+\i (00:22:55) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:55) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:55) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:55) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:55) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:55) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:55) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:55) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:55) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:55) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:55) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:55) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:55) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:55) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:55) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:55) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:55) setwindow pcb
+\i (00:22:55) pick grid -73.4795 -41.1741
+\t (00:22:55) last pick:  -73.4822  -41.1734
+\t (00:22:55) Horizontal Line Segment "P1_B7, Etch/Bottom"
+\i (00:22:56) pick grid -73.2886 -40.6703
+\t (00:22:56) last pick:  -73.2790  -40.6654
+\t (00:22:56) Horizontal Line Segment "P1_B8, Etch/Bottom"
+\i (00:22:56) setwindow cmgr
+\i (00:22:56) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:56) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:56) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:56) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:56) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:56) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:56) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:56) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:56) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:56) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:56) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:56) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:56) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:56) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:56) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:56) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:56) setwindow pcb
+\i (00:22:56) pick grid -71.7456 -40.5272
+\t (00:22:56) last pick:  -71.7550  -40.5384
+\i (00:22:56) pick grid -71.8569 -40.5325
+\t (00:22:56) last pick:  -71.8566  -40.5384
+\t (00:22:56) Odd-angle Line Segment "P1_B8, Etch/Bottom"
+\i (00:22:58) pick grid -73.1932 -40.0817
+\t (00:22:58) last pick:  -73.2028  -40.0812
+\t (00:22:58) Horizontal Line Segment "P1_B9, Etch/Bottom"
+\i (00:22:58) setwindow cmgr
+\i (00:22:58) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:58) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:58) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:58) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:58) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:58) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:58) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:58) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:58) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:58) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:58) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:58) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:58) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:58) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:58) cm expand ( row ( Bus "P1_" ) )
+\i (00:22:58) cm expand ( row ( Design "STANDARD" ) )
+\i (00:22:58) setwindow pcb
+\i (00:22:58) pick grid -72.9068 -40.1348
+\t (00:22:58) last pick:  -72.8980  -40.1320
+\t (00:22:58) Odd-angle Line Segment "P1_B9, Etch/Bottom"
+\i (00:22:58) pick grid -73.2727 -40.1136
+\t (00:22:58) last pick:  -73.2790  -40.1066
+\i (00:22:59) pick grid -72.9228 -40.1295
+\t (00:22:59) last pick:  -72.9234  -40.1320
+\i (00:22:59) pick grid -73.0712 -41.1847
+\t (00:22:59) last pick:  -73.0758  -41.1734
+\t (00:22:59) Horizontal Line Segment "P1_B7, Etch/Bottom"
+\i (00:23:00) pick grid -73.1349 -41.2377
+\t (00:23:00) last pick:  -73.1266  -41.2496
+\i (00:23:01) pick grid -75.0757 -41.2112
+\t (00:23:01) last pick:  -75.0824  -41.1988
+\t (00:23:01) Horizontal Line Segment "Dvg5, Etch/Bottom"
+\i (00:23:02) pick grid -75.0332 -40.6863
+\t (00:23:02) last pick:  -75.0316  -40.6908
+\t (00:23:02) Horizontal Line Segment "Dvg6, Etch/Bottom"
+\i (00:23:02) setwindow cmgr
+\i (00:23:02) cm expand ( row ( Design "STANDARD" ) )
+\i (00:23:02) cm expand ( row ( Design "STANDARD" ) )
+\i (00:23:02) cm expand ( row ( Bus "P1_" ) )
+\i (00:23:02) cm expand ( row ( Design "STANDARD" ) )
+\i (00:23:02) cm expand ( row ( Design "STANDARD" ) )
+\i (00:23:02) cm expand ( row ( Bus "P1_" ) )
+\i (00:23:02) cm expand ( row ( Design "STANDARD" ) )
+\i (00:23:02) cm expand ( row ( Design "STANDARD" ) )
+\i (00:23:02) cm expand ( row ( Bus "P1_" ) )
+\i (00:23:02) cm expand ( row ( Design "STANDARD" ) )
+\i (00:23:02) cm expand ( row ( Design "STANDARD" ) )
+\i (00:23:02) cm expand ( row ( Bus "P1_" ) )
+\i (00:23:02) cm expand ( row ( Design "STANDARD" ) )
+\i (00:23:02) cm expand ( row ( Design "STANDARD" ) )
+\i (00:23:02) cm expand ( row ( Bus "P1_" ) )
+\i (00:23:02) cm expand ( row ( Design "STANDARD" ) )
+\i (00:23:04) setwindow pcb
+\i (00:23:04) pick grid -74.7522 -40.1136
+\t (00:23:04) last pick:  -74.7522  -40.1066
+\t (00:23:04) Horizontal Line Segment "Dvg7, Etch/Bottom"
+\i (00:23:04) setwindow cmgr
+\i (00:23:04) cm expand ( row ( Design "STANDARD" ) )
+\i (00:23:04) cm expand ( row ( Design "STANDARD" ) )
+\i (00:23:04) cm expand ( row ( Bus "P1_" ) )
+\i (00:23:04) cm expand ( row ( Design "STANDARD" ) )
+\i (00:23:04) cm expand ( row ( Design "STANDARD" ) )
+\i (00:23:04) cm expand ( row ( Bus "P1_" ) )
+\i (00:23:04) cm expand ( row ( Design "STANDARD" ) )
+\i (00:23:04) cm expand ( row ( Design "STANDARD" ) )
+\i (00:23:04) cm expand ( row ( Bus "P1_" ) )
+\i (00:23:04) cm expand ( row ( Design "STANDARD" ) )
+\i (00:23:04) cm expand ( row ( Design "STANDARD" ) )
+\i (00:23:04) cm expand ( row ( Bus "P1_" ) )
+\i (00:23:04) cm expand ( row ( Design "STANDARD" ) )
+\i (00:23:04) cm expand ( row ( Design "STANDARD" ) )
+\i (00:23:04) cm expand ( row ( Bus "P1_" ) )
+\i (00:23:04) cm expand ( row ( Design "STANDARD" ) )
+\i (00:23:05) setwindow pcb
+\i (00:23:05) pick grid -75.2666 -39.9757
+\t (00:23:05) last pick:  -75.2602  -39.9796
+\t (00:23:05) Odd-angle Line Segment "Dvg7, Etch/Bottom"
+\i (00:23:05) pick grid -75.5105 -40.4476
+\t (00:23:05) last pick:  -75.5142  -40.4368
+\t (00:23:05) Odd-angle Line Segment "Dvg6, Etch/Bottom"
+\i (00:23:06) roam start
+\i (00:23:06) roam y -32
+\i (00:23:07) roam x -32
+\i (00:23:07) roam y -32
+\i (00:23:07) roam x -16
+\i (00:23:07) roam y -32
+\i (00:23:07) roam y -48
+\i (00:23:07) roam x 16
+\i (00:23:07) roam y -32
+\i (00:23:07) roam x 32
+\i (00:23:07) roam y -32
+\i (00:23:07) roam x 32
+\i (00:23:07) roam y -16
+\i (00:23:07) roam y -32
+\i (00:23:07) roam x -16
+\i (00:23:07) roam x -16
+\i (00:23:07) roam x -16
+\i (00:23:07) roam x -16
+\i (00:23:07) roam y -16
+\i (00:23:07) roam end
+\i (00:23:08) pick grid -75.3726 -39.3553
+\t (00:23:08) last pick:  -75.3618  -39.3446
+\t (00:23:08) Vertical Line Segment "Dvg7, Etch/Bottom"
+\i (00:23:09) pick grid -75.5317 -38.8144
+\t (00:23:09) last pick:  -75.5396  -38.8112
+\t (00:23:09) Odd-angle Line Segment "Dvg7, Etch/Bottom"
+\i (00:23:09) pick grid -76.0090 -38.6447
+\t (00:23:09) last pick:  -75.9968  -38.6334
+\
