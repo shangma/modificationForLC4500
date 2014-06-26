@@ -1061,4 +1061,308 @@
 \t (00:08:53) last pick:  -14.3256  -9.8806
 \t (00:08:53) Connect Line "Not On A Net, Etch/Top"
 \i (00:08:54) pick grid -14.9304 -9.7605
-\t (00:08:54) last pick:
+\t (00:08:54) last pick:  -14.9352  -9.7536
+\t (00:08:54) Via "Gnd, Via16c8, (-15.0626 -9.7453)"
+\i (00:08:54) pick grid -15.2803 -9.9845
+\t (00:08:54) last pick:  -15.2908  -9.9822
+\t (00:08:54) Connect Line "Not On A Net, Etch/Top"
+\i (00:08:55) pick grid -16.5403 -9.7745
+\t (00:08:55) last pick:  -16.5354  -9.7790
+\t (00:08:55) Via "Gnd, Via16c8, (-16.6625 -9.7453)"
+\i (00:08:55) pick grid -16.9323 -9.9425
+\t (00:08:55) last pick:  -16.9418  -9.9314
+\t (00:08:55) Connect Line "Not On A Net, Etch/Top"
+\i (00:08:55) pick grid -17.3802 -9.7465
+\t (00:08:55) last pick:  -17.3736  -9.7536
+\t (00:08:55) Via "Gnd, Via16c8, (-17.4626 -9.7453)"
+\i (00:08:56) pick grid -17.7162 -9.9285
+\t (00:08:56) last pick:  -17.7038  -9.9314
+\t (00:08:56) Connect Line "Not On A Net, Etch/Top"
+\i (00:08:56) pick grid -18.9201 -10.0265
+\t (00:08:56) last pick:  -18.9230  -10.0330
+\t (00:08:56) Connect Line "Gnd, Etch/Top"
+\i (00:08:57) pick grid -19.0601 -9.7605
+\t (00:08:57) last pick:  -19.0500  -9.7536
+\t (00:08:57) Via "Gnd, Via16c8, (-19.0626 -9.7453)"
+\i (00:08:57) pick grid -19.7881 -9.7605
+\t (00:08:57) last pick:  -19.7866  -9.7536
+\t (00:08:57) Via "Gnd, Via16c8, (-19.8627 -9.7453)"
+\i (00:08:57) pick grid -19.6201 -9.9425
+\t (00:08:57) last pick:  -19.6088  -9.9314
+\t (00:08:57) Connect Line "Not On A Net, Etch/Top"
+\i (00:08:58) pick grid -21.5520 -9.7885
+\t (00:08:58) last pick:  -21.5646  -9.7790
+\t (00:08:58) Via "Gnd, Via16c8, (-21.4626 -9.7453)"
+\i (00:08:59) pick grid -21.3420 -10.1105
+\t (00:08:59) last pick:  -21.3360  -10.1092
+\t (00:08:59) Connect Line "Not On A Net, Etch/Top"
+\i (00:08:59) pick grid -22.2520 -9.8305
+\t (00:08:59) last pick:  -22.2504  -9.8298
+\t (00:08:59) Via "Gnd, Via16c8, (-22.2627 -9.7453)"
+\i (00:09:00) pick grid -22.1540 -9.9985
+\t (00:09:00) last pick:  -22.1488  -10.0076
+\t (00:09:00) Connect Line "Not On A Net, Etch/Top"
+\i (00:09:01) pick grid -23.8759 -9.6905
+\t (00:09:01) last pick:  -23.8760  -9.7028
+\t (00:09:01) Via "Gnd, Via16c8, (-23.8626 -9.7453)"
+\i (00:09:01) pick grid -23.7639 -9.9565
+\t (00:09:01) last pick:  -23.7744  -9.9568
+\t (00:09:01) Connect Line "Not On A Net, Etch/Top"
+\i (00:09:02) pick grid -24.4499 -9.9845
+\t (00:09:02) last pick:  -24.4602  -9.9822
+\t (00:09:02) Connect Line "Gnd, Etch/Top"
+\i (00:09:02) pick grid -24.6598 -9.7605
+\t (00:09:02) last pick:  -24.6634  -9.7536
+\t (00:09:02) Via "Gnd, Via16c8, (-24.6627 -9.7453)"
+\i (00:09:03) pick grid -24.6738 -9.0466
+\t (00:09:03) last pick:  -24.6634  -9.0424
+\t (00:09:03) Via "Gnd, Via16c8, (-24.6627 -8.9453)"
+\i (00:09:03) pick grid -24.4079 -9.1446
+\t (00:09:03) last pick:  -24.4094  -9.1440
+\t (00:09:03) Connect Line "Not On A Net, Etch/Top"
+\i (00:09:04) pick grid -23.7639 -9.0046
+\t (00:09:04) last pick:  -23.7744  -9.0170
+\t (00:09:04) Via "Gnd, Via16c8, (-23.8626 -8.9453)"
+\i (00:09:04) pick grid -23.5959 -9.1586
+\t (00:09:04) last pick:  -23.5966  -9.1694
+\t (00:09:04) Connect Line "Not On A Net, Etch/Top"
+\i (00:09:04) pick grid -23.6099 -8.4306
+\t (00:09:04) last pick:  -23.6220  -8.4328
+\t (00:09:04) Connect Line "Gnd, Etch/Top"
+\i (00:09:05) pick grid -23.9039 -8.0246
+\t (00:09:05) last pick:  -23.9014  -8.0264
+\t (00:09:05) Via "Gnd, Via16c8, (-23.8626 -8.1452)"
+\i (00:09:05) pick grid -24.5619 -8.0246
+\t (00:09:05) last pick:  -24.5618  -8.0264
+\t (00:09:05) Via "Gnd, Via16c8, (-24.6627 -8.1452)"
+\i (00:09:05) pick grid -24.3659 -8.2626
+\t (00:09:05) last pick:  -24.3586  -8.2550
+\t (00:09:05) Connect Line "Not On A Net, Etch/Top"
+\i (00:09:07) prepopup -21.1320 -12.9803
+\i (00:09:07) done 
+\i (00:09:07) generaledit 
+\i (00:09:07) pick grid -21.1460 -13.0083
+\t (00:09:07) last pick:  -21.1582  -13.0048
+\i (00:09:10) setwindow text
+\i (00:09:10) close 
+\i (00:09:11) setwindow pcb
+\i (00:09:11) pick grid -14.0204 -12.5184
+\t (00:09:11) last pick:  -14.0208  -12.5222
+\i (00:09:12) drc update 
+\t (00:09:12) Performing DRC...
+\t (00:09:12) Multithreaded DRC update (8 threads).
+\t (00:09:12) No DRC errors detected.
+\i (00:09:12) generaledit 
+\i (00:13:05) pick grid -15.2383 -13.4563
+\t (00:13:05) last pick:  -15.2400  -13.4620
+\i (00:13:06) zoom in 1 
+\i (00:13:06) setwindow pcb
+\i (00:13:06) zoom in -13.6984 -11.5384
+\i (00:13:06) trapsize 350
+\i (00:13:06) zoom in 1 
+\i (00:13:06) setwindow pcb
+\i (00:13:06) zoom in -13.7404 -11.5034
+\i (00:13:06) trapsize 175
+\i (00:13:08) delete 
+\i (00:13:09) pick grid -14.3004 -11.3949
+\t (00:13:09) last pick:  -14.3002  -11.4046
+\t (00:13:09) Via "Gnd, Via16c8, (-14.2625 -11.3453)"
+\i (00:13:10) prepopup -13.9049 -11.5594
+\i (00:13:10) done 
+\i (00:13:10) generaledit 
+\i (00:13:10) pick grid -13.9119 -11.5594
+\t (00:13:10) last pick:  -13.9192  -11.5570
+\i (00:13:11) zoom out 1 
+\i (00:13:11) setwindow pcb
+\i (00:13:11) zoom out -13.9224 -11.5734
+\i (00:13:11) trapsize 350
+\i (00:13:11) zoom out 1 
+\i (00:13:11) setwindow pcb
+\i (00:13:11) zoom out -13.9223 -11.5733
+\i (00:13:11) trapsize 700
+\i (00:13:11) zoom out 1 
+\i (00:13:11) setwindow pcb
+\i (00:13:11) zoom out -13.9224 -11.5733
+\i (00:13:11) trapsize 1400
+\i (00:13:11) zoom out 1 
+\i (00:13:11) setwindow pcb
+\i (00:13:11) zoom out -13.9224 -11.5733
+\i (00:13:11) trapsize 2800
+\i (00:13:11) zoom in 1 
+\i (00:13:11) setwindow pcb
+\i (00:13:11) zoom in -13.9783 -11.5173
+\i (00:13:11) trapsize 1400
+\i (00:13:11) zoom in 1 
+\i (00:13:11) setwindow pcb
+\i (00:13:11) zoom in -14.0343 -11.7973
+\i (00:13:11) trapsize 700
+\i (00:13:12) zoom out 1 
+\i (00:13:12) setwindow pcb
+\i (00:13:12) zoom out -14.0763 -11.8813
+\i (00:13:12) trapsize 1400
+\i (00:13:15) setwindow cmgr
+\i (00:13:15) cm putValue ( Net "P3P3V" ) FIXED On 0
+\i (00:13:16) cm endUndoBlock
+\i (00:13:22) cm putValue ( Net "GND" ) FIXED On 0
+\i (00:13:22) cm endUndoBlock
+\i (00:13:33) setwindow pcb
+\i (00:13:33) pick grid -15.0562 -12.4693
+\t (00:13:33) last pick:  -15.0622  -12.4714
+\i (00:13:33) zoom in 1 
+\i (00:13:33) setwindow pcb
+\i (00:13:33) zoom in -21.1599 -10.4814
+\i (00:13:33) trapsize 700
+\i (00:13:33) zoom in 1 
+\i (00:13:33) setwindow pcb
+\i (00:13:33) zoom in -21.1599 -10.4813
+\i (00:13:33) trapsize 350
+\i (00:13:34) zoom out 1 
+\i (00:13:34) setwindow pcb
+\i (00:13:34) zoom out -21.4118 -10.5793
+\i (00:13:34) trapsize 700
+\i (00:13:39) setwindow form.find
+\i (00:13:39) FORM find symbols YES 
+\i (00:13:54) setwindow pcb
+\i (00:13:54) pick grid -22.0698 -12.8752
+\t (00:13:54) last pick:  -22.0726  -12.8778
+\i (00:13:55) pick grid -23.7777 -11.2793
+\t (00:13:55) last pick:  -23.7744  -11.2776
+\i (00:13:55) setwindow cmgr
+\i (00:13:55) cm expand ( row ( Design "STANDARD" ) )
+\i (00:13:55) cm expand ( row ( "Part Definition" "CAP NP_CAP_0402_0.1 UF:CAP_0402:0.1 uF:" ) )
+\t (00:13:55) Cannot edit Symbol "C31". Net "P3p3v" has the FIXED property.
+\i (00:13:55) setwindow pcb
+\i (00:13:55) prepopup -23.7777 -11.2793
+\i (00:13:59) pick grid -24.0577 -12.0353
+\t (00:13:59) last pick:  -24.0538  -12.0396
+\i (00:14:00) zoom in 1 
+\i (00:14:00) setwindow pcb
+\i (00:14:00) zoom in -23.8057 -11.5313
+\i (00:14:00) trapsize 350
+\i (00:14:10) setwindow cmgr
+\i (00:14:10) cm putValue ( Net "GND" ) FIXED (Clear) 0
+\i (00:14:10) cm endUndoBlock
+\i (00:14:15) cm putValue ( Net "P3P3V" ) FIXED (Clear) 0
+\i (00:14:15) cm endUndoBlock
+\i (00:14:17) setwindow pcb
+\i (00:14:17) pick grid -22.4337 -12.2733
+\t (00:14:17) last pick:  -22.4282  -12.2682
+\i (00:14:18) pick grid -23.7217 -11.4683
+\t (00:14:18) last pick:  -23.7236  -11.4808
+\i (00:14:18) setwindow cmgr
+\i (00:14:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:14:18) cm expand ( row ( "Part Definition" "CAP NP_CAP_0402_0.1 UF:CAP_0402:0.1 uF:" ) )
+\i (00:14:18) setwindow pcb
+\i (00:14:18) prepopup -23.7287 -11.4753
+\i (00:14:19) pop dyn_option_select '@:@Unplace component' 
+\i (00:14:19) unplace component 
+\i (00:14:20) generaledit 
+\i (00:14:20) pick grid -21.4118 -11.5803
+\t (00:14:20) last pick:  -21.4122  -11.5824
+\i (00:14:20) setwindow cmgr
+\i (00:14:20) cm expand ( row ( Design "STANDARD" ) )
+\i (00:14:20) cm expand ( row ( "Part Definition" "CAP NP_CAP_0402_0.1 UF:CAP_0402:0.1 uF:" ) )
+\i (00:14:24) setwindow pcb
+\i (00:14:24) prepopup -20.3968 -11.4053
+\i (00:14:25) pop dyn_option_select '@:@Unplace component' 
+\i (00:14:25) unplace component 
+\i (00:14:26) generaledit 
+\i (00:14:41) pick grid -20.9288 -11.5523
+\t (00:14:41) last pick:  -20.9296  -11.5570
+\i (00:14:41) prepopup -21.0128 -9.9564
+\i (00:14:42) pick grid -21.1038 -9.9704
+\t (00:14:42) last pick:  -21.1074  -9.9822
+\i (00:14:43) pick grid -21.0548 -9.9844
+\t (00:14:43) last pick:  -21.0566  -9.9822
+\i (00:14:43) setwindow cmgr
+\i (00:14:43) cm expand ( row ( Design "STANDARD" ) )
+\i (00:14:43) cm expand ( row ( "Part Definition" "CAP NP_CAP_0402_0.1 UF:CAP_0402:0.1 uF:" ) )
+\i (00:14:43) setwindow pcb
+\i (00:14:43) prepopup -21.0548 -9.9844
+\i (00:14:44) pop dyn_option_select '@:@Unplace component' 
+\i (00:14:44) unplace component 
+\i (00:14:44) generaledit 
+\i (00:14:46) pick grid -22.9377 -9.9704
+\t (00:14:46) last pick:  -22.9362  -9.9822
+\i (00:14:46) setwindow cmgr
+\i (00:14:46) cm expand ( row ( Design "STANDARD" ) )
+\i (00:14:46) cm expand ( row ( "Part Definition" "CAP NP_CAP_0402_0.1 UF:CAP_0402:0.1 uF:" ) )
+\i (00:14:47) setwindow pcb
+\i (00:14:47) prepopup -22.9377 -9.9704
+\i (00:14:48) pop dyn_option_select '@:@Unplace component' 
+\i (00:14:48) unplace component 
+\i (00:14:49) generaledit 
+\i (00:14:49) zoom out 1 
+\i (00:14:49) setwindow pcb
+\i (00:14:49) zoom out -22.5317 -9.9494
+\i (00:14:49) trapsize 700
+\i (00:14:49) zoom out 1 
+\i (00:14:49) setwindow pcb
+\i (00:14:49) zoom out -22.5318 -9.9913
+\i (00:14:49) trapsize 1400
+\i (00:14:50) zoom in 1 
+\i (00:14:50) setwindow pcb
+\i (00:14:50) zoom in -14.8882 -9.4034
+\i (00:14:50) trapsize 700
+\i (00:14:50) zoom in 1 
+\i (00:14:50) setwindow pcb
+\i (00:14:50) zoom in -15.0842 -9.4174
+\i (00:14:50) trapsize 350
+\i (00:14:52) pick grid -16.4701 -10.0123
+\t (00:14:52) last pick:  -16.4592  -10.0076
+\i (00:14:52) setwindow cmgr
+\i (00:14:52) cm expand ( row ( Design "STANDARD" ) )
+\i (00:14:52) cm expand ( row ( "Part Definition" "CAP NP_CAP_0402_0.1 UF:CAP_0402:0.1 uF:" ) )
+\i (00:14:53) setwindow pcb
+\i (00:14:53) prepopup -16.4701 -10.0123
+\i (00:14:54) pop dyn_option_select '@:@Unplace component' 
+\i (00:14:54) unplace component 
+\i (00:14:54) generaledit 
+\i (00:14:56) pick grid -16.5751 -11.3353
+\t (00:14:56) last pick:  -16.5862  -11.3284
+\i (00:14:56) setwindow cmgr
+\i (00:14:56) cm expand ( row ( Design "STANDARD" ) )
+\i (00:14:56) cm expand ( row ( "Part Definition" "CAP NP_CAP_0402_0.1 UF:CAP_0402:0.1 uF:" ) )
+\i (00:15:00) setwindow pcb
+\i (00:15:00) prepopup -16.4701 -11.3493
+\i (00:15:02) pop dyn_option_select '@:@Unplace component' 
+\i (00:15:02) unplace component 
+\i (00:15:02) generaledit 
+\i (00:15:03) pick grid -14.1182 -11.5453
+\t (00:15:03) last pick:  -14.1224  -11.5570
+\i (00:15:03) setwindow cmgr
+\i (00:15:03) cm expand ( row ( Design "STANDARD" ) )
+\i (00:15:03) cm expand ( row ( "Part Definition" "CAP NP_CAP_0402_0.1 UF:CAP_0402:0.1 uF:" ) )
+\i (00:15:04) setwindow pcb
+\i (00:15:04) prepopup -13.9922 -11.4333
+\i (00:15:06) pick grid -14.2932 -11.5523
+\t (00:15:06) last pick:  -14.3002  -11.5570
+\i (00:15:06) setwindow cmgr
+\i (00:15:06) cm expand ( row ( Design "STANDARD" ) )
+\i (00:15:06) cm expand ( row ( "Part Definition" "CAP NP_CAP_0402_0.1 UF:CAP_0402:0.1 uF:" ) )
+\i (00:15:08) setwindow pcb
+\i (00:15:08) prepopup -14.0132 -11.4543
+\i (00:15:09) pop dyn_option_select '@:@Unplace component' 
+\i (00:15:09) unplace component 
+\i (00:15:09) generaledit 
+\i (00:15:10) pick grid -14.0552 -9.8934
+\t (00:15:10) last pick:  -14.0462  -9.9060
+\i (00:15:10) setwindow cmgr
+\i (00:15:10) cm expand ( row ( Design "STANDARD" ) )
+\i (00:15:10) cm expand ( row ( "Part Definition" "CAP NP_CAP_0402_0.1 UF:CAP_0402:0.1 uF:" ) )
+\i (00:15:11) setwindow pcb
+\i (00:15:11) prepopup -14.0552 -9.8934
+\i (00:15:12) pop dyn_option_select '@:@Unplace component' 
+\i (00:15:12) unplace component 
+\i (00:15:12) generaledit 
+\i (00:15:12) zoom out 1 
+\i (00:15:12) setwindow pcb
+\i (00:15:12) zoom out -14.4962 -9.8724
+\i (00:15:12) trapsize 700
+\i (00:15:12) zoom out 1 
+\i (00:15:12) setwindow pcb
+\i (00:15:12) zoom out -14.4961 -9.8723
+\i (00:15:12) trapsize 1400
+\i (00:15:12) zoom out 1 
+\i (00:15:12) setwindow pcb
+\i (00:15:12) zoom
