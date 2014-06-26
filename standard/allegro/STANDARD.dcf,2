@@ -8,7 +8,7 @@
 		)
 		( revisionNumber
 			( logicalViewRevNum 0 )
-			( physicalViewRevNum 10 )
+			( physicalViewRevNum 11 )
 			( otherViewRevNum 0 )
 		)
 		( contents
@@ -3521,71 +3521,113 @@
 			( signal "PM_ADR_20"
 				( pinPairRef "U19.12:U20.12" )
 				( pinPairRef "U20.12:U7.W2" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_adr_20" )
 			)
 			( signal "PM_ADR_13"
 				( pinPairRef "U19.5:U20.5" )
 				( pinPairRef "U20.5:U7.AA4" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_adr_13" )
 			)
 			( signal "PM_ADR_19"
 				( pinPairRef "U19.11:U20.11" )
 				( pinPairRef "U20.11:U7.Y1" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_adr_19" )
 			)
 			( signal "PM_DAT_4"
 				( pinPairRef "U19.44:U20.44" )
 				( pinPairRef "U20.44:U7.R4" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_dat_4" )
 			)
 			( signal "PM_ADR_10"
 				( pinPairRef "U19.8:U20.8" )
 				( pinPairRef "U20.8:U7.AB4" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_adr_10" )
 			)
 			( signal "PM_ADR_3"
 				( pinPairRef "U19.24:U20.24" )
 				( pinPairRef "U20.24:U7.AB6" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_adr_3" )
 			)
 			( signal "PM_DAT_15"
 				( pinPairRef "U19.51:U20.51" )
 				( pinPairRef "U20.51:U7.M1" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_dat_15" )
 			)
 			( signal "PM_DAT_12"
 				( pinPairRef "U19.45:U20.45" )
 				( pinPairRef "U20.45:U7.N3" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_dat_12" )
 			)
 			( signal "PM_ADR_11"
 				( pinPairRef "U19.7:U20.7" )
 				( pinPairRef "U20.7:U7.W6" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_adr_11" )
 			)
 			( signal "PM_DAT_5"
 				( pinPairRef "U19.46:U20.46" )
 				( pinPairRef "U20.46:U7.R3" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_dat_5" )
 			)
 			( signal "PM_ADR_8"
 				( pinPairRef "U19.10:U20.10" )
 				( pinPairRef "U20.10:U7.Y6" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_adr_8" )
 			)
 			( signal "PM_ADR_18"
 				( pinPairRef "U19.18:U20.18" )
 				( pinPairRef "U20.18:U7.AB2" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_adr_18" )
 			)
 			( signal "PM_DAT_1"
 				( pinPairRef "U19.37:U20.37" )
 				( pinPairRef "U20.37:U7.T3" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_dat_1" )
 			)
 			( signal "PM_ADR_7"
 				( pinPairRef "U19.20:U20.20" )
 				( pinPairRef "U20.20:U7.W7" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_adr_7" )
 			)
 			( signal "TRACEPKT7R"
@@ -3599,6 +3641,9 @@
 			( signal "PM_ADR_9"
 				( pinPairRef "U19.9:U20.9" )
 				( pinPairRef "U20.9:U7.AA5" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_adr_9" )
 			)
 			( signal "TRACEPKT0R"
@@ -3608,11 +3653,17 @@
 			( signal "PM_ADR_22"
 				( pinPairRef "U19.2:U20.2" )
 				( pinPairRef "U20.2:U7.V3" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_adr_22" )
 			)
 			( signal "PM_DAT_13"
 				( pinPairRef "U19.47:U20.47" )
 				( pinPairRef "U20.47:U7.N2" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_dat_13" )
 			)
 			( signal "RED_CATHODE"
@@ -3635,10 +3686,16 @@
 			( signal "PM_DAT_11"
 				( pinPairRef "U19.42:U20.42" )
 				( pinPairRef "U20.42:U7.N4" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_dat_11" )
 			)
 			( signal "LEDG_PWM"
 				( pinPairRef "U42.7:U7.K3" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):ledg_pwm" )
 			)
 			( signal "LEDR_PWM"
@@ -3651,6 +3708,9 @@
 			( signal "PM_ADR_6"
 				( pinPairRef "U19.21:U20.21" )
 				( pinPairRef "U20.21:U7.AB5" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_adr_6" )
 			)
 			( signal "LEDB_EN"
@@ -3663,6 +3723,9 @@
 			( signal "PM_DAT_14"
 				( pinPairRef "U19.49:U20.49" )
 				( pinPairRef "U20.49:U7.N1" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_dat_14" )
 			)
 			( signal "LEDG_EN"
@@ -3675,16 +3738,25 @@
 			( signal "PM_ADR_14"
 				( pinPairRef "U19.4:U20.4" )
 				( pinPairRef "U20.4:U7.AB3" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_adr_14" )
 			)
 			( signal "PM_ADR_4"
 				( pinPairRef "U19.23:U20.23" )
 				( pinPairRef "U20.23:U7.Y7" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_adr_4" )
 			)
 			( signal "PM_ADR_2"
 				( pinPairRef "U19.25:U20.25" )
 				( pinPairRef "U20.25:U7.W8" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_adr_2" )
 			)
 			( signal "N40049482"
@@ -3696,55 +3768,88 @@
 			)
 			( signal "PM_ADR_0"
 				( pinPairRef "U19.31:U20.31" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_adr_0" )
 			)
 			( signal "PM_DAT_10"
 				( pinPairRef "U19.40:U20.40" )
 				( pinPairRef "U20.40:U7.P1" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_dat_10" )
 			)
 			( signal "PM_DAT_0"
 				( pinPairRef "U19.35:U20.35" )
 				( pinPairRef "U20.35:U7.T4" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_dat_0" )
 			)
 			( signal "PM_DAT_9"
 				( pinPairRef "U19.38:U20.38" )
 				( pinPairRef "U20.38:U7.P2" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_dat_9" )
 			)
 			( signal "PM_ADR_21"
 				( pinPairRef "U19.15:U20.15" )
 				( pinPairRef "U20.15:U7.W1" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_adr_21" )
 			)
 			( signal "PM_DAT_8"
 				( pinPairRef "U19.36:U20.36" )
 				( pinPairRef "U20.36:U7.P3" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_dat_8" )
 			)
 			( signal "PM_ADR_16"
 				( pinPairRef "U19.54:U20.54" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_adr_16" )
 			)
 			( signal "PM_ADR_12"
 				( pinPairRef "U19.6:U20.6" )
 				( pinPairRef "U20.6:U7.Y5" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_adr_12" )
 			)
 			( signal "PM_ADR_1"
 				( pinPairRef "U19.26:U20.26" )
 				( pinPairRef "U20.26:U7.AA7" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_adr_1" )
 			)
 			( signal "PM_ADR_17"
 				( pinPairRef "U19.19:U20.19" )
 				( pinPairRef "U20.19:U7.AA3" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_adr_17" )
 			)
 			( signal "PM_DAT_6"
 				( pinPairRef "U19.48:U20.48" )
 				( pinPairRef "U20.48:U7.R2" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_dat_6" )
 			)
 			( signal "N40960273"
@@ -3758,26 +3863,41 @@
 			( signal "PM_DAT_2"
 				( pinPairRef "U19.39:U20.39" )
 				( pinPairRef "U20.39:U7.T2" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_dat_2" )
 			)
 			( signal "PM_DAT_3"
 				( pinPairRef "U19.41:U20.41" )
 				( pinPairRef "U20.41:U7.T1" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_dat_3" )
 			)
 			( signal "PM_ADR_5"
 				( pinPairRef "U19.22:U20.22" )
 				( pinPairRef "U20.22:U7.AA6" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_adr_5" )
 			)
 			( signal "PM_ADR_15"
 				( pinPairRef "U19.3:U20.3" )
 				( pinPairRef "U20.3:U7.W5" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_adr_15" )
 			)
 			( signal "PM_DAT_7"
 				( pinPairRef "U19.50:U20.50" )
 				( pinPairRef "U20.50:U7.P4" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_dat_7" )
 			)
 			( signal "BLU_CATHODE"
@@ -3806,6 +3926,9 @@
 			)
 			( signal "PM_OESZ"
 				( pinPairRef "U19.34:U20.34" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_oesz" )
 			)
 			( signal "SYS_HSYNC"
@@ -3818,6 +3941,9 @@
 			)
 			( signal "PM_WESZ"
 				( pinPairRef "U19.13:U20.13" )
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_wesz" )
 			)
 			( signal "SYS_DATA11"
@@ -3966,27 +4092,51 @@
 				( objectStatus "@standard.schematic1(sch_1):p1_field" )
 			)
 			( signal "PM_BLS0S"
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_bls0s" )
 			)
 			( signal "PM_BLS1"
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_bls1" )
 			)
 			( signal "PM_SRAM_CSSZ"
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_sram_cssz" )
 			)
 			( signal "PM_OEZ"
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_oez" )
 			)
 			( signal "PM_WEZ"
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_wez" )
 			)
 			( signal "PM_BLS0"
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_bls0" )
 			)
 			( signal "PM_SRAM_CSZ"
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_sram_csz" )
 			)
 			( signal "PM_BLS1S"
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
 				( objectStatus "@standard.schematic1(sch_1):pm_bls1s" )
 			)
 			( signal "TRACEPKT2"
@@ -4912,6 +5062,108 @@
 					( Origin gBackEnd )
 				)
 				( objectStatus "@standard.schematic1(sch_1):n41210106" )
+			)
+			( signal "I2C_ADDR_SEL"
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
+				( objectStatus "@standard.schematic1(sch_1):i2c_addr_sel" )
+			)
+			( signal "HOLD_BOOT_LOADER"
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
+				( objectStatus "@standard.schematic1(sch_1):hold_boot_loader" )
+			)
+			( signal "LED_STATUS_GRN"
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
+				( objectStatus "@standard.schematic1(sch_1):led_status_grn" )
+			)
+			( signal "LED_STATUS_RED"
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
+				( objectStatus "@standard.schematic1(sch_1):led_status_red" )
+			)
+			( signal "N40250556"
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
+				( objectStatus "@standard.schematic1(sch_1):n40250556" )
+			)
+			( signal "N40286094"
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
+				( objectStatus "@standard.schematic1(sch_1):n40286094" )
+			)
+			( signal "POWER_ON_OFF"
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
+				( objectStatus "@standard.schematic1(sch_1):power_on_off" )
+			)
+			( signal "N41563836"
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
+				( objectStatus "@standard.schematic1(sch_1):n41563836" )
+			)
+			( signal "FLASH_CSZ"
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
+				( objectStatus "@standard.schematic1(sch_1):flash_csz" )
+			)
+			( signal "FLASH_CSZ_2"
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
+				( objectStatus "@standard.schematic1(sch_1):flash_csz_2" )
+			)
+			( signal "FLASH_CSSZ"
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
+				( objectStatus "@standard.schematic1(sch_1):flash_cssz" )
+			)
+			( signal "FLASH_CSS2Z"
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
+				( objectStatus "@standard.schematic1(sch_1):flash_css2z" )
+			)
+			( signal "BYTE"
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
+				( objectStatus "@standard.schematic1(sch_1):byte" )
+			)
+			( signal "WPZ"
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
+				( objectStatus "@standard.schematic1(sch_1):wpz" )
+			)
+			( signal "FLASH_RSTZ"
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
+				( objectStatus "@standard.schematic1(sch_1):flash_rstz" )
+			)
+			( signal "BYTE_2"
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
+				( objectStatus "@standard.schematic1(sch_1):byte_2" )
+			)
+			( signal "WPZ_2"
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
+				( objectStatus "@standard.schematic1(sch_1):wpz_2" )
 			)
 			( pin "J9.5"
 			)

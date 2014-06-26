@@ -8,7 +8,7 @@
 		)
 		( revisionNumber
 			( logicalViewRevNum 0 )
-			( physicalViewRevNum 9 )
+			( physicalViewRevNum 10 )
 			( otherViewRevNum 0 )
 		)
 		( contents
@@ -4816,6 +4816,102 @@
 					( Origin gBackEnd )
 				)
 				( objectStatus "@standard.schematic1(sch_1):ssp0_csz0" )
+			)
+			( signal "I2C1_SCL"
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
+				( objectStatus "@standard.schematic1(sch_1):i2c1_scl" )
+			)
+			( signal "I2C1_SDA"
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
+				( objectStatus "@standard.schematic1(sch_1):i2c1_sda" )
+			)
+			( signal "N41210256"
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
+				( objectStatus "@standard.schematic1(sch_1):n41210256" )
+			)
+			( signal "N39787838"
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
+				( objectStatus "@standard.schematic1(sch_1):n39787838" )
+			)
+			( signal "N41210127"
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
+				( objectStatus "@standard.schematic1(sch_1):n41210127" )
+			)
+			( signal "N39787775"
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
+				( objectStatus "@standard.schematic1(sch_1):n39787775" )
+			)
+			( signal "N39787766"
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
+				( objectStatus "@standard.schematic1(sch_1):n39787766" )
+			)
+			( signal "N41210001"
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
+				( objectStatus "@standard.schematic1(sch_1):n41210001" )
+			)
+			( signal "N41209995"
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
+				( objectStatus "@standard.schematic1(sch_1):n41209995" )
+			)
+			( signal "N41209998"
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
+				( objectStatus "@standard.schematic1(sch_1):n41209998" )
+			)
+			( signal "N41209979"
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
+				( objectStatus "@standard.schematic1(sch_1):n41209979" )
+			)
+			( signal "N39787655"
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
+				( objectStatus "@standard.schematic1(sch_1):n39787655" )
+			)
+			( signal "N41209992"
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
+				( objectStatus "@standard.schematic1(sch_1):n41209992" )
+			)
+			( signal "N39782474"
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
+				( objectStatus "@standard.schematic1(sch_1):n39782474" )
+			)
+			( signal "N39782477"
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
+				( objectStatus "@standard.schematic1(sch_1):n39782477" )
+			)
+			( signal "N41210106"
+				( attribute "FIXED" "1"
+					( Origin gBackEnd )
+				)
+				( objectStatus "@standard.schematic1(sch_1):n41210106" )
 			)
 			( pin "J9.5"
 			)
