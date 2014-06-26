@@ -13227,4 +13227,2210 @@
 \i (01:33:33) trapsize 709
 \i (01:33:37) xdehilite 
 \i (01:33:37) xNet P1_A5 
-\i 
+\i (01:33:37) xname_flush 
+\t (01:33:37) Net "P1_A5" dehighlighted.
+\i (01:33:37) done 
+\i (01:33:37) xhilite 
+\i (01:33:37) xNet Mux_Dataen 
+\i (01:33:37) xname_flush 
+\i (01:33:37) trapsize 2107
+\t (01:33:37) Net "Mux_Dataen" highlighted.
+\i (01:33:37) done 
+\i (01:33:37) generaledit 
+\i (01:33:39) roam start
+\i (01:33:39) roam x 32
+\i (01:33:39) roam y -48
+\i (01:33:39) roam x 64
+\i (01:33:39) roam y -32
+\i (01:33:39) roam x 80
+\i (01:33:39) roam y -32
+\i (01:33:39) roam x 96
+\i (01:33:39) roam y -48
+\i (01:33:39) roam x 96
+\i (01:33:39) roam y -48
+\i (01:33:39) roam x 80
+\i (01:33:39) roam y -64
+\i (01:33:39) roam x 32
+\i (01:33:39) roam y -48
+\i (01:33:39) roam x 16
+\i (01:33:39) roam y -16
+\i (01:33:39) roam y -16
+\i (01:33:39) roam x 32
+\i (01:33:39) roam y -16
+\i (01:33:39) roam x 48
+\i (01:33:39) roam x 32
+\i (01:33:40) roam x -32
+\i (01:33:40) roam y 16
+\i (01:33:40) roam end
+\i (01:33:40) zoom in 1 
+\i (01:33:40) setwindow pcb
+\i (01:33:40) zoom in -24.1794 -15.9683
+\i (01:33:40) trapsize 1053
+\i (01:33:40) zoom in 1 
+\i (01:33:40) setwindow pcb
+\i (01:33:40) zoom in -24.3690 -16.0946
+\i (01:33:40) trapsize 527
+\i (01:33:40) zoom in 1 
+\i (01:33:40) setwindow pcb
+\i (01:33:40) zoom in -24.3690 -16.0946
+\i (01:33:40) trapsize 263
+\i (01:33:41) zoom out 1 
+\i (01:33:41) setwindow pcb
+\i (01:33:41) zoom out -24.6271 -15.7575
+\i (01:33:41) trapsize 527
+\i (01:33:41) zoom out 1 
+\i (01:33:41) setwindow pcb
+\i (01:33:41) zoom out -24.6271 -15.7575
+\i (01:33:41) trapsize 1053
+\i (01:33:41) zoom out 1 
+\i (01:33:41) setwindow pcb
+\i (01:33:41) zoom out -24.6271 -15.7575
+\i (01:33:41) trapsize 2107
+\i (01:33:43) drc update 
+\t (01:33:43) Performing DRC...
+\t (01:33:43) Multithreaded DRC update (8 threads).
+\t (01:33:43) DRC done; 2 errors detected.
+\i (01:33:43) generaledit 
+\i (01:33:48) reports 'Design Rules Check (DRC) Report' 
+\i (01:33:48) reports "Design Rules Check (DRC) Report"
+\i (01:33:48) generaledit 
+\i (01:33:58) pick grid -14.5989 -13.0608
+\t (01:33:58) last pick:  -14.6050  -13.0556
+\i (01:33:58) zoom in 1 
+\i (01:33:58) setwindow pcb
+\i (01:33:58) zoom in -14.5568 -11.5018
+\i (01:33:58) trapsize 1053
+\i (01:33:58) zoom in 1 
+\i (01:33:58) setwindow pcb
+\i (01:33:58) zoom in -14.5357 -11.4807
+\i (01:33:58) trapsize 527
+\i (01:33:58) zoom in 1 
+\i (01:33:58) setwindow pcb
+\i (01:33:58) zoom in -14.5251 -11.4807
+\i (01:33:58) trapsize 263
+\i (01:33:59) zoom in 1 
+\i (01:33:59) setwindow pcb
+\i (01:33:59) zoom in -14.4882 -11.4965
+\i (01:33:59) trapsize 132
+\i (01:33:59) zoom out 1 
+\i (01:33:59) setwindow pcb
+\i (01:33:59) zoom out -14.3829 -11.4965
+\i (01:33:59) trapsize 263
+\i (01:33:59) zoom out 1 
+\i (01:33:59) setwindow pcb
+\i (01:33:59) zoom out -14.3828 -11.4965
+\i (01:33:59) trapsize 527
+\i (01:35:13) drc update 
+\t (01:35:13) Performing DRC...
+\t (01:35:13) Multithreaded DRC update (8 threads).
+\t (01:35:13) No DRC errors detected.
+\i (01:35:13) generaledit 
+\i (01:35:15) pick grid -17.0901 -16.2999
+\t (01:35:15) last pick:  -17.0942  -16.3068
+\i (01:35:15) zoom in 1 
+\i (01:35:15) setwindow pcb
+\i (01:35:15) zoom in -17.0690 -16.1103
+\i (01:35:15) trapsize 263
+\i (01:35:15) zoom in 1 
+\i (01:35:15) setwindow pcb
+\i (01:35:15) zoom in -17.0690 -16.1103
+\i (01:35:15) trapsize 132
+\i (01:35:16) zoom out 1 
+\i (01:35:16) setwindow pcb
+\i (01:35:16) zoom out -17.0585 -16.1208
+\i (01:35:16) trapsize 263
+\i (01:35:16) zoom out 1 
+\i (01:35:16) setwindow pcb
+\i (01:35:16) zoom out -17.0531 -16.1260
+\i (01:35:16) trapsize 527
+\i (01:38:14) setwindow text
+\i (01:38:14) close 
+\i (01:38:16) setwindow pcb
+\i (01:38:16) pick grid -17.0111 -16.3157
+\t (01:38:16) last pick:  -17.0180  -16.3068
+\i (01:38:17) save 
+\i (01:38:18) fillin yes 
+\i (01:38:19) generaledit 
+\i (01:39:37) xdehilite 
+\i (01:39:37) xNet Mux_Dataen 
+\i (01:39:37) xname_flush 
+\t (01:39:37) Net "Mux_Dataen" dehighlighted.
+\i (01:39:37) done 
+\i (01:39:37) generaledit 
+\i (01:39:42) xhilite 
+\i (01:39:42) xNet P1_A2 
+\i (01:39:42) xname_flush 
+\i (01:39:42) trapsize 2293
+\t (01:39:42) Net "P1_A2" highlighted.
+\i (01:39:42) done 
+\i (01:39:42) generaledit 
+\i (01:39:43) xdehilite 
+\i (01:39:43) xNet P1_A2 
+\i (01:39:43) xname_flush 
+\t (01:39:43) Net "P1_A2" dehighlighted.
+\i (01:39:43) done 
+\i (01:39:44) generaledit 
+\i (01:39:44) xhilite 
+\i (01:39:44) xNet P1_A3 
+\i (01:39:44) xname_flush 
+\i (01:39:44) trapsize 2877
+\t (01:39:44) Net "P1_A3" highlighted.
+\i (01:39:44) done 
+\i (01:39:44) generaledit 
+\i (01:39:49) pick grid -53.1472 -43.9018
+\t (01:39:49) last pick:  -53.1368  -43.8912
+\i (01:39:49) zoom in 1 
+\i (01:39:49) setwindow pcb
+\i (01:39:49) zoom in -53.1472 -43.9018
+\i (01:39:49) trapsize 1439
+\i (01:39:49) zoom in 1 
+\i (01:39:49) setwindow pcb
+\i (01:39:49) zoom in -53.1471 -43.9018
+\i (01:39:49) trapsize 719
+\i (01:39:49) zoom in 1 
+\i (01:39:49) setwindow pcb
+\i (01:39:49) zoom in -53.1471 -43.9017
+\i (01:39:49) trapsize 360
+\i (01:39:51) zoom out 1 
+\i (01:39:51) setwindow pcb
+\i (01:39:51) zoom out -55.6574 -44.6642
+\i (01:39:51) trapsize 719
+\i (01:39:51) zoom out 1 
+\i (01:39:51) setwindow pcb
+\i (01:39:51) zoom out -55.6430 -44.6498
+\i (01:39:51) trapsize 1439
+\i (01:39:52) roam start
+\i (01:39:52) roam x -48
+\i (01:39:52) roam x -112
+\i (01:39:52) roam y -16
+\i (01:39:52) roam x -80
+\i (01:39:52) roam x -16
+\i (01:39:52) roam x -48
+\i (01:39:52) roam x -48
+\i (01:39:52) roam y -16
+\i (01:39:52) roam x -64
+\i (01:39:52) roam y -32
+\i (01:39:52) roam x -16
+\i (01:39:52) roam y -16
+\i (01:39:52) roam x -32
+\i (01:39:52) roam y -16
+\i (01:39:53) roam x -48
+\i (01:39:53) roam y -16
+\i (01:39:53) roam x -96
+\i (01:39:53) roam x -32
+\i (01:39:53) roam x -32
+\i (01:39:53) roam y 16
+\i (01:39:53) roam y 16
+\i (01:39:53) roam x -32
+\i (01:39:53) roam x -48
+\i (01:39:53) roam end
+\i (01:39:54) zoom in 1 
+\i (01:39:54) setwindow pcb
+\i (01:39:54) zoom in -78.4530 -41.3413
+\i (01:39:54) trapsize 719
+\i (01:39:54) zoom in 1 
+\i (01:39:54) setwindow pcb
+\i (01:39:54) zoom in -78.3091 -40.8809
+\i (01:39:54) trapsize 360
+\i (01:39:54) zoom in 1 
+\i (01:39:54) setwindow pcb
+\i (01:39:54) zoom in -78.3019 -40.8737
+\i (01:39:54) trapsize 180
+\i (01:39:55) roam start
+\i (01:39:55) roam x 64
+\i (01:39:55) roam y -48
+\i (01:39:55) roam x 112
+\i (01:39:55) roam y -48
+\i (01:39:55) roam x 96
+\i (01:39:55) roam y -32
+\i (01:39:55) roam x 64
+\i (01:39:55) roam y -16
+\i (01:39:55) roam x 64
+\i (01:39:55) roam x 32
+\i (01:39:55) roam y -16
+\i (01:39:55) roam x 16
+\i (01:39:55) roam end
+\i (01:39:56) pick grid -75.5866 -39.1582
+\t (01:39:56) last pick:  -75.5904  -39.1668
+\i (01:39:57) delete 
+\i (01:39:58) pick grid -75.1802 -39.8164
+\t (01:39:58) last pick:  -75.1840  -39.8272
+\t (01:39:58) Connect Line "P1_A3, Etch/3-Sig"
+\i (01:39:59) prepopup -75.4355 -39.2482
+\i (01:40:00) done 
+\i (01:40:00) generaledit 
+\i (01:40:01) roam start
+\i (01:40:01) roam x 80
+\i (01:40:01) roam x 16
+\i (01:40:01) roam x 128
+\i (01:40:01) roam x 80
+\i (01:40:01) roam x 144
+\i (01:40:01) roam x 96
+\i (01:40:01) roam x 32
+\i (01:40:01) roam y 32
+\i (01:40:01) roam x 48
+\i (01:40:01) roam y 16
+\i (01:40:01) roam x 80
+\i (01:40:01) roam y 48
+\i (01:40:01) roam x 64
+\i (01:40:01) roam y 16
+\i (01:40:01) roam x 112
+\i (01:40:01) roam y 64
+\i (01:40:01) roam x 32
+\i (01:40:01) roam y 32
+\i (01:40:01) roam x 32
+\i (01:40:01) roam y 32
+\i (01:40:01) roam x 16
+\i (01:40:01) roam y 32
+\i (01:40:01) roam y 48
+\i (01:40:01) roam x 16
+\i (01:40:01) roam y 32
+\i (01:40:01) roam x 16
+\i (01:40:01) roam y 64
+\i (01:40:01) roam x 32
+\i (01:40:01) roam y 64
+\i (01:40:02) roam x 96
+\i (01:40:02) roam y 32
+\i (01:40:02) roam x 64
+\i (01:40:02) roam x 96
+\i (01:40:02) roam x 96
+\i (01:40:02) roam x 96
+\i (01:40:02) roam x 32
+\i (01:40:02) roam end
+\i (01:40:02) zoom out 1 
+\i (01:40:02) setwindow pcb
+\i (01:40:02) zoom out -70.2062 -41.0968
+\i (01:40:02) trapsize 360
+\i (01:40:02) zoom out 1 
+\i (01:40:02) setwindow pcb
+\i (01:40:02) zoom out -70.2207 -41.0464
+\i (01:40:02) trapsize 719
+\i (01:40:03) zoom out 1 
+\i (01:40:03) setwindow pcb
+\i (01:40:03) zoom out -69.0410 -41.4491
+\i (01:40:03) trapsize 1439
+\i (01:40:04) zoom in 1 
+\i (01:40:04) setwindow pcb
+\i (01:40:04) zoom in -52.8137 -43.7796
+\i (01:40:04) trapsize 719
+\i (01:40:05) zoom in 1 
+\i (01:40:05) setwindow pcb
+\i (01:40:05) zoom in -54.1947 -44.3118
+\i (01:40:05) trapsize 360
+\i (01:40:05) zoom in 1 
+\i (01:40:05) setwindow pcb
+\i (01:40:05) zoom in -54.1947 -44.3118
+\i (01:40:05) trapsize 180
+\i (01:40:06) zoom in 1 
+\i (01:40:06) setwindow pcb
+\i (01:40:06) zoom in -54.0472 -44.3441
+\i (01:40:06) trapsize 90
+\i (01:40:07) delete 
+\i (01:40:08) pick grid -54.2792 -44.3495
+\t (01:40:08) last pick:  -54.2798  -44.3484
+\t (01:40:08) Connect Line "P1_A3, Etch/Top"
+\i (01:40:09) pick grid -54.4032 -44.5905
+\t (01:40:09) last pick:  -54.4068  -44.6024
+\t (01:40:09) Via "P1_A3, Via16c8, (-54.4659 -44.4809)"
+\i (01:40:09) pick grid -54.6640 -44.6804
+\t (01:40:09) last pick:  -54.6608  -44.6786
+\t (01:40:09) Connect Line "P1_A3, Etch/6-Sig"
+\i (01:40:10) prepopup -54.8978 -44.4448
+\i (01:40:10) done 
+\i (01:40:10) generaledit 
+\i (01:40:10) zoom out 1 
+\i (01:40:10) setwindow pcb
+\i (01:40:10) zoom out -54.9229 -44.4125
+\i (01:40:10) trapsize 180
+\i (01:40:10) zoom out 1 
+\i (01:40:10) setwindow pcb
+\i (01:40:10) zoom out -54.9229 -44.4124
+\i (01:40:10) trapsize 360
+\i (01:40:10) zoom out 1 
+\i (01:40:10) setwindow pcb
+\i (01:40:10) zoom out -54.9229 -44.4124
+\i (01:40:10) trapsize 719
+\i (01:40:10) zoom out 1 
+\i (01:40:10) setwindow pcb
+\i (01:40:10) zoom out -54.9229 -44.4124
+\i (01:40:10) trapsize 1439
+\i (01:40:10) zoom out 1 
+\i (01:40:10) setwindow pcb
+\i (01:40:10) zoom out -54.9230 -44.4124
+\i (01:40:10) trapsize 2877
+\i (01:40:12) roam start
+\i (01:40:12) roam x 48
+\i (01:40:12) roam y -64
+\i (01:40:12) roam x 272
+\i (01:40:12) roam y -176
+\i (01:40:12) roam x 160
+\i (01:40:12) roam y -96
+\i (01:40:12) roam x 96
+\i (01:40:12) roam y -64
+\i (01:40:12) roam x 80
+\i (01:40:12) roam y -48
+\i (01:40:12) roam x 64
+\i (01:40:12) roam y -32
+\i (01:40:12) roam x 32
+\i (01:40:12) roam y -32
+\i (01:40:12) roam x -32
+\i (01:40:12) roam x -16
+\i (01:40:12) roam y 16
+\i (01:40:12) roam x -32
+\i (01:40:12) roam y 16
+\i (01:40:13) roam end
+\i (01:40:13) zoom in 1 
+\i (01:40:13) setwindow pcb
+\i (01:40:13) zoom in -7.3578 -16.4537
+\i (01:40:13) trapsize 1439
+\i (01:40:13) zoom in 1 
+\i (01:40:13) setwindow pcb
+\i (01:40:13) zoom in -7.3577 -16.4536
+\i (01:40:13) trapsize 719
+\i (01:40:14) zoom in 1 
+\i (01:40:14) setwindow pcb
+\i (01:40:14) zoom in -12.1626 -15.0869
+\i (01:40:14) trapsize 360
+\i (01:40:14) zoom in 1 
+\i (01:40:14) setwindow pcb
+\i (01:40:14) zoom in -12.1626 -15.0941
+\i (01:40:14) trapsize 180
+\i (01:40:16) zoom out 1 
+\i (01:40:16) setwindow pcb
+\i (01:40:16) zoom out -11.7094 -15.7234
+\i (01:40:16) trapsize 360
+\i (01:40:19) delete 
+\i (01:40:21) pick grid -11.8173 -16.0975
+\t (01:40:21) last pick:  -11.8110  -16.1036
+\t (01:40:21) Via "P1_A3, Via16c8, (-11.9420 -16.0996)"
+\i (01:40:21) pick grid -11.9037 -15.8386
+\t (01:40:21) last pick:  -11.9126  -15.8496
+\t (01:40:21) Connect Line "P1_A3, Etch/Top"
+\i (01:40:22) prepopup -11.7023 -15.8817
+\i (01:40:22) done 
+\i (01:40:22) generaledit 
+\i (01:40:22) pick grid -11.8461 -16.2054
+\t (01:40:22) last pick:  -11.8364  -16.2052
+\i (01:40:23) zoom out 1 
+\i (01:40:23) setwindow pcb
+\i (01:40:23) zoom out -11.8461 -16.2054
+\i (01:40:23) trapsize 719
+\i (01:40:23) zoom out 1 
+\i (01:40:23) setwindow pcb
+\i (01:40:23) zoom out -11.8461 -16.2054
+\i (01:40:23) trapsize 1439
+\i (01:40:23) zoom out 1 
+\i (01:40:23) setwindow pcb
+\i (01:40:23) zoom out -11.8461 -16.2054
+\i (01:40:23) trapsize 2877
+\i (01:40:23) zoom out 1 
+\i (01:40:23) setwindow pcb
+\i (01:40:23) zoom out -11.8462 -16.2054
+\i (01:40:23) trapsize 5754
+\i (01:40:24) xdehilite 
+\i (01:40:24) xNet P1_A3 
+\i (01:40:24) xname_flush 
+\t (01:40:24) Net "P1_A3" dehighlighted.
+\i (01:40:24) done 
+\i (01:40:24) xhilite 
+\i (01:40:24) xNet P1_A4 
+\i (01:40:24) xname_flush 
+\i (01:40:24) trapsize 2859
+\t (01:40:24) Net "P1_A4" highlighted.
+\i (01:40:24) done 
+\i (01:40:24) generaledit 
+\i (01:40:28) pick grid -72.8665 -40.1174
+\t (01:40:28) last pick:  -72.8726  -40.1066
+\i (01:40:30) setwindow form.find
+\i (01:40:30) FORM find all_off  
+\i (01:40:32) FORM find all_on  
+\i (01:40:33) setwindow pcb
+\i (01:40:33) pick grid -5.5655 -66.3631
+\t (01:40:33) last pick:  -5.5626  -66.3702
+\i (01:40:35) setwindow form.find
+\i (01:40:35) FORM find all_off  
+\i (01:40:36) setwindow pcb
+\i (01:40:36) zoom in 1 
+\i (01:40:36) setwindow pcb
+\i (01:40:36) zoom in -74.1244 -39.4312
+\i (01:40:36) trapsize 1430
+\i (01:40:36) zoom in 1 
+\i (01:40:36) setwindow pcb
+\i (01:40:36) zoom in -74.1244 -39.4026
+\i (01:40:36) trapsize 715
+\i (01:40:37) zoom in 1 
+\i (01:40:37) setwindow pcb
+\i (01:40:37) zoom in -74.1244 -39.3597
+\i (01:40:37) trapsize 357
+\i (01:40:38) roam start
+\i (01:40:38) roam x -96
+\i (01:40:38) roam x -160
+\i (01:40:38) roam y 32
+\i (01:40:38) roam x -144
+\i (01:40:38) roam y 16
+\i (01:40:38) roam x -96
+\i (01:40:38) roam x -80
+\i (01:40:38) roam y 16
+\i (01:40:38) roam end
+\i (01:40:40) zoom in 1 
+\i (01:40:40) setwindow pcb
+\i (01:40:40) zoom in -76.3118 -39.9358
+\i (01:40:40) trapsize 179
+\i (01:40:40) zoom in 1 
+\i (01:40:40) setwindow pcb
+\i (01:40:40) zoom in -76.3225 -39.9357
+\i (01:40:40) trapsize 89
+\i (01:40:41) delete 
+\i (01:40:43) pick grid -76.2438 -40.0679
+\t (01:40:43) last pick:  -76.2508  -40.0558
+\t (01:40:43) Connect Line "P1_A4, Etch/3-Sig"
+\i (01:40:44) prepopup -76.2581 -39.4014
+\i (01:40:44) done 
+\i (01:40:44) generaledit 
+\i (01:40:45) zoom out 1 
+\i (01:40:45) setwindow pcb
+\i (01:40:45) zoom out -76.2671 -39.4211
+\i (01:40:45) trapsize 179
+\i (01:40:45) zoom out 1 
+\i (01:40:45) setwindow pcb
+\i (01:40:45) zoom out -76.2491 -39.4496
+\i (01:40:45) trapsize 357
+\i (01:40:45) zoom out 1 
+\i (01:40:45) setwindow pcb
+\i (01:40:45) zoom out -76.2207 -39.4854
+\i (01:40:45) trapsize 715
+\i (01:40:45) zoom out 1 
+\i (01:40:45) setwindow pcb
+\i (01:40:45) zoom out -76.1778 -39.5139
+\i (01:40:45) trapsize 1429
+\i (01:40:45) zoom out 1 
+\i (01:40:45) setwindow pcb
+\i (01:40:45) zoom out -75.7775 -41.7153
+\i (01:40:45) trapsize 2859
+\i (01:40:45) zoom out 1 
+\i (01:40:45) setwindow pcb
+\i (01:40:45) zoom out -75.7776 -42.2299
+\i (01:40:45) trapsize 5718
+\i (01:40:46) zoom in 1 
+\i (01:40:46) setwindow pcb
+\i (01:40:46) zoom in -42.7277 -39.8284
+\i (01:40:46) trapsize 2859
+\i (01:40:46) zoom in 1 
+\i (01:40:46) setwindow pcb
+\i (01:40:46) zoom in -43.0136 -39.8855
+\i (01:40:46) trapsize 1429
+\i (01:40:46) zoom in 1 
+\i (01:40:46) setwindow pcb
+\i (01:40:46) zoom in -43.2709 -39.9999
+\i (01:40:46) trapsize 715
+\i (01:40:46) zoom out 1 
+\i (01:40:46) setwindow pcb
+\i (01:40:46) zoom out -45.6867 -42.2156
+\i (01:40:46) trapsize 1429
+\i (01:40:46) zoom out 1 
+\i (01:40:46) setwindow pcb
+\i (01:40:46) zoom out -45.6867 -42.2155
+\i (01:40:46) trapsize 2859
+\i (01:40:48) zoom in 1 
+\i (01:40:48) setwindow pcb
+\i (01:40:48) zoom in -57.6373 -45.1317
+\i (01:40:48) trapsize 1429
+\i (01:40:48) zoom in 1 
+\i (01:40:48) setwindow pcb
+\i (01:40:48) zoom in -56.9797 -45.1317
+\i (01:40:48) trapsize 715
+\i (01:40:48) zoom in 1 
+\i (01:40:48) setwindow pcb
+\i (01:40:48) zoom in -55.7074 -45.3318
+\i (01:40:48) trapsize 357
+\i (01:40:49) zoom in 1 
+\i (01:40:49) setwindow pcb
+\i (01:40:49) zoom in -55.0499 -45.2103
+\i (01:40:49) trapsize 179
+\i (01:40:50) delete 
+\i (01:40:51) pick grid -55.1964 -45.2818
+\t (01:40:51) last pick:  -55.1942  -45.2882
+\t (01:40:51) Connect Line "P1_A4, Etch/Top"
+\i (01:40:52) pick grid -55.3393 -45.5140
+\t (01:40:52) last pick:  -55.3466  -45.5168
+\t (01:40:52) Via "P1_A4, Via16c8, (-55.4659 -45.4809)"
+\i (01:40:52) pick grid -55.7217 -45.1531
+\t (01:40:52) last pick:  -55.7276  -45.1612
+\t (01:40:52) Connect Line "P1_A4, Etch/6-Sig"
+\i (01:40:53) prepopup -55.8218 -45.3818
+\i (01:40:54) done 
+\i (01:40:54) generaledit 
+\i (01:40:56) zoom out 1 
+\i (01:40:56) setwindow pcb
+\i (01:40:56) zoom out -55.8253 -45.3604
+\i (01:40:56) trapsize 357
+\i (01:40:56) zoom out 1 
+\i (01:40:56) setwindow pcb
+\i (01:40:56) zoom out -55.8254 -45.3603
+\i (01:40:56) trapsize 715
+\i (01:40:57) zoom out 1 
+\i (01:40:57) setwindow pcb
+\i (01:40:57) zoom out -53.9672 -43.9308
+\i (01:40:57) trapsize 1429
+\i (01:40:57) roam start
+\i (01:40:57) roam x 64
+\i (01:40:57) roam y -64
+\i (01:40:57) roam x 176
+\i (01:40:57) roam y -128
+\i (01:40:58) roam x 176
+\i (01:40:58) roam y -128
+\i (01:40:58) roam x 80
+\i (01:40:58) roam y -64
+\i (01:40:58) roam x 112
+\i (01:40:58) roam y -80
+\i (01:40:58) roam x 48
+\i (01:40:58) roam y -16
+\i (01:40:58) roam x 32
+\i (01:40:58) roam y -16
+\i (01:40:58) roam x 48
+\i (01:40:58) roam y -32
+\i (01:40:58) roam x 128
+\i (01:40:58) roam y -48
+\i (01:40:58) roam x 96
+\i (01:40:58) roam y -32
+\i (01:40:58) roam x 64
+\i (01:40:58) roam y -32
+\i (01:40:58) roam x 32
+\i (01:40:58) roam y -16
+\i (01:40:58) roam x 16
+\i (01:40:58) roam x 32
+\i (01:40:58) roam y -32
+\i (01:40:58) roam x 32
+\i (01:40:58) roam y -48
+\i (01:40:58) roam x 48
+\i (01:40:58) roam y -48
+\i (01:40:58) roam y -16
+\i (01:40:58) roam x 16
+\i (01:40:58) roam y -16
+\i (01:40:59) roam end
+\i (01:41:00) zoom in 1 
+\i (01:41:00) setwindow pcb
+\i (01:41:00) zoom in -12.0141 -16.2858
+\i (01:41:00) trapsize 715
+\i (01:41:00) zoom in 1 
+\i (01:41:00) setwindow pcb
+\i (01:41:00) zoom in -12.0284 -16.2858
+\i (01:41:00) trapsize 357
+\i (01:41:01) roam start
+\i (01:41:02) roam x 16
+\i (01:41:02) roam y -16
+\i (01:41:02) roam x 16
+\i (01:41:02) roam y -16
+\i (01:41:02) roam end
+\i (01:41:02) zoom in 1 
+\i (01:41:02) setwindow pcb
+\i (01:41:02) zoom in -11.7508 -15.6292
+\i (01:41:02) trapsize 179
+\i (01:41:02) zoom in 1 
+\i (01:41:02) setwindow pcb
+\i (01:41:02) zoom in -11.7508 -15.6292
+\i (01:41:02) trapsize 89
+\i (01:41:03) zoom out 1 
+\i (01:41:03) setwindow pcb
+\i (01:41:03) zoom out -11.7561 -15.6327
+\i (01:41:03) trapsize 179
+\i (01:41:04) delete 
+\i (01:41:04) pick grid -12.3459 -16.9943
+\t (01:41:04) last pick:  -12.3444  -16.9926
+\t (01:41:04) Via "P1_A4, Via16c8, (-12.4420 -16.8656)"
+\i (01:41:05) pick grid -12.4138 -16.6262
+\t (01:41:05) last pick:  -12.4206  -16.6370
+\t (01:41:05) Connect Line "P1_A4, Etch/Top"
+\i (01:41:05) prepopup -12.1207 -16.2795
+\i (01:41:06) done 
+\i (01:41:06) generaledit 
+\i (01:41:06) pick grid -12.1422 -16.3331
+\t (01:41:06) last pick:  -12.1412  -16.3322
+\i (01:41:08) xdehilite 
+\i (01:41:08) xNet P1_A4 
+\i (01:41:08) xname_flush 
+\t (01:41:08) Net "P1_A4" dehighlighted.
+\i (01:41:08) done 
+\i (01:41:08) generaledit 
+\i (01:41:10) xhilite 
+\i (01:41:10) xNet P1_A5 
+\i (01:41:10) xname_flush 
+\i (01:41:10) trapsize 2293
+\t (01:41:10) Net "P1_A5" highlighted.
+\i (01:41:10) done 
+\i (01:41:10) generaledit 
+\i (01:41:12) xdehilite 
+\i (01:41:12) xNet P1_A5 
+\i (01:41:12) xname_flush 
+\t (01:41:12) Net "P1_A5" dehighlighted.
+\i (01:41:12) done 
+\i (01:41:12) xhilite 
+\i (01:41:12) xNet P1_A4 
+\i (01:41:12) xname_flush 
+\i (01:41:12) trapsize 2288
+\t (01:41:12) Net "P1_A4" highlighted.
+\i (01:41:12) done 
+\i (01:41:12) generaledit 
+\i (01:41:13) xdehilite 
+\i (01:41:13) xNet P1_A4 
+\i (01:41:13) xname_flush 
+\t (01:41:13) Net "P1_A4" dehighlighted.
+\i (01:41:13) done 
+\i (01:41:13) xhilite 
+\i (01:41:13) xNet P1_A3 
+\i (01:41:13) xname_flush 
+\i (01:41:13) trapsize 2288
+\t (01:41:13) Net "P1_A3" highlighted.
+\i (01:41:14) done 
+\i (01:41:14) generaledit 
+\i (01:41:14) xdehilite 
+\i (01:41:14) xNet P1_A3 
+\i (01:41:14) xname_flush 
+\t (01:41:14) Net "P1_A3" dehighlighted.
+\i (01:41:14) done 
+\i (01:41:15) generaledit 
+\i (01:41:15) xhilite 
+\i (01:41:15) xNet P1_A2 
+\i (01:41:15) xname_flush 
+\i (01:41:15) trapsize 2293
+\t (01:41:15) Net "P1_A2" highlighted.
+\i (01:41:15) done 
+\i (01:41:15) generaledit 
+\i (01:41:17) xdehilite 
+\i (01:41:17) xNet P1_A2 
+\i (01:41:17) xname_flush 
+\t (01:41:17) Net "P1_A2" dehighlighted.
+\i (01:41:17) done 
+\i (01:41:17) generaledit 
+\i (01:41:19) xhilite 
+\i (01:41:19) xNet P1_B9 
+\i (01:41:19) xname_flush 
+\i (01:41:19) trapsize 1959
+\t (01:41:19) Net "P1_B9" highlighted.
+\i (01:41:19) done 
+\i (01:41:19) generaledit 
+\i (01:41:20) xdehilite 
+\i (01:41:20) xNet P1_B9 
+\i (01:41:20) xname_flush 
+\t (01:41:20) Net "P1_B9" dehighlighted.
+\i (01:41:20) done 
+\i (01:41:20) generaledit 
+\i (01:41:21) xhilite 
+\i (01:41:21) xNet P1_A6 
+\i (01:41:21) xname_flush 
+\i (01:41:21) trapsize 2822
+\t (01:41:21) Net "P1_A6" highlighted.
+\i (01:41:21) done 
+\i (01:41:21) generaledit 
+\i (01:41:25) roam start
+\i (01:41:25) roam x -112
+\i (01:41:25) roam x -48
+\i (01:41:25) roam x -16
+\i (01:41:25) roam end
+\i (01:41:25) zoom in 1 
+\i (01:41:25) setwindow pcb
+\i (01:41:25) zoom in -80.7643 -39.3945
+\i (01:41:25) trapsize 1411
+\i (01:41:25) zoom in 1 
+\i (01:41:25) setwindow pcb
+\i (01:41:25) zoom in -80.7643 -39.3945
+\i (01:41:25) trapsize 705
+\i (01:41:25) zoom in 1 
+\i (01:41:25) setwindow pcb
+\i (01:41:25) zoom in -80.7502 -39.3803
+\i (01:41:25) trapsize 353
+\i (01:41:26) zoom in 1 
+\i (01:41:26) setwindow pcb
+\i (01:41:26) zoom in -79.9037 -39.3592
+\i (01:41:26) trapsize 176
+\i (01:41:26) zoom in 1 
+\i (01:41:26) setwindow pcb
+\i (01:41:26) zoom in -79.9037 -39.3450
+\i (01:41:26) trapsize 88
+\i (01:41:26) zoom out 1 
+\i (01:41:26) setwindow pcb
+\i (01:41:26) zoom out -79.9037 -39.3432
+\i (01:41:26) trapsize 176
+\i (01:41:27) roam start
+\i (01:41:27) roam x 32
+\i (01:41:27) roam y -64
+\i (01:41:27) roam x 32
+\i (01:41:27) roam y -48
+\i (01:41:27) roam x 16
+\i (01:41:27) roam y -32
+\i (01:41:27) roam x 16
+\i (01:41:27) roam y -16
+\i (01:41:27) roam x 48
+\i (01:41:27) roam y -48
+\i (01:41:27) roam x 48
+\i (01:41:27) roam y -48
+\i (01:41:27) roam x 32
+\i (01:41:27) roam y -32
+\i (01:41:27) roam x 16
+\i (01:41:27) roam y -16
+\i (01:41:27) roam x 32
+\i (01:41:27) roam y -16
+\i (01:41:27) roam x 48
+\i (01:41:27) roam y -16
+\i (01:41:27) roam x 32
+\i (01:41:27) roam y -16
+\i (01:41:27) roam x 48
+\i (01:41:27) roam x 32
+\i (01:41:27) roam x 64
+\i (01:41:27) roam end
+\i (01:41:29) delete 
+\i (01:41:31) pick grid -79.3366 -37.7844
+\t (01:41:31) last pick:  -79.3242  -37.7952
+\t (01:41:31) Connect Line "P1_A6, Etch/3-Sig"
+\i (01:41:32) prepopup -79.3507 -38.1195
+\i (01:41:33) done 
+\i (01:41:33) generaledit 
+\i (01:41:33) zoom out 1 
+\i (01:41:33) setwindow pcb
+\i (01:41:33) zoom out -79.3472 -38.1230
+\i (01:41:33) trapsize 353
+\i (01:41:33) zoom out 1 
+\i (01:41:33) setwindow pcb
+\i (01:41:33) zoom out -79.3471 -38.1231
+\i (01:41:33) trapsize 705
+\i (01:41:33) zoom out 1 
+\i (01:41:33) setwindow pcb
+\i (01:41:33) zoom out -79.3471 -38.1230
+\i (01:41:33) trapsize 1411
+\i (01:41:33) zoom out 1 
+\i (01:41:33) setwindow pcb
+\i (01:41:33) zoom out -79.3472 -38.1230
+\i (01:41:33) trapsize 2822
+\i (01:41:34) zoom in 1 
+\i (01:41:34) setwindow pcb
+\i (01:41:34) zoom in -57.8466 -43.9355
+\i (01:41:34) trapsize 1411
+\i (01:41:34) zoom in 1 
+\i (01:41:34) setwindow pcb
+\i (01:41:34) zoom in -57.8466 -43.9354
+\i (01:41:34) trapsize 705
+\i (01:41:35) zoom in 1 
+\i (01:41:35) setwindow pcb
+\i (01:41:35) zoom in -52.6972 -44.5844
+\i (01:41:35) trapsize 353
+\i (01:41:35) zoom in 1 
+\i (01:41:35) setwindow pcb
+\i (01:41:35) zoom in -52.6972 -44.5844
+\i (01:41:35) trapsize 176
+\i (01:41:37) delete 
+\i (01:41:38) pick grid -53.2191 -44.2775
+\t (01:41:38) last pick:  -53.2130  -44.2722
+\t (01:41:38) Connect Line "P1_A6, Etch/Top"
+\i (01:41:38) pick grid -53.3461 -44.5314
+\t (01:41:38) last pick:  -53.3400  -44.5262
+\t (01:41:38) Via "P1_A6, Via16c8, (-53.4659 -44.4809)"
+\i (01:41:40) pick grid -53.6917 -44.7219
+\t (01:41:40) last pick:  -53.6956  -44.7294
+\t (01:41:40) Connect Line "P1_A6, Etch/6-Sig"
+\i (01:41:40) prepopup -53.0534 -44.4115
+\i (01:41:40) done 
+\i (01:41:40) generaledit 
+\i (01:41:41) zoom out 1 
+\i (01:41:41) setwindow pcb
+\i (01:41:41) zoom out -53.0534 -44.4115
+\i (01:41:41) trapsize 353
+\i (01:41:41) zoom out 1 
+\i (01:41:41) setwindow pcb
+\i (01:41:41) zoom out -53.0533 -44.4116
+\i (01:41:41) trapsize 705
+\i (01:41:41) zoom out 1 
+\i (01:41:41) setwindow pcb
+\i (01:41:41) zoom out -53.0533 -44.4115
+\i (01:41:41) trapsize 1411
+\i (01:41:41) zoom out 1 
+\i (01:41:41) setwindow pcb
+\i (01:41:41) zoom out -53.0815 -44.4115
+\i (01:41:41) trapsize 2822
+\i (01:41:42) roam start
+\i (01:41:42) roam x 80
+\i (01:41:42) roam y -64
+\i (01:41:42) roam x 192
+\i (01:41:42) roam y -128
+\i (01:41:42) roam x 160
+\i (01:41:42) roam y -128
+\i (01:41:42) roam x 96
+\i (01:41:42) roam y -96
+\i (01:41:42) roam x 64
+\i (01:41:42) roam y -48
+\i (01:41:42) roam x 48
+\i (01:41:42) roam y -48
+\i (01:41:42) roam x 64
+\i (01:41:42) roam y -16
+\i (01:41:42) roam x 32
+\i (01:41:42) roam y -16
+\i (01:41:42) roam x 48
+\i (01:41:42) roam y -16
+\i (01:41:42) roam y 16
+\i (01:41:42) roam end
+\i (01:41:43) zoom in 1 
+\i (01:41:43) setwindow pcb
+\i (01:41:43) zoom in -12.8733 -16.5479
+\i (01:41:43) trapsize 1411
+\i (01:41:43) zoom in 1 
+\i (01:41:43) setwindow pcb
+\i (01:41:43) zoom in -12.8733 -16.5479
+\i (01:41:43) trapsize 705
+\i (01:41:43) zoom in 1 
+\i (01:41:43) setwindow pcb
+\i (01:41:43) zoom in -12.8733 -16.5479
+\i (01:41:43) trapsize 353
+\i (01:41:45) delete 
+\i (01:41:47) pick grid -14.2206 -16.9781
+\t (01:41:47) last pick:  -14.2240  -16.9672
+\t (01:41:47) Via "P1_A6, Via16c8, (-14.2880 -16.8656)"
+\i (01:41:47) pick grid -14.2770 -16.5479
+\t (01:41:47) last pick:  -14.2748  -16.5354
+\t (01:41:47) Connect Line "P1_A6, Etch/Top"
+\i (01:41:47) prepopup -13.6140 -16.2516
+\i (01:41:48) done 
+\i (01:41:48) generaledit 
+\i (01:41:48) zoom out 1 
+\i (01:41:48) setwindow pcb
+\i (01:41:48) zoom out -13.7198 -16.1881
+\i (01:41:48) trapsize 705
+\i (01:41:48) zoom out 1 
+\i (01:41:48) setwindow pcb
+\i (01:41:48) zoom out -13.7197 -16.1881
+\i (01:41:48) trapsize 1411
+\i (01:41:48) zoom out 1 
+\i (01:41:48) setwindow pcb
+\i (01:41:48) zoom out -13.7197 -16.1881
+\i (01:41:48) trapsize 2822
+\i (01:41:48) zoom out 1 
+\i (01:41:48) setwindow pcb
+\i (01:41:48) zoom out -13.7198 -16.1881
+\i (01:41:48) trapsize 5643
+\i (01:41:48) zoom out 1 
+\i (01:41:48) setwindow pcb
+\i (01:41:48) zoom out -13.7198 -16.1880
+\i (01:41:48) trapsize 11286
+\i (01:41:51) drc update 
+\t (01:41:51) Performing DRC...
+\t (01:41:51) Multithreaded DRC update (8 threads).
+\t (01:41:51) No DRC errors detected.
+\i (01:41:51) generaledit 
+\i (01:41:53) save 
+\i (01:41:53) fillin yes 
+\i (01:41:54) generaledit 
+\i (01:41:54) pick grid 46.0982 -19.5739
+\t (01:41:54) last pick:  46.1010  -19.5834
+\i (01:41:55) zoom in 1 
+\i (01:41:55) setwindow pcb
+\i (01:41:55) zoom in -37.1954 -21.8312
+\i (01:41:55) trapsize 5643
+\i (01:41:55) zoom in 1 
+\i (01:41:55) setwindow pcb
+\i (01:41:55) zoom in -37.1954 -21.8312
+\i (01:41:55) trapsize 2822
+\i (01:41:55) zoom in 1 
+\i (01:41:55) setwindow pcb
+\i (01:41:55) zoom in -37.1954 -21.8312
+\i (01:41:55) trapsize 1411
+\i (01:41:55) zoom out 1 
+\i (01:41:55) setwindow pcb
+\i (01:41:55) zoom out -30.4236 -20.6179
+\i (01:41:55) trapsize 2822
+\i (01:41:56) zoom in 1 
+\i (01:41:56) setwindow pcb
+\i (01:41:56) zoom in -14.2275 -15.1440
+\i (01:41:56) trapsize 1411
+\i (01:41:56) zoom in 1 
+\i (01:41:56) setwindow pcb
+\i (01:41:56) zoom in -14.2275 -15.1439
+\i (01:41:56) trapsize 705
+\i (01:41:57) zoom in 1 
+\i (01:41:57) setwindow pcb
+\i (01:41:57) zoom in -14.2275 -15.1439
+\i (01:41:57) trapsize 353
+\i (01:41:57) zoom out 1 
+\i (01:41:57) setwindow pcb
+\i (01:41:57) zoom out -14.2486 -15.1298
+\i (01:41:57) trapsize 705
+\i (01:41:57) zoom out 1 
+\i (01:41:57) setwindow pcb
+\i (01:41:57) zoom out -14.2486 -15.1298
+\i (01:41:57) trapsize 1411
+\i (01:41:57) zoom out 1 
+\i (01:41:57) setwindow pcb
+\i (01:41:57) zoom out -14.2485 -15.1297
+\i (01:41:57) trapsize 2822
+\i (01:41:57) zoom out 1 
+\i (01:41:57) setwindow pcb
+\i (01:41:57) zoom out -14.2485 -15.1297
+\i (01:41:57) trapsize 5643
+\i (01:41:58) zoom in 1 
+\i (01:41:58) setwindow pcb
+\i (01:41:58) zoom in -61.6515 -42.1042
+\i (01:41:58) trapsize 2822
+\i (01:41:58) zoom in 1 
+\i (01:41:58) setwindow pcb
+\i (01:41:58) zoom in -61.6515 -42.1042
+\i (01:41:58) trapsize 1411
+\i (01:41:59) zoom out 1 
+\i (01:41:59) setwindow pcb
+\i (01:41:59) zoom out -61.7079 -42.1041
+\i (01:41:59) trapsize 2822
+\i (01:41:59) zoom out 1 
+\i (01:41:59) setwindow pcb
+\i (01:41:59) zoom out -61.7078 -42.1042
+\i (01:41:59) trapsize 5643
+\i (01:41:59) zoom out 1 
+\i (01:41:59) setwindow pcb
+\i (01:41:59) zoom out -61.7079 -42.1041
+\i (01:41:59) trapsize 11286
+\i (01:42:00) zoom in 1 
+\i (01:42:00) setwindow pcb
+\i (01:42:00) zoom in 21.3600 -28.5605
+\i (01:42:00) trapsize 5643
+\i (01:42:00) zoom in 1 
+\i (01:42:00) setwindow pcb
+\i (01:42:00) zoom in 21.3601 -28.5605
+\i (01:42:00) trapsize 2822
+\i (01:42:00) pick grid 21.3601 -28.5604
+\t (01:42:00) last pick:  21.3614  -28.5496
+\i (01:42:02) xdehilite 
+\i (01:42:02) xNet P1_A6 
+\i (01:42:02) xname_flush 
+\t (01:42:02) Net "P1_A6" dehighlighted.
+\i (01:42:02) done 
+\i (01:42:02) xhilite 
+\i (01:42:02) xNet P1_A7 
+\i (01:42:02) xname_flush 
+\i (01:42:02) trapsize 2807
+\t (01:42:02) Net "P1_A7" highlighted.
+\i (01:42:02) done 
+\i (01:42:02) generaledit 
+\i (01:42:06) pick grid -79.2399 -39.0438
+\t (01:42:06) last pick:  -79.2480  -39.0398
+\i (01:42:06) zoom in 1 
+\i (01:42:06) setwindow pcb
+\i (01:42:06) zoom in -79.2960 -38.8754
+\i (01:42:06) trapsize 1403
+\i (01:42:06) zoom in 1 
+\i (01:42:06) setwindow pcb
+\i (01:42:06) zoom in -79.2960 -38.8754
+\i (01:42:06) trapsize 702
+\i (01:42:07) zoom in 1 
+\i (01:42:07) setwindow pcb
+\i (01:42:07) zoom in -79.2258 -38.8614
+\i (01:42:07) trapsize 351
+\i (01:42:07) zoom in 1 
+\i (01:42:07) setwindow pcb
+\i (01:42:07) zoom in -79.2398 -38.8614
+\i (01:42:07) trapsize 175
+\i (01:42:08) roam start
+\i (01:42:08) roam x 96
+\i (01:42:08) roam y -64
+\i (01:42:08) roam x 64
+\i (01:42:08) roam y -48
+\i (01:42:08) roam x 48
+\i (01:42:08) roam y -32
+\i (01:42:08) roam x 32
+\i (01:42:08) roam y -16
+\i (01:42:08) roam x 32
+\i (01:42:08) roam y -16
+\i (01:42:08) roam end
+\i (01:42:09) roam start
+\i (01:42:09) roam x -112
+\i (01:42:09) roam y -16
+\i (01:42:09) roam x -80
+\i (01:42:09) roam x -16
+\i (01:42:09) roam end
+\i (01:42:10) delete 
+\i (01:42:11) pick grid -79.1152 -38.1064
+\t (01:42:11) last pick:  -79.1210  -38.1000
+\t (01:42:11) Connect Line "P1_A7, Etch/3-Sig"
+\i (01:42:12) prepopup -79.1258 -38.3379
+\i (01:42:12) done 
+\i (01:42:12) generaledit 
+\i (01:42:13) zoom out 1 
+\i (01:42:13) setwindow pcb
+\i (01:42:13) zoom out -79.1924 -38.3625
+\i (01:42:13) trapsize 351
+\i (01:42:13) zoom out 1 
+\i (01:42:13) setwindow pcb
+\i (01:42:13) zoom out -79.1925 -38.3624
+\i (01:42:13) trapsize 702
+\i (01:42:14) zoom out 1 
+\i (01:42:14) setwindow pcb
+\i (01:42:14) zoom out -66.6175 -39.0783
+\i (01:42:14) trapsize 1403
+\i (01:42:14) zoom out 1 
+\i (01:42:14) setwindow pcb
+\i (01:42:14) zoom out -66.7860 -38.9659
+\i (01:42:14) trapsize 2807
+\i (01:42:16) zoom in 1 
+\i (01:42:16) setwindow pcb
+\i (01:42:16) zoom in -53.4252 -46.2639
+\i (01:42:16) trapsize 1403
+\i (01:42:16) zoom in 1 
+\i (01:42:16) setwindow pcb
+\i (01:42:16) zoom in -53.4252 -46.2639
+\i (01:42:16) trapsize 702
+\i (01:42:16) zoom in 1 
+\i (01:42:16) setwindow pcb
+\i (01:42:16) zoom in -53.4251 -46.2639
+\i (01:42:16) trapsize 351
+\i (01:42:16) zoom in 1 
+\i (01:42:16) setwindow pcb
+\i (01:42:16) zoom in -53.6567 -45.3306
+\i (01:42:16) trapsize 175
+\i (01:42:18) delete 
+\i (01:42:19) pick grid -54.2637 -45.3130
+\t (01:42:19) last pick:  -54.2544  -45.3136
+\t (01:42:19) Connect Line "P1_A7, Etch/Top"
+\i (01:42:20) pick grid -54.4286 -45.5797
+\t (01:42:20) last pick:  -54.4322  -45.5676
+\t (01:42:20) Via "P1_A7, Via16c8, (-54.4659 -45.4809)"
+\i (01:42:20) pick grid -54.6742 -45.6884
+\t (01:42:20) last pick:  -54.6862  -45.6946
+\t (01:42:20) Connect Line "P1_A7, Etch/6-Sig"
+\i (01:42:21) prepopup -54.1971 -45.4990
+\i (01:42:21) done 
+\i (01:42:21) generaledit 
+\i (01:42:21) zoom out 1 
+\i (01:42:21) setwindow pcb
+\i (01:42:21) zoom out -54.1971 -45.5025
+\i (01:42:21) trapsize 351
+\i (01:42:22) zoom out 1 
+\i (01:42:22) setwindow pcb
+\i (01:42:22) zoom out -54.1969 -45.5025
+\i (01:42:22) trapsize 702
+\i (01:42:22) zoom out 1 
+\i (01:42:22) setwindow pcb
+\i (01:42:22) zoom out -54.1970 -45.5024
+\i (01:42:22) trapsize 1403
+\i (01:42:22) zoom out 1 
+\i (01:42:22) setwindow pcb
+\i (01:42:22) zoom out -54.1970 -45.5024
+\i (01:42:22) trapsize 2807
+\i (01:42:22) zoom in 1 
+\i (01:42:22) setwindow pcb
+\i (01:42:22) zoom in -48.5271 -42.8639
+\i (01:42:22) trapsize 1403
+\i (01:42:22) zoom in 1 
+\i (01:42:22) setwindow pcb
+\i (01:42:22) zoom in -48.5270 -42.8639
+\i (01:42:22) trapsize 702
+\i (01:42:23) zoom out 1 
+\i (01:42:23) setwindow pcb
+\i (01:42:23) zoom out -48.5270 -42.8639
+\i (01:42:23) trapsize 1403
+\i (01:42:23) zoom out 1 
+\i (01:42:23) setwindow pcb
+\i (01:42:23) zoom out -48.5270 -42.8639
+\i (01:42:23) trapsize 2807
+\i (01:42:23) roam start
+\i (01:42:23) roam x 64
+\i (01:42:23) roam y -64
+\i (01:42:24) roam x 64
+\i (01:42:24) roam y -80
+\i (01:42:24) roam x 96
+\i (01:42:24) roam y -80
+\i (01:42:24) roam x 80
+\i (01:42:24) roam y -48
+\i (01:42:24) roam x 64
+\i (01:42:24) roam y -48
+\i (01:42:24) roam x 96
+\i (01:42:24) roam y -48
+\i (01:42:24) roam x 112
+\i (01:42:24) roam y -48
+\i (01:42:24) roam x 32
+\i (01:42:24) roam y -16
+\i (01:42:24) roam x 48
+\i (01:42:24) roam x 48
+\i (01:42:24) roam x 32
+\i (01:42:24) roam end
+\i (01:42:25) zoom in 1 
+\i (01:42:25) setwindow pcb
+\i (01:42:25) zoom in -14.5829 -15.1932
+\i (01:42:25) trapsize 1403
+\i (01:42:25) zoom in 1 
+\i (01:42:25) setwindow pcb
+\i (01:42:25) zoom in -14.5829 -15.1932
+\i (01:42:25) trapsize 702
+\i (01:42:25) zoom in 1 
+\i (01:42:25) setwindow pcb
+\i (01:42:25) zoom in -14.5828 -15.1932
+\i (01:42:25) trapsize 351
+\i (01:42:25) zoom in 1 
+\i (01:42:25) setwindow pcb
+\i (01:42:25) zoom in -14.6038 -15.1651
+\i (01:42:25) trapsize 175
+\i (01:42:27) delete 
+\i (01:42:28) pick grid -14.7512 -16.2142
+\t (01:42:28) last pick:  -14.7574  -16.2052
+\t (01:42:28) Via "P1_A7, Via16c8, (-14.8630 -16.0996)"
+\i (01:42:29) pick grid -14.8108 -15.8458
+\t (01:42:29) last pick:  -14.8082  -15.8496
+\t (01:42:29) Connect Line "P1_A7, Etch/Top"
+\i (01:42:29) prepopup -14.5582 -15.8774
+\i (01:42:30) done 
+\i (01:42:30) generaledit 
+\i (01:42:30) pick grid -14.5582 -15.8774
+\t (01:42:30) last pick:  -14.5542  -15.8750
+\i (01:42:31) zoom out 1 
+\i (01:42:31) setwindow pcb
+\i (01:42:31) zoom out -14.5161 -15.9125
+\i (01:42:31) trapsize 351
+\i (01:42:31) zoom out 1 
+\i (01:42:31) setwindow pcb
+\i (01:42:31) zoom out -14.5161 -15.9124
+\i (01:42:31) trapsize 702
+\i (01:42:31) zoom out 1 
+\i (01:42:31) setwindow pcb
+\i (01:42:31) zoom out -14.5020 -15.9124
+\i (01:42:31) trapsize 1403
+\i (01:42:32) xdehilite 
+\i (01:42:32) xNet P1_A7 
+\i (01:42:32) xname_flush 
+\t (01:42:32) Net "P1_A7" dehighlighted.
+\i (01:42:32) done 
+\i (01:42:33) generaledit 
+\i (01:42:34) xhilite 
+\i (01:42:34) xNet P1_A7 
+\i (01:42:34) xname_flush 
+\i (01:42:34) trapsize 2288
+\t (01:42:34) Net "P1_A7" highlighted.
+\i (01:42:34) done 
+\i (01:42:34) generaledit 
+\i (01:42:35) xdehilite 
+\i (01:42:35) xNet P1_A7 
+\i (01:42:35) xname_flush 
+\t (01:42:35) Net "P1_A7" dehighlighted.
+\i (01:42:35) done 
+\i (01:42:35) xhilite 
+\i (01:42:35) xNet P1_A8 
+\i (01:42:35) xname_flush 
+\i (01:42:35) trapsize 2773
+\t (01:42:36) Net "P1_A8" highlighted.
+\i (01:42:36) done 
+\i (01:42:36) generaledit 
+\i (01:42:38) pick grid -65.2218 -46.6325
+\t (01:42:38) last pick:  -65.2272  -46.6344
+\i (01:42:39) zoom in 1 
+\i (01:42:39) setwindow pcb
+\i (01:42:39) zoom in -65.6100 -46.6325
+\i (01:42:39) trapsize 1387
+\i (01:42:39) zoom in 1 
+\i (01:42:39) setwindow pcb
+\i (01:42:39) zoom in -65.6377 -46.6324
+\i (01:42:39) trapsize 693
+\i (01:42:40) zoom out 1 
+\i (01:42:40) setwindow pcb
+\i (01:42:40) zoom out -65.6515 -46.3274
+\i (01:42:40) trapsize 1387
+\i (01:42:40) zoom out 1 
+\i (01:42:40) setwindow pcb
+\i (01:42:40) zoom out -65.6517 -46.3273
+\i (01:42:40) trapsize 2773
+\i (01:42:41) zoom in 1 
+\i (01:42:41) setwindow pcb
+\i (01:42:41) zoom in -80.4608 -38.7841
+\i (01:42:41) trapsize 1387
+\i (01:42:41) zoom in 1 
+\i (01:42:41) setwindow pcb
+\i (01:42:41) zoom in -80.4607 -38.7841
+\i (01:42:41) trapsize 693
+\i (01:42:41) zoom in 1 
+\i (01:42:41) setwindow pcb
+\i (01:42:41) zoom in -80.3637 -40.1845
+\i (01:42:41) trapsize 347
+\i (01:42:42) zoom in 1 
+\i (01:42:42) setwindow pcb
+\i (01:42:42) zoom in -75.3926 -40.6005
+\i (01:42:42) trapsize 173
+\i (01:42:44) delete 
+\i (01:42:46) pick grid -75.6595 -40.3821
+\t (01:42:46) last pick:  -75.6666  -40.3860
+\t (01:42:46) Connect Line "P1_A8, Etch/3-Sig"
+\i (01:42:47) prepopup -75.4862 -39.2347
+\i (01:42:47) done 
+\i (01:42:47) generaledit 
+\i (01:42:48) zoom out 1 
+\i (01:42:48) setwindow pcb
+\i (01:42:48) zoom out -75.5451 -39.4288
+\i (01:42:48) trapsize 347
+\i (01:42:48) zoom out 1 
+\i (01:42:48) setwindow pcb
+\i (01:42:48) zoom out -75.5452 -39.4427
+\i (01:42:48) trapsize 693
+\i (01:42:48) zoom out 1 
+\i (01:42:48) setwindow pcb
+\i (01:42:48) zoom out -75.5313 -39.4704
+\i (01:42:48) trapsize 1387
+\i (01:42:49) zoom out 1 
+\i (01:42:49) setwindow pcb
+\i (01:42:49) zoom out -63.9670 -45.4329
+\i (01:42:49) trapsize 2773
+\i (01:42:49) zoom in 1 
+\i (01:42:49) setwindow pcb
+\i (01:42:49) zoom in -54.6488 -46.5976
+\i (01:42:49) trapsize 1387
+\i (01:42:50) zoom in 1 
+\i (01:42:50) setwindow pcb
+\i (01:42:50) zoom in -54.6488 -46.5975
+\i (01:42:50) trapsize 693
+\i (01:42:50) zoom in 1 
+\i (01:42:50) setwindow pcb
+\i (01:42:50) zoom in -54.8984 -46.5559
+\i (01:42:50) trapsize 347
+\i (01:42:50) zoom in 1 
+\i (01:42:50) setwindow pcb
+\i (01:42:50) zoom in -54.9053 -46.5420
+\i (01:42:50) trapsize 173
+\i (01:42:51) delete 
+\i (01:42:52) pick grid -55.2173 -46.2716
+\t (01:42:52) last pick:  -55.2196  -46.2788
+\t (01:42:52) Connect Line "P1_A8, Etch/Top"
+\i (01:42:53) pick grid -55.2901 -46.4345
+\t (01:42:53) last pick:  -55.2958  -46.4312
+\t (01:42:53) Via "P1_A8, Via16c8, (-55.4659 -46.4809)"
+\i (01:42:54) pick grid -55.4600 -46.7708
+\t (01:42:54) last pick:  -55.4482  -46.7614
+\t (01:42:54) Connect Line "P1_A8, Etch/6-Sig"
+\i (01:42:55) prepopup -55.1618 -46.4622
+\i (01:42:55) done 
+\i (01:42:55) generaledit 
+\i (01:42:56) zoom out 1 
+\i (01:42:56) setwindow pcb
+\i (01:42:56) zoom out -55.3005 -46.4796
+\i (01:42:56) trapsize 347
+\i (01:42:56) zoom out 1 
+\i (01:42:56) setwindow pcb
+\i (01:42:56) zoom out -55.3005 -46.4795
+\i (01:42:56) trapsize 693
+\i (01:42:56) zoom out 1 
+\i (01:42:56) setwindow pcb
+\i (01:42:56) zoom out -55.3005 -46.4795
+\i (01:42:56) trapsize 1387
+\i (01:42:56) zoom out 1 
+\i (01:42:56) setwindow pcb
+\i (01:42:56) zoom out -55.3283 -46.4795
+\i (01:42:56) trapsize 2773
+\i (01:42:56) roam start
+\i (01:42:56) roam x 48
+\i (01:42:56) roam y -64
+\i (01:42:57) roam x 112
+\i (01:42:57) roam y -80
+\i (01:42:57) roam x 48
+\i (01:42:57) roam y -48
+\i (01:42:57) roam x 64
+\i (01:42:57) roam y -32
+\i (01:42:57) roam x 80
+\i (01:42:57) roam y -32
+\i (01:42:57) roam x 48
+\i (01:42:57) roam y -32
+\i (01:42:57) roam x 64
+\i (01:42:57) roam y -32
+\i (01:42:57) roam x 80
+\i (01:42:57) roam y -32
+\i (01:42:57) roam x 48
+\i (01:42:57) roam y -16
+\i (01:42:57) roam x 32
+\i (01:42:57) roam x 32
+\i (01:42:57) roam y -16
+\i (01:42:57) roam x 64
+\i (01:42:57) roam y -16
+\i (01:42:57) roam x 32
+\i (01:42:57) roam y -32
+\i (01:42:57) roam y -32
+\i (01:42:57) roam x 16
+\i (01:42:57) roam y -32
+\i (01:42:57) roam y -16
+\i (01:42:57) roam y -16
+\i (01:42:58) roam end
+\i (01:42:58) zoom in 1 
+\i (01:42:58) setwindow pcb
+\i (01:42:58) zoom in -12.4683 -15.4814
+\i (01:42:58) trapsize 1387
+\i (01:42:58) zoom in 1 
+\i (01:42:58) setwindow pcb
+\i (01:42:58) zoom in -12.4683 -15.4814
+\i (01:42:58) trapsize 693
+\i (01:42:58) zoom in 1 
+\i (01:42:58) setwindow pcb
+\i (01:42:58) zoom in -13.6192 -15.4814
+\i (01:42:58) trapsize 347
+\i (01:42:59) zoom in 1 
+\i (01:42:59) setwindow pcb
+\i (01:42:59) zoom in -15.0336 -16.1608
+\i (01:42:59) trapsize 173
+\i (01:43:01) delete 
+\i (01:43:02) pick grid -15.3907 -17.0205
+\t (01:43:02) last pick:  -15.3924  -17.0180
+\t (01:43:02) Via "P1_A8, Via16c8, (-15.3630 -16.8656)"
+\i (01:43:02) pick grid -15.3941 -16.6184
+\t (01:43:02) last pick:  -15.3924  -16.6116
+\t (01:43:02) Connect Line "P1_A8, Etch/Top"
+\i (01:43:02) prepopup -15.8795 -16.6045
+\i (01:43:03) done 
+\i (01:43:03) generaledit 
+\i (01:43:04) pick grid -15.8552 -16.7085
+\t (01:43:04) last pick:  -15.8496  -16.7132
+\i (01:43:04) zoom out 1 
+\i (01:43:04) setwindow pcb
+\i (01:43:04) zoom out -15.8552 -16.7085
+\i (01:43:04) trapsize 347
+\i (01:43:04) zoom out 1 
+\i (01:43:04) setwindow pcb
+\i (01:43:04) zoom out -15.8552 -16.7086
+\i (01:43:04) trapsize 693
+\i (01:43:04) zoom out 1 
+\i (01:43:04) setwindow pcb
+\i (01:43:04) zoom out -15.8552 -16.7085
+\i (01:43:04) trapsize 1387
+\i (01:43:04) zoom out 1 
+\i (01:43:04) setwindow pcb
+\i (01:43:04) zoom out -15.8553 -16.7085
+\i (01:43:04) trapsize 2773
+\i (01:43:06) xdehilite 
+\i (01:43:06) xNet P1_A8 
+\i (01:43:06) xname_flush 
+\t (01:43:06) Net "P1_A8" dehighlighted.
+\i (01:43:06) done 
+\i (01:43:06) generaledit 
+\i (01:43:07) xhilite 
+\i (01:43:07) xNet P1_A8 
+\i (01:43:07) xname_flush 
+\i (01:43:07) trapsize 2288
+\t (01:43:07) Net "P1_A8" highlighted.
+\i (01:43:08) done 
+\i (01:43:08) generaledit 
+\i (01:43:09) xdehilite 
+\i (01:43:09) xNet P1_A8 
+\i (01:43:09) xname_flush 
+\t (01:43:09) Net "P1_A8" dehighlighted.
+\i (01:43:09) done 
+\i (01:43:09) xhilite 
+\i (01:43:09) xNet P1_A9 
+\i (01:43:09) xname_flush 
+\i (01:43:09) trapsize 2791
+\t (01:43:09) Net "P1_A9" highlighted.
+\i (01:43:09) done 
+\i (01:43:09) generaledit 
+\i (01:43:10) xdehilite 
+\i (01:43:10) xNet P1_A9 
+\i (01:43:10) xname_flush 
+\t (01:43:10) Net "P1_A9" dehighlighted.
+\i (01:43:10) done 
+\i (01:43:10) xhilite 
+\i (01:43:11) xNet P1_A8 
+\i (01:43:11) xname_flush 
+\i (01:43:11) trapsize 2288
+\t (01:43:11) Net "P1_A8" highlighted.
+\i (01:43:11) done 
+\i (01:43:11) generaledit 
+\i (01:43:12) roam start
+\i (01:43:12) roam x 32
+\i (01:43:12) roam y -64
+\i (01:43:12) roam x 16
+\i (01:43:12) roam x 80
+\i (01:43:12) roam y -48
+\i (01:43:12) roam x 64
+\i (01:43:12) roam y -32
+\i (01:43:12) roam x 80
+\i (01:43:12) roam y -16
+\i (01:43:12) roam x 64
+\i (01:43:12) roam y -16
+\i (01:43:12) roam x 80
+\i (01:43:12) roam y -32
+\i (01:43:12) roam x 80
+\i (01:43:12) roam y -16
+\i (01:43:12) roam y -16
+\i (01:43:12) roam x -32
+\i (01:43:12) roam x -176
+\i (01:43:12) roam x -112
+\i (01:43:12) roam y -16
+\i (01:43:13) roam x -32
+\i (01:43:13) roam x 80
+\i (01:43:13) roam y -16
+\i (01:43:13) roam x 16
+\i (01:43:13) roam end
+\i (01:43:13) zoom in 1 
+\i (01:43:13) setwindow pcb
+\i (01:43:13) zoom in -15.2600 -14.8769
+\i (01:43:13) trapsize 1144
+\i (01:43:13) zoom in 1 
+\i (01:43:13) setwindow pcb
+\i (01:43:13) zoom in -15.2600 -14.8769
+\i (01:43:13) trapsize 572
+\i (01:43:13) zoom in 1 
+\i (01:43:13) setwindow pcb
+\i (01:43:13) zoom in -15.2600 -14.8769
+\i (01:43:13) trapsize 286
+\i (01:43:15) zoom out 1 
+\i (01:43:15) setwindow pcb
+\i (01:43:15) zoom out -15.2657 -14.8768
+\i (01:43:15) trapsize 572
+\i (01:43:15) zoom out 1 
+\i (01:43:15) setwindow pcb
+\i (01:43:15) zoom out -15.2657 -14.8768
+\i (01:43:15) trapsize 1144
+\i (01:43:15) pick grid -16.7985 -17.6218
+\t (01:43:15) last pick:  -16.7894  -17.6276
+\i (01:43:17) xdehilite 
+\i (01:43:17) xNet P1_A8 
+\i (01:43:17) xname_flush 
+\t (01:43:17) Net "P1_A8" dehighlighted.
+\i (01:43:17) done 
+\i (01:43:17) generaledit 
+\i (01:43:17) xhilite 
+\i (01:43:17) xNet P1_A9 
+\i (01:43:17) xname_flush 
+\i (01:43:17) trapsize 2791
+\t (01:43:17) Net "P1_A9" highlighted.
+\i (01:43:18) done 
+\i (01:43:18) generaledit 
+\i (01:43:20) pick grid -82.4746 -39.6878
+\t (01:43:20) last pick:  -82.4738  -39.7002
+\i (01:43:20) zoom in 1 
+\i (01:43:20) setwindow pcb
+\i (01:43:20) zoom in -82.4746 -39.6878
+\i (01:43:20) trapsize 1395
+\i (01:43:20) zoom in 1 
+\i (01:43:20) setwindow pcb
+\i (01:43:20) zoom in -82.4745 -39.6878
+\i (01:43:20) trapsize 698
+\i (01:43:20) zoom in 1 
+\i (01:43:20) setwindow pcb
+\i (01:43:20) zoom in -82.4745 -39.6877
+\i (01:43:20) trapsize 349
+\i (01:43:20) zoom in 1 
+\i (01:43:20) setwindow pcb
+\i (01:43:20) zoom in -82.4746 -39.6877
+\i (01:43:20) trapsize 174
+\i (01:43:21) zoom in 1 
+\i (01:43:21) setwindow pcb
+\i (01:43:21) zoom in -82.4746 -39.6877
+\i (01:43:21) trapsize 87
+\i (01:43:21) zoom out 1 
+\i (01:43:21) setwindow pcb
+\i (01:43:21) zoom out -82.4746 -39.6877
+\i (01:43:21) trapsize 174
+\i (01:43:22) zoom out 1 
+\i (01:43:22) setwindow pcb
+\i (01:43:22) zoom out -82.4746 -39.6877
+\i (01:43:22) trapsize 349
+\i (01:43:22) zoom out 1 
+\i (01:43:22) setwindow pcb
+\i (01:43:22) zoom out -82.4747 -39.6876
+\i (01:43:22) trapsize 698
+\i (01:43:23) zoom in 1 
+\i (01:43:23) setwindow pcb
+\i (01:43:23) zoom in -71.1718 -43.4412
+\i (01:43:23) trapsize 349
+\i (01:43:23) zoom in 1 
+\i (01:43:23) setwindow pcb
+\i (01:43:23) zoom in -71.1508 -43.4412
+\i (01:43:23) trapsize 174
+\i (01:43:25) delete 
+\i (01:43:27) pick grid -71.5974 -43.1063
+\t (01:43:27) last pick:  -71.6026  -43.1038
+\t (01:43:27) Connect Line "P1_A9, Etch/3-Sig"
+\i (01:43:27) prepopup -72.2427 -42.8551
+\i (01:43:28) done 
+\i (01:43:28) generaledit 
+\i (01:43:28) zoom out 1 
+\i (01:43:28) setwindow pcb
+\i (01:43:28) zoom out -72.2706 -42.8446
+\i (01:43:28) trapsize 349
+\i (01:43:28) zoom out 1 
+\i (01:43:28) setwindow pcb
+\i (01:43:28) zoom out -72.2707 -42.8446
+\i (01:43:28) trapsize 698
+\i (01:43:28) zoom out 1 
+\i (01:43:28) setwindow pcb
+\i (01:43:28) zoom out -72.2708 -42.8447
+\i (01:43:28) trapsize 1395
+\i (01:43:28) zoom out 1 
+\i (01:43:28) setwindow pcb
+\i (01:43:28) zoom out -72.2708 -42.8447
+\i (01:43:28) trapsize 2791
+\i (01:43:28) zoom out 1 
+\i (01:43:28) setwindow pcb
+\i (01:43:28) zoom out -72.3824 -42.8446
+\i (01:43:28) trapsize 5582
+\i (01:43:29) zoom in 1 
+\i (01:43:29) setwindow pcb
+\i (01:43:29) zoom in -50.9487 -51.7753
+\i (01:43:29) trapsize 2791
+\i (01:43:29) zoom in 1 
+\i (01:43:29) setwindow pcb
+\i (01:43:29) zoom in -51.0045 -51.5520
+\i (01:43:29) trapsize 1395
+\i (01:43:29) zoom in 1 
+\i (01:43:29) setwindow pcb
+\i (01:43:29) zoom in -51.0045 -51.5520
+\i (01:43:29) trapsize 698
+\i (01:43:30) zoom in 1 
+\i (01:43:30) setwindow pcb
+\i (01:43:30) zoom in -55.6931 -46.7657
+\i (01:43:30) trapsize 349
+\i (01:43:30) zoom in 1 
+\i (01:43:30) setwindow pcb
+\i (01:43:30) zoom in -55.9512 -47.0587
+\i (01:43:30) trapsize 174
+\i (01:43:30) zoom in 1 
+\i (01:43:30) setwindow pcb
+\i (01:43:30) zoom in -55.9512 -47.0587
+\i (01:43:30) trapsize 87
+\i (01:43:31) zoom out 1 
+\i (01:43:31) setwindow pcb
+\i (01:43:31) zoom out -55.9634 -47.0569
+\i (01:43:31) trapsize 174
+\i (01:43:32) delete 
+\i (01:43:34) pick grid -56.2601 -47.3465
+\t (01:43:34) last pick:  -56.2610  -47.3456
+\t (01:43:34) Connect Line "P1_A9, Etch/Top"
+\i (01:43:34) pick grid -56.3159 -47.5697
+\t (01:43:34) last pick:  -56.3118  -47.5742
+\t (01:43:34) Via "P1_A9, Via16c8, (-56.4659 -47.4809)"
+\i (01:43:35) pick grid -56.8043 -47.5593
+\t (01:43:35) last pick:  -56.7944  -47.5488
+\t (01:43:35) Connect Line "P1_A9, Etch/6-Sig"
+\i (01:43:35) prepopup -56.6647 -47.7232
+\i (01:43:36) done 
+\i (01:43:36) generaledit 
+\i (01:43:36) zoom out 1 
+\i (01:43:36) setwindow pcb
+\i (01:43:36) zoom out -56.6647 -47.7232
+\i (01:43:36) trapsize 349
+\i (01:43:36) zoom out 1 
+\i (01:43:36) setwindow pcb
+\i (01:43:36) zoom out -56.6649 -47.7232
+\i (01:43:36) trapsize 698
+\i (01:43:36) zoom out 1 
+\i (01:43:36) setwindow pcb
+\i (01:43:36) zoom out -56.6648 -47.7233
+\i (01:43:36) trapsize 1395
+\i (01:43:36) zoom out 1 
+\i (01:43:36) setwindow pcb
+\i (01:43:36) zoom out -56.6648 -47.7233
+\i (01:43:36) trapsize 2791
+\i (01:43:38) roam start
+\i (01:43:38) roam x 32
+\i (01:43:38) roam y -64
+\i (01:43:38) roam x 192
+\i (01:43:38) roam y -128
+\i (01:43:38) roam x 144
+\i (01:43:38) roam y -96
+\i (01:43:38) roam x 64
+\i (01:43:38) roam y -64
+\i (01:43:38) roam x 16
+\i (01:43:38) roam y -16
+\i (01:43:38) roam x 64
+\i (01:43:38) roam y -48
+\i (01:43:38) roam x 64
+\i (01:43:38) roam y -16
+\i (01:43:38) roam x 48
+\i (01:43:38) roam y -48
+\i (01:43:38) roam end
+\i (01:43:39) zoom in 1 
+\i (01:43:39) setwindow pcb
+\i (01:43:39) zoom in -16.0300 -15.3765
+\i (01:43:39) trapsize 1395
+\i (01:43:39) zoom in 1 
+\i (01:43:39) setwindow pcb
+\i (01:43:39) zoom in -15.8346 -15.3764
+\i (01:43:39) trapsize 698
+\i (01:43:39) zoom in 1 
+\i (01:43:39) setwindow pcb
+\i (01:43:39) zoom in -15.6671 -15.4880
+\i (01:43:39) trapsize 349
+\i (01:43:39) zoom in 1 
+\i (01:43:39) setwindow pcb
+\i (01:43:39) zoom in -15.6671 -15.4879
+\i (01:43:39) trapsize 174
+\i (01:43:39) zoom in 1 
+\i (01:43:39) setwindow pcb
+\i (01:43:39) zoom in -15.6671 -15.4879
+\i (01:43:39) trapsize 87
+\i (01:43:40) zoom out 1 
+\i (01:43:40) setwindow pcb
+\i (01:43:40) zoom out -15.8659 -15.4443
+\i (01:43:40) trapsize 174
+\i (01:43:40) zoom out 1 
+\i (01:43:40) setwindow pcb
+\i (01:43:40) zoom out -15.8694 -15.4268
+\i (01:43:40) trapsize 349
+\i (01:43:41) delete 
+\i (01:43:42) pick grid -15.9812 -15.8315
+\t (01:43:42) last pick:  -15.9766  -15.8242
+\t (01:43:42) Connect Line "P1_A9, Etch/Top"
+\i (01:43:42) pick grid -15.9184 -16.0548
+\t (01:43:42) last pick:  -15.9258  -16.0528
+\t (01:43:42) Via "Not On A Net, Via16c8, (-15.9380 -16.0996)"
+\i (01:43:43) prepopup -15.2905 -16.0966
+\i (01:43:43) done 
+\i (01:43:43) generaledit 
+\i (01:43:44) pick grid -15.2905 -16.0966
+\t (01:43:44) last pick:  -15.2908  -16.1036
+\i (01:43:45) xdehilite 
+\i (01:43:45) xNet P1_A9 
+\i (01:43:45) xname_flush 
+\t (01:43:45) Net "P1_A9" dehighlighted.
+\i (01:43:45) done 
+\i (01:43:45) generaledit 
+\i (01:43:46) drc update 
+\t (01:43:46) Performing DRC...
+\t (01:43:46) Multithreaded DRC update (8 threads).
+\t (01:43:47) No DRC errors detected.
+\i (01:43:47) generaledit 
+\i (01:43:48) pick grid -14.8509 -16.2990
+\t (01:43:48) last pick:  -14.8590  -16.3068
+\i (01:43:49) save 
+\i (01:43:50) fillin yes 
+\i (01:43:50) generaledit 
+\i (01:43:50) pick grid -13.9509 -16.7595
+\t (01:43:50) last pick:  -13.9446  -16.7640
+\i (01:44:15) pick grid -12.8904 -16.6688
+\t (01:44:15) last pick:  -12.8778  -16.6624
+\i (01:44:16) zoom out 1 
+\i (01:44:16) setwindow pcb
+\i (01:44:16) zoom out -12.8904 -16.6688
+\i (01:44:16) trapsize 698
+\i (01:44:16) zoom out 1 
+\i (01:44:16) setwindow pcb
+\i (01:44:16) zoom out -12.8903 -16.6687
+\i (01:44:16) trapsize 1395
+\i (01:44:18) xhilite 
+\i (01:44:18) xNet P1_A8 
+\i (01:44:18) xname_flush 
+\i (01:44:18) trapsize 2288
+\t (01:44:18) Net "P1_A8" highlighted.
+\i (01:44:18) done 
+\i (01:44:19) generaledit 
+\i (01:44:19) xdehilite 
+\i (01:44:19) xNet P1_A8 
+\i (01:44:19) xname_flush 
+\t (01:44:19) Net "P1_A8" dehighlighted.
+\i (01:44:19) done 
+\i (01:44:19) xhilite 
+\i (01:44:19) xNet P1_A9 
+\i (01:44:19) xname_flush 
+\i (01:44:19) trapsize 2293
+\t (01:44:19) Net "P1_A9" highlighted.
+\i (01:44:19) done 
+\i (01:44:19) generaledit 
+\i (01:44:21) xdehilite 
+\i (01:44:21) xNet P1_A9 
+\i (01:44:21) xname_flush 
+\t (01:44:21) Net "P1_A9" dehighlighted.
+\i (01:44:21) done 
+\i (01:44:21) generaledit 
+\i (01:44:24) xhilite 
+\i (01:44:24) xNet Mux_Pclk 
+\i (01:44:24) xname_flush 
+\i (01:44:24) trapsize 2133
+\t (01:44:24) Net "Mux_Pclk" highlighted.
+\i (01:44:24) done 
+\i (01:44:24) generaledit 
+\i (01:44:30) pick grid -59.5491 -36.6874
+\t (01:44:30) last pick:  -59.5376  -36.6776
+\i (01:44:30) zoom in 1 
+\i (01:44:30) setwindow pcb
+\i (01:44:30) zoom in -59.5491 -36.6874
+\i (01:44:30) trapsize 1066
+\i (01:44:30) zoom in 1 
+\i (01:44:30) setwindow pcb
+\i (01:44:30) zoom in -59.5491 -36.6874
+\i (01:44:30) trapsize 533
+\i (01:44:30) zoom in 1 
+\i (01:44:30) setwindow pcb
+\i (01:44:30) zoom in -59.5491 -36.6874
+\i (01:44:30) trapsize 267
+\i (01:44:31) zoom in 1 
+\i (01:44:31) setwindow pcb
+\i (01:44:31) zoom in -59.5490 -36.6874
+\i (01:44:31) trapsize 133
+\i (01:44:32) zoom out 1 
+\i (01:44:32) setwindow pcb
+\i (01:44:32) zoom out -58.7919 -36.6153
+\i (01:44:32) trapsize 267
+\i (01:44:32) zoom out 1 
+\i (01:44:32) setwindow pcb
+\i (01:44:32) zoom out -58.7865 -36.6101
+\i (01:44:32) trapsize 533
+\i (01:44:32) zoom out 1 
+\i (01:44:32) setwindow pcb
+\i (01:44:32) zoom out -58.7864 -36.6100
+\i (01:44:32) trapsize 1066
+\i (01:44:33) roam start
+\i (01:44:34) roam x -112
+\i (01:44:34) roam x -64
+\i (01:44:34) roam x -128
+\i (01:44:34) roam x -128
+\i (01:44:34) roam x -32
+\i (01:44:34) roam x -48
+\i (01:44:34) roam x -32
+\i (01:44:34) roam x -32
+\i (01:44:34) roam x -32
+\i (01:44:34) roam x -48
+\i (01:44:34) roam y -16
+\i (01:44:34) roam x -48
+\i (01:44:34) roam x -48
+\i (01:44:34) roam x -48
+\i (01:44:34) roam x -48
+\i (01:44:34) roam x -64
+\i (01:44:34) roam x -48
+\i (01:44:34) roam x -64
+\i (01:44:34) roam x -32
+\i (01:44:34) roam x -16
+\i (01:44:34) roam x -16
+\i (01:44:34) roam y 32
+\i (01:44:34) roam x 16
+\i (01:44:34) roam y 32
+\i (01:44:35) roam y 80
+\i (01:44:35) roam x 16
+\i (01:44:35) roam y 48
+\i (01:44:35) roam end
+\i (01:44:36) zoom in 1 
+\i (01:44:36) setwindow pcb
+\i (01:44:36) zoom in -83.4587 -36.2484
+\i (01:44:36) trapsize 533
+\i (01:44:36) zoom in 1 
+\i (01:44:36) setwindow pcb
+\i (01:44:36) zoom in -83.4587 -36.2484
+\i (01:44:36) trapsize 267
+\i (01:44:37) zoom out 1 
+\i (01:44:37) setwindow pcb
+\i (01:44:37) zoom out -84.3972 -38.5625
+\i (01:44:37) trapsize 533
+\i (01:44:38) zoom in 1 
+\i (01:44:38) setwindow pcb
+\i (01:44:38) zoom in -84.4398 -38.9571
+\i (01:44:38) trapsize 267
+\i (01:44:38) zoom in 1 
+\i (01:44:38) setwindow pcb
+\i (01:44:38) zoom in -84.4398 -38.9571
+\i (01:44:38) trapsize 133
+\i (01:44:40) delete 
+\i (01:44:40) pick grid -84.7997 -38.3785
+\t (01:44:40) last pick:  -84.8106  -38.3794
+\t (01:44:40) Via "Mux_Pclk, Via16c8, (-84.7090 -38.3032)"
+\i (01:44:41) pick grid -84.6238 -38.0639
+\t (01:44:41) last pick:  -84.6328  -38.0746
+\t (01:44:41) Connect Line "Mux_Pclk, Etch/3-Sig"
+\i (01:44:42) prepopup -84.2532 -38.1012
+\i (01:44:42) done 
+\i (01:44:42) generaledit 
+\i (01:44:43) zoom out 1 
+\i (01:44:43) setwindow pcb
+\i (01:44:43) zoom out -84.2718 -38.1919
+\i (01:44:43) trapsize 267
+\i (01:44:43) zoom out 1 
+\i (01:44:43) setwindow pcb
+\i (01:44:43) zoom out -84.2719 -38.1919
+\i (01:44:43) trapsize 533
+\i (01:44:43) zoom out 1 
+\i (01:44:43) setwindow pcb
+\i (01:44:43) zoom out -84.2718 -38.1918
+\i (01:44:43) trapsize 1066
+\i (01:44:43) zoom out 1 
+\i (01:44:43) setwindow pcb
+\i (01:44:43) zoom out -84.2718 -38.1919
+\i (01:44:43) trapsize 2133
+\i (01:44:44) zoom in 1 
+\i (01:44:44) setwindow pcb
+\i (01:44:44) zoom in -57.4830 -36.8268
+\i (01:44:44) trapsize 1066
+\i (01:44:44) zoom in 1 
+\i (01:44:44) setwindow pcb
+\i (01:44:44) zoom in -57.4830 -36.8268
+\i (01:44:44) trapsize 533
+\i (01:44:44) zoom in 1 
+\i (01:44:44) setwindow pcb
+\i (01:44:44) zoom in -57.4830 -36.8268
+\i (01:44:44) trapsize 267
+\i (01:44:45) zoom in 1 
+\i (01:44:45) setwindow pcb
+\i (01:44:45) zoom in -57.5256 -36.7574
+\i (01:44:45) trapsize 133
+\i (01:44:46) delete 
+\i (01:44:47) pick grid -58.8933 -36.6588
+\t (01:44:47) last pick:  -58.9026  -36.6522
+\t (01:44:47) Connect Line "Mux_Pclk, Etch/Top"
+\i (01:44:48) pick grid -58.5893 -37.0054
+\t (01:44:48) last pick:  -58.5978  -37.0078
+\t (01:44:48) Via "Mux_Pclk, Via16c8, (-58.6486 -36.8808)"
+\i (01:44:48) pick grid -58.3574 -36.9174
+\t (01:44:48) last pick:  -58.3692  -36.9062
+\t (01:44:48) Connect Line "Mux_Pclk, Etch/3-Sig"
+\i (01:44:48) prepopup -58.4027 -36.6508
+\i (01:44:49) done 
+\i (01:44:49) generaledit 
+\i (01:44:49) zoom out 1 
+\i (01:44:49) setwindow pcb
+\i (01:44:49) zoom out -58.5200 -36.6908
+\i (01:44:49) trapsize 267
+\i (01:44:49) zoom out 1 
+\i (01:44:49) setwindow pcb
+\i (01:44:49) zoom out -58.5200 -36.6907
+\i (01:44:49) trapsize 533
+\i (01:44:49) zoom out 1 
+\i (01:44:49) setwindow pcb
+\i (01:44:49) zoom out -58.5200 -36.6907
+\i (01:44:49) trapsize 1066
+\i (01:44:49) zoom out 1 
+\i (01:44:49) setwindow pcb
+\i (01:44:49) zoom out -58.5200 -36.6908
+\i (01:44:49) trapsize 2133
+\i (01:44:50) zoom in 1 
+\i (01:44:50) setwindow pcb
+\i (01:44:50) zoom in -48.2823 -42.1509
+\i (01:44:50) trapsize 1066
+\i (01:44:50) zoom in 1 
+\i (01:44:50) setwindow pcb
+\i (01:44:50) zoom in -48.2822 -42.1508
+\i (01:44:50) trapsize 533
+\i (01:44:50) zoom in 1 
+\i (01:44:50) setwindow pcb
+\i (01:44:50) zoom in -48.2822 -42.1508
+\i (01:44:50) trapsize 267
+\i (01:44:51) zoom in 1 
+\i (01:44:51) setwindow pcb
+\i (01:44:51) zoom in -53.2198 -42.4493
+\i (01:44:51) trapsize 133
+\i (01:44:53) delete 
+\i (01:44:54) pick grid -53.2597 -42.2627
+\t (01:44:54) last pick:  -53.2638  -42.2656
+\t (01:44:54) Connect Line "Mux_Pclk, Etch/Top"
+\i (01:44:55) pick grid -53.3930 -42.5800
+\t (01:44:55) last pick:  -53.3908  -42.5704
+\t (01:44:55) Via "Mux_Pclk, Via16c8, (-53.4659 -42.4809)"
+\i (01:44:55) pick grid -53.4544 -42.2120
+\t (01:44:55) last pick:  -53.4670  -42.2148
+\t (01:44:55) Connect Line "Mux_Pclk, Etch/6-Sig"
+\i (01:44:56) prepopup -52.7558 -42.2387
+\i (01:44:56) done 
+\i (01:44:56) generaledit 
+\i (01:44:58) zoom out 1 
+\i (01:44:58) setwindow pcb
+\i (01:44:58) zoom out -52.5932 -42.1560
+\i (01:44:58) trapsize 267
+\i (01:44:58) zoom out 1 
+\i (01:44:58) setwindow pcb
+\i (01:44:58) zoom out -52.5932 -42.1561
+\i (01:44:58) trapsize 533
+\i (01:44:58) roam start
+\i (01:44:58) roam x 16
+\i (01:44:58) roam y -16
+\i (01:44:58) roam x 128
+\i (01:44:58) roam y -96
+\i (01:44:59) roam x 48
+\i (01:44:59) roam y -64
+\i (01:44:59) roam x 48
+\i (01:44:59) roam y -80
+\i (01:44:59) roam x 96
+\i (01:44:59) roam y -112
+\i (01:44:59) roam x 176
+\i (01:44:59) roam y -160
+\i (01:44:59) roam x 128
+\i (01:44:59) roam y -160
+\i (01:44:59) roam x 80
+\i (01:44:59) roam y -96
+\i (01:44:59) roam x 32
+\i (01:44:59) roam y -64
+\i (01:44:59) roam x 16
+\i (01:44:59) roam y -32
+\i (01:44:59) roam x 48
+\i (01:44:59) roam y -32
+\i (01:44:59) roam x 48
+\i (01:44:59) roam y -16
+\i (01:44:59) roam x 112
+\i (01:44:59) roam y -48
+\i (01:44:59) roam x 80
+\i (01:44:59) roam y -48
+\i (01:44:59) roam x 64
+\i (01:44:59) roam y -16
+\i (01:44:59) roam x 32
+\i (01:44:59) roam y -16
+\i (01:44:59) roam x 32
+\i (01:44:59) roam y -16
+\i (01:44:59) roam x 32
+\i (01:44:59) roam y -32
+\i (01:44:59) roam x 48
+\i (01:44:59) roam y -48
+\i (01:44:59) roam x 64
+\i (01:44:59) roam y -64
+\i (01:44:59) roam x 48
+\i (01:44:59) roam y -64
+\i (01:44:59) roam x 32
+\i (01:44:59) roam y -48
+\i (01:44:59) roam x 16
+\i (01:44:59) roam y -32
+\i (01:44:59) roam x 16
+\i (01:44:59) roam y -32
+\i (01:45:00) roam y -16
+\i (01:45:00) roam x 16
+\i (01:45:00) roam y -16
+\i (01:45:00) roam x 16
+\i (01:45:00) roam y -16
+\i (01:45:00) roam x 16
+\i (01:45:00) roam y -16
+\i (01:45:00) roam x 16
+\i (01:45:00) roam y -32
+\i (01:45:00) roam x 48
+\i (01:45:00) roam y -48
+\i (01:45:00) roam x 80
+\i (01:45:00) roam y -80
+\i (01:45:00) roam x 32
+\i (01:45:00) roam y -32
+\i (01:45:00) roam x 16
+\i (01:45:00) roam y -16
+\i (01:45:00) roam x 32
+\i (01:45:00) roam y -16
+\i (01:45:00) roam x 16
+\i (01:45:00) roam y -16
+\i (01:45:00) roam x 16
+\i (01:45:00) roam y -16
+\i (01:45:00) roam x 32
+\i (01:45:00) roam y -16
+\i (01:45:00) roam x 16
+\i (01:45:00) roam y -16
+\i (01:45:00) roam x 32
+\i (01:45:00) roam y -16
+\i (01:45:00) roam x 48
+\i (01:45:00) roam y -16
+\i (01:45:00) roam x 48
+\i (01:45:00) roam y -16
+\i (01:45:00) roam x 48
+\i (01:45:00) roam y -32
+\i (01:45:00) roam x 48
+\i (01:45:00) roam y -32
+\i (01:45:00) roam x 64
+\i (01:45:00) roam y -32
+\i (01:45:00) roam x 64
+\i (01:45:00) roam y -48
+\i (01:45:00) roam x 64
+\i (01:45:00) roam y -32
+\i (01:45:00) roam x 32
+\i (01:45:00) roam y -32
+\i (01:45:00) roam x 16
+\i (01:45:00) roam y -16
+\i (01:45:00) roam x 16
+\i (01:45:00) roam y -16
+\i (01:45:01) roam end
+\i (01:45:02) zoom in 1 
+\i (01:45:02) setwindow pcb
+\i (01:45:02) zoom in -25.5512 -17.5750
+\i (01:45:02) trapsize 267
+\i (01:45:02) zoom in 1 
+\i (01:45:02) setwindow pcb
+\i (01:45:02) zoom in -25.5511 -17.5750
+\i (01:45:02) trapsize 133
+\i (01:45:04) delete 
+\i (01:45:05) pick grid -26.0390 -17.3057
+\t (01:45:05) last pick:  -26.0350  -17.2974
+\t (01:45:05) Via "Mux_Pclk, Via16c8, (-26.1366 -17.1450)"
+\i (01:45:05) pick grid -25.8763 -17.1831
+\t (01:45:05) last pick:  -25.8826  -17.1704
+\t (01:45:05) Connect Line "Mux_Pclk, Etch/Top"
+\i (01:45:06) prepopup -25.8523 -17.3404
+\i (01:45:06) done 
+\i (01:45:06) generaledit 
+\i (01:45:07) roam start
+\i (01:45:07) roam x 64
+\i (01:45:07) roam y -48
+\i (01:45:07) roam x 48
+\i (01:45:07) roam y -32
+\i (01:45:07) roam x 48
+\i (01:45:07) roam y -16
+\i (01:45:07) roam x 48
+\i (01:45:07) roam y -16
+\i (01:45:07) roam x 96
+\i (01:45:07) roam y -32
+\i (01:45:07) roam x 112
+\i (01:45:07) roam y -32
+\i (01:45:07) roam x 64
+\i (01:45:07) roam y -16
+\i (01:45:07) roam x 32
+\i (01:45:07) roam y -32
+\i (01:45:07) roam x 48
+\i (01:45:07) roam x 64
+\i (01:45:07) roam y -32
+\i (01:45:07) roam x 64
+\i (01:45:07) roam y -64
+\i (01:45:07) roam x 48
+\i (01:45:07) roam y -32
+\i (01:45:07) roam x 32
+\i (01:45:07) roam y -32
+\i (01:45:07) roam x 32
+\i (01:45:07) roam y -16
+\i (01:45:07) roam x 16
+\i (01:45:07) roam y -32
+\i (01:45:07) roam x 16
+\i (01:45:07) roam y -32
+\i (01:45:07) roam x 16
+\i (01:45:07) roam y -32
+\i (01:45:07) roam x 16
+\i (01:45:07) roam y -32
+\i (01:45:08) roam x 16
+\i (01:45:08) roam y -32
+\i (01:45:08) roam x 32
+\i (01:45:08) roam y -48
+\i (01:45:08) roam x 32
+\i (01:45:08) roam y -48
+\i (01:45:08) roam x 16
+\i (01:45:08) roam y -16
+\i (01:45:08) roam x 32
+\i (01:45:08) roam y -48
+\i (01:45:08) roam x 32
+\i (01:45:08) roam y -16
+\i (01:45:08) roam x 32
+\i (01:45:08) roam y -32
+\i (01:45:08) roam x 16
+\i (01:45:08) roam y -16
+\i (01:45:08) roam end
+\i (01:45:09) pick grid -23.1171 -15.9460
+\t (01:45:09) last pick:  -23.1140  -15.9512
+\i (01:45:10) xdehilite 
+\i (01:45:10) xNet Mux_Pclk 
+\i (01:45:10) xname_flush 
+\t (01:45:10) Net "Mux_Pclk" dehighlighted.
+\i (01:45:10) done 
+\i (01:45:10) generaledit 
+\i (01:45:10) xhilite 
+\i (01:45:11) xNet Mux_Hsync 
+\i (01:45:11) xname_flush 
+\i (01:45:11) trapsize 2202
+\t (01:45:11) Net "Mux_Hsync" highlighted.
+\i (01:45:11) done 
+\i (01:45:11) generaledit 
+\i (01:45:14) pick grid -87.2010 -39.8323
+\t (01:45:14) last pick:  -87.1982  -39.8272
+\i (01:45:15) zoom in 1 
+\i (01:45:15) setwindow pcb
+\i (01:45:15) zoom in -87.2010 -39.8323
+\i (01:45:15) trapsize 1101
+\i (01:45:15) zoom in 1 
+\i (01:45:15) setwindow pcb
+\i (01:45:15) zoom in -87.2010 -39.8323
+\i (01:45:15) trapsize 551
+\i (01:45:15) zoom in 1 
+\i (01:45:15) setwindow pcb
+\i (01:45:15) zoom in -87.2010 -39.8322
+\i (01:45:15) trapsize 275
+\i (01:45:16) roam start
+\i (01:45:16) roam x 80
+\i (01:45:16) roam y -48
+\i (01:45:16) roam x 32
+\i (01:45:16) roam x 32
+\i (01:45:16) roam y -16
+\i (01:45:16) roam x 48
+\i (01:45:16) roam y -16
+\i (01:45:17) roam end
+\i (01:45:17) zoom in 1 
+\i (01:45:17) setwindow pcb
+\i (01:45:17) zoom in -82.2390 -38.2026
+\i (01:45:17) trapsize 138
+\i (01:45:17) zoom in 1 
+\i (01:45:17) setwindow pcb
+\i (01:45:17) zoom in -82.2418 -38.1971
+\i (01:45:17) trapsize 69
+\i (01:45:18) zoom out 1 
+\i (01:45:18) setwindow pcb
+\i (01:45:18) zoom out -82.2445 -38.1957
+\i (01:45:18) trapsize 138
+\i (01:45:19) delete 
+\i (01:45:19) pick grid -82.9602 -37.7636
+\t (01:45:19) last pick:  -82.9564  -37.7698
+\t (01:45:19) Connect Line "Mux_Hsync, Etch/3-Sig"
+\i (01:45:20) prepopup -82.8886 -38.0939
+\i (01:45:20) done 
+\i (01:45:20) generaledit 
+\i (01:45:21) zoom out 1 
+\i (01:45:21) setwindow pcb
+\i (01:45:21) zoom out -82.8969 -38.1021
+\i (01:45:21) trapsize 275
+\i (01:45:21) zoom out 1 
+\i (01:45:21) setwindow pcb
+\i (01:45:21) zoom out -82.8968 -38.1021
+\i (01:45:21) trapsize 551
+\i (01:45:21) zoom out 1 
+\i (01:45:21) setwindow pcb
+\i (01:45:21) zoom out -82.8968 -38.1021
+\i (01:45:21) trapsize 1101
+\i (01:45:22) roam start
+\i (01:45:22) roam x 80
+\i (01:45:22) roam x 144
+\i (01:45:22) roam y -32
+\i (01:45:22) roam x 16
+\i (01:45:22) roam x 32
+\i (01:45:22) roam x 32
+\i (01:45:22) roam x 48
+\i (01:45:22) roam x 32
+\i (01:45:22) roam x 32
+\i (01:45:22) roam end
+\i (01:45:23) zoom in 1 
+\i (01:45:23) setwindow pcb
+\i (01:45:23) zoom in -57.0572 -36.1595
+\i (01:45:23) trapsize 551
+\i (01:45:23) zoom in 1 
+\i (01:45:23) setwindow pcb
+\i (01:45:23) zoom in -57.0572 -36.1595
+\i (01:45:23) trapsize 275
+\i (01:45:23) zoom in 1 
+\i (01:45:23) setwindow pcb
+\i (01:45:23) zoom in -57.0682 -36.1649
+\i (01:45:23) trapsize 138
+\i (01:45:25) delete 
+\i (01:45:26) pick grid -57.6160 -36.6603
+\t (01:45:26) last pick:  -57.6072  -36.6522
+\t (01:45:26) Connect Line "Mux_Hsync, Etch/Top"
+\i (01:45:26) pick grid -57.3683 -36.7539
+\t (01:45:26) last pick:  -57.3786  -36.7538
+\t (01:45:26) Via "Mux_Hsync, Via16c8, (-57.4294 -36.8046)"
+\i (01:45:27) pick grid -57.5637 -37.0264
+\t (01:45:27) last pick:  -57.5564  -37.0332
+\t (01:45:27) Connect Line "Mux_Hsync, Etch/Bottom"
+\i (01:45:28) prepopup -57.9628 -36.7787
+\i (01:45:28) done 
+\i (01:45:28) generaledit 
+\i (01:45:29) zoom out 1 
+\i (01:45:29) setwindow pcb
+\i (01:45:29) zoom out -58.1665 -36.7980
+\i (01:45:29) trapsize 275
+\i (01:45:29) zoom out 1 
+\i (01:45:29) setwindow pcb
+\i (01:45:29) zoom out -58.1664 -36.7979
+\i (01:45:29) trapsize 551
+\i (01:45:29) zoom out 1 
+\i (01:45:29) setwindow pcb
+\i (01:45:29) zoom out -58.1665 -36.7979
+\i (01:45:29) trapsize 1101
+\i (01:45:29) zoom out 1 
+\i (01:45:29) setwindow pcb
+\i (01:45:29) zoom out -56.1185 -41.2242
+\i (01:45:29) trapsize 2202
+\i (01:45:30) zoom in 1 
+\i (01:45:30) setwindow pcb
+\i (01:45:30) zoom in -55.1497 -44.8355
+\i (01:45:30) trapsize 1101
+\i (01:45:30) zoom in 1 
+\i (01:45:30) setwindow pcb
+\i (01:45:30) zoom in -55.1497 -44.8355
+\i (01:45:30) trapsize 551
+\i (01:45:30) zoom in 1 
+\i (01:45:30) setwindow pcb
+\i (01:45:30) zoom in -55.1497 -44.8355
+\i (01:45:30) trapsize 275
+\i (01:45:33) save 
+\i (01:45:34) fillin yes 
+\i (01:45:34) generaledit 
+\i (01:45:35) drc update 
+\t (01:45:35) Performing DRC...
+\t (01:45:35) Multithreaded DRC update (8 threads).
+\t (01:45:36) No DRC errors detected.
+\i (01:45:36) generaledit 
+\i (01:45:37) save 
+\i (01:45:38) fillin yes 
+\i (01:45:38) generaledit 
+\i (01:45:40) exit 
+\t (01:45:41)     Journal end - Wed Jun 25 19:33:53 2014
