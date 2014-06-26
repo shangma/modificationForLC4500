@@ -1,0 +1,271 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:.../Design/allegroProject/helps/standard/allegro/4500-20130502.brd        |
+|                                                    Mon Jun 23 09:14:22 2014  |
+|------------------------------------------------------------------------------|
+| NET PROPERTIES added to board drawing                                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|     net  name   |   property   |                    value                    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ DMD_D00                 BUS_NAME DMD
+ DMD_D00                 BUS_NAME DMD
+ DMD_D00           PROPAGATION_DE R637.1:J500.M28:1161 mil:1166 mil
+ DMD_D01                 BUS_NAME DMD
+ DMD_D01                 BUS_NAME DMD
+ DMD_D01           PROPAGATION_DE R635.1:J500.M27:900 MIL:965 mil
+ DMD_D02                 BUS_NAME DMD
+ DMD_D02                 BUS_NAME DMD
+ DMD_D02           PROPAGATION_DE R639.1:J500.M25:565 mil:570 mil
+ DMD_D03                 BUS_NAME DMD
+ DMD_D03                 BUS_NAME DMD
+ DMD_D03           PROPAGATION_DE R640.1:J500.M24:1035 mil:1040 mil
+ DMD_D04                 BUS_NAME DMD
+ DMD_D04                 BUS_NAME DMD
+ DMD_D04           PROPAGATION_DE R650.1:J500.M31:995 MIL:1180 mil
+ DMD_D05                 BUS_NAME DMD
+ DMD_D05                 BUS_NAME DMD
+ DMD_D05           PROPAGATION_DE J500.M30:R652.1:932 MIL:957 mil
+ DMD_D06                 BUS_NAME DMD
+ DMD_D06                 BUS_NAME DMD
+ DMD_D06           PROPAGATION_DE R653.1:J500.M33:917 MIL:1193 mil
+ DMD_D07                 BUS_NAME DMD
+ DMD_D07                 BUS_NAME DMD
+ DMD_D07           PROPAGATION_DE R649.1:J500.M34:902 MIL:937 mil
+ DMD_D08                 BUS_NAME DMD
+ DMD_D08                 BUS_NAME DMD
+ DMD_D08           PROPAGATION_DE R632.1:J500.M22:945 mil:950 mil
+ DMD_D09                 BUS_NAME DMD
+ DMD_D09                 BUS_NAME DMD
+ DMD_D09           PROPAGATION_DE R648.1:J500.M36:995 MIL:1160 mil
+ DMD_D10                 BUS_NAME DMD
+ DMD_D10                 BUS_NAME DMD
+ DMD_D10           PROPAGATION_DE R638.1:J500.M21:745 mil:750 mil
+ DMD_D11                 BUS_NAME DMD
+ DMD_D11                 BUS_NAME DMD
+ DMD_D11           PROPAGATION_DE R651.1:J500.M37:947 MIL:1090 mil
+ DMD_D12                 BUS_NAME DMD
+ DMD_D12                 BUS_NAME DMD
+ DMD_D12           PROPAGATION_DE R631.1:J500.M19:837 mil:841 mil
+ DMD_D13                 BUS_NAME DMD
+ DMD_D13                 BUS_NAME DMD
+ DMD_D13           PROPAGATION_DE R654.1:J500.P39:890 MIL:1100 mil
+ DMD_D14                 BUS_NAME DMD
+ DMD_D14                 BUS_NAME DMD
+ DMD_D14           PROPAGATION_DE R655.1:J500.P38:875 MIL:970 mil
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:.../Design/allegroProject/helps/standard/allegro/4500-20130502.brd        |
+|                                                    Mon Jun 23 09:14:22 2014  |
+|------------------------------------------------------------------------------|
+| NET PROPERTIES added to board drawing                                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|     net  name   |   property   |                    value                    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ DMD_D15                 BUS_NAME DMD
+ DMD_D15                 BUS_NAME DMD
+ DMD_D15           PROPAGATION_DE R656.1:J500.P36:882 mil:987 mil
+ DMD_D16                 BUS_NAME DMD
+ DMD_D16                 BUS_NAME DMD
+ DMD_D16           PROPAGATION_DE R657.1:J500.P35:875 MIL:971 mil
+ DMD_D17                 BUS_NAME DMD
+ DMD_D17                 BUS_NAME DMD
+ DMD_D17           PROPAGATION_DE R634.1:J500.P23:917 mil:922 mil
+ DMD_D18                 BUS_NAME DMD
+ DMD_D18                 BUS_NAME DMD
+ DMD_D18           PROPAGATION_DE R646.1:J500.P33:1010 MIL:1180 mil
+ DMD_D19                 BUS_NAME DMD
+ DMD_D19                 BUS_NAME DMD
+ DMD_D19           PROPAGATION_DE R636.1:J500.P32:992 MIL:1052 mil
+ DMD_D20                 BUS_NAME DMD
+ DMD_D20                 BUS_NAME DMD
+ DMD_D20           PROPAGATION_DE R629.1:J500.P18:797 mil:801 mil
+ DMD_D21                 BUS_NAME DMD
+ DMD_D21                 BUS_NAME DMD
+ DMD_D21           PROPAGATION_DE R642.1:J500.P30:990 MIL:1106 mil
+ DMD_D22                 BUS_NAME DMD
+ DMD_D22                 BUS_NAME DMD
+ DMD_D22           PROPAGATION_DE R647.1:J500.P29:905 MIL:922 mil
+ DMD_D23                 BUS_NAME DMD
+ DMD_D23                 BUS_NAME DMD
+ DMD_D23           PROPAGATION_DE R627.1:J500.P20:805 mil:810 mil
+ DMD_DAD_BUS             BUS_NAME DMD
+ DMD_DAD_BUS             BUS_NAME DMD
+ DMD_DAD_OEZ             BUS_NAME DMD
+ DMD_DAD_OEZ             BUS_NAME DMD
+ DMD_DAD_STRB            BUS_NAME DMD
+ DMD_DAD_STRB            BUS_NAME DMD
+ DMD_DCLK                BUS_NAME DMD
+ DMD_DCLK                BUS_NAME DMD
+ DMD_DCLK          PROPAGATION_DE R641.1:J500.P27:1020 mil:1025 mil
+ DMD_LOADB               BUS_NAME DMD
+ DMD_LOADB               BUS_NAME DMD
+ DMD_LOADB         PROPAGATION_DE J500.P26:R644.1:1 MIL:835 mil
+ DMD_SAC_BUS             BUS_NAME DMD
+ DMD_SAC_BUS             BUS_NAME DMD
+ DMD_SAC_BUS       PROPAGATION_DE J500.M16:R633.1:1 MIL:1773 mil
+ DMD_SAC_CLK             BUS_NAME DMD
+ DMD_SAC_CLK             BUS_NAME DMD
+ DMD_SAC_CLK       PROPAGATION_DE J500.M10:R630.1:1 MIL:1712 mil
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:.../Design/allegroProject/helps/standard/allegro/4500-20130502.brd        |
+|                                                    Mon Jun 23 09:14:22 2014  |
+|------------------------------------------------------------------------------|
+| NET PROPERTIES added to board drawing                                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|     net  name   |   property   |                    value                    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ DMD_SCTRL               BUS_NAME DMD
+ DMD_SCTRL               BUS_NAME DMD
+ DMD_SCTRL         PROPAGATION_DE J500.P24:R643.1:1 MIL:843 mil
+ DMD_TRC                 BUS_NAME DMD
+ DMD_TRC                 BUS_NAME DMD
+ DMD_TRC           PROPAGATION_DE J500.P21:R645.1:1 MIL:675 mil
+ D_BUS                   BUS_NAME D
+ D_BUS                   BUS_NAME D
+ D_D00                   BUS_NAME D
+ D_D00                   BUS_NAME D
+ D_D01                   BUS_NAME D
+ D_D01                   BUS_NAME D
+ D_D02                   BUS_NAME D
+ D_D02                   BUS_NAME D
+ D_D02             PROPAGATION_DE U21.C8:R639.2:645 mil:650 mil
+ D_D03                   BUS_NAME D
+ D_D03                   BUS_NAME D
+ D_D04                   BUS_NAME D
+ D_D04                   BUS_NAME D
+ D_D05                   BUS_NAME D
+ D_D05                   BUS_NAME D
+ D_D06                   BUS_NAME D
+ D_D06                   BUS_NAME D
+ D_D07                   BUS_NAME D
+ D_D07                   BUS_NAME D
+ D_D08                   BUS_NAME D
+ D_D08                   BUS_NAME D
+ D_D09                   BUS_NAME D
+ D_D09                   BUS_NAME D
+ D_D10                   BUS_NAME D
+ D_D10                   BUS_NAME D
+ D_D10             PROPAGATION_DE U21.E7:R638.2:403 mil:408 mil
+ D_D11                   BUS_NAME D
+ D_D11                   BUS_NAME D
+ D_D12                   BUS_NAME D
+ D_D12                   BUS_NAME D
+ D_D13                   BUS_NAME D
+ D_D13                   BUS_NAME D
+ D_D14                   BUS_NAME D
+ D_D14                   BUS_NAME D
+ D_D15                   BUS_NAME D
+ D_D15                   BUS_NAME D
+ D_D16                   BUS_NAME D
+ D_D16                   BUS_NAME D
+ D_D17                   BUS_NAME D
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:.../Design/allegroProject/helps/standard/allegro/4500-20130502.brd        |
+|                                                    Mon Jun 23 09:14:22 2014  |
+|------------------------------------------------------------------------------|
+| NET PROPERTIES added to board drawing                                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|     net  name   |   property   |                    value                    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ D_D17                   BUS_NAME D
+ D_D18                   BUS_NAME D
+ D_D18                   BUS_NAME D
+ D_D19                   BUS_NAME D
+ D_D19                   BUS_NAME D
+ D_D20                   BUS_NAME D
+ D_D20                   BUS_NAME D
+ D_D21                   BUS_NAME D
+ D_D21                   BUS_NAME D
+ D_D22                   BUS_NAME D
+ D_D22                   BUS_NAME D
+ D_D23                   BUS_NAME D
+ D_D23                   BUS_NAME D
+ D_DCLK                  BUS_NAME D
+ D_DCLK                  BUS_NAME D
+ D_LOADB                 BUS_NAME D
+ D_LOADB                 BUS_NAME D
+ D_OEZ                   BUS_NAME D
+ D_OEZ                   BUS_NAME D
+ D_SACBUS                BUS_NAME D
+ D_SACBUS                BUS_NAME D
+ D_SACCLK                BUS_NAME D
+ D_SACCLK                BUS_NAME D
+ D_SCTRL                 BUS_NAME D
+ D_SCTRL                 BUS_NAME D
+ D_STRB                  BUS_NAME D
+ D_STRB                  BUS_NAME D
+ D_TRC                   BUS_NAME D
+ D_TRC                   BUS_NAME D
+ MUX_DATAEN        PROPAGATION_DE U21.AA16:J2.87:4600 mil:4740 MIL
+ MUX_HSYNC         PROPAGATION_DE U21.AB16:J2.86:4600 mil:4740 MIL
+ MUX_PCLK          PROPAGATION_DE U21.W15:J2.54:4600 mil:4740 MIL
+ MUX_VSYNC         PROPAGATION_DE J2.55:U21.Y15:4600 mil:4740 mil
+ P1_A2             PROPAGATION_DE U21.AB18:J2.83:4600 mil:4740 MIL
+ P1_A3             PROPAGATION_DE U21.Y17:J2.82:4600 mil:4740 MIL
+ P1_A4             PROPAGATION_DE U21.AA18:J2.81:4600 mil:4740 MIL
+ P1_A5             PROPAGATION_DE U21.AB19:J2.80:4600 mil:4740 MIL
+ P1_A6             PROPAGATION_DE U21.W17:J2.79:4600 mil:4740 MIL
+ P1_A7             PROPAGATION_DE U21.Y18:J2.78:4600 mil:4740 MIL
+ P1_A8             PROPAGATION_DE U21.AA19:J2.77:4600 mil:4740 MIL
+ P1_A9             PROPAGATION_DE U21.AB20:J2.76:4600 mil:4740 MIL
+ P1_B2             PROPAGATION_DE J2.73:U21.AA20:4600 mil:4740 MIL
+ P1_B3             PROPAGATION_DE J2.72:U21.W21:4600 mil:4740 MIL
+ P1_B4             PROPAGATION_DE J2.71:U21.W22:4600 mil:4740 MIL
+ P1_B5             PROPAGATION_DE J2.70:U21.V21:4600 mil:4740 MIL
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:.../Design/allegroProject/helps/standard/allegro/4500-20130502.brd        |
+|                                                    Mon Jun 23 09:14:22 2014  |
+|------------------------------------------------------------------------------|
+| NET PROPERTIES added to board drawing                                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|     net  name   |   property   |                    value                    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ P1_B6             PROPAGATION_DE J2.69:U21.U19:4600 mil:4740 MIL
+ P1_B7             PROPAGATION_DE J2.68:U21.V22:4600 mil:4740 MIL
+ P1_B8             PROPAGATION_DE J2.67:U21.U20:4600 mil:4740 MIL
+ P1_B9             PROPAGATION_DE J2.66:U21.U21:4600 mil:4740 MIL
+ P1_C2             PROPAGATION_DE J2.63:U21.T20:4600 mil:4740 MIL
+ P1_C3             PROPAGATION_DE J2.62:U21.T21:4600 mil:4740 MIL
+ P1_C4             PROPAGATION_DE J2.61:U21.R22:4600 mil:4740 MIL
+ P1_C5             PROPAGATION_DE J2.60:U21.R21:4600 mil:4740 MIL
+ P1_C6             PROPAGATION_DE J2.59:U21.R20:4600 mil:4740 MIL
+ P1_C7             PROPAGATION_DE J2.58:U21.R19:4600 mil:4740 MIL
+ P1_C8             PROPAGATION_DE J2.57:U21.P22:4600 mil:4740 MIL
+ P1_C9             PROPAGATION_DE J2.56:U21.P21:4600 mil:4740 MIL
+ P1_FIELD          PROPAGATION_DE J2.88:U21.W14:4600 mil:4740 mil
+ P2_CLK            PROPAGATION_DE U21.AB17:J2.14:4600 mil:4740 MIL
+ P3_CLK            PROPAGATION_DE AD:AR:4125.00 MIL:7000.00 MIL:J1.94:U21.Y16:7050 mil:7055 mil
+ RCK_IN_N          PROPAGATION_DE R13.1:U21.W9:5790 mil:5940 mil
+ RCK_IN_P          PROPAGATION_DE R10.1:U21.Y9:5790 mil:5940 mil
+ RXE_AN            PROPAGATION_DE AD:AR::5690.00 MIL:R19.1:U21.AA10:5790 mil:5940 mil
+ RXE_AP            PROPAGATION_DE AD:AR::5690.00 MIL:R18.1:U21.AB10:5790 mil:5940 mil
+ RXE_BN            PROPAGATION_DE AD:AR::5690.00 MIL:R17.1:U21.W11:5790 mil:5940 mil
+ RXE_BP            PROPAGATION_DE AD:AR::5690.00 MIL:R16.1:U21.Y11:5790 mil:5940 mil
+ RXE_CN            PROPAGATION_DE AD:AR::5690.00 MIL:R15.1:U21.AA12:5790 mil:5940 mil
+ RXE_CP            PROPAGATION_DE AD:AR::5690.00 MIL:R14.1:U21.AB12:5790 mil:5940 mil
+ RXE_DN            PROPAGATION_DE AD:AR::5690.00 MIL:R9.1:U21.W13:5790 mil:5940 mil
+ RXE_DP            PROPAGATION_DE AD:AR::5690.00 MIL:R8.1:U21.Y13:5790 mil:5940 mil
+ RXE_EN            PROPAGATION_DE AD:AR::5690.00 MIL:R7.1:U21.AA14:5790 mil:5940 mil
+ RXE_EP            PROPAGATION_DE AD:AR::5690.00 MIL:R6.1:U21.AB14:5790 mil:5940 mil
+ TRACEPKT0         PROPAGATION_DE RN501.9:J21.30:2770 mil:2780 mil
+ TRACEPKT1         PROPAGATION_DE RN501.10:J21.28:2770 mil:2780 mil
+ TRACEPKT2         PROPAGATION_DE RN501.11:J21.26:2770 mil:2780 mil
+ TRACEPKT3         PROPAGATION_DE RN501.12:J21.24:2770 mil:2780 mil
+ TRACEPKT6         PROPAGATION_DE RN501.15:J21.18:2770 mil:2780 mil
+ TRACEPKT7         PROPAGATION_DE RN501.16:J21.16:2770 mil:2780 mil
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  213                                            |
+|------------------------------------------------------------------------------|
