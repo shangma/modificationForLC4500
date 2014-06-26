@@ -1001,4 +1001,1514 @@
 \i (00:04:20) delete 
 \i (00:04:21) setwindow form.find
 \i (00:04:21) FORM find clines YES 
-\i (0
+\i (00:04:23) setwindow pcb
+\i (00:04:23) pick grid -82.3212 -63.2174
+\t (00:04:23) last pick:  -82.3214  -63.2206
+\t (00:04:23) Via "P3p3v, Via20c10, (-82.3000 -63.2000)"
+\i (00:04:23) pick grid -82.6002 -63.6277
+\t (00:04:23) last pick:  -82.6008  -63.6270
+\t (00:04:23) Connect Line "P3p3v, Etch/3-Sig"
+\i (00:04:24) pick grid -84.9801 -67.1565
+\t (00:04:24) last pick:  -84.9884  -67.1576
+\t (00:04:24) Connect Line "P3p3v, Etch/6-Sig"
+\i (00:04:24) pick grid -84.9144 -66.7133
+\t (00:04:24) last pick:  -84.9122  -66.7258
+\t (00:04:24) Via "Not On A Net, Via20c10, (-85.0000 -66.6512)"
+\i (00:04:24) zoom out 1 
+\i (00:04:24) setwindow pcb
+\i (00:04:24) zoom out -85.1606 -69.0603
+\i (00:04:24) trapsize 1641
+\i (00:04:24) zoom out 1 
+\i (00:04:24) setwindow pcb
+\i (00:04:24) zoom out -85.1606 -69.0603
+\i (00:04:24) trapsize 3283
+\i (00:04:25) zoom in 1 
+\i (00:04:25) setwindow pcb
+\i (00:04:25) zoom in -84.7011 -74.9690
+\i (00:04:25) trapsize 1641
+\i (00:04:25) zoom in 1 
+\i (00:04:25) setwindow pcb
+\i (00:04:25) zoom in -84.7010 -74.9689
+\i (00:04:25) trapsize 821
+\i (00:04:25) zoom in 1 
+\i (00:04:25) setwindow pcb
+\i (00:04:25) zoom in -84.7010 -74.9689
+\i (00:04:25) trapsize 410
+\i (00:04:26) pick grid -85.9319 -73.1799
+\t (00:04:26) last pick:  -85.9282  -73.1774
+\t (00:04:26) Via "P3p3v, Via20c10, (-85.8987 -73.3699)"
+\i (00:04:26) prepopup -84.6846 -72.9665
+\i (00:04:27) done 
+\i (00:04:27) generaledit 
+\i (00:04:27) pick grid -84.8733 -73.1799
+\t (00:04:27) last pick:  -84.8614  -73.1774
+\i (00:04:27) zoom out 1 
+\i (00:04:27) setwindow pcb
+\i (00:04:27) zoom out -84.8405 -73.1963
+\i (00:04:27) trapsize 821
+\i (00:04:27) zoom out 1 
+\i (00:04:27) setwindow pcb
+\i (00:04:27) zoom out -84.8404 -73.1962
+\i (00:04:27) trapsize 1641
+\i (00:04:27) zoom out 1 
+\i (00:04:27) setwindow pcb
+\i (00:04:27) zoom out -84.8405 -73.1963
+\i (00:04:27) trapsize 3283
+\i (00:04:28) zoom in 1 
+\i (00:04:28) setwindow pcb
+\i (00:04:28) zoom in -74.8615 -60.9195
+\i (00:04:28) trapsize 1641
+\i (00:04:29) zoom in 1 
+\i (00:04:29) setwindow pcb
+\i (00:04:29) zoom in -74.7959 -60.8867
+\i (00:04:29) trapsize 821
+\i (00:04:29) zoom out 1 
+\i (00:04:29) setwindow pcb
+\i (00:04:29) zoom out -77.6189 -62.1176
+\i (00:04:29) trapsize 1641
+\i (00:04:34) save 
+\i (00:04:35) fillin yes 
+\i (00:04:35) generaledit 
+\i (00:04:37) drc update 
+\t (00:04:37) Performing DRC...
+\t (00:04:37) Multithreaded DRC update (8 threads).
+\t (00:04:37) No DRC errors detected.
+\i (00:04:37) generaledit 
+\i (00:04:39) save 
+\i (00:04:40) fillin yes 
+\i (00:04:40) generaledit 
+\i (00:05:17) pick grid -85.0702 -63.5619
+\t (00:05:17) last pick:  -85.0646  -63.5508
+\i (00:05:18) zoom out 1 
+\i (00:05:18) setwindow pcb
+\i (00:05:18) zoom out -85.9893 -63.3321
+\i (00:05:18) trapsize 3283
+\i (00:05:19) zoom in 1 
+\i (00:05:19) setwindow pcb
+\i (00:05:19) zoom in -86.9740 -60.7061
+\i (00:05:19) trapsize 1641
+\i (00:05:19) zoom in 1 
+\i (00:05:19) setwindow pcb
+\i (00:05:19) zoom in -87.0396 -60.7061
+\i (00:05:19) trapsize 821
+\i (00:05:19) zoom in 1 
+\i (00:05:19) setwindow pcb
+\i (00:05:19) zoom in -87.0396 -60.7061
+\i (00:05:19) trapsize 410
+\i (00:05:20) zoom out 1 
+\i (00:05:20) setwindow pcb
+\i (00:05:20) zoom out -87.4335 -60.8373
+\i (00:05:20) trapsize 821
+\i (00:05:21) setwindow form.find
+\i (00:05:21) FORM find all_on  
+\i (00:05:22) setwindow pcb
+\i (00:05:22) prepopup -86.8427 -61.2477
+\i (00:05:23) pick grid -87.5976 -61.3297
+\t (00:05:23) last pick:  -87.6046  -61.3410
+\i (00:05:25) zoom out 1 
+\i (00:05:25) setwindow pcb
+\i (00:05:25) zoom out -88.0736 -60.5748
+\i (00:05:25) trapsize 1641
+\i (00:05:26) zoom in 1 
+\i (00:05:26) setwindow pcb
+\i (00:05:26) zoom in -95.2952 -61.1327
+\i (00:05:26) trapsize 821
+\i (00:05:27) zoom in 1 
+\i (00:05:27) setwindow pcb
+\i (00:05:27) zoom in -92.3902 -58.2276
+\i (00:05:27) trapsize 410
+\i (00:05:28) zoom out 1 
+\i (00:05:28) setwindow pcb
+\i (00:05:28) zoom out -92.1850 -57.9979
+\i (00:05:28) trapsize 821
+\i (00:05:29) zoom out 1 
+\i (00:05:29) setwindow pcb
+\i (00:05:29) zoom out -88.1310 -59.3600
+\i (00:05:29) trapsize 1641
+\i (00:05:30) zoom out 1 
+\i (00:05:30) setwindow pcb
+\i (00:05:30) zoom out -88.1310 -59.3601
+\i (00:05:30) trapsize 3283
+\i (00:05:31) zoom in 1 
+\i (00:05:31) setwindow pcb
+\i (00:05:31) zoom in -88.2623 -56.9309
+\i (00:05:31) trapsize 1641
+\i (00:05:31) zoom in 1 
+\i (00:05:31) setwindow pcb
+\i (00:05:31) zoom in -88.2623 -56.9309
+\i (00:05:31) trapsize 821
+\i (00:05:34) pick grid -88.2130 -57.8828
+\t (00:05:34) last pick:  -88.2142  -57.8866
+\i (00:05:34) pick grid dbl -88.2130 -57.8828
+\t (00:05:34) last pick:  -88.2142  -57.8866
+\i (00:05:35) pick grid -88.2294 -57.8500
+\t (00:05:35) last pick:  -88.2396  -57.8612
+\i (00:05:36) prepopup -88.2294 -57.8500
+\i (00:05:39) pop dyn_option_select '@:@Show element' 
+\i (00:05:39) show element 
+\i (00:05:39) generaledit 
+\i (00:05:46) setwindow text
+\i (00:05:46) close 
+\i (00:05:47) setwindow pcb
+\i (00:05:47) pick grid -84.9469 -60.8535
+\t (00:05:47) last pick:  -84.9376  -60.8584
+\i (00:05:48) zoom out 1 
+\i (00:05:48) setwindow pcb
+\i (00:05:48) zoom out -88.2786 -60.4432
+\i (00:05:48) trapsize 1641
+\i (00:06:07) color192 
+\i (00:06:07) setwindow cvf.dialog
+\i (00:06:07) cvf layer_mode
+\i (00:06:07) setwindow pcb
+\i (00:06:07) generaledit 
+\i (00:06:09) setwindow cvf.dialog
+\i (00:06:09) cvf layer_tree_item 'Board Geometry'
+\i (00:06:12) cvf select_color_cell 70
+\i (00:06:15) cvf layers_color board_geometry/pastemask_top 71
+\i (00:06:22) cvf layers_color board_geometry/pastemask_top 71
+\i (00:06:26) cvf select_color_cell 7
+\i (00:06:26) cvf layers_color board_geometry/pastemask_top 8
+\i (00:06:27) cvf select_color_cell 8
+\i (00:06:28) cvf layers_color board_geometry/pastemask_top 9
+\i (00:06:35) cvf select_color_cell 23
+\i (00:06:36) cvf layers_color board_geometry/pastemask_top 24
+\i (00:06:42) cvf cancel
+\i (00:06:43) setwindow pcb
+\i (00:06:43) pick grid -86.5718 -61.7890
+\t (00:06:43) last pick:  -86.5632  -61.7982
+\i (00:06:46) pick grid -87.7535 -61.5264
+\t (00:06:46) last pick:  -87.7570  -61.5188
+\i (00:06:50) redraw 
+\i (00:06:51) color192 
+\i (00:06:51) generaledit 
+\i (00:07:01) setwindow cvf.dialog
+\i (00:07:01) cvf layer_tree_item 'Board Geometry'
+\i (00:07:05) cvf layers_visible board_geometry/all_row TRUE
+\i (00:07:07) cvf apply
+\i (00:07:13) cvf layers_visible board_geometry/all_row FALSE
+\i (00:07:14) cvf apply
+\i (00:07:15) cvf okay
+\i (00:07:24) setwindow pcb
+\i (00:07:24) color192 
+\i (00:07:25) setwindow cvf.dialog
+\i (00:07:25) cvf layer_mode
+\i (00:07:25) setwindow pcb
+\i (00:07:25) generaledit 
+\i (00:07:27) setwindow cvf.dialog
+\i (00:07:27) cvf layer_tree_item 'Package Geometry'
+\i (00:07:52) setwindow pcb
+\i (00:07:52) color192 
+\i (00:07:52) generaledit 
+\i (00:09:13) setwindow cvf.dialog
+\i (00:09:13) cvf layer_tree_item 'Package Geometry'
+\i (00:09:16) cvf select_color_cell 86
+\i (00:09:19) cvf layers_color package_geometry/silkscreen_top 87
+\i (00:09:21) cvf apply
+\i (00:09:22) cvf okay
+\i (00:09:22) setwindow pcb
+\i (00:09:22) pick grid -89.0993 -66.6471
+\t (00:09:22) last pick:  -89.1032  -66.6496
+\i (00:09:24) redraw 
+\i (00:09:26) drc update 
+\t (00:09:26) Performing DRC...
+\t (00:09:26) Multithreaded DRC update (8 threads).
+\t (00:09:26) No DRC errors detected.
+\i (00:09:26) generaledit 
+\i (00:09:28) pick grid -80.4663 -51.4490
+\t (00:09:28) last pick:  -80.4672  -51.4604
+\i (00:09:28) zoom out 1 
+\i (00:09:28) setwindow pcb
+\i (00:09:28) zoom out -84.5694 -59.3271
+\i (00:09:28) trapsize 3283
+\i (00:09:28) zoom out 1 
+\i (00:09:28) setwindow pcb
+\i (00:09:28) zoom out -84.5695 -59.3271
+\i (00:09:28) trapsize 6565
+\i (00:09:29) zoom in 1 
+\i (00:09:29) setwindow pcb
+\i (00:09:29) zoom in -86.1451 -61.9530
+\i (00:09:29) trapsize 3283
+\i (00:09:29) zoom out 1 
+\i (00:09:29) setwindow pcb
+\i (00:09:29) zoom out -86.1451 -62.2812
+\i (00:09:29) trapsize 6565
+\i (00:09:29) zoom out 1 
+\i (00:09:29) setwindow pcb
+\i (00:09:29) zoom out -86.1451 -62.2812
+\i (00:09:29) trapsize 13130
+\i (00:09:30) zoom in 1 
+\i (00:09:30) setwindow pcb
+\i (00:09:30) zoom in -49.8897 -62.8065
+\i (00:09:30) trapsize 6565
+\i (00:09:30) zoom in 1 
+\i (00:09:30) setwindow pcb
+\i (00:09:30) zoom in -49.8897 -62.8064
+\i (00:09:30) trapsize 3283
+\i (00:09:30) zoom in 1 
+\i (00:09:30) setwindow pcb
+\i (00:09:30) zoom in -49.8897 -62.8064
+\i (00:09:30) trapsize 1641
+\i (00:09:31) zoom out 1 
+\i (00:09:31) setwindow pcb
+\i (00:09:31) zoom out -49.8896 -62.8064
+\i (00:09:31) trapsize 3283
+\i (00:09:31) zoom out 1 
+\i (00:09:31) setwindow pcb
+\i (00:09:31) zoom out -49.8897 -62.8720
+\i (00:09:31) trapsize 6565
+\i (00:09:34) color192 
+\i (00:09:34) setwindow cvf.dialog
+\i (00:09:34) cvf layer_mode
+\i (00:09:34) setwindow pcb
+\i (00:09:34) generaledit 
+\i (00:09:35) setwindow cvf.dialog
+\i (00:09:35) cvf layer_tree_item 'Board Geometry'
+\i (00:09:44) cvf layers_visible board_geometry/outline TRUE
+\i (00:09:47) cvf okay
+\i (00:09:48) setwindow pcb
+\i (00:09:48) pick grid -87.0480 -95.6973
+\t (00:09:48) last pick:  -87.0458  -95.7072
+\i (00:09:49) zoom in 1 
+\i (00:09:49) setwindow pcb
+\i (00:09:49) zoom in -79.4325 -31.8848
+\i (00:09:49) trapsize 3283
+\i (00:09:49) zoom in 1 
+\i (00:09:49) setwindow pcb
+\i (00:09:49) zoom in -78.7760 -33.4604
+\i (00:09:49) trapsize 1641
+\i (00:09:49) zoom out 1 
+\i (00:09:49) setwindow pcb
+\i (00:09:49) zoom out -79.2027 -37.8262
+\i (00:09:49) trapsize 3283
+\i (00:09:50) zoom out 1 
+\i (00:09:50) setwindow pcb
+\i (00:09:50) zoom out -80.1218 -37.8262
+\i (00:09:50) trapsize 6565
+\i (00:09:50) zoom in 1 
+\i (00:09:50) setwindow pcb
+\i (00:09:50) zoom in -84.7174 -65.1368
+\i (00:09:50) trapsize 3283
+\i (00:09:50) zoom in 1 
+\i (00:09:50) setwindow pcb
+\i (00:09:50) zoom in -84.7174 -65.1368
+\i (00:09:50) trapsize 1641
+\i (00:09:52) zoom out 1 
+\i (00:09:52) setwindow pcb
+\i (00:09:52) zoom out -84.4547 -64.4146
+\i (00:09:52) trapsize 3283
+\i (00:09:56) drc update 
+\t (00:09:56) Performing DRC...
+\t (00:09:56) Multithreaded DRC update (8 threads).
+\t (00:09:56) No DRC errors detected.
+\i (00:09:56) generaledit 
+\i (00:09:57) zoom in 1 
+\i (00:09:57) setwindow pcb
+\i (00:09:57) zoom in -50.8417 -80.6303
+\i (00:09:57) trapsize 1641
+\i (00:09:57) zoom in 1 
+\i (00:09:57) setwindow pcb
+\i (00:09:57) zoom in -50.8417 -80.6303
+\i (00:09:57) trapsize 821
+\i (00:09:58) zoom out 1 
+\i (00:09:58) setwindow pcb
+\i (00:09:58) zoom out -52.1547 -79.5142
+\i (00:09:58) trapsize 1641
+\i (00:09:58) zoom out 1 
+\i (00:09:58) setwindow pcb
+\i (00:09:58) zoom out -53.3692 -78.5295
+\i (00:09:58) trapsize 3283
+\i (00:09:59) zoom out 1 
+\i (00:09:59) setwindow pcb
+\i (00:09:59) zoom out -57.9648 -72.2270
+\i (00:09:59) trapsize 6565
+\i (00:10:00) zoom in 1 
+\i (00:10:00) setwindow pcb
+\i (00:10:00) zoom in 7.2919 -5.1320
+\i (00:10:00) trapsize 3283
+\i (00:10:00) zoom in 1 
+\i (00:10:00) setwindow pcb
+\i (00:10:00) zoom in 8.9988 -3.1625
+\i (00:10:00) trapsize 1641
+\i (00:10:02) zoom in 1 
+\i (00:10:02) setwindow pcb
+\i (00:10:02) zoom in -22.9402 -15.2750
+\i (00:10:02) trapsize 821
+\i (00:10:02) zoom in 1 
+\i (00:10:02) setwindow pcb
+\i (00:10:02) zoom in -23.5802 -15.2749
+\i (00:10:02) trapsize 410
+\i (00:10:04) roam start
+\i (00:10:04) roam x -64
+\i (00:10:04) roam x -32
+\i (00:10:04) roam x -16
+\i (00:10:04) roam y -16
+\i (00:10:04) roam x 48
+\i (00:10:04) roam y -32
+\i (00:10:04) roam x 80
+\i (00:10:04) roam y -16
+\i (00:10:04) roam x 32
+\i (00:10:04) roam x 32
+\i (00:10:04) roam y -16
+\i (00:10:05) roam end
+\i (00:10:05) pick grid -22.5720 -16.3854
+\t (00:10:05) last pick:  -22.5806  -16.3830
+\i (00:10:05) setwindow cmgr
+\i (00:10:05) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:05) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:05) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:05) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:05) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:05) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:05) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:05) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:05) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:05) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:05) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:05) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:05) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:05) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:05) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:05) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:05) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:06) setwindow pcb
+\i (00:10:06) delete 
+\t (00:10:06) Selected item not valid for current operation, ignored: Ratsnest "P1_C5, U7.R21:Rp11.5"
+\t (00:10:06) No valid items selected for the current operation, exiting.
+\i (00:10:06) generaledit 
+\i (00:10:06) setwindow cmgr
+\i (00:10:06) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:06) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:06) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:06) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:06) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:06) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:06) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:06) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:06) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:06) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:06) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:06) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:06) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:06) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:06) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:06) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:08) setwindow form.find
+\i (00:10:08) FORM find all_off  
+\i (00:10:09) setwindow pcb
+\i (00:10:09) prepopup -15.4981 -16.0900
+\i (00:10:11) delete 
+\t (00:10:11) Selected item not valid for current operation, ignored: Ratsnest "P1_C5, U7.R21:Rp11.5"
+\t (00:10:11) No valid items selected for the current operation, exiting.
+\i (00:10:11) generaledit 
+\i (00:10:11) setwindow cmgr
+\i (00:10:11) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:11) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:11) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:11) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:11) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:11) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:11) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:11) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:11) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:11) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:11) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:11) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:11) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:11) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:11) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:11) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:12) setwindow form.find
+\i (00:10:12) FORM find vias YES 
+\i (00:10:13) FORM find clines YES 
+\i (00:10:14) setwindow pcb
+\i (00:10:14) pick grid -24.6564 -14.0795
+\t (00:10:14) last pick:  -24.6634  -14.0716
+\i (00:10:14) setwindow cmgr
+\i (00:10:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:14) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:14) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:14) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:14) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:14) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:14) setwindow pcb
+\i (00:10:14) pick grid -24.1394 -14.1944
+\t (00:10:14) last pick:  -24.1300  -14.1986
+\i (00:10:14) setwindow cmgr
+\i (00:10:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:14) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:14) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:14) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:14) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:15) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:15) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:15) setwindow pcb
+\i (00:10:15) pick grid -23.7044 -14.1041
+\t (00:10:15) last pick:  -23.6982  -14.0970
+\i (00:10:15) setwindow cmgr
+\i (00:10:15) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:15) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:15) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:15) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:15) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:15) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:15) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:15) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:15) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:15) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:15) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:15) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:15) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:15) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:15) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:15) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:16) setwindow pcb
+\i (00:10:16) pick grid -24.0655 -13.8579
+\t (00:10:16) last pick:  -24.0538  -13.8684
+\i (00:10:16) setwindow cmgr
+\i (00:10:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:16) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:16) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:16) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:16) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:16) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:16) setwindow pcb
+\i (00:10:16) pick grid -23.9096 -13.6199
+\t (00:10:16) last pick:  -23.9014  -13.6144
+\i (00:10:16) setwindow cmgr
+\i (00:10:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:16) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:16) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:16) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:16) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:16) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:17) setwindow pcb
+\i (00:10:17) pick grid -23.0972 -14.2108
+\t (00:10:17) last pick:  -23.0886  -14.1986
+\i (00:10:17) setwindow cmgr
+\i (00:10:17) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:17) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:17) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:17) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:17) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:17) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:17) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:17) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:17) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:17) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:17) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:17) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:17) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:17) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:17) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:17) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:17) setwindow pcb
+\i (00:10:17) pick grid -23.0643 -13.7676
+\t (00:10:17) last pick:  -23.0632  -13.7668
+\i (00:10:17) setwindow cmgr
+\i (00:10:17) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:17) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:17) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:17) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:17) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:17) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:17) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:17) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:17) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:17) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:17) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:17) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:17) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:17) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:17) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:17) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:18) setwindow pcb
+\i (00:10:18) pick grid -23.0479 -13.6363
+\t (00:10:18) last pick:  -23.0378  -13.6398
+\i (00:10:18) setwindow cmgr
+\i (00:10:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:18) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:18) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:18) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:18) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:18) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:19) setwindow pcb
+\i (00:10:19) pick grid -22.3668 -14.4405
+\t (00:10:19) last pick:  -22.3774  -14.4526
+\i (00:10:19) setwindow cmgr
+\i (00:10:19) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:19) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:19) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:19) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:19) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:19) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:19) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:19) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:19) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:19) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:19) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:19) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:19) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:19) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:19) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:19) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:20) setwindow pcb
+\i (00:10:20) pick grid -22.3422 -13.9892
+\t (00:10:20) last pick:  -22.3520  -13.9954
+\i (00:10:20) setwindow cmgr
+\i (00:10:20) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:20) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:20) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:20) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:20) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:20) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:20) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:20) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:20) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:20) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:20) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:20) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:20) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:20) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:20) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:20) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:20) setwindow pcb
+\i (00:10:20) prepopup -22.4981 -14.0384
+\i (00:10:21) pick grid -22.5638 -14.0877
+\t (00:10:21) last pick:  -22.5552  -14.0970
+\i (00:10:23) prepopup -22.5556 -14.0877
+\i (00:10:25) pick grid -22.5720 -14.1287
+\t (00:10:25) last pick:  -22.5806  -14.1224
+\i (00:10:35) setwindow cmgr
+\i (00:10:35) cm putValue ( Net "P12V_CONN" ) FIXED On 0
+\i (00:10:35) cm endUndoBlock
+\i (00:10:40) cm putValue ( Net "GND" ) FIXED On 0
+\i (00:10:40) cm endUndoBlock
+\i (00:10:45) cm putValue ( Net "P3P3V" ) FIXED On 0
+\i (00:10:45) cm endUndoBlock
+\i (00:10:51) setwindow pcb
+\i (00:10:51) pick grid -20.4629 -16.2541
+\t (00:10:51) last pick:  -20.4724  -16.2560
+\i (00:10:55) delete 
+\i (00:10:56) setwindow form.find
+\i (00:10:56) FORM find symbols NO 
+\i (00:10:59) setwindow pcb
+\i (00:10:59) pick grid -24.7138 -14.3831
+\t (00:10:59) last pick:  -24.7142  -14.3764
+\t (00:10:59) Connect Line "Mde, Etch/Top"
+\i (00:10:59) setwindow cmgr
+\i (00:10:59) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:59) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:59) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:59) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:59) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:59) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:59) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:59) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:59) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:59) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:59) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:59) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:59) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:59) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:59) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:59) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:59) setwindow pcb
+\i (00:10:59) pick grid -24.1065 -14.3257
+\t (00:10:59) last pick:  -24.1046  -14.3256
+\t (00:10:59) Connect Line "Mvs, Etch/Top"
+\i (00:10:59) setwindow cmgr
+\i (00:10:59) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:59) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:59) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:59) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:59) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:59) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:59) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:59) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:59) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:59) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:59) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:59) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:59) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:59) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:59) cm expand ( row ( Bus "P1_" ) )
+\i (00:10:59) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:00) setwindow pcb
+\i (00:11:00) pick grid -24.1065 -13.9318
+\t (00:11:00) last pick:  -24.1046  -13.9192
+\t (00:11:00) Via "Mvs, Via16c8, (-24.1260 -13.8038)"
+\i (00:11:01) pick grid -23.8768 -13.5953
+\t (00:11:01) last pick:  -23.8760  -13.5890
+\t (00:11:01) Connect Line "Mvs, Etch/4--Sig"
+\i (00:11:02) pick grid -22.9823 -12.2331
+\t (00:11:02) last pick:  -22.9870  -12.2428
+\t (00:11:02) Via "Mvs, Via16c8, (-23.0626 -12.1454)"
+\i (00:11:03) pick grid -22.8428 -12.0115
+\t (00:11:03) last pick:  -22.8346  -12.0142
+\t (00:11:03) Connect Line "Mvs, Etch/Top"
+\i (00:11:04) pick grid -23.6142 -14.4077
+\t (00:11:04) last pick:  -23.6220  -14.4018
+\t (00:11:04) Connect Line "Mhs, Etch/Top"
+\i (00:11:04) setwindow cmgr
+\i (00:11:04) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:04) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:04) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:04) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:04) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:04) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:04) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:04) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:04) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:04) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:04) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:04) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:04) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:04) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:04) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:04) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:05) setwindow pcb
+\i (00:11:05) pick grid -23.1054 -14.3667
+\t (00:11:05) last pick:  -23.1140  -14.3764
+\t (00:11:05) Connect Line "Moc, Etch/Top"
+\i (00:11:05) setwindow cmgr
+\i (00:11:05) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:05) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:05) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:05) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:05) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:05) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:05) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:05) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:05) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:05) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:05) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:05) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:05) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:05) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:05) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:05) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:06) setwindow pcb
+\i (00:11:06) pick grid -22.9905 -13.8743
+\t (00:11:06) last pick:  -22.9870  -13.8684
+\t (00:11:06) Via "Moc, Via16c8, (-23.0510 -13.8552)"
+\i (00:11:07) pick grid -23.0561 -13.4886
+\t (00:11:07) last pick:  -23.0632  -13.4874
+\t (00:11:07) Connect Line "Moc, Etch/4--Sig"
+\i (00:11:08) pick grid -22.1042 -12.2413
+\t (00:11:08) last pick:  -22.0980  -12.2428
+\t (00:11:08) Via "Moc, Via16c8, (-22.2627 -12.1454)"
+\i (00:11:08) pick grid -22.0632 -11.9622
+\t (00:11:08) last pick:  -22.0726  -11.9634
+\t (00:11:08) Connect Line "Moc, Etch/Top"
+\i (00:11:12) pick grid -21.7842 -14.2354
+\t (00:11:12) last pick:  -21.7932  -14.2240
+\t (00:11:12) Connect Line "C5, Etch/Top"
+\i (00:11:12) setwindow cmgr
+\i (00:11:12) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:12) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:12) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:12) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:12) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:12) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:12) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:12) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:12) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:12) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:12) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:12) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:12) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:12) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:12) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:12) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:12) setwindow pcb
+\i (00:11:12) pick grid -21.9483 -14.4816
+\t (00:11:12) last pick:  -21.9456  -14.4780
+\t (00:11:12) Connect Line "C6, Etch/Bottom"
+\i (00:11:12) setwindow cmgr
+\i (00:11:12) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:12) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:12) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:12) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:12) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:12) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:12) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:12) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:12) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:12) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:12) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:12) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:12) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:12) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:12) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:12) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:13) setwindow pcb
+\i (00:11:13) pick grid -22.3504 -14.0713
+\t (00:11:13) last pick:  -22.3520  -14.0716
+\t (00:11:13) Connect Line "C6, Etch/4--Sig"
+\i (00:11:14) pick grid -22.2683 -14.3257
+\t (00:11:14) last pick:  -22.2758  -14.3256
+\t (00:11:14) Via "Not On A Net, Via16c8, (-22.3588 -14.4340)"
+\i (00:11:14) pick grid -21.8908 -13.9318
+\t (00:11:14) last pick:  -21.8948  -13.9192
+\t (00:11:14) Via "C5, Via16c8, (-21.7800 -13.8038)"
+\i (00:11:16) pick grid -21.4723 -13.9482
+\t (00:11:16) last pick:  -21.4630  -13.9446
+\t (00:11:16) Connect Line "C5, Etch/4--Sig"
+\i (00:11:18) pick grid -19.7326 -12.9142
+\t (00:11:18) last pick:  -19.7358  -12.9032
+\t (00:11:18) Via "C5, Via16c8, (-19.8627 -12.9454)"
+\i (00:11:18) pick grid -19.7162 -12.7418
+\t (00:11:18) last pick:  -19.7104  -12.7508
+\t (00:11:18) Connect Line "C5, Etch/Top"
+\i (00:11:19) pick grid -20.5040 -12.1674
+\t (00:11:19) last pick:  -20.4978  -12.1666
+\t (00:11:19) Via "C6, Via16c8, (-20.6627 -12.1454)"
+\i (00:11:19) pick grid -20.5040 -11.9622
+\t (00:11:19) last pick:  -20.4978  -11.9634
+\t (00:11:20) Connect Line "C6, Etch/Top"
+\i (00:11:21) pick grid -21.2015 -14.3749
+\t (00:11:21) last pick:  -21.2090  -14.3764
+\t (00:11:21) Connect Line "C4, Etch/Top"
+\i (00:11:21) setwindow cmgr
+\i (00:11:21) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:21) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:21) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:21) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:21) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:21) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:21) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:21) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:21) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:21) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:21) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:21) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:21) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:21) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:21) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:21) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:22) setwindow pcb
+\i (00:11:22) pick grid -21.4313 -13.6692
+\t (00:11:22) last pick:  -21.4376  -13.6652
+\t (00:11:22) Via "C4, Via16c8, (-21.3338 -13.5114)"
+\i (00:11:23) pick grid -21.1359 -13.2835
+\t (00:11:23) last pick:  -21.1328  -13.2842
+\t (00:11:23) Connect Line "C4, Etch/4--Sig"
+\i (00:11:24) pick grid -19.7244 -12.2331
+\t (00:11:24) last pick:  -19.7358  -12.2428
+\t (00:11:24) Via "C4, Via16c8, (-19.8627 -12.1454)"
+\i (00:11:24) pick grid -19.6751 -11.9458
+\t (00:11:24) last pick:  -19.6850  -11.9380
+\t (00:11:24) Connect Line "C4, Etch/Top"
+\i (00:11:25) pick grid -21.1441 -14.3421
+\t (00:11:25) last pick:  -21.1328  -14.3510
+\t (00:11:25) Connect Line "C7, Etch/Bottom"
+\i (00:11:25) setwindow cmgr
+\i (00:11:25) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:25) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:25) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:25) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:25) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:25) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:25) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:25) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:25) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:25) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:25) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:25) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:25) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:25) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:26) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:26) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:26) setwindow pcb
+\i (00:11:26) pick grid -20.5286 -13.0291
+\t (00:11:26) last pick:  -20.5232  -13.0302
+\t (00:11:26) Via "C7, Via16c8, (-20.6627 -12.9454)"
+\i (00:11:27) pick grid -20.4465 -12.6434
+\t (00:11:27) last pick:  -20.4470  -12.6492
+\t (00:11:27) Connect Line "C7, Etch/Top"
+\i (00:11:28) pick grid -20.6927 -14.4405
+\t (00:11:28) last pick:  -20.7010  -14.4526
+\t (00:11:28) Connect Line "C3, Etch/Top"
+\i (00:11:28) setwindow cmgr
+\i (00:11:28) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:28) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:28) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:28) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:28) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:28) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:28) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:28) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:28) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:28) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:28) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:28) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:28) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:28) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:28) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:28) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:30) setwindow pcb
+\i (00:11:30) pick grid -20.2824 -13.6035
+\t (00:11:30) last pick:  -20.2946  -13.6144
+\t (00:11:30) Connect Line "C8, Etch/Bottom"
+\i (00:11:30) setwindow cmgr
+\i (00:11:30) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:30) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:30) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:30) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:30) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:30) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:30) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:30) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:30) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:30) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:30) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:30) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:30) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:30) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:30) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:30) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:31) setwindow pcb
+\i (00:11:31) pick grid -20.2742 -13.1111
+\t (00:11:31) last pick:  -20.2692  -13.1064
+\t (00:11:31) Connect Line "C8, Etch/6-Sig"
+\i (00:11:32) pick grid -21.5462 -12.2166
+\t (00:11:32) last pick:  -21.5392  -12.2174
+\t (00:11:32) Via "C8, Via16c8, (-21.4626 -12.1454)"
+\i (00:11:33) pick grid -21.2343 -11.9787
+\t (00:11:33) last pick:  -21.2344  -11.9888
+\t (00:11:33) Connect Line "C8, Etch/Top"
+\i (00:11:36) pick grid -19.7900 -14.4816
+\t (00:11:36) last pick:  -19.7866  -14.4780
+\t (00:11:36) Connect Line "C9, Etch/6-Sig"
+\i (00:11:36) setwindow cmgr
+\i (00:11:36) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:36) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:36) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:36) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:36) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:36) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:36) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:36) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:36) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:36) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:36) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:36) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:36) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:36) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:37) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:37) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:37) setwindow pcb
+\i (00:11:37) pick grid -19.9213 -14.4980
+\t (00:11:37) last pick:  -19.9136  -14.5034
+\t (00:11:37) Connect Line "C9, Etch/Bottom"
+\i (00:11:37) pick grid -19.9870 -14.1862
+\t (00:11:37) last pick:  -19.9898  -14.1986
+\t (00:11:37) Connect Line "C2, Etch/Top"
+\i (00:11:37) setwindow cmgr
+\i (00:11:37) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:37) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:37) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:37) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:37) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:37) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:37) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:37) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:37) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:37) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:37) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:37) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:37) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:38) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:38) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:38) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:39) setwindow pcb
+\i (00:11:39) pick grid -21.3246 -12.9962
+\t (00:11:39) last pick:  -21.3360  -13.0048
+\t (00:11:39) Via "C9, Via16c8, (-21.4626 -12.9454)"
+\i (00:11:40) pick grid -21.2590 -12.7911
+\t (00:11:40) last pick:  -21.2598  -12.8016
+\t (00:11:40) Connect Line "C9, Etch/Top"
+\i (00:11:41) pick grid -19.6423 -14.7278
+\t (00:11:41) last pick:  -19.6342  -14.7320
+\t (00:11:41) Via "Not On A Net, Via16c8, (-19.5355 -14.7188)"
+\i (00:11:41) pick grid -19.3715 -14.2600
+\t (00:11:41) last pick:  -19.3802  -14.2494
+\t (00:11:41) Via "B5, Via16c8, (-19.4142 -14.1993)"
+\i (00:11:41) setwindow cmgr
+\i (00:11:41) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:41) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:41) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:41) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:41) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:41) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:41) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:41) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:41) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:41) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:41) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:41) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:41) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:41) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:41) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:41) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:42) setwindow pcb
+\i (00:11:42) pick grid -19.2074 -14.3913
+\t (00:11:42) last pick:  -19.2024  -14.4018
+\t (00:11:42) Connect Line "B5, Etch/Top"
+\i (00:11:43) pick grid -18.8299 -14.2436
+\t (00:11:43) last pick:  -18.8214  -14.2494
+\t (00:11:43) Connect Line "B6, Etch/Bottom"
+\i (00:11:43) setwindow cmgr
+\i (00:11:43) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:43) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:43) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:43) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:43) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:43) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:43) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:43) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:43) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:43) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:43) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:43) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:43) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:43) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:43) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:43) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:43) setwindow pcb
+\i (00:11:43) pick grid -19.0761 -13.8989
+\t (00:11:43) last pick:  -19.0754  -13.8938
+\t (00:11:43) Via "B6, Via16c8, (-18.9992 -13.8038)"
+\i (00:11:44) pick grid -19.0761 -13.4804
+\t (00:11:44) last pick:  -19.0754  -13.4874
+\t (00:11:44) Connect Line "B6, Etch/4--Sig"
+\i (00:11:45) pick grid -16.5814 -12.3151
+\t (00:11:45) last pick:  -16.5862  -12.3190
+\t (00:11:45) Via "B6, Via16c8, (-16.6625 -12.1454)"
+\i (00:11:46) pick grid -16.7373 -12.0771
+\t (00:11:46) last pick:  -16.7386  -12.0650
+\t (00:11:46) Connect Line "B6, Etch/Top"
+\i (00:11:48) pick grid -18.2719 -14.3339
+\t (00:11:48) last pick:  -18.2626  -14.3256
+\t (00:11:48) Connect Line "B4, Etch/Top"
+\i (00:11:48) setwindow cmgr
+\i (00:11:48) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:48) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:48) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:48) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:48) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:48) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:48) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:48) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:48) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:48) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:48) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:48) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:48) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:48) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:48) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:48) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:49) setwindow pcb
+\i (00:11:49) pick grid -18.5673 -13.4804
+\t (00:11:49) last pick:  -18.5674  -13.4874
+\t (00:11:49) Via "B4, Via16c8, (-18.5448 -13.5243)"
+\i (00:11:49) pick grid -18.4032 -13.2178
+\t (00:11:49) last pick:  -18.4150  -13.2080
+\t (00:11:49) Connect Line "B4, Etch/4--Sig"
+\i (00:11:51) pick grid -15.8264 -12.3233
+\t (00:11:51) last pick:  -15.8242  -12.3190
+\t (00:11:51) Via "B4, Via16c8, (-15.8625 -12.1454)"
+\i (00:11:51) pick grid -16.0562 -11.9130
+\t (00:11:51) last pick:  -16.0528  -11.9126
+\t (00:11:51) Connect Line "B4, Etch/Top"
+\i (00:11:52) pick grid -19.2156 -14.3667
+\t (00:11:52) last pick:  -19.2278  -14.3764
+\t (00:11:52) Connect Line "B5, Etch/4--Sig"
+\i (00:11:54) pick grid -15.7607 -13.1029
+\t (00:11:54) last pick:  -15.7480  -13.1064
+\t (00:11:54) Via "B5, Via16c8, (-15.8625 -12.9454)"
+\i (00:11:54) pick grid -16.0644 -12.7993
+\t (00:11:54) last pick:  -16.0528  -12.8016
+\t (00:11:54) Connect Line "B5, Etch/Top"
+\i (00:11:55) pick grid -18.3703 -14.3913
+\t (00:11:55) last pick:  -18.3642  -14.4018
+\t (00:11:55) Connect Line "B7, Etch/Bottom"
+\i (00:11:55) setwindow cmgr
+\i (00:11:55) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:55) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:55) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:55) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:55) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:55) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:55) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:55) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:55) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:55) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:55) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:55) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:55) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:55) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:55) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:55) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:56) setwindow pcb
+\i (00:11:56) pick grid -18.1159 -13.2917
+\t (00:11:56) last pick:  -18.1102  -13.2842
+\t (00:11:56) Via "B7, Via16c8, (-18.0086 -13.4366)"
+\i (00:11:57) pick grid -17.6564 -13.4640
+\t (00:11:57) last pick:  -17.6530  -13.4620
+\t (00:11:57) Connect Line "B7, Etch/4--Sig"
+\i (00:11:58) pick grid -16.5403 -13.0783
+\t (00:11:58) last pick:  -16.5354  -13.0810
+\t (00:11:58) Via "B7, Via16c8, (-16.6625 -12.9454)"
+\i (00:11:58) pick grid -16.8358 -12.7254
+\t (00:11:58) last pick:  -16.8402  -12.7254
+\t (00:11:58) Connect Line "B7, Etch/Top"
+\i (00:11:59) pick grid -17.1968 -12.3890
+\t (00:11:59) last pick:  -17.1958  -12.3952
+\t (00:11:59) Connect Line "B9, Etch/6-Sig"
+\i (00:11:59) setwindow cmgr
+\i (00:11:59) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:59) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:59) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:59) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:59) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:59) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:59) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:59) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:59) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:59) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:59) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:59) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:59) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:59) cm expand ( row ( Design "STANDARD" ) )
+\i (00:11:59) cm expand ( row ( Bus "P1_" ) )
+\i (00:11:59) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:00) setwindow pcb
+\i (00:12:00) pick grid -17.4512 -12.1920
+\t (00:12:00) last pick:  -17.4498  -12.1920
+\t (00:12:00) Via "B9, Via16c8, (-17.4626 -12.1454)"
+\i (00:12:01) pick grid -17.6318 -11.9294
+\t (00:12:01) last pick:  -17.6276  -11.9380
+\t (00:12:01) Connect Line "B9, Etch/Top"
+\i (00:12:02) pick grid -16.6963 -13.7758
+\t (00:12:02) last pick:  -16.6878  -13.7668
+\t (00:12:02) Via "B9, Via16c8, (-16.7640 -13.8430)"
+\i (00:12:02) pick grid -16.9999 -13.9646
+\t (00:12:02) last pick:  -16.9926  -13.9700
+\t (00:12:02) Connect Line "B9, Etch/Bottom"
+\i (00:12:03) pick grid -17.6318 -13.9564
+\t (00:12:03) last pick:  -17.6276  -13.9446
+\t (00:12:03) Connect Line "B8, Etch/Bottom"
+\i (00:12:03) setwindow cmgr
+\i (00:12:03) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:03) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:03) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:03) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:03) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:03) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:03) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:03) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:03) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:03) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:03) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:03) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:03) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:03) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:03) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:03) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:04) setwindow pcb
+\i (00:12:04) pick grid -17.3856 -13.0701
+\t (00:12:04) last pick:  -17.3736  -13.0810
+\t (00:12:04) Via "B8, Via16c8, (-17.4626 -12.9454)"
+\i (00:12:05) pick grid -17.6482 -12.6926
+\t (00:12:05) last pick:  -17.6530  -12.7000
+\t (00:12:05) Connect Line "B8, Etch/Top"
+\i (00:12:06) pick grid -16.9507 -14.4323
+\t (00:12:06) last pick:  -16.9418  -14.4272
+\t (00:12:06) Connect Line "B2, Etch/Top"
+\i (00:12:06) setwindow cmgr
+\i (00:12:06) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:06) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:06) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:06) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:06) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:06) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:06) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:06) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:06) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:06) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:06) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:06) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:06) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:06) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:06) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:06) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:06) setwindow pcb
+\i (00:12:06) pick grid -16.4008 -14.4241
+\t (00:12:06) last pick:  -16.4084  -14.4272
+\t (00:12:06) Via "B2, Via16c8, (-16.5540 -14.4340)"
+\i (00:12:07) pick grid -16.2367 -14.1697
+\t (00:12:07) last pick:  -16.2306  -14.1732
+\t (00:12:07) Connect Line "B2, Etch/Bottom"
+\i (00:12:08) pick grid -14.9811 -12.1592
+\t (00:12:08) last pick:  -14.9860  -12.1666
+\t (00:12:08) Via "B2, Via16c8, (-15.0626 -12.1454)"
+\i (00:12:08) pick grid -15.1863 -11.9951
+\t (00:12:08) last pick:  -15.1892  -11.9888
+\t (00:12:08) Connect Line "B2, Etch/Top"
+\i (00:12:09) pick grid -15.4243 -12.8403
+\t (00:12:09) last pick:  -15.4178  -12.8524
+\t (00:12:09) Connect Line "B3, Etch/Top"
+\i (00:12:09) setwindow cmgr
+\i (00:12:09) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:09) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:09) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:09) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:09) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:09) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:09) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:09) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:09) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:09) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:09) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:09) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:09) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:09) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:09) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:09) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:11) setwindow pcb
+\i (00:12:11) roam start
+\i (00:12:11) roam x 16
+\i (00:12:11) roam x 112
+\i (00:12:11) roam x 64
+\i (00:12:11) roam x 16
+\i (00:12:11) roam x 32
+\i (00:12:11) roam x 48
+\i (00:12:11) roam y -16
+\i (00:12:11) roam x 16
+\i (00:12:11) roam x 64
+\i (00:12:12) roam x 48
+\i (00:12:12) roam x 32
+\i (00:12:12) roam x 32
+\i (00:12:12) roam x 32
+\i (00:12:12) roam x 64
+\i (00:12:12) roam x 16
+\i (00:12:12) roam y -16
+\i (00:12:12) roam x 16
+\i (00:12:12) roam x 16
+\i (00:12:12) roam x 16
+\i (00:12:12) roam end
+\i (00:12:14) setwindow form.vf_vis
+\i (00:12:14) FORM vf_vis all_all_visible YES 
+\i (00:12:15) setwindow pcb
+\i (00:12:15) pick grid -15.8346 -14.4077
+\t (00:12:15) last pick:  -15.8242  -14.4018
+\t (00:12:15) Connect Line "A9, Etch/Top"
+\i (00:12:15) setwindow cmgr
+\i (00:12:15) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:15) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:15) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:15) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:15) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:15) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:15) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:15) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:15) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:15) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:15) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:15) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:15) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:15) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:15) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:15) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:16) setwindow pcb
+\i (00:12:16) pick grid -15.3751 -14.3749
+\t (00:12:16) last pick:  -15.3670  -14.3764
+\t (00:12:16) Connect Line "A8, Etch/Top"
+\i (00:12:16) setwindow cmgr
+\i (00:12:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:16) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:16) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:16) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:16) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:16) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:16) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:17) setwindow pcb
+\i (00:12:17) pick grid -14.1605 -12.1592
+\t (00:12:17) last pick:  -14.1478  -12.1666
+\t (00:12:17) Via "A8, Via16c8, (-14.2625 -12.1454)"
+\i (00:12:17) pick grid -14.3821 -11.9458
+\t (00:12:17) last pick:  -14.3764  -11.9380
+\t (00:12:17) Connect Line "A8, Etch/Top"
+\i (00:12:18) pick grid -14.5380 -13.8169
+\t (00:12:18) last pick:  -14.5288  -13.8176
+\t (00:12:18) Connect Line "A7, Etch/Top"
+\i (00:12:18) setwindow cmgr
+\i (00:12:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:18) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:18) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:18) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:18) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:18) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:18) setwindow pcb
+\i (00:12:18) pick grid -13.8077 -13.7430
+\t (00:12:18) last pick:  -13.8176  -13.7414
+\t (00:12:18) Connect Line "A6, Etch/Top"
+\i (00:12:18) setwindow cmgr
+\i (00:12:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:18) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:18) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:18) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:18) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:18) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:18) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:20) setwindow pcb
+\i (00:12:20) pick grid -13.0445 -13.8579
+\t (00:12:20) last pick:  -13.0556  -13.8684
+\t (00:12:20) Connect Line "A5, Etch/Top"
+\i (00:12:20) setwindow cmgr
+\i (00:12:20) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:20) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:20) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:20) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:20) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:20) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:20) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:20) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:20) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:20) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:20) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:20) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:20) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:20) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:20) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:20) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:20) setwindow pcb
+\i (00:12:20) pick grid -12.7080 -13.7102
+\t (00:12:20) last pick:  -12.7000  -13.7160
+\t (00:12:20) Connect Line "A4, Etch/Top"
+\i (00:12:20) setwindow cmgr
+\i (00:12:20) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:20) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:20) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:20) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:20) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:20) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:20) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:20) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:20) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:20) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:20) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:20) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:20) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:20) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:20) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:20) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:21) setwindow pcb
+\i (00:12:21) pick grid -12.0926 -13.5050
+\t (00:12:21) last pick:  -12.0904  -13.5128
+\t (00:12:21) Connect Line "A3, Etch/Top"
+\i (00:12:21) setwindow cmgr
+\i (00:12:21) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:21) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:21) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:21) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:21) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:21) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:21) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:21) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:21) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:21) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:21) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:21) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:21) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:21) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:21) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:21) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:22) setwindow pcb
+\i (00:12:22) pick grid -11.6084 -13.4968
+\t (00:12:22) last pick:  -11.6078  -13.4874
+\t (00:12:22) Connect Line "A2, Etch/Top"
+\i (00:12:22) setwindow cmgr
+\i (00:12:22) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:22) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:22) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:22) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:22) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:22) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:22) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:22) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:22) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:22) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:22) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:22) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:22) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:22) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:22) cm expand ( row ( Bus "P1_" ) )
+\i (00:12:22) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:22) setwindow pcb
+\i (00:12:22) pick grid -11.7069 -12.1838
+\t (00:12:22) last pick:  -11.7094  -12.1920
+\t (00:12:22) Via "A2, Via16c8, (-11.8625 -12.1454)"
+\i (00:12:22) pick grid -12.0105 -11.9540
+\t (00:12:22) last pick:  -12.0142  -11.9634
+\t (00:12:23) Connect Line "A2, Etch/Top"
+\i (00:12:23) prepopup -12.7573 -12.2002
+\i (00:12:23) done 
+\i (00:12:24) generaledit 
+\i (00:12:25) roam start
+\i (00:12:25) roam x -16
+\i (00:12:25) roam x -80
+\i (00:12:25) roam x -96
+\i (00:12:25) roam x -64
+\i (00:12:25) roam x -80
+\i (00:12:25) roam x -64
+\i (00:12:25) roam x -48
+\i (00:12:25) roam x -32
+\i (00:12:26) roam x -16
+\i (00:12:26) roam y -16
+\i (00:12:26) roam x -32
+\i (00:12:26) roam x -16
+\i (00:12:26) roam x -16
+\i (00:12:26) roam x -112
+\i (00:12:26) roam x -96
+\i (00:12:26) roam x -64
+\i (00:12:26) roam x -48
+\i (00:12:26) roam x -16
+\i (00:12:26) roam end
+\i (00:12:29) setwindow form.find
+\i (00:12:29) FORM find all_off  
+\i (00:12:30) setwindow pcb
+\i (00:12:30) prepopup -18.6493 -15.8931
+\i (00:12:32) setwindow form.find
+\i (00:12:32) FORM find symbols YES 
+\i (00:12:33) setwindow pcb
+\i (00:12:33) pick grid -23.5567 -15.4827
+\t (00:12:33) last pick:  -23.5458  -15.4940
+\i (00:12:33) setwindow cmgr
+\i (00:12:33) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:33) cm expand ( row ( "Part Definition" "RESARR_IS_4/SM_0804_2010_METRIC:0804_2010_METRIC:22:" ) )
+\i (00:12:33) setwindow pcb
+\i (00:12:33) prepopup -23.5567 -15.4827
+\i (00:12:34) pop dyn_option_select '@:@Unplace component' 
+\i (00:12:34) unplace component 
+\i (00:12:34) generaledit 
+\i (00:12:35) prepopup -21.7021 -14.8345
+\i (00:12:35) pick grid -21.7431 -14.6867
+\t (00:12:35) last pick:  -21.7424  -14.6812
+\i (00:12:35) setwindow cmgr
+\i (00:12:35) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:35) cm expand ( row ( "Part Definition" "RESARR_IS_4/SM_0804_2010_METRIC:0804_2010_METRIC:22:" ) )
+\i (00:12:36) setwindow pcb
+\i (00:12:36) prepopup -21.7513 -14.6785
+\i (00:12:37) pop dyn_option_select '@:@Unplace component' 
+\i (00:12:37) unplace component 
+\i (00:12:37) generaledit 
+\i (00:12:38) pick grid -20.8733 -15.3268
+\t (00:12:38) last pick:  -20.8788  -15.3162
+\i (00:12:38) setwindow cmgr
+\i (00:12:38) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:38) cm expand ( row ( "Part Definition" "RESARR_IS_4/SM_0804_2010_METRIC:0804_2010_METRIC:22:" ) )
+\i (00:12:38) setwindow pcb
+\i (00:12:38) prepopup -20.8815 -15.3186
+\i (00:12:40) pop dyn_option_select '@:@Unplace component' 
+\i (00:12:40) unplace component 
+\i (00:12:40) generaledit 
+\i (00:12:41) pick grid -18.7724 -14.9658
+\t (00:12:41) last pick:  -18.7706  -14.9606
+\i (00:12:41) pick grid -18.7642 -14.7524
+\t (00:12:41) last pick:  -18.7706  -14.7574
+\i (00:12:41) setwindow cmgr
+\i (00:12:41) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:41) cm expand ( row ( "Part Definition" "RESARR_IS_4/SM_0804_2010_METRIC:0804_2010_METRIC:22:" ) )
+\i (00:12:41) setwindow pcb
+\i (00:12:41) prepopup -18.7724 -14.7278
+\i (00:12:42) pop dyn_option_select '@:@Unplace component' 
+\i (00:12:42) unplace component 
+\i (00:12:42) generaledit 
+\i (00:12:43) pick grid -18.6001 -14.6785
+\t (00:12:43) last pick:  -18.5928  -14.6812
+\i (00:12:43) setwindow cmgr
+\i (00:12:43) cm expand ( row ( Design "STANDARD" ) )
+\i (00:12:43) cm expand ( row ( "Part Definition" "RESARR_IS_4/SM_0804_2010_METRIC:0804_2010_METRIC:22:" ) )
+\i (00:12:43) setwindow pcb
+\i (00:12:43) prepopup -18.6986 -14.6785
+\i (00:12:44) pop dyn_option_select '@:@Unplace component' 
+\
