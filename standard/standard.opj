@@ -79,11 +79,13 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\standard.dsn")
-      (Path "Design Resources" ".\standard.dsn" "SCHEMATIC1")
+      (Path "Design Resources"
+         "c:\users\ma\dropbox\design\allegroproject\designongit\modificationforlc4500\standard\standard.dsn")
+      (Path "Design Resources"
+         "c:\users\ma\dropbox\design\allegroproject\designongit\modificationforlc4500\standard\standard.dsn"
+         "SCHEMATIC1")
       (Path "Outputs")
-      (Select "Design Resources" ".\standard.dsn" "SCHEMATIC1"
-         "PAGE-05  TFP401 RECEIVER"))
+      (Select "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
