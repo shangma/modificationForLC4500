@@ -1,0 +1,3 @@
+1. add test point at ext_power_on
+2. Level shift for i2c communication
+3. enable usart communication for dlpc350
