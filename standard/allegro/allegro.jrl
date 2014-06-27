@@ -17356,3 +17356,2473 @@
 \i (02:46:36) generaledit 
 \i (02:46:36) pick grid -60.0952 -18.3662
 \t (02:46:36) last pick:  -60.0964  -18.3642
+\i (02:46:39) pick grid -60.3326 -17.9782
+\t (02:46:39) last pick:  -60.3250  -17.9832
+\i (02:46:41) setwindow form.find
+\i (02:46:41) FORM find symbols YES 
+\i (02:46:44) setwindow pcb
+\i (02:46:44) pick grid -60.1878 -18.0246
+\t (02:46:44) last pick:  -60.1980  -18.0340
+\i (02:46:46) pick grid -60.1705 -18.2620
+\t (02:46:46) last pick:  -60.1726  -18.2626
+\i (02:46:49) pick grid -59.4409 -17.5208
+\t (02:46:49) last pick:  -59.4360  -17.5260
+\i (02:46:49) setwindow cmgr
+\i (02:46:49) cm expand ( row ( Design "STANDARD" ) )
+\i (02:46:49) cm expand ( row ( "Part Definition" "CAP NP_CAP_0402_0.1UF:CAP_0402:0.1uF:" ) )
+\i (02:46:49) setwindow pcb
+\i (02:46:49) prepopup -59.4409 -17.5208
+\i (02:46:51) pop dyn_option_select '@:@Unplace component' 
+\i (02:46:51) unplace component 
+\i (02:46:51) generaledit 
+\i (02:46:52) pick grid -59.0934 -16.9302
+\t (02:46:52) last pick:  -59.1058  -16.9418
+\i (02:46:52) setwindow cmgr
+\i (02:46:52) cm expand ( row ( Design "STANDARD" ) )
+\i (02:46:52) cm expand ( row ( Design "STANDARD" ) )
+\i (02:46:52) setwindow pcb
+\i (02:46:52) prepopup -59.0934 -16.9302
+\i (02:46:53) pop dyn_option_select @:@Delete 
+\i (02:46:53) delete 
+\i (02:46:53) generaledit 
+\i (02:46:54) pick grid -60.3036 -17.8972
+\t (02:46:54) last pick:  -60.2996  -17.9070
+\i (02:46:56) pick grid -58.4044 -16.8607
+\t (02:46:56) last pick:  -58.3946  -16.8656
+\i (02:46:56) setwindow cmgr
+\i (02:46:56) cm expand ( row ( Design "STANDARD" ) )
+\i (02:46:56) cm expand ( row ( Design "STANDARD" ) )
+\i (02:46:57) setwindow pcb
+\i (02:46:57) prepopup -58.4044 -16.8607
+\i (02:46:59) pop dyn_option_select @:@Delete 
+\i (02:46:59) delete 
+\i (02:46:59) generaledit 
+\i (02:47:00) pick grid -58.5723 -16.9591
+\t (02:47:00) last pick:  -58.5724  -16.9672
+\i (02:47:00) setwindow cmgr
+\i (02:47:00) cm expand ( row ( Design "STANDARD" ) )
+\i (02:47:00) cm expand ( row ( Design "STANDARD" ) )
+\i (02:47:00) setwindow pcb
+\i (02:47:00) prepopup -58.5665 -16.9417
+\i (02:47:01) pop dyn_option_select @:@Delete 
+\i (02:47:01) delete 
+\i (02:47:02) generaledit 
+\i (02:47:02) zoom out 1 
+\i (02:47:02) setwindow pcb
+\i (02:47:02) zoom out -60.4716 -18.1462
+\i (02:47:02) trapsize 579
+\i (02:47:17) zoom in 1 
+\i (02:47:17) setwindow pcb
+\i (02:47:17) zoom in -52.1680 -13.8495
+\i (02:47:17) trapsize 290
+\i (02:47:17) zoom in 1 
+\i (02:47:17) setwindow pcb
+\i (02:47:17) zoom in -52.1680 -13.8495
+\i (02:47:17) trapsize 145
+\i (02:47:18) zoom out 1 
+\i (02:47:18) setwindow pcb
+\i (02:47:18) zoom out -52.1795 -13.8524
+\i (02:47:18) trapsize 290
+\i (02:47:18) zoom out 1 
+\i (02:47:18) setwindow pcb
+\i (02:47:18) zoom out -52.1796 -13.8582
+\i (02:47:18) trapsize 579
+\i (02:47:25) pick grid -52.2606 -20.2045
+\t (02:47:25) last pick:  -52.2732  -20.1930
+\i (02:47:25) setwindow cmgr
+\i (02:47:25) cm expand ( row ( Design "STANDARD" ) )
+\i (02:47:25) cm expand ( row ( "Part Definition" "SN74AVC8T245PW_PW_SN74AVC8T245P:PW:SN74AVC8T245PW:" ) )
+\i (02:47:26) setwindow pcb
+\i (02:47:26) prepopup -52.2606 -20.2045
+\i (02:47:27) pop dyn_option_select '@:@Unplace component' 
+\i (02:47:27) unplace component 
+\i (02:47:27) generaledit 
+\i (02:47:29) zoom out 1 
+\i (02:47:29) setwindow pcb
+\i (02:47:29) zoom out -53.5345 -19.0348
+\i (02:47:29) trapsize 1158
+\i (02:47:31) drc update 
+\t (02:47:31) Performing DRC...
+\t (02:47:31) Multithreaded DRC update (8 threads).
+\t (02:47:31) No DRC errors detected.
+\i (02:47:31) generaledit 
+\i (02:47:33) save 
+\i (02:47:34) fillin yes 
+\i (02:47:34) generaledit 
+\i (02:48:19) pick grid -55.1791 -18.1084
+\t (02:48:19) last pick:  -55.1688  -18.1102
+\i (02:48:20) roam start
+\i (02:48:20) roam x 64
+\i (02:48:20) roam x 80
+\i (02:48:20) roam x 96
+\i (02:48:21) roam x 112
+\i (02:48:21) roam x 48
+\i (02:48:21) roam x 48
+\i (02:48:21) roam end
+\i (02:48:22) zoom in 1 
+\i (02:48:22) setwindow pcb
+\i (02:48:22) zoom in -44.7678 -17.5293
+\i (02:48:22) trapsize 579
+\i (02:48:22) zoom in 1 
+\i (02:48:22) setwindow pcb
+\i (02:48:22) zoom in -44.7678 -17.5293
+\i (02:48:22) trapsize 290
+\i (02:48:22) zoom out 1 
+\i (02:48:22) setwindow pcb
+\i (02:48:22) zoom out -44.7678 -17.5177
+\i (02:48:22) trapsize 579
+\i (02:48:23) pick grid -52.6661 -19.1042
+\t (02:48:23) last pick:  -52.6542  -19.1008
+\i (02:48:38) setwindow cmgr
+\i (02:48:38) cm putValue ( Net "GND" ) FIXED On 0
+\i (02:48:38) cm endUndoBlock
+\i (02:48:51) setwindow pcb
+\i (02:48:51) pick grid -44.6520 -16.4985
+\t (02:48:51) last pick:  -44.6532  -16.5100
+\i (02:49:19) pick grid -42.6485 -14.1707
+\t (02:49:19) last pick:  -42.6466  -14.1732
+\i (02:49:22) pick grid -42.3126 -15.9773
+\t (02:49:22) last pick:  -42.3164  -15.9766
+\i (02:49:22) setwindow cmgr
+\i (02:49:22) cm expand ( row ( Design "STANDARD" ) )
+\i (02:49:22) cm expand ( row ( Design "STANDARD" ) )
+\i (02:49:23) setwindow pcb
+\i (02:49:23) prepopup -42.3242 -15.9889
+\i (02:49:25) pick grid -42.3821 -15.2825
+\t (02:49:25) last pick:  -42.3926  -15.2908
+\i (02:49:30) setwindow cmgr
+\i (02:49:30) cm putValue ( Net "GND" ) FIXED (Clear) 0
+\i (02:49:31) cm endUndoBlock
+\i (02:49:32) setwindow pcb
+\i (02:49:32) pick grid -42.7296 -16.6259
+\t (02:49:32) last pick:  -42.7228  -16.6370
+\i (02:49:33) pick grid -42.7411 -15.8731
+\t (02:49:33) last pick:  -42.7482  -15.8750
+\i (02:49:33) setwindow cmgr
+\i (02:49:33) cm expand ( row ( Design "STANDARD" ) )
+\i (02:49:33) cm expand ( row ( Design "STANDARD" ) )
+\i (02:49:33) setwindow pcb
+\i (02:49:33) prepopup -42.7411 -15.8731
+\i (02:49:34) pop dyn_option_select @:@Delete 
+\i (02:49:34) delete 
+\i (02:49:34) generaledit 
+\i (02:49:42) zoom in 1 
+\i (02:49:42) setwindow pcb
+\i (02:49:42) zoom in -49.0296 -13.3368
+\i (02:49:42) trapsize 290
+\i (02:49:43) zoom out 1 
+\i (02:49:43) setwindow pcb
+\i (02:49:43) zoom out -48.7459 -13.1399
+\i (02:49:43) trapsize 579
+\i (02:50:08) pick grid -48.5258 -12.8619
+\t (02:50:08) last pick:  -48.5140  -12.8524
+\i (02:50:10) pick grid -48.9891 -13.0357
+\t (02:50:10) last pick:  -48.9966  -13.0302
+\i (02:50:10) setwindow cmgr
+\i (02:50:10) cm expand ( row ( Design "STANDARD" ) )
+\i (02:50:10) cm expand ( row ( Design "STANDARD" ) )
+\i (02:50:10) setwindow pcb
+\i (02:50:10) prepopup -48.9891 -13.0357
+\i (02:50:11) pop dyn_option_select @:@Delete 
+\i (02:50:11) delete 
+\i (02:50:11) generaledit 
+\i (02:50:12) pick grid -49.0817 -12.8272
+\t (02:50:12) last pick:  -49.0728  -12.8270
+\i (02:50:12) setwindow cmgr
+\i (02:50:12) cm expand ( row ( Design "STANDARD" ) )
+\i (02:50:12) cm expand ( row ( Design "STANDARD" ) )
+\i (02:50:12) setwindow pcb
+\i (02:50:12) prepopup -49.0817 -12.8272
+\i (02:50:13) pop dyn_option_select @:@Delete 
+\i (02:50:13) delete 
+\i (02:50:13) generaledit 
+\i (02:50:15) zoom in 1 
+\i (02:50:15) setwindow pcb
+\i (02:50:15) zoom in -51.2821 -13.0472
+\i (02:50:15) trapsize 290
+\i (02:50:30) pick grid -49.7013 -13.0298
+\t (02:50:30) last pick:  -49.7078  -13.0302
+\i (02:50:30) setwindow cmgr
+\i (02:50:30) cm expand ( row ( Design "STANDARD" ) )
+\i (02:50:30) cm expand ( row ( Design "STANDARD" ) )
+\i (02:50:31) setwindow pcb
+\i (02:50:31) prepopup -49.7013 -13.0298
+\i (02:50:32) pop dyn_option_select @:@Delete 
+\i (02:50:32) delete 
+\i (02:50:32) generaledit 
+\i (02:50:33) pick grid -49.8518 -13.0530
+\t (02:50:33) last pick:  -49.8602  -13.0556
+\i (02:50:33) setwindow cmgr
+\i (02:50:33) cm expand ( row ( Design "STANDARD" ) )
+\i (02:50:33) cm expand ( row ( Design "STANDARD" ) )
+\i (02:50:34) setwindow pcb
+\i (02:50:34) prepopup -49.8518 -13.0530
+\i (02:50:35) pop dyn_option_select @:@Delete 
+\i (02:50:35) delete 
+\i (02:50:35) generaledit 
+\i (02:50:35) pick grid -49.9445 -12.8735
+\t (02:50:35) last pick:  -49.9364  -12.8778
+\i (02:50:35) setwindow cmgr
+\i (02:50:35) cm expand ( row ( Design "STANDARD" ) )
+\i (02:50:35) cm expand ( row ( Design "STANDARD" ) )
+\i (02:50:36) setwindow pcb
+\i (02:50:36) prepopup -49.9445 -12.8735
+\i (02:50:37) pop dyn_option_select @:@Delete 
+\i (02:50:37) delete 
+\i (02:50:37) generaledit 
+\i (02:50:37) pick grid -50.2456 -12.8272
+\t (02:50:37) last pick:  -50.2412  -12.8270
+\i (02:50:37) setwindow cmgr
+\i (02:50:37) cm expand ( row ( Design "STANDARD" ) )
+\i (02:50:37) cm expand ( row ( Design "STANDARD" ) )
+\i (02:50:37) setwindow pcb
+\i (02:50:37) prepopup -50.2456 -12.8272
+\i (02:50:38) pop dyn_option_select @:@Delete 
+\i (02:50:38) delete 
+\i (02:50:39) generaledit 
+\i (02:50:41) pick grid -48.8501 -13.4931
+\t (02:50:41) last pick:  -48.8442  -13.4874
+\i (02:50:41) setwindow cmgr
+\i (02:50:41) cm expand ( row ( Design "STANDARD" ) )
+\i (02:50:41) cm expand ( row ( "Part Definition" "CAP NP_CAP_0402_0.1UF:CAP_0402:0.1uF:" ) )
+\i (02:50:41) setwindow pcb
+\i (02:50:41) prepopup -48.8501 -13.4931
+\i (02:50:43) pop dyn_option_select '@:@Unplace component' 
+\i (02:50:43) unplace component 
+\i (02:50:44) generaledit 
+\i (02:50:46) zoom out 1 
+\i (02:50:46) setwindow pcb
+\i (02:50:46) zoom out -50.3035 -14.4948
+\i (02:50:46) trapsize 579
+\i (02:50:50) roam start
+\i (02:50:50) roam x 96
+\i (02:50:50) roam y 48
+\i (02:50:50) roam x 48
+\i (02:50:50) roam y 16
+\i (02:50:50) roam x 32
+\i (02:50:50) roam x 32
+\i (02:50:50) roam x 64
+\i (02:50:50) roam x 32
+\i (02:50:51) roam x -96
+\i (02:50:51) roam x -32
+\i (02:50:51) roam x -16
+\i (02:50:51) roam y 16
+\i (02:50:51) roam y 48
+\i (02:50:51) roam y 16
+\i (02:50:51) roam y 16
+\i (02:50:51) roam y 16
+\i (02:50:51) roam y 16
+\i (02:50:52) roam end
+\i (02:50:52) zoom in 1 
+\i (02:50:52) setwindow pcb
+\i (02:50:52) zoom in -51.5543 -20.5669
+\i (02:50:52) trapsize 290
+\i (02:51:11) pick grid -51.1085 -20.6363
+\t (02:51:11) last pick:  -51.1048  -20.6248
+\i (02:51:15) pick grid -49.7535 -18.9745
+\t (02:51:15) last pick:  -49.7586  -18.9738
+\i (02:51:15) setwindow cmgr
+\i (02:51:15) cm expand ( row ( Design "STANDARD" ) )
+\i (02:51:15) cm expand ( row ( Design "STANDARD" ) )
+\i (02:51:15) setwindow pcb
+\i (02:51:15) prepopup -49.7593 -18.9745
+\i (02:51:16) pop dyn_option_select @:@Delete 
+\i (02:51:16) delete 
+\i (02:51:16) generaledit 
+\i (02:51:17) pick grid -49.7477 -18.9745
+\t (02:51:17) last pick:  -49.7586  -18.9738
+\i (02:51:17) setwindow cmgr
+\i (02:51:17) cm expand ( row ( Design "STANDARD" ) )
+\i (02:51:17) cm expand ( row ( Design "STANDARD" ) )
+\i (02:51:18) setwindow pcb
+\i (02:51:18) prepopup -49.7477 -18.9745
+\i (02:51:19) pop dyn_option_select @:@Delete 
+\i (02:51:19) delete 
+\i (02:51:19) generaledit 
+\i (02:51:20) pick grid -50.3731 -19.0208
+\t (02:51:20) last pick:  -50.3682  -19.0246
+\i (02:51:20) setwindow cmgr
+\i (02:51:20) cm expand ( row ( Design "STANDARD" ) )
+\i (02:51:20) cm expand ( row ( Design "STANDARD" ) )
+\i (02:51:20) setwindow pcb
+\i (02:51:20) prepopup -50.3731 -19.0150
+\i (02:51:21) pop dyn_option_select @:@Delete 
+\i (02:51:21) delete 
+\i (02:51:21) generaledit 
+\i (02:51:22) pick grid -50.4252 -19.0498
+\t (02:51:22) last pick:  -50.4190  -19.0500
+\i (02:51:22) setwindow cmgr
+\i (02:51:22) cm expand ( row ( Design "STANDARD" ) )
+\i (02:51:22) cm expand ( row ( Design "STANDARD" ) )
+\i (02:51:22) setwindow pcb
+\i (02:51:22) prepopup -50.4252 -19.0498
+\i (02:51:23) pop dyn_option_select @:@Delete 
+\i (02:51:23) delete 
+\i (02:51:24) generaledit 
+\i (02:51:24) pick grid -49.9388 -18.6328
+\t (02:51:24) last pick:  -49.9364  -18.6436
+\i (02:51:24) prepopup -49.9330 -18.6386
+\i (02:51:25) pop dyn_option_select @:@Delete 
+\i (02:51:25) delete 
+\i (02:51:25) generaledit 
+\i (02:51:30) roam start
+\i (02:51:30) roam y -32
+\i (02:51:30) roam y -16
+\i (02:51:30) roam x 16
+\i (02:51:30) roam y -48
+\i (02:51:30) roam y -32
+\i (02:51:31) roam y -16
+\i (02:51:31) roam y -16
+\i (02:51:31) roam x -16
+\i (02:51:31) roam end
+\i (02:51:32) pick grid -50.2470 -16.3469
+\t (02:51:32) last pick:  -50.2412  -16.3576
+\i (02:51:32) setwindow cmgr
+\i (02:51:32) cm expand ( row ( Design "STANDARD" ) )
+\i (02:51:32) cm expand ( row ( Design "STANDARD" ) )
+\i (02:51:32) setwindow pcb
+\i (02:51:32) prepopup -50.2470 -16.3469
+\i (02:51:33) pop dyn_option_select @:@Delete 
+\i (02:51:33) delete 
+\i (02:51:33) generaledit 
+\i (02:51:34) pick grid -50.2759 -16.0631
+\t (02:51:34) last pick:  -50.2666  -16.0528
+\i (02:51:34) setwindow cmgr
+\i (02:51:34) cm expand ( row ( Design "STANDARD" ) )
+\i (02:51:34) cm expand ( row ( Design "STANDARD" ) )
+\i (02:51:34) setwindow pcb
+\i (02:51:34) prepopup -50.2759 -16.0631
+\i (02:51:34) pop dyn_option_select @:@Delete 
+\i (02:51:35) delete 
+\i (02:51:35) generaledit 
+\i (02:51:36) pick grid -50.2701 -18.1651
+\t (02:51:36) last pick:  -50.2666  -18.1610
+\i (02:51:36) setwindow cmgr
+\i (02:51:36) cm expand ( row ( Design "STANDARD" ) )
+\i (02:51:36) cm expand ( row ( Design "STANDARD" ) )
+\i (02:51:36) setwindow pcb
+\i (02:51:36) prepopup -50.2701 -18.1651
+\i (02:51:37) pop dyn_option_select @:@Delete 
+\i (02:51:37) delete 
+\i (02:51:37) generaledit 
+\i (02:51:38) pick grid -50.1659 -18.0030
+\t (02:51:38) last pick:  -50.1650  -18.0086
+\i (02:51:38) setwindow cmgr
+\i (02:51:38) cm expand ( row ( Design "STANDARD" ) )
+\i (02:51:38) cm expand ( row ( "Part Definition" "CAP NP_CAP_0402_0.1UF:CAP_0402:0.1uF:" ) )
+\i (02:51:39) setwindow pcb
+\i (02:51:39) prepopup -50.1659 -17.9914
+\i (02:51:40) pop dyn_option_select '@:@Unplace component' 
+\i (02:51:40) unplace component 
+\i (02:51:40) generaledit 
+\i (02:51:41) pick grid -50.2875 -18.6862
+\t (02:51:41) last pick:  -50.2920  -18.6944
+\i (02:51:41) setwindow cmgr
+\i (02:51:41) cm expand ( row ( Design "STANDARD" ) )
+\i (02:51:41) cm expand ( row ( Design "STANDARD" ) )
+\i (02:51:41) setwindow pcb
+\i (02:51:41) prepopup -50.2817 -18.6862
+\i (02:51:42) pop dyn_option_select @:@Delete 
+\i (02:51:42) delete 
+\i (02:51:42) generaledit 
+\i (02:51:44) pick grid -50.8087 -19.9428
+\t (02:51:44) last pick:  -50.8000  -19.9390
+\i (02:51:44) setwindow cmgr
+\i (02:51:44) cm expand ( row ( Design "STANDARD" ) )
+\i (02:51:44) cm expand ( row ( "Part Definition" "1KR2F_RES_0201_10K:RES_0201:10K:" ) )
+\i (02:51:44) setwindow pcb
+\i (02:51:44) prepopup -50.8087 -19.9428
+\i (02:51:46) pop dyn_option_select '@:@Unplace component' 
+\i (02:51:46) unplace component 
+\i (02:51:46) generaledit 
+\i (02:51:51) pick grid -49.0715 -18.2288
+\t (02:51:51) last pick:  -49.0728  -18.2372
+\i (02:51:51) setwindow cmgr
+\i (02:51:51) cm expand ( row ( Design "STANDARD" ) )
+\i (02:51:51) cm expand ( row ( Design "STANDARD" ) )
+\i (02:51:52) setwindow pcb
+\i (02:51:52) prepopup -49.0715 -18.2288
+\i (02:51:53) pop dyn_option_select @:@Delete 
+\i (02:51:53) delete 
+\i (02:51:53) generaledit 
+\i (02:51:53) pick grid -49.0947 -18.1072
+\t (02:51:53) last pick:  -49.0982  -18.1102
+\i (02:51:53) setwindow cmgr
+\i (02:51:53) cm expand ( row ( Design "STANDARD" ) )
+\i (02:51:53) cm expand ( row ( Design "STANDARD" ) )
+\i (02:51:54) setwindow pcb
+\i (02:51:54) prepopup -49.0947 -18.1072
+\i (02:51:55) pop dyn_option_select @:@Delete 
+\i (02:51:55) delete 
+\i (02:51:55) generaledit 
+\i (02:51:55) pick grid -48.9904 -17.9682
+\t (02:51:55) last pick:  -48.9966  -17.9578
+\i (02:51:55) setwindow cmgr
+\i (02:51:55) cm expand ( row ( Design "STANDARD" ) )
+\i (02:51:55) cm expand ( row ( Design "STANDARD" ) )
+\i (02:51:56) setwindow pcb
+\i (02:51:56) zoom out 1 
+\i (02:51:56) setwindow pcb
+\i (02:51:56) zoom out -48.9325 -18.0724
+\i (02:51:56) trapsize 579
+\i (02:51:59) pick grid -42.5283 -22.1837
+\t (02:51:59) last pick:  -42.5196  -22.1742
+\i (02:52:00) zoom out 1 
+\i (02:52:00) setwindow pcb
+\i (02:52:00) zoom out -42.5283 -22.1837
+\i (02:52:00) trapsize 1158
+\i (02:52:01) zoom in 1 
+\i (02:52:01) setwindow pcb
+\i (02:52:01) zoom in -42.5283 -22.1837
+\i (02:52:01) trapsize 579
+\i (02:52:05) xhilite 
+\i (02:52:06) xNet Init_Done 
+\i (02:52:06) xname_flush 
+\i (02:52:06) trapsize 1661
+\i (02:52:06) setwindow cmgr
+\i (02:52:06) cm expand ( row ( Design "STANDARD" ) )
+\i (02:52:06) cm expand ( row ( Design "STANDARD" ) )
+\t (02:52:06) Net "Init_Done" highlighted.
+\i (02:52:06) setwindow pcb
+\i (02:52:06) done 
+\i (02:52:06) generaledit 
+\i (02:52:11) setwindow form.find
+\i (02:52:11) FORM find all_off  
+\i (02:52:12) setwindow pcb
+\i (02:52:12) pick grid -23.2495 -17.0989
+\t (02:52:12) last pick:  -23.2410  -17.0942
+\i (02:52:12) zoom in 1 
+\i (02:52:12) setwindow pcb
+\i (02:52:12) zoom in -34.3090 -29.6530
+\i (02:52:12) trapsize 830
+\i (02:52:12) zoom in 1 
+\i (02:52:12) setwindow pcb
+\i (02:52:12) zoom in -34.8569 -30.9482
+\i (02:52:12) trapsize 415
+\i (02:52:13) zoom out 1 
+\i (02:52:13) setwindow pcb
+\i (02:52:13) zoom out -34.8736 -30.9730
+\i (02:52:13) trapsize 830
+\i (02:52:38) roam start
+\i (02:52:38) roam x 16
+\i (02:52:38) roam y -96
+\i (02:52:38) roam x 32
+\i (02:52:38) roam y -112
+\i (02:52:38) roam x 16
+\i (02:52:38) roam y -80
+\i (02:52:38) roam y -16
+\i (02:52:38) roam y -32
+\i (02:52:38) roam x -64
+\i (02:52:38) roam y -80
+\i (02:52:38) roam x -128
+\i (02:52:38) roam y -48
+\i (02:52:39) roam x -48
+\i (02:52:39) roam y -16
+\i (02:52:39) roam x -16
+\i (02:52:39) roam y 16
+\i (02:52:39) roam y 16
+\i (02:52:39) roam x 32
+\i (02:52:39) roam y 32
+\i (02:52:39) roam x 32
+\i (02:52:39) roam y 32
+\i (02:52:39) roam x 16
+\i (02:52:39) roam y -32
+\i (02:52:39) roam x 32
+\i (02:52:39) roam y -32
+\i (02:52:39) roam y -16
+\i (02:52:39) roam x -16
+\i (02:52:39) roam y -16
+\i (02:52:39) roam x -48
+\i (02:52:39) roam x -64
+\i (02:52:39) roam x -48
+\i (02:52:39) roam x -16
+\i (02:52:39) roam x -16
+\i (02:52:39) roam y -16
+\i (02:52:39) roam x -16
+\i (02:52:39) roam y -16
+\i (02:52:40) roam y -16
+\i (02:52:40) roam y -16
+\i (02:52:40) roam x -16
+\i (02:52:40) roam x -48
+\i (02:52:40) roam y -16
+\i (02:52:40) roam x -16
+\i (02:52:40) roam y -16
+\i (02:52:40) roam x -16
+\i (02:52:40) roam x -16
+\i (02:52:40) roam x -16
+\i (02:52:40) roam y -16
+\i (02:52:40) roam end
+\i (02:52:41) zoom in 1 
+\i (02:52:41) setwindow pcb
+\i (02:52:41) zoom in -48.4574 -18.2153
+\i (02:52:41) trapsize 415
+\i (02:52:41) zoom in 1 
+\i (02:52:41) setwindow pcb
+\i (02:52:41) zoom in -48.4657 -18.2153
+\i (02:52:41) trapsize 208
+\i (02:52:41) zoom in 1 
+\i (02:52:41) setwindow pcb
+\i (02:52:41) zoom in -48.4657 -18.2152
+\i (02:52:41) trapsize 104
+\i (02:52:42) zoom out 1 
+\i (02:52:42) setwindow pcb
+\i (02:52:42) zoom out -48.5737 -18.2027
+\i (02:52:42) trapsize 208
+\i (02:52:42) zoom out 1 
+\i (02:52:42) setwindow pcb
+\i (02:52:42) zoom out -48.5737 -18.1986
+\i (02:52:42) trapsize 415
+\i (02:52:44) pick grid -48.7149 -18.2235
+\t (02:52:44) last pick:  -48.7172  -18.2118
+\i (02:52:45) zoom in 1 
+\i (02:52:45) setwindow pcb
+\i (02:52:45) zoom in -48.7564 -18.0574
+\i (02:52:45) trapsize 208
+\i (02:52:50) prepopup -48.8352 -17.9785
+\i (02:52:51) pick grid -49.1051 -17.7419
+\t (02:52:51) last pick:  -49.0982  -17.7292
+\i (02:52:55) pick grid -49.2753 -17.6962
+\t (02:52:55) last pick:  -49.2760  -17.7038
+\i (02:52:57) roam start
+\i (02:52:57) roam x 80
+\i (02:52:57) roam y 64
+\i (02:52:57) roam x 128
+\i (02:52:57) roam y 48
+\i (02:52:57) roam x 64
+\i (02:52:57) roam y 48
+\i (02:52:58) roam x 112
+\i (02:52:58) roam y 48
+\i (02:52:58) roam x 192
+\i (02:52:58) roam y 80
+\i (02:52:58) roam x 80
+\i (02:52:58) roam y 32
+\i (02:52:58) zoom out 1 
+\i (02:52:58) setwindow pcb
+\i (02:52:58) zoom out -43.4315 -20.5132
+\i (02:52:58) trapsize 415
+\i (02:52:58) roam x 16
+\i (02:52:58) roam y 32
+\i (02:52:58) roam x 32
+\i (02:52:58) roam y 16
+\i (02:52:58) roam x 32
+\i (02:52:58) roam y 16
+\i (02:52:58) roam x -48
+\i (02:52:58) roam y 16
+\i (02:52:58) roam x -48
+\i (02:52:58) roam y -16
+\i (02:52:58) roam y -48
+\i (02:52:58) roam y -96
+\i (02:52:58) roam y -64
+\i (02:52:58) roam x -208
+\i (02:52:58) roam y -144
+\i (02:52:58) roam x -448
+\i (02:52:58) roam y -144
+\i (02:52:59) roam x -48
+\i (02:52:59) roam y -16
+\i (02:52:59) roam x -16
+\i (02:52:59) roam x -112
+\i (02:52:59) roam x -144
+\i (02:52:59) roam x -80
+\i (02:52:59) roam x -80
+\i (02:52:59) roam x -16
+\i (02:52:59) roam y 16
+\i (02:52:59) roam x 112
+\i (02:52:59) roam x 240
+\i (02:52:59) roam y -32
+\i (02:52:59) roam x 208
+\i (02:52:59) roam y -32
+\i (02:52:59) roam x 96
+\i (02:52:59) roam x 32
+\i (02:52:59) roam x 16
+\i (02:52:59) roam y -16
+\i (02:53:00) roam x 16
+\i (02:53:00) roam x 16
+\i (02:53:00) roam y -16
+\i (02:53:00) roam y -16
+\i (02:53:00) roam y -48
+\i (02:53:00) roam x -32
+\i (02:53:00) roam y -64
+\i (02:53:00) roam x -112
+\i (02:53:00) roam y -48
+\i (02:53:00) roam x -96
+\i (02:53:00) roam y -32
+\i (02:53:00) roam x -160
+\i (02:53:00) roam y -16
+\i (02:53:00) roam x -112
+\i (02:53:00) roam x -96
+\i (02:53:00) roam x -80
+\i (02:53:00) roam y 32
+\i (02:53:00) roam x -80
+\i (02:53:00) roam y 32
+\i (02:53:00) roam x -80
+\i (02:53:00) roam y 16
+\i (02:53:00) roam x -16
+\i (02:53:00) roam y 16
+\i (02:53:00) roam x -16
+\i (02:53:00) roam x 96
+\i (02:53:00) roam x 128
+\i (02:53:00) roam y 16
+\i (02:53:00) roam x 32
+\i (02:53:00) roam x 16
+\i (02:53:00) zoom out 1 
+\i (02:53:00) setwindow pcb
+\i (02:53:00) zoom out -52.1086 -15.0829
+\i (02:53:00) trapsize 830
+\i (02:53:00) roam end
+\i (02:53:00) zoom out 1 
+\i (02:53:00) setwindow pcb
+\i (02:53:00) zoom out -52.1916 -15.0828
+\i (02:53:00) trapsize 1661
+\i (02:53:01) zoom out 1 
+\i (02:53:01) setwindow pcb
+\i (02:53:01) zoom out -74.0129 -21.1277
+\i (02:53:01) trapsize 3321
+\i (02:53:02) zoom in 1 
+\i (02:53:02) setwindow pcb
+\i (02:53:02) zoom in -58.2033 -23.2533
+\i (02:53:02) trapsize 1661
+\i (02:53:02) zoom in 1 
+\i (02:53:02) setwindow pcb
+\i (02:53:02) zoom in -58.3029 -23.2201
+\i (02:53:02) trapsize 830
+\i (02:53:03) zoom out 1 
+\i (02:53:03) setwindow pcb
+\i (02:53:03) zoom out -58.5852 -22.9710
+\i (02:53:03) trapsize 1661
+\i (02:53:03) zoom out 1 
+\i (02:53:03) setwindow pcb
+\i (02:53:03) zoom out -56.0277 -21.8748
+\i (02:53:03) trapsize 3321
+\i (02:53:04) pick grid -44.7350 -6.5966
+\t (02:53:04) last pick:  -44.7294  -6.6040
+\i (02:53:05) xdehilite 
+\i (02:53:06) xNet Init_Done 
+\i (02:53:06) xname_flush 
+\t (02:53:06) Net "Init_Done" dehighlighted.
+\i (02:53:06) done 
+\i (02:53:06) generaledit 
+\i (02:53:07) drc update 
+\t (02:53:07) Performing DRC...
+\t (02:53:07) Multithreaded DRC update (8 threads).
+\t (02:53:08) No DRC errors detected.
+\i (02:53:08) generaledit 
+\i (02:53:12) xhilite 
+\i (02:53:13) xNet Init_Done 
+\i (02:53:13) xname_flush 
+\i (02:53:13) trapsize 1661
+\i (02:53:13) setwindow cmgr
+\i (02:53:13) cm expand ( row ( Design "STANDARD" ) )
+\i (02:53:13) cm expand ( row ( Design "STANDARD" ) )
+\t (02:53:13) Net "Init_Done" highlighted.
+\i (02:53:13) setwindow pcb
+\i (02:53:13) done 
+\i (02:53:13) generaledit 
+\i (02:53:15) pick grid -42.3795 -23.7745
+\t (02:53:15) last pick:  -42.3672  -23.7744
+\i (02:53:16) zoom in 1 
+\i (02:53:16) setwindow pcb
+\i (02:53:16) zoom in -43.4091 -20.7190
+\i (02:53:16) trapsize 830
+\i (02:53:17) zoom in 1 
+\i (02:53:17) setwindow pcb
+\i (02:53:17) zoom in -42.7946 -21.1175
+\i (02:53:17) trapsize 415
+\i (02:53:18) zoom out 1 
+\i (02:53:18) setwindow pcb
+\i (02:53:18) zoom out -44.3888 -20.9514
+\i (02:53:18) trapsize 830
+\i (02:53:18) zoom out 1 
+\i (02:53:18) setwindow pcb
+\i (02:53:18) zoom out -44.3059 -20.9348
+\i (02:53:18) trapsize 1661
+\i (02:53:20) pick grid -54.7012 -18.2114
+\t (02:53:20) last pick:  -54.7116  -18.2118
+\i (02:53:21) roam start
+\i (02:53:21) roam x 48
+\i (02:53:21) roam y -16
+\i (02:53:21) roam x 48
+\i (02:53:21) roam y -32
+\i (02:53:21) roam x 48
+\i (02:53:21) roam y -16
+\i (02:53:21) roam x 80
+\i (02:53:21) roam x 48
+\i (02:53:21) roam y -16
+\i (02:53:21) roam x 16
+\i (02:53:21) roam x -80
+\i (02:53:21) roam y 16
+\i (02:53:21) roam x -64
+\i (02:53:21) roam y 16
+\i (02:53:22) roam x -16
+\i (02:53:22) roam end
+\i (02:53:22) zoom in 1 
+\i (02:53:22) setwindow pcb
+\i (02:53:22) zoom in -48.2914 -18.0493
+\i (02:53:22) trapsize 830
+\i (02:53:22) zoom in 1 
+\i (02:53:22) setwindow pcb
+\i (02:53:22) zoom in -48.2914 -18.0327
+\i (02:53:22) trapsize 415
+\i (02:53:24) pick grid -48.7979 -17.9912
+\t (02:53:24) last pick:  -48.7934  -17.9832
+\i (02:53:26) setwindow form.find
+\i (02:53:26) FORM find clines YES 
+\i (02:53:26) FORM find vias YES 
+\i (02:53:28) setwindow pcb
+\i (02:53:28) pick grid -48.8228 -17.9330
+\t (02:53:28) last pick:  -48.8188  -17.9324
+\i (02:53:28) setwindow cmgr
+\i (02:53:28) cm expand ( row ( Design "STANDARD" ) )
+\i (02:53:28) cm expand ( row ( Design "STANDARD" ) )
+\i (02:53:28) setwindow pcb
+\i (02:53:28) prepopup -48.8228 -17.9330
+\i (02:53:30) pop dyn_option_select @:@Delete 
+\i (02:53:30) delete 
+\i (02:53:30) generaledit 
+\i (02:53:30) zoom out 1 
+\i (02:53:30) setwindow pcb
+\i (02:53:30) zoom out -41.4082 -20.9221
+\i (02:53:30) trapsize 830
+\i (02:53:30) zoom out 1 
+\i (02:53:30) setwindow pcb
+\i (02:53:30) zoom out -41.4081 -20.9222
+\i (02:53:30) trapsize 1661
+\i (02:53:31) zoom out 1 
+\i (02:53:31) setwindow pcb
+\i (02:53:31) zoom out -37.9541 -30.2879
+\i (02:53:31) trapsize 3321
+\i (02:53:32) roam start
+\i (02:53:32) roam y 64
+\i (02:53:32) roam x 32
+\i (02:53:32) roam y 112
+\i (02:53:32) roam y 16
+\i (02:53:32) roam y 32
+\i (02:53:32) roam y 32
+\i (02:53:32) roam y 32
+\i (02:53:32) roam end
+\i (02:53:33) zoom in 1 
+\i (02:53:33) setwindow pcb
+\i (02:53:33) zoom in -39.1911 -46.5783
+\i (02:53:33) trapsize 1661
+\i (02:53:33) zoom in 1 
+\i (02:53:33) setwindow pcb
+\i (02:53:33) zoom in -39.1911 -46.6115
+\i (02:53:33) trapsize 830
+\i (02:53:33) zoom in 1 
+\i (02:53:33) setwindow pcb
+\i (02:53:33) zoom in -39.1081 -46.6779
+\i (02:53:33) trapsize 415
+\i (02:53:33) zoom in 1 
+\i (02:53:33) setwindow pcb
+\i (02:53:33) zoom in -39.1081 -46.6779
+\i (02:53:33) trapsize 208
+\i (02:53:34) zoom in 1 
+\i (02:53:34) setwindow pcb
+\i (02:53:34) zoom in -39.1081 -46.6778
+\i (02:53:34) trapsize 104
+\i (02:53:34) pick grid -39.2181 -46.5573
+\t (02:53:34) last pick:  -39.2176  -46.5582
+\i (02:53:35) pick grid -39.3406 -46.5304
+\t (02:53:35) last pick:  -39.3446  -46.5328
+\i (02:53:35) setwindow cmgr
+\i (02:53:35) cm expand ( row ( Design "STANDARD" ) )
+\i (02:53:35) cm expand ( row ( Design "STANDARD" ) )
+\i (02:53:36) setwindow pcb
+\i (02:53:36) prepopup -39.3385 -46.5304
+\i (02:53:37) pop dyn_option_select @:@Delete 
+\i (02:53:37) delete 
+\i (02:53:37) generaledit 
+\i (02:53:38) pick grid -39.6395 -46.2979
+\t (02:53:38) last pick:  -39.6494  -46.3042
+\i (02:53:38) setwindow cmgr
+\i (02:53:38) cm expand ( row ( Design "STANDARD" ) )
+\i (02:53:38) cm expand ( row ( Design "STANDARD" ) )
+\i (02:53:38) setwindow pcb
+\i (02:53:38) prepopup -39.6395 -46.2979
+\i (02:53:39) pop dyn_option_select @:@Delete 
+\i (02:53:39) delete 
+\i (02:53:39) generaledit 
+\i (02:53:40) zoom out 1 
+\i (02:53:40) setwindow pcb
+\i (02:53:40) zoom out -39.6416 -46.3082
+\i (02:53:40) trapsize 208
+\i (02:53:40) zoom out 1 
+\i (02:53:40) setwindow pcb
+\i (02:53:40) zoom out -39.6415 -46.3083
+\i (02:53:40) trapsize 415
+\i (02:53:41) zoom out 1 
+\i (02:53:41) setwindow pcb
+\i (02:53:41) zoom out -39.6416 -46.3000
+\i (02:53:41) trapsize 830
+\i (02:53:41) zoom out 1 
+\i (02:53:41) setwindow pcb
+\i (02:53:41) zoom out -39.6415 -46.2999
+\i (02:53:41) trapsize 1661
+\i (02:53:41) zoom out 1 
+\i (02:53:41) setwindow pcb
+\i (02:53:41) zoom out -39.6415 -46.2999
+\i (02:53:41) trapsize 3321
+\i (02:53:43) drc update 
+\t (02:53:43) Performing DRC...
+\t (02:53:43) Multithreaded DRC update (8 threads).
+\t (02:53:43) No DRC errors detected.
+\i (02:53:44) generaledit 
+\i (02:53:45) save 
+\i (02:53:47) fillin yes 
+\i (02:53:47) generaledit 
+\i (02:53:47) pick grid -74.7151 -46.8977
+\t (02:53:47) last pick:  -74.7268  -46.8884
+\i (02:53:47) zoom out 1 
+\i (02:53:47) setwindow pcb
+\i (02:53:47) zoom out -74.8480 -47.0970
+\i (02:53:47) trapsize 6643
+\i (02:54:05) zoom in 1 
+\i (02:54:05) setwindow pcb
+\i (02:54:05) zoom in -46.8156 -18.0017
+\i (02:54:05) trapsize 3321
+\i (02:54:05) zoom in 1 
+\i (02:54:05) setwindow pcb
+\i (02:54:05) zoom in -46.8156 -18.0017
+\i (02:54:05) trapsize 1661
+\i (02:54:05) zoom in 1 
+\i (02:54:05) setwindow pcb
+\i (02:54:05) zoom in -46.8488 -18.0016
+\i (02:54:05) trapsize 830
+\i (02:54:06) zoom in 1 
+\i (02:54:06) setwindow pcb
+\i (02:54:06) zoom in -49.2900 -20.0774
+\i (02:54:06) trapsize 415
+\i (02:54:06) zoom in 1 
+\i (02:54:06) setwindow pcb
+\i (02:54:06) zoom in -49.2900 -20.0857
+\i (02:54:06) trapsize 208
+\i (02:54:10) xdehilite 
+\i (02:54:10) xNet Init_Done 
+\i (02:54:10) xname_flush 
+\t (02:54:10) Net "Init_Done" dehighlighted.
+\i (02:54:11) done 
+\i (02:54:11) generaledit 
+\i (02:54:11) xhilite 
+\i (02:54:11) xNet Uart0_Txd 
+\i (02:54:11) xname_flush 
+\i (02:54:11) trapsize 2297
+\i (02:54:11) setwindow cmgr
+\i (02:54:11) cm expand ( row ( Design "STANDARD" ) )
+\i (02:54:11) cm expand ( row ( Design "STANDARD" ) )
+\t (02:54:11) Net "Uart0_Txd" highlighted.
+\i (02:54:11) setwindow pcb
+\i (02:54:11) done 
+\i (02:54:11) generaledit 
+\i (02:54:15) pick grid -75.3928 -47.4674
+\t (02:54:15) last pick:  -75.3872  -47.4726
+\i (02:54:16) roam start
+\i (02:54:16) roam x 80
+\i (02:54:16) roam y -48
+\i (02:54:16) roam x 240
+\i (02:54:16) roam y -128
+\i (02:54:16) roam x 96
+\i (02:54:16) roam y -64
+\i (02:54:16) roam x 32
+\i (02:54:16) roam y -16
+\i (02:54:16) roam x 32
+\i (02:54:16) roam y -32
+\i (02:54:16) roam x -32
+\i (02:54:16) roam x -64
+\i (02:54:16) roam x -64
+\i (02:54:17) roam x -48
+\i (02:54:17) roam y 16
+\i (02:54:17) roam x -16
+\i (02:54:17) roam y 16
+\i (02:54:17) roam x -48
+\i (02:54:17) roam x -32
+\i (02:54:17) roam x -32
+\i (02:54:17) roam end
+\i (02:54:18) zoom in 1 
+\i (02:54:18) setwindow pcb
+\i (02:54:18) zoom in -46.0206 -21.4320
+\i (02:54:18) trapsize 1148
+\i (02:54:18) zoom in 1 
+\i (02:54:18) setwindow pcb
+\i (02:54:18) zoom in -46.0206 -21.4320
+\i (02:54:18) trapsize 574
+\i (02:54:19) zoom in 1 
+\i (02:54:19) setwindow pcb
+\i (02:54:19) zoom in -48.3290 -18.7331
+\i (02:54:19) trapsize 287
+\i (02:54:19) zoom in 1 
+\i (02:54:19) setwindow pcb
+\i (02:54:19) zoom in -48.3290 -18.7331
+\i (02:54:19) trapsize 144
+\i (02:54:21) pick grid -48.8459 -19.3303
+\t (02:54:21) last pick:  -48.8442  -19.3294
+\i (02:54:21) pick grid -48.4238 -19.0202
+\t (02:54:21) last pick:  -48.4124  -19.0246
+\i (02:54:21) setwindow cmgr
+\i (02:54:21) cm expand ( row ( Design "STANDARD" ) )
+\i (02:54:21) cm expand ( row ( Design "STANDARD" ) )
+\i (02:54:21) setwindow pcb
+\i (02:54:21) prepopup -48.4238 -19.0202
+\i (02:54:23) pop dyn_option_select @:@Delete 
+\i (02:54:23) delete 
+\i (02:54:23) generaledit 
+\i (02:54:23) pick grid -48.3405 -18.7417
+\t (02:54:23) last pick:  -48.3362  -18.7452
+\i (02:54:23) setwindow cmgr
+\i (02:54:23) cm expand ( row ( Design "STANDARD" ) )
+\i (02:54:23) cm expand ( row ( Design "STANDARD" ) )
+\i (02:54:24) setwindow pcb
+\i (02:54:24) prepopup -48.3405 -18.7417
+\i (02:54:26) pop dyn_option_select @:@Delete 
+\i (02:54:26) delete 
+\i (02:54:26) generaledit 
+\i (02:54:27) pick grid -48.2544 -18.6555
+\t (02:54:27) last pick:  -48.2600  -18.6436
+\i (02:54:27) setwindow cmgr
+\i (02:54:27) cm expand ( row ( Design "STANDARD" ) )
+\i (02:54:27) cm expand ( row ( Design "STANDARD" ) )
+\i (02:54:27) setwindow pcb
+\i (02:54:27) prepopup -48.2486 -18.6555
+\i (02:55:03) pick grid -47.7203 -19.3906
+\t (02:55:03) last pick:  -47.7266  -19.3802
+\i (02:55:07) setwindow form.find
+\i (02:55:07) FORM find find_name u24 
+\i (02:55:07) setwindow cmgr
+\i (02:55:07) cm expand ( row ( Design "STANDARD" ) )
+\i (02:55:07) cm expand ( row ( "Part Definition" "MAX3232_SOIC16-PW_TI_MAX3232CPW:SOIC16-PW_TI:MAX3232CPWR:" ) )
+\i (02:55:09) setwindow pcb
+\i (02:55:09) zoom out 1 
+\i (02:55:09) setwindow pcb
+\i (02:55:09) zoom out -46.5833 -19.6174
+\i (02:55:09) trapsize 287
+\i (02:55:09) zoom out 1 
+\i (02:55:09) setwindow pcb
+\i (02:55:09) zoom out -46.5833 -19.6346
+\i (02:55:09) trapsize 574
+\i (02:55:09) zoom out 1 
+\i (02:55:09) setwindow pcb
+\i (02:55:09) zoom out -46.5948 -19.6346
+\i (02:55:09) trapsize 1149
+\i (02:55:10) zoom out 1 
+\i (02:55:10) setwindow pcb
+\i (02:55:10) zoom out -48.7999 -29.0524
+\i (02:55:10) trapsize 2297
+\i (02:55:10) zoom out 1 
+\i (02:55:10) setwindow pcb
+\i (02:55:10) zoom out -48.7999 -29.0525
+\i (02:55:10) trapsize 4594
+\t (02:55:11) > Symbol "U24"
+\i (02:55:11) setwindow worldview
+\i (02:55:11) trapsize 1014
+\i (02:55:12) setwindow pcb
+\i (02:55:12) pick grid -43.7388 -64.9449
+\t (02:55:12) last pick:  -43.7388  -64.9478
+\i (02:55:14) setwindow form.find
+\i (02:55:14) FORM find symbols YES 
+\i (02:55:15) setwindow pcb
+\i (02:55:15) pick grid -44.1443 -64.7624
+\t (02:55:15) last pick:  -44.1452  -64.7700
+\i (02:55:17) pick grid -44.2457 -63.8905
+\t (02:55:17) last pick:  -44.2468  -63.8810
+\i (02:55:17) setwindow cmgr
+\i (02:55:17) cm expand ( row ( Design "STANDARD" ) )
+\i (02:55:17) cm expand ( row ( "Part Definition" "MAX3232_SOIC16-PW_TI_MAX3232CPW:SOIC16-PW_TI:MAX3232CPWR:" ) )
+\i (02:55:18) setwindow pcb
+\i (02:55:18) fix 
+\i (02:55:18) generaledit 
+\i (02:55:18) setwindow cmgr
+\i (02:55:18) cm expand ( row ( Design "STANDARD" ) )
+\i (02:55:18) cm expand ( row ( "Part Definition" "MAX3232_SOIC16-PW_TI_MAX3232CPW:SOIC16-PW_TI:MAX3232CPWR:" ) )
+\i (02:55:20) setwindow pcb
+\i (02:55:20) pick grid -44.3268 -65.6140
+\t (02:55:20) last pick:  -44.3230  -65.6082
+\i (02:55:21) zoom out 1 
+\i (02:55:21) setwindow pcb
+\i (02:55:21) zoom out -44.1240 -64.8638
+\i (02:55:21) trapsize 2028
+\i (02:55:21) zoom out 1 
+\i (02:55:21) setwindow pcb
+\i (02:55:21) zoom out -44.1240 -64.8637
+\i (02:55:21) trapsize 4055
+\i (02:55:22) zoom in 1 
+\i (02:55:22) setwindow pcb
+\i (02:55:22) zoom in -52.2346 -17.4982
+\i (02:55:22) trapsize 2028
+\i (02:55:22) zoom in 1 
+\i (02:55:22) setwindow pcb
+\i (02:55:22) zoom in -51.8291 -17.0115
+\i (02:55:22) trapsize 1014
+\i (02:55:22) zoom in 1 
+\i (02:55:22) setwindow pcb
+\i (02:55:22) zoom in -51.8291 -17.0115
+\i (02:55:22) trapsize 507
+\i (02:55:23) zoom out 1 
+\i (02:55:23) setwindow pcb
+\i (02:55:23) zoom out -51.9203 -18.0861
+\i (02:55:23) trapsize 1014
+\i (02:55:24) zoom in 1 
+\i (02:55:24) setwindow pcb
+\i (02:55:24) zoom in -46.6485 -19.2622
+\i (02:55:24) trapsize 507
+\i (02:55:24) zoom in 1 
+\i (02:55:24) setwindow pcb
+\i (02:55:24) zoom in -46.5573 -19.1912
+\i (02:55:24) trapsize 253
+\i (02:55:25) pick grid -48.2250 -18.6943
+\t (02:55:25) last pick:  -48.2346  -18.6944
+\i (02:55:25) setwindow cmgr
+\i (02:55:25) cm expand ( row ( Design "STANDARD" ) )
+\i (02:55:25) cm expand ( row ( Design "STANDARD" ) )
+\i (02:55:26) setwindow pcb
+\i (02:55:26) prepopup -48.2250 -18.6943
+\i (02:55:27) pop dyn_option_select @:@Delete 
+\i (02:55:27) delete 
+\i (02:55:27) generaledit 
+\i (02:55:28) zoom out 1 
+\i (02:55:28) setwindow pcb
+\i (02:55:28) zoom out -47.7536 -21.0008
+\i (02:55:28) trapsize 507
+\i (02:55:28) zoom out 1 
+\i (02:55:28) setwindow pcb
+\i (02:55:28) zoom out -47.6725 -20.9399
+\i (02:55:28) trapsize 1014
+\i (02:55:28) zoom out 1 
+\i (02:55:28) setwindow pcb
+\i (02:55:28) zoom out -46.8816 -26.6579
+\i (02:55:28) trapsize 2028
+\i (02:55:29) roam start
+\i (02:55:29) roam x -16
+\i (02:55:29) roam y 80
+\i (02:55:29) roam y 48
+\i (02:55:29) roam y 80
+\i (02:55:29) roam y 80
+\i (02:55:29) roam y 32
+\i (02:55:29) roam y 48
+\i (02:55:29) roam x 32
+\i (02:55:29) roam y 32
+\i (02:55:29) roam x 16
+\i (02:55:29) roam y 48
+\i (02:55:29) roam x 48
+\i (02:55:29) roam y 96
+\i (02:55:30) roam x 80
+\i (02:55:30) roam y 48
+\i (02:55:30) roam x 16
+\i (02:55:30) roam y 32
+\i (02:55:30) roam x -32
+\i (02:55:30) roam y 48
+\i (02:55:30) roam x -32
+\i (02:55:30) roam y 48
+\i (02:55:30) roam end
+\i (02:55:31) zoom in 1 
+\i (02:55:31) setwindow pcb
+\i (02:55:31) zoom in -39.2396 -46.7740
+\i (02:55:31) trapsize 1014
+\i (02:55:31) zoom in 1 
+\i (02:55:31) setwindow pcb
+\i (02:55:31) zoom in -39.2599 -46.7537
+\i (02:55:31) trapsize 507
+\i (02:55:32) zoom in 1 
+\i (02:55:32) setwindow pcb
+\i (02:55:32) zoom in -44.8968 -46.3685
+\i (02:55:32) trapsize 253
+\i (02:55:32) zoom in 1 
+\i (02:55:32) setwindow pcb
+\i (02:55:32) zoom in -44.8968 -46.3685
+\i (02:55:32) trapsize 127
+\i (02:55:33) pick grid -44.8942 -46.3837
+\t (02:55:33) last pick:  -44.8818  -46.3804
+\i (02:55:33) pick grid -44.6915 -46.2950
+\t (02:55:33) last pick:  -44.7040  -46.3042
+\i (02:55:33) setwindow cmgr
+\i (02:55:33) cm expand ( row ( Design "STANDARD" ) )
+\i (02:55:33) cm expand ( row ( Design "STANDARD" ) )
+\i (02:55:33) setwindow pcb
+\i (02:55:33) prepopup -44.6915 -46.2950
+\i (02:55:34) pop dyn_option_select @:@Delete 
+\i (02:55:34) delete 
+\i (02:55:34) generaledit 
+\i (02:55:35) pick grid -44.3696 -46.4040
+\t (02:55:35) last pick:  -44.3738  -46.4058
+\i (02:55:35) setwindow cmgr
+\i (02:55:35) cm expand ( row ( Design "STANDARD" ) )
+\i (02:55:35) cm expand ( row ( Design "STANDARD" ) )
+\i (02:55:36) setwindow pcb
+\i (02:55:36) prepopup -44.3746 -46.4065
+\i (02:55:37) pop dyn_option_select @:@Delete 
+\i (02:55:37) delete 
+\i (02:55:37) generaledit 
+\i (02:55:38) pick grid -44.5647 -46.5789
+\t (02:55:38) last pick:  -44.5770  -46.5836
+\i (02:55:38) setwindow cmgr
+\i (02:55:38) cm expand ( row ( Design "STANDARD" ) )
+\i (02:55:38) cm expand ( row ( Design "STANDARD" ) )
+\i (02:55:38) setwindow pcb
+\i (02:55:38) prepopup -44.5647 -46.5789
+\i (02:55:39) pop dyn_option_select @:@Delete 
+\i (02:55:39) delete 
+\i (02:55:39) generaledit 
+\i (02:55:40) zoom out 1 
+\i (02:55:40) setwindow pcb
+\i (02:55:40) zoom out -44.9474 -46.3077
+\i (02:55:40) trapsize 253
+\i (02:55:42) zoom out 1 
+\i (02:55:42) setwindow pcb
+\i (02:55:42) zoom out -44.5673 -46.2519
+\i (02:55:42) trapsize 507
+\i (02:55:42) zoom out 1 
+\i (02:55:42) setwindow pcb
+\i (02:55:42) zoom out -44.5673 -46.2518
+\i (02:55:42) trapsize 1014
+\i (02:55:42) zoom out 1 
+\i (02:55:42) setwindow pcb
+\i (02:55:42) zoom out -45.1757 -49.2933
+\i (02:55:42) trapsize 2028
+\i (02:55:42) zoom out 1 
+\i (02:55:42) setwindow pcb
+\i (02:55:42) zoom out -45.1758 -49.2933
+\i (02:55:42) trapsize 4055
+\i (02:55:43) zoom in 1 
+\i (02:55:43) setwindow pcb
+\i (02:55:43) zoom in -48.6634 -59.1072
+\i (02:55:43) trapsize 2028
+\i (02:55:43) zoom in 1 
+\i (02:55:43) setwindow pcb
+\i (02:55:43) zoom in -48.7850 -59.0666
+\i (02:55:43) trapsize 1014
+\i (02:55:43) zoom in 1 
+\i (02:55:43) setwindow pcb
+\i (02:55:43) zoom in -48.8053 -58.9855
+\i (02:55:43) trapsize 507
+\i (02:55:44) zoom in 1 
+\i (02:55:44) setwindow pcb
+\i (02:55:44) zoom in -48.8053 -58.9855
+\i (02:55:44) trapsize 253
+\i (02:55:46) pick grid -47.6597 -56.4103
+\t (02:55:46) last pick:  -47.6504  -56.4134
+\i (02:55:46) zoom out 1 
+\i (02:55:46) setwindow pcb
+\i (02:55:46) zoom out -47.6546 -56.3647
+\i (02:55:46) trapsize 507
+\i (02:55:50) prepopup -47.8068 -56.3140
+\i (02:55:51) pop dyn_option_select 'Quick Utilities@:@Undo' 
+\i (02:55:51) undo 
+\i (02:55:53) trapsize 127
+\i (02:55:53) generaledit 
+\i (02:55:54) pick grid -44.3316 -46.2621
+\t (02:55:54) last pick:  -44.3230  -46.2534
+\i (02:55:55) zoom out 1 
+\i (02:55:55) setwindow pcb
+\i (02:55:55) zoom out -44.3316 -46.2874
+\i (02:55:55) trapsize 253
+\i (02:55:55) prepopup -44.3213 -46.2570
+\i (02:55:56) pop dyn_option_select 'Quick Utilities@:@Undo' 
+\i (02:55:56) undo 
+\i (02:55:58) trapsize 127
+\i (02:55:58) generaledit 
+\i (02:55:58) prepopup -44.4811 -46.1303
+\i (02:56:00) pop dyn_option_select 'Quick Utilities@:@Undo' 
+\i (02:56:00) undo 
+\i (02:56:01) trapsize 127
+\i (02:56:01) generaledit 
+\i (02:56:02) pick grid -43.9919 -46.4876
+\t (02:56:02) last pick:  -43.9928  -46.4820
+\i (02:56:03) drc window 
+\t (02:56:03) Select items to DRC.
+\i (02:56:05) drc update 
+\t (02:56:05) Performing DRC...
+\t (02:56:05) Multithreaded DRC update (8 threads).
+\t (02:56:05) No DRC errors detected.
+\i (02:56:05) generaledit 
+\i (02:56:07) pick grid -44.5723 -45.9985
+\t (02:56:07) last pick:  -44.5770  -45.9994
+\i (02:56:08) save 
+\i (02:56:09) fillin yes 
+\i (02:56:09) generaledit 
+\i (02:56:09) pick grid -43.2037 -46.3153
+\t (02:56:09) last pick:  -43.2054  -46.3042
+\i (02:56:10) zoom out 1 
+\i (02:56:10) setwindow pcb
+\i (02:56:10) zoom out -44.8815 -46.0339
+\i (02:56:10) trapsize 253
+\i (02:56:11) zoom out 1 
+\i (02:56:11) setwindow pcb
+\i (02:56:11) zoom out -44.4659 -46.1658
+\i (02:56:11) trapsize 507
+\i (02:56:16) zoom out 1 
+\i (02:56:16) setwindow pcb
+\i (02:56:16) zoom out -44.3342 -47.9095
+\i (02:56:16) trapsize 1014
+\i (02:56:16) zoom out 1 
+\i (02:56:16) setwindow pcb
+\i (02:56:16) zoom out -44.4558 -48.9030
+\i (02:56:16) trapsize 2028
+\i (02:56:17) zoom in 1 
+\i (02:56:17) setwindow pcb
+\i (02:56:17) zoom in -46.1186 -56.2837
+\i (02:56:17) trapsize 1014
+\i (02:56:17) zoom in 1 
+\i (02:56:17) setwindow pcb
+\i (02:56:17) zoom in -46.1186 -56.2837
+\i (02:56:17) trapsize 507
+\i (02:56:17) zoom in 1 
+\i (02:56:17) setwindow pcb
+\i (02:56:17) zoom in -46.1186 -56.2836
+\i (02:56:17) trapsize 253
+\i (02:56:17) zoom out 1 
+\i (02:56:17) setwindow pcb
+\i (02:56:17) zoom out -46.1439 -56.2836
+\i (02:56:17) trapsize 507
+\i (02:56:17) zoom out 1 
+\i (02:56:17) setwindow pcb
+\i (02:56:17) zoom out -46.1440 -56.2836
+\i (02:56:17) trapsize 1014
+\i (02:56:44) xdehilite 
+\i (02:56:44) xNet Uart0_Txd 
+\i (02:56:44) xname_flush 
+\t (02:56:44) Net "Uart0_Txd" dehighlighted.
+\i (02:56:44) done 
+\i (02:56:44) generaledit 
+\i (02:56:48) reports 
+\i (02:56:49) generaledit 
+\i (02:56:49) drc update 
+\t (02:56:50) Performing DRC...
+\t (02:56:50) Multithreaded DRC update (8 threads).
+\t (02:56:50) No DRC errors detected.
+\i (02:56:50) generaledit 
+\i (02:56:51) save 
+\i (02:56:52) fillin yes 
+\i (02:56:53) generaledit 
+\i (02:56:55) cmgr 
+\i (02:56:55) setwindow cmgr
+\i (02:56:55) cm newView ( worksheet 144:Properties 14:Net "67:Electrical Properties" "73:Electrical Properties" )
+\i (02:56:55) cm newView ( worksheet 144:Properties 14:Net "36:General Properties" "37:General Properties" )
+\i (02:56:55) cm newView ( worksheet 144:Properties 38:Component "39:Component Properties" 40:General )
+\i (02:56:56) setwindow pcb
+\i (02:56:56) generaledit 
+\i (02:56:59) setwindow cmgr
+\i (02:56:59) cm select tab 154:Thermal
+\i (02:56:59) cm select tab 40:General
+\i (02:57:06) cm scope Design "STANDARD"
+\i (02:57:06) cm putValue ( "Part Instance" "U24" ) FIXED On 0
+\i (02:57:06) cm endUndoBlock
+\i (02:57:12) cm select ( frame ( workbook 144:Properties 14:Net "36:General Properties" ) )
+\i (02:57:31) cm select ( frame ( workbook 144:Properties 14:Net "67:Electrical Properties" ) )
+\i (02:57:32) cm select ( frame ( workbook 144:Properties 14:Net "36:General Properties" ) )
+\i (02:57:35) setwindow form.find
+\i (02:57:35) FORM find all_off  
+\i (02:57:36) setwindow pcb
+\i (02:57:36) pick grid -29.8010 -49.3085
+\t (02:57:36) last pick:  -29.7942  -49.3014
+\i (02:57:37) zoom in 1 
+\i (02:57:37) setwindow pcb
+\i (02:57:37) zoom in -42.2711 -46.3887
+\i (02:57:37) trapsize 507
+\i (02:57:37) zoom in 1 
+\i (02:57:37) setwindow pcb
+\i (02:57:37) zoom in -42.2711 -46.3886
+\i (02:57:37) trapsize 253
+\i (02:57:38) zoom out 1 
+\i (02:57:38) setwindow pcb
+\i (02:57:38) zoom out -39.9596 -46.0135
+\i (02:57:38) trapsize 507
+\i (02:57:38) zoom in 1 
+\i (02:57:38) setwindow pcb
+\i (02:57:38) zoom in -39.9190 -46.2060
+\i (02:57:38) trapsize 253
+\i (02:57:38) zoom in 1 
+\i (02:57:38) setwindow pcb
+\i (02:57:38) zoom in -39.9190 -46.2060
+\i (02:57:38) trapsize 127
+\i (02:57:38) zoom in 1 
+\i (02:57:38) setwindow pcb
+\i (02:57:38) zoom in -39.9190 -46.2060
+\i (02:57:38) trapsize 63
+\i (02:57:39) zoom out 1 
+\i (02:57:39) setwindow pcb
+\i (02:57:39) zoom out -39.9228 -46.1908
+\i (02:57:39) trapsize 127
+\i (02:57:39) zoom out 1 
+\i (02:57:39) setwindow pcb
+\i (02:57:39) zoom out -39.9228 -46.1908
+\i (02:57:39) trapsize 253
+\i (02:57:39) zoom out 1 
+\i (02:57:39) setwindow pcb
+\i (02:57:39) zoom out -39.9227 -46.1908
+\i (02:57:39) trapsize 507
+\i (02:57:45) pick grid -39.8923 -46.6266
+\t (02:57:45) last pick:  -39.9034  -46.6344
+\i (02:57:46) zoom out 1 
+\i (02:57:46) setwindow pcb
+\i (02:57:46) zoom out -39.9126 -46.5759
+\i (02:57:46) trapsize 1014
+\i (02:57:46) zoom out 1 
+\i (02:57:46) setwindow pcb
+\i (02:57:46) zoom out -39.8113 -46.5151
+\i (02:57:46) trapsize 2028
+\i (02:57:53) xhilite 
+\i (02:57:53) xNet Gpio_02 
+\i (02:57:53) xname_flush 
+\i (02:57:53) trapsize 1554
+\i (02:57:53) setwindow cmgr
+\i (02:57:53) cm expand ( row ( Design "STANDARD" ) )
+\i (02:57:53) cm expand ( row ( Design "STANDARD" ) )
+\t (02:57:53) Net "Gpio_02" highlighted.
+\i (02:57:53) setwindow pcb
+\i (02:57:53) done 
+\i (02:57:53) generaledit 
+\i (02:57:57) pick grid -52.2593 -19.4299
+\t (02:57:57) last pick:  -52.2478  -19.4310
+\i (02:57:57) zoom in 1 
+\i (02:57:57) setwindow pcb
+\i (02:57:57) zoom in -46.8841 -18.2803
+\i (02:57:57) trapsize 777
+\i (02:57:57) zoom in 1 
+\i (02:57:57) setwindow pcb
+\i (02:57:57) zoom in -46.8841 -18.2802
+\i (02:57:57) trapsize 388
+\i (02:57:58) roam start
+\i (02:57:58) roam y -32
+\i (02:57:58) roam x 32
+\i (02:57:58) roam y -80
+\i (02:57:58) roam y -32
+\i (02:57:59) roam x 16
+\i (02:57:59) roam y -32
+\i (02:57:59) roam x 16
+\i (02:57:59) roam y -16
+\i (02:57:59) roam x 16
+\i (02:57:59) roam y -32
+\i (02:57:59) roam y -32
+\i (02:57:59) roam end
+\i (02:57:59) zoom out 1 
+\i (02:57:59) setwindow pcb
+\i (02:57:59) zoom out -49.5401 -18.4834
+\i (02:57:59) trapsize 777
+\i (02:58:00) zoom in 1 
+\i (02:58:00) setwindow pcb
+\i (02:58:00) zoom in -51.1557 -20.3943
+\i (02:58:00) trapsize 388
+\i (02:58:01) zoom out 1 
+\i (02:58:01) setwindow pcb
+\i (02:58:01) zoom out -50.9926 -20.4176
+\i (02:58:01) trapsize 777
+\i (02:58:01) zoom out 1 
+\i (02:58:01) setwindow pcb
+\i (02:58:01) zoom out -50.9926 -20.4175
+\i (02:58:01) trapsize 1554
+\i (02:58:01) zoom out 1 
+\i (02:58:01) setwindow pcb
+\i (02:58:01) zoom out -50.9926 -20.4175
+\i (02:58:01) trapsize 3107
+\i (02:58:02) zoom in 1 
+\i (02:58:02) setwindow pcb
+\i (02:58:02) zoom in -55.4046 -20.7904
+\i (02:58:02) trapsize 1554
+\i (02:58:03) roam start
+\i (02:58:03) roam x -112
+\i (02:58:03) roam x -32
+\i (02:58:03) roam x -48
+\i (02:58:03) roam x -32
+\i (02:58:03) roam x -32
+\i (02:58:03) roam x -48
+\i (02:58:03) roam y 16
+\i (02:58:03) roam x -32
+\i (02:58:03) roam x -32
+\i (02:58:03) roam x -48
+\i (02:58:03) roam y 16
+\i (02:58:03) roam x -16
+\i (02:58:04) roam end
+\i (02:58:04) zoom in 1 
+\i (02:58:04) setwindow pcb
+\i (02:58:04) zoom in -47.4662 -20.9613
+\i (02:58:04) trapsize 777
+\i (02:58:04) zoom in 1 
+\i (02:58:04) setwindow pcb
+\i (02:58:04) zoom in -46.8913 -20.7127
+\i (02:58:04) trapsize 388
+\i (02:58:05) pick grid -47.0544 -21.0855
+\t (02:58:05) last pick:  -47.0662  -21.0820
+\i (02:58:06) pick grid -47.7379 -20.7204
+\t (02:58:06) last pick:  -47.7266  -20.7264
+\i (02:58:07) pick grid -47.3185 -21.0467
+\t (02:58:07) last pick:  -47.3202  -21.0566
+\i (02:58:08) setwindow form.find
+\i (02:58:08) FORM find vias YES 
+\i (02:58:08) FORM find clines YES 
+\i (02:58:11) setwindow pcb
+\i (02:58:11) pick grid -47.6758 -20.8369
+\t (02:58:11) last pick:  -47.6758  -20.8280
+\i (02:58:11) setwindow cmgr
+\i (02:58:11) cm expand ( row ( Design "STANDARD" ) )
+\i (02:58:11) cm expand ( row ( Design "STANDARD" ) )
+\i (02:58:11) setwindow pcb
+\i (02:58:11) prepopup -47.6913 -20.8369
+\i (02:58:12) pop dyn_option_select @:@Delete 
+\i (02:58:12) delete 
+\i (02:58:12) generaledit 
+\i (02:58:13) zoom out 1 
+\i (02:58:13) setwindow pcb
+\i (02:58:13) zoom out -47.2097 -21.4506
+\i (02:58:13) trapsize 777
+\i (02:58:15) setwindow form.find
+\i (02:58:15) FORM find symbols YES 
+\i (02:58:32) setwindow pcb
+\i (02:58:32) pick grid -53.0355 -20.5806
+\t (02:58:32) last pick:  -53.0352  -20.5740
+\i (02:58:36) zoom in 1 
+\i (02:58:36) setwindow pcb
+\i (02:58:36) zoom in -46.9301 -21.6370
+\i (02:58:36) trapsize 388
+\i (02:58:40) zoom out 1 
+\i (02:58:40) setwindow pcb
+\i (02:58:40) zoom out -47.0233 -20.9457
+\i (02:58:40) trapsize 777
+\i (02:58:40) zoom in 1 
+\i (02:58:40) setwindow pcb
+\i (02:58:40) zoom in -47.0544 -20.8524
+\i (02:58:40) trapsize 388
+\i (02:58:44) pick grid -47.0777 -21.1087
+\t (02:58:44) last pick:  -47.0662  -21.1074
+\i (02:58:46) pick grid -47.1398 -18.2269
+\t (02:58:46) last pick:  -47.1424  -18.2372
+\i (02:58:46) setwindow cmgr
+\i (02:58:46) cm expand ( row ( Design "STANDARD" ) )
+\i (02:58:46) cm expand ( row ( Design "STANDARD" ) )
+\i (02:58:46) setwindow pcb
+\i (02:58:46) prepopup -47.1398 -18.2269
+\i (02:58:47) pop dyn_option_select @:@Delete 
+\i (02:58:47) delete 
+\i (02:58:47) generaledit 
+\i (02:58:48) pick grid -47.1553 -17.9162
+\t (02:58:48) last pick:  -47.1678  -17.9070
+\i (02:58:48) setwindow cmgr
+\i (02:58:48) cm expand ( row ( Design "STANDARD" ) )
+\i (02:58:48) cm expand ( row ( Design "STANDARD" ) )
+\i (02:58:48) setwindow pcb
+\i (02:58:48) prepopup -47.1631 -17.9162
+\i (02:58:49) pop dyn_option_select @:@Delete 
+\i (02:58:49) delete 
+\i (02:58:49) generaledit 
+\i (02:58:50) pick grid -47.1010 -17.8696
+\t (02:58:50) last pick:  -47.0916  -17.8816
+\i (02:58:50) setwindow cmgr
+\i (02:58:50) cm expand ( row ( Design "STANDARD" ) )
+\i (02:58:50) cm expand ( row ( Design "STANDARD" ) )
+\i (02:58:50) setwindow pcb
+\i (02:58:50) zoom out 1 
+\i (02:58:50) setwindow pcb
+\i (02:58:50) zoom out -46.5805 -18.2813
+\i (02:58:50) trapsize 777
+\i (02:58:52) prepopup -46.9690 -17.8463
+\i (02:58:52) pop dyn_option_select @:@Delete 
+\i (02:58:52) delete 
+\i (02:58:53) generaledit 
+\i (02:58:53) zoom out 1 
+\i (02:58:53) setwindow pcb
+\i (02:58:53) zoom out -42.8055 -24.6041
+\i (02:58:53) trapsize 1554
+\i (02:58:53) zoom out 1 
+\i (02:58:53) setwindow pcb
+\i (02:58:53) zoom out -42.8055 -24.6041
+\i (02:58:53) trapsize 3107
+\i (02:58:54) zoom in 1 
+\i (02:58:54) setwindow pcb
+\i (02:58:54) zoom in -32.3037 -47.9692
+\i (02:58:54) trapsize 1554
+\i (02:58:55) zoom in 1 
+\i (02:58:55) setwindow pcb
+\i (02:58:55) zoom in -33.7640 -45.0796
+\i (02:58:55) trapsize 777
+\i (02:58:55) zoom in 1 
+\i (02:58:55) setwindow pcb
+\i (02:58:55) zoom in -33.7640 -45.0796
+\i (02:58:55) trapsize 388
+\i (02:58:55) zoom in 1 
+\i (02:58:55) setwindow pcb
+\i (02:58:55) zoom in -34.2067 -44.9630
+\i (02:58:55) trapsize 194
+\i (02:58:56) pick grid -34.6650 -44.2522
+\t (02:58:56) last pick:  -34.6710  -44.2468
+\i (02:58:56) setwindow cmgr
+\i (02:58:56) cm expand ( row ( Design "STANDARD" ) )
+\i (02:58:56) cm expand ( row ( Design "STANDARD" ) )
+\i (02:58:57) setwindow pcb
+\i (02:58:57) prepopup -34.6650 -44.2483
+\i (02:58:58) pop dyn_option_select @:@Delete 
+\i (02:58:58) delete 
+\i (02:58:58) generaledit 
+\i (02:58:58) pick grid -34.4747 -44.3416
+\t (02:58:58) last pick:  -34.4678  -44.3484
+\i (02:58:58) prepopup -34.4747 -44.3416
+\i (02:58:59) pop dyn_option_select @:@Delete 
+\i (02:58:59) delete 
+\i (02:59:00) generaledit 
+\i (02:59:00) pick grid -34.5019 -44.2406
+\t (02:59:00) last pick:  -34.4932  -44.2468
+\i (02:59:02) drc update 
+\t (02:59:02) Performing DRC...
+\t (02:59:02) Multithreaded DRC update (8 threads).
+\t (02:59:02) No DRC errors detected.
+\i (02:59:02) generaledit 
+\i (02:59:03) pick grid -34.3426 -44.0775
+\t (02:59:03) last pick:  -34.3408  -44.0690
+\i (02:59:04) save 
+\i (02:59:05) fillin yes 
+\i (02:59:05) generaledit 
+\i (02:59:10) xdehilite 
+\i (02:59:10) xNet Gpio_02 
+\i (02:59:10) xname_flush 
+\t (02:59:10) Net "Gpio_02" dehighlighted.
+\i (02:59:10) done 
+\i (02:59:10) generaledit 
+\i (02:59:11) xhilite 
+\i (02:59:11) xNet Gpio_11 
+\i (02:59:11) xname_flush 
+\i (02:59:11) trapsize 1695
+\i (02:59:11) setwindow cmgr
+\i (02:59:11) cm expand ( row ( Design "STANDARD" ) )
+\i (02:59:11) cm expand ( row ( Design "STANDARD" ) )
+\t (02:59:11) Net "Gpio_11" highlighted.
+\i (02:59:11) setwindow pcb
+\i (02:59:11) done 
+\i (02:59:11) generaledit 
+\i (02:59:13) pick grid -44.5520 -16.8923
+\t (02:59:13) last pick:  -44.5516  -16.8910
+\i (02:59:14) zoom in 1 
+\i (02:59:14) setwindow pcb
+\i (02:59:14) zoom in -45.9758 -17.4008
+\i (02:59:14) trapsize 848
+\i (02:59:14) zoom in 1 
+\i (02:59:14) setwindow pcb
+\i (02:59:14) zoom in -45.9758 -17.4008
+\i (02:59:14) trapsize 424
+\i (02:59:14) zoom in 1 
+\i (02:59:14) setwindow pcb
+\i (02:59:14) zoom in -45.9927 -17.3839
+\i (02:59:14) trapsize 212
+\i (02:59:14) zoom out 1 
+\i (02:59:14) setwindow pcb
+\i (02:59:14) zoom out -46.3148 -17.7398
+\i (02:59:14) trapsize 424
+\i (02:59:16) pick grid -46.5690 -18.2399
+\t (02:59:16) last pick:  -46.5582  -18.2372
+\i (02:59:16) setwindow cmgr
+\i (02:59:16) cm expand ( row ( Design "STANDARD" ) )
+\i (02:59:16) cm expand ( row ( Design "STANDARD" ) )
+\i (02:59:16) setwindow pcb
+\i (02:59:16) prepopup -46.6029 -18.2399
+\i (02:59:17) pop dyn_option_select @:@Delete 
+\i (02:59:17) delete 
+\i (02:59:17) generaledit 
+\i (02:59:17) pick grid -46.5012 -17.5619
+\t (02:59:17) last pick:  -46.5074  -17.5514
+\i (02:59:17) setwindow cmgr
+\i (02:59:17) cm expand ( row ( Design "STANDARD" ) )
+\i (02:59:17) cm expand ( row ( Design "STANDARD" ) )
+\i (02:59:18) setwindow pcb
+\i (02:59:18) prepopup -46.5012 -17.5534
+\i (02:59:18) pop dyn_option_select @:@Spin 
+\i (02:59:18) spin 
+\i (02:59:19) prepopup -46.5096 -17.5619
+\i (02:59:20) cancel 
+\i (02:59:21) generaledit 
+\i (02:59:21) setwindow cmgr
+\i (02:59:21) cm expand ( row ( Design "STANDARD" ) )
+\i (02:59:21) cm expand ( row ( Design "STANDARD" ) )
+\i (02:59:21) setwindow pcb
+\i (02:59:21) pick grid -46.6537 -17.3839
+\t (02:59:21) last pick:  -46.6598  -17.3736
+\i (02:59:21) setwindow cmgr
+\i (02:59:21) cm expand ( row ( Design "STANDARD" ) )
+\i (02:59:21) cm expand ( row ( Design "STANDARD" ) )
+\i (02:59:21) setwindow pcb
+\i (02:59:21) prepopup -46.6537 -17.3839
+\i (02:59:22) pop dyn_option_select @:@Delete 
+\i (02:59:22) delete 
+\i (02:59:22) generaledit 
+\i (02:59:23) pick grid -46.5181 -17.5195
+\t (02:59:23) last pick:  -46.5074  -17.5260
+\i (02:59:23) setwindow cmgr
+\i (02:59:23) cm expand ( row ( Design "STANDARD" ) )
+\i (02:59:23) cm expand ( row ( Design "STANDARD" ) )
+\i (02:59:24) setwindow pcb
+\i (02:59:24) pick grid -46.4927 -17.5026
+\t (02:59:24) last pick:  -46.4820  -17.5006
+\i (02:59:24) setwindow cmgr
+\i (02:59:24) cm expand ( row ( Design "STANDARD" ) )
+\i (02:59:24) cm expand ( row ( Design "STANDARD" ) )
+\i (02:59:24) setwindow pcb
+\i (02:59:24) prepopup -46.4842 -17.5026
+\i (02:59:25) pop dyn_option_select @:@Delete 
+\i (02:59:25) delete 
+\i (02:59:25) generaledit 
+\i (02:59:25) zoom out 1 
+\i (02:59:25) setwindow pcb
+\i (02:59:25) zoom out -46.4673 -17.4856
+\i (02:59:25) trapsize 848
+\i (02:59:25) zoom out 1 
+\i (02:59:25) setwindow pcb
+\i (02:59:25) zoom out -46.4672 -17.5365
+\i (02:59:25) trapsize 1695
+\i (02:59:26) zoom out 1 
+\i (02:59:26) setwindow pcb
+\i (02:59:26) zoom out -43.5179 -27.0625
+\i (02:59:26) trapsize 3390
+\i (02:59:27) zoom in 1 
+\i (02:59:27) setwindow pcb
+\i (02:59:27) zoom in -32.6698 -46.7925
+\i (02:59:27) trapsize 1695
+\i (02:59:27) zoom in 1 
+\i (02:59:27) setwindow pcb
+\i (02:59:27) zoom in -32.7037 -46.7925
+\i (02:59:27) trapsize 848
+\i (02:59:27) zoom in 1 
+\i (02:59:27) setwindow pcb
+\i (02:59:27) zoom in -32.7037 -46.7925
+\i (02:59:27) trapsize 424
+\i (02:59:28) zoom in 1 
+\i (02:59:28) setwindow pcb
+\i (02:59:28) zoom in -34.3563 -46.6145
+\i (02:59:28) trapsize 212
+\i (02:59:28) zoom in 1 
+\i (02:59:28) setwindow pcb
+\i (02:59:28) zoom in -34.3563 -46.6145
+\i (02:59:28) trapsize 106
+\i (02:59:29) pick grid -34.2843 -46.6971
+\t (02:59:29) last pick:  -34.2900  -46.6852
+\i (02:59:29) pick grid -34.3648 -46.5911
+\t (02:59:29) last pick:  -34.3662  -46.5836
+\i (02:59:29) setwindow cmgr
+\i (02:59:29) cm expand ( row ( Design "STANDARD" ) )
+\i (02:59:29) cm expand ( row ( Design "STANDARD" ) )
+\i (02:59:29) setwindow pcb
+\i (02:59:29) prepopup -34.3627 -46.5890
+\i (02:59:31) pop dyn_option_select @:@Delete 
+\i (02:59:31) delete 
+\i (02:59:31) generaledit 
+\i (02:59:31) pick grid -34.6275 -46.2860
+\t (02:59:31) last pick:  -34.6202  -46.2788
+\i (02:59:31) setwindow cmgr
+\i (02:59:31) cm expand ( row ( Design "STANDARD" ) )
+\i (02:59:31) cm expand ( row ( Design "STANDARD" ) )
+\i (02:59:32) setwindow pcb
+\i (02:59:32) prepopup -34.6275 -46.2860
+\i (02:59:32) pop dyn_option_select @:@Delete 
+\i (02:59:32) delete 
+\i (02:59:33) generaledit 
+\i (02:59:33) pick grid -34.5067 -46.2797
+\t (02:59:33) last pick:  -34.5186  -46.2788
+\i (02:59:34) save 
+\i (02:59:36) fillin yes 
+\i (02:59:36) generaledit 
+\i (02:59:38) drc update 
+\t (02:59:38) Performing DRC...
+\t (02:59:38) Multithreaded DRC update (8 threads).
+\t (02:59:38) No DRC errors detected.
+\i (02:59:38) generaledit 
+\i (02:59:40) save 
+\i (02:59:41) fillin yes 
+\i (02:59:41) generaledit 
+\i (02:59:41) pick grid -34.3118 -46.4259
+\t (02:59:41) last pick:  -34.3154  -46.4312
+\i (02:59:42) zoom out 1 
+\i (02:59:42) setwindow pcb
+\i (02:59:42) zoom out -34.4559 -46.2712
+\i (02:59:42) trapsize 212
+\i (02:59:42) zoom out 1 
+\i (02:59:42) setwindow pcb
+\i (02:59:42) zoom out -34.4559 -46.2712
+\i (02:59:42) trapsize 424
+\i (02:59:42) zoom out 1 
+\i (02:59:42) setwindow pcb
+\i (02:59:42) zoom out -34.4559 -46.2712
+\i (02:59:42) trapsize 848
+\i (02:59:44) xdehilite 
+\i (02:59:45) xNet Gpio_11 
+\i (02:59:45) xname_flush 
+\t (02:59:45) Net "Gpio_11" dehighlighted.
+\i (02:59:45) done 
+\i (02:59:45) generaledit 
+\i (02:59:45) xhilite 
+\i (02:59:45) xNet Gpio_12 
+\i (02:59:45) xname_flush 
+\i (02:59:45) trapsize 705
+\i (02:59:45) setwindow cmgr
+\i (02:59:45) cm expand ( row ( Design "STANDARD" ) )
+\i (02:59:45) cm expand ( row ( Design "STANDARD" ) )
+\t (02:59:45) Net "Gpio_12" highlighted.
+\i (02:59:45) setwindow pcb
+\i (02:59:45) done 
+\i (02:59:45) generaledit 
+\i (02:59:47) pick grid -45.3124 -21.0281
+\t (02:59:47) last pick:  -45.3136  -21.0312
+\i (02:59:48) zoom in 1 
+\i (02:59:48) setwindow pcb
+\i (02:59:48) zoom in -45.8908 -20.4920
+\i (02:59:48) trapsize 353
+\i (02:59:48) zoom in 1 
+\i (02:59:48) setwindow pcb
+\i (02:59:48) zoom in -45.8979 -20.4920
+\i (02:59:48) trapsize 176
+\i (02:59:50) pick grid -45.7039 -20.9963
+\t (02:59:50) last pick:  -45.6946  -21.0058
+\i (02:59:50) pick grid -45.8167 -20.9752
+\t (02:59:50) last pick:  -45.8216  -20.9804
+\i (02:59:50) setwindow cmgr
+\i (02:59:50) cm expand ( row ( Design "STANDARD" ) )
+\i (02:59:50) cm expand ( row ( Design "STANDARD" ) )
+\i (02:59:50) setwindow pcb
+\i (02:59:50) prepopup -45.8167 -20.9752
+\i (02:59:51) pop dyn_option_select @:@Delete 
+\i (02:59:51) delete 
+\i (02:59:51) generaledit 
+\i (02:59:52) pick grid -45.8273 -21.2291
+\t (02:59:52) last pick:  -45.8216  -21.2344
+\i (02:59:52) setwindow cmgr
+\i (02:59:52) cm expand ( row ( Design "STANDARD" ) )
+\i (02:59:52) cm expand ( row ( Design "STANDARD" ) )
+\i (02:59:52) setwindow pcb
+\i (02:59:52) prepopup -45.8238 -21.2326
+\i (02:59:53) pop dyn_option_select @:@Delete 
+\i (02:59:53) delete 
+\i (02:59:53) generaledit 
+\i (02:59:54) pick grid -45.8379 -21.3208
+\t (02:59:54) last pick:  -45.8470  -21.3106
+\i (02:59:54) setwindow cmgr
+\i (02:59:54) cm expand ( row ( Design "STANDARD" ) )
+\i (02:59:54) cm expand ( row ( Design "STANDARD" ) )
+\i (02:59:54) setwindow pcb
+\i (02:59:54) prepopup -45.8379 -21.3208
+\i (02:59:55) pop dyn_option_select @:@Delete 
+\i (02:59:55) delete 
+\i (02:59:55) generaledit 
+\i (02:59:56) pick grid -45.8026 -21.2432
+\t (02:59:56) last pick:  -45.7962  -21.2344
+\i (02:59:56) zoom out 1 
+\i (02:59:56) setwindow pcb
+\i (02:59:56) zoom out -45.8097 -21.2890
+\i (02:59:56) trapsize 353
+\i (02:59:56) zoom out 1 
+\i (02:59:56) setwindow pcb
+\i (02:59:56) zoom out -45.8097 -21.2891
+\i (02:59:56) trapsize 705
+\i (02:59:57) zoom out 1 
+\i (02:59:57) setwindow pcb
+\i (02:59:57) zoom out -45.8238 -24.9427
+\i (02:59:57) trapsize 1411
+\i (02:59:58) zoom in 1 
+\i (02:59:58) setwindow pcb
+\i (02:59:58) zoom in -46.1905 -31.5164
+\i (02:59:58) trapsize 705
+\i (02:59:58) zoom in 1 
+\i (02:59:58) setwindow pcb
+\i (02:59:58) zoom in -46.1905 -31.5164
+\i (02:59:58) trapsize 353
+\i (02:59:59) zoom in 1 
+\i (02:59:59) setwindow pcb
+\i (02:59:59) zoom in -46.3879 -31.2130
+\i (02:59:59) trapsize 176
+\i (02:59:59) zoom in 1 
+\i (02:59:59) setwindow pcb
+\i (02:59:59) zoom in -46.3914 -31.2095
+\i (02:59:59) trapsize 88
+\i (03:00:00) pick grid -46.2610 -30.7405
+\t (03:00:00) last pick:  -46.2534  -30.7340
+\i (03:00:00) setwindow cmgr
+\i (03:00:00) cm expand ( row ( Design "STANDARD" ) )
+\i (03:00:00) cm expand ( row ( Design "STANDARD" ) )
+\i (03:00:00) setwindow pcb
+\i (03:00:00) prepopup -46.2610 -30.7405
+\i (03:00:01) pop dyn_option_select @:@Delete 
+\i (03:00:01) delete 
+\i (03:00:01) generaledit 
+\i (03:00:02) pick grid -46.3668 -30.5200
+\t (03:00:02) last pick:  -46.3550  -30.5308
+\i (03:00:02) prepopup -46.3668 -30.5200
+\i (03:00:03) pop dyn_option_select @:@Delete 
+\i (03:00:03) delete 
+\i (03:00:03) generaledit 
+\i (03:00:05) drc update 
+\t (03:00:05) Performing DRC...
+\t (03:00:05) Multithreaded DRC update (8 threads).
+\t (03:00:05) No DRC errors detected.
+\i (03:00:05) generaledit 
+\i (03:00:06) save 
+\i (03:00:07) fillin yes 
+\i (03:00:08) generaledit 
+\i (03:00:08) zoom out 1 
+\i (03:00:08) setwindow pcb
+\i (03:00:08) zoom out -46.2786 -30.5818
+\i (03:00:08) trapsize 176
+\i (03:00:08) zoom out 1 
+\i (03:00:08) setwindow pcb
+\i (03:00:08) zoom out -46.2786 -30.5817
+\i (03:00:08) trapsize 353
+\i (03:00:08) zoom out 1 
+\i (03:00:08) setwindow pcb
+\i (03:00:08) zoom out -46.2787 -30.5817
+\i (03:00:08) trapsize 705
+\i (03:00:09) roam start
+\i (03:00:10) roam y -64
+\i (03:00:10) roam y -32
+\i (03:00:10) roam y -48
+\i (03:00:10) roam y -32
+\i (03:00:10) roam y -80
+\i (03:00:10) roam y -64
+\i (03:00:10) roam x 16
+\i (03:00:10) roam y -32
+\i (03:00:10) roam x 16
+\i (03:00:10) roam x -16
+\i (03:00:10) roam y -48
+\i (03:00:10) roam y -64
+\i (03:00:10) roam y -16
+\i (03:00:10) roam y -16
+\i (03:00:10) roam x 16
+\i (03:00:10) roam y -48
+\i (03:00:11) roam x 16
+\i (03:00:11) roam y -32
+\i (03:00:11) roam y -16
+\i (03:00:11) roam x 16
+\i (03:00:11) roam x 32
+\i (03:00:11) roam x 16
+\i (03:00:11) roam x 16
+\i (03:00:11) roam x 16
+\i (03:00:11) roam end
+\i (03:00:11) zoom in 1 
+\i (03:00:11) setwindow pcb
+\i (03:00:11) zoom in -44.8638 -19.3339
+\i (03:00:11) trapsize 353
+\i (03:00:12) zoom in 1 
+\i (03:00:12) setwindow pcb
+\i (03:00:12) zoom in -44.8638 -19.3339
+\i (03:00:12) trapsize 176
+\i (03:00:15) zoom out 1 
+\i (03:00:15) setwindow pcb
+\i (03:00:15) zoom out -44.8955 -19.3551
+\i (03:00:15) trapsize 353
+\i (03:00:16) xdehilite 
+\i (03:00:17) xNet Gpio_12 
+\i (03:00:17) xname_flush 
+\t (03:00:17) Net "Gpio_12" dehighlighted.
+\i (03:00:17) done 
+\i (03:00:17) generaledit 
+\i (03:00:47) pick grid -42.5679 -21.8660
+\t (03:00:47) last pick:  -42.5704  -21.8694
+\i (03:00:47) zoom out 1 
+\i (03:00:47) setwindow pcb
+\i (03:00:47) zoom out -42.5186 -21.8025
+\i (03:00:47) trapsize 705
+\i (03:00:47) zoom out 1 
+\i (03:00:47) setwindow pcb
+\i (03:00:47) zoom out -42.5185 -21.8026
+\i (03:00:47) trapsize 1411
+\i (03:00:47) zoom in 1 
+\i (03:00:47) setwindow pcb
+\i (03:00:47) zoom in -39.3868 -26.1756
+\i (03:00:47) trapsize 705
+\i (03:00:48) zoom in 1 
+\i (03:00:48) setwindow pcb
+\i (03:00:48) zoom in -39.5419 -25.7101
+\i (03:00:48) trapsize 353
+\i (03:00:49) zoom out 1 
+\i (03:00:49) setwindow pcb
+\i (03:00:49) zoom out -42.2998 -23.1779
+\i (03:00:49) trapsize 705
+\i (03:00:57) pick grid -42.4549 -21.8941
+\t (03:00:57) last pick:  -42.4434  -21.8948
+\i (03:00:57) roam start
+\i (03:00:57) roam y -48
+\i (03:00:57) roam x -16
+\i (03:00:57) roam y -48
+\i (03:00:57) roam x -16
+\i (03:00:57) roam y -16
+\i (03:00:57) roam y -32
+\i (03:00:57) roam x -48
+\i (03:00:58) roam x -48
+\i (03:00:58) roam x -32
+\i (03:00:58) roam x -48
+\i (03:00:58) roam x -16
+\i (03:00:58) roam x 80
+\i (03:00:58) roam y -16
+\i (03:00:58) roam x 32
+\i (03:00:58) roam y -16
+\i (03:00:58) roam x 16
+\i (03:00:58) roam y -32
+\i (03:00:58) roam x 16
+\i (03:00:58) roam y -16
+\i (03:00:58) roam y -16
+\i (03:00:58) roam end
+\i (03:00:58) zoom in 1 
+\i (03:00:58) setwindow pcb
+\i (03:00:58) zoom in -44.9626 -18.8966
+\i (03:00:58) trapsize 353
+\i (03:00:59) zoom in 1 
+\i (03:00:59) setwindow pcb
+\i (03:00:59) zoom in -44.9767 -18.8895
+\i (03:00:59) trapsize 176
+\i (03:01:00) zoom out 1 
+\i (03:01:00) setwindow pcb
+\i (03:01:00) zoom out -44.9978 -19.2492
+\i (03:01:00) trapsize 353
+\i (03:01:01) pick grid -45.2094 -21.0971
+\t (03:01:01) last pick:  -45.2120  -21.1074
+\i (03:01:10) xhilite 
+\i (03:01:10) xNet Ext_Power_On 
+\i (03:01:10) xname_flush 
+\i (03:01:10) trapsize 1743
+\i (03:01:10) setwindow cmgr
+\i (03:01:10) cm expand ( row ( Design "STANDARD" ) )
+\i (03:01:10) cm expand ( row ( Design "STANDARD" ) )
+\t (03:01:10) Net "Ext_Power_On" highlighted.
+\i (03:01:10) setwindow pcb
+\i (03:01:10) done 
+\i (03:01:11) generaledit 
+\i (03:01:14) setwindow form.find
+\i (03:01:14) FORM find all_off  
+\i (03:01:15) setwindow pcb
+\i (03:01:15) zoom in 1 
+\i (03:01:15) setwindow pcb
+\i (03:01:15) zoom in -42.9008 -23.1414
+\i (03:01:15) trapsize 871
+\i (03:01:15) pick grid -42.8485 -22.0783
+\t (03:01:15) last pick:  -42.8498  -22.0726
+\i (03:01:16) roam start
+\i (03:01:16) roam x -16
+\i (03:01:16) roam y -64
+\i (03:01:16) roam x -48
+\i (03:01:16) roam y -32
+\i (03:01:16) roam x -48
+\i (03:01:16) roam y -16
+\i (03:01:16) roam y -48
+\i (03:01:16) roam x 32
+\i (03:01:16) roam x 32
+\i (03:01:16) roam y -16
+\i (03:01:17) roam end
+\i (03:01:17) zoom in 1 
+\i (03:01:17) setwindow pcb
+\i (03:01:17) zoom in -44.5785 -18.8555
+\i (03:01:17) trapsize 436
+\i (03:01:17) zoom in 1 
+\i (03:01:17) setwindow pcb
+\i (03:01:17) zoom in -44.5959 -18.8380
+\i (03:01:17) trapsize 218
+\i (03:01:18) setwindow form.find
+\i (03:01:18) FORM find clines YES 
+\i (03:01:19) FORM find vias YES 
+\i (03:01:20) setwindow pcb
+\i (03:01:20) pick grid -45.2146 -19.0122
+\t (03:01:20) last pick:  -45.2120  -19.0246
+\i (03:01:20) setwindow cmgr
+\i (03:01:20) cm expand ( row ( Design "STANDARD" ) )
+\i (03:01:20) cm expand ( row ( Design "STANDARD" ) )
+\i (03:01:20) setwindow pcb
+\i (03:01:20) prepopup -45.2190 -19.0078
+\i (03:01:21) pop dyn_option_select @:@Delete 
+\i (03:01:21) delete 
+\i (03:01:21) generaledit 
+\i (03:01:22) pick grid -45.3759 -18.6985
+\t (03:01:22) last pick:  -45.3644  -18.6944
+\i (03:01:22) setwindow cmgr
+\i (03:01:22) cm expand ( row ( Design "STANDARD" ) )
+\i (03:01:22) cm expand ( row ( Design "STANDARD" ) )
+\i (03:01:22) setwindow pcb
+\i (03:01:22) prepopup -45.3759 -18.6985
+\i (03:01:23) pop dyn_option_select @:@Delete 
+\i (03:01:23) delete 
+\i (03:01:23) generaledit 
+\i (03:01:23) pick grid -45.1754 -18.6985
+\t (03:01:23) last pick:  -45.1866  -18.6944
+\i (03:01:23) setwindow cmgr
+\i (03:01:23) cm expand ( row ( Design "STANDARD" ) )
+\i (03:01:23) cm expand ( row ( Design "STANDARD" ) )
+\i (03:01:23) setwindow pcb
+\i (03:01:23) prepopup -45.1754 -18.6985
+\i (03:01:24) pop dyn_option_select @:@Delete 
+\i (03:01:24) delete 
+\i (03:01:24) generaledit 
+\i (03:01:25) zoom out 1 
+\i (03:01:25) setwindow pcb
+\i (03:01:25) zoom out -43.3193 -20.2191
+\i (03:01:25) trapsize 436
+\i (03:01:25) zoom out 1 
+\i (03:01:25) setwindow pcb
+\i (03:01:25) zoom out -43.3193 -20.2191
+\i (03:01:25) trapsize 871
+\i (03:01:25) zoom out 1 
+\i (03:01:25) setwindow pcb
+\i (03:01:25) zoom out -41.9599 -27.1382
+\i (03:01:25) trapsize 1743
+\i (03:01:27) roam start
+\i (03:01:27) roam y 96
+\i (03:01:27) roam y 16
+\i (03:01:27) roam y 32
+\i (03:01:27) roam y 32
+\i (03:01:27) roam y 16
+\i (03:01:27) roam y 32
+\i (03:01:27) roam y 32
+\i (03:01:27) roam x 16
+\i (03:01:27) roam y 32
+\i (03:01:27) roam x 16
+\i (03:01:27) roam y 80
+\i (03:01:27) roam x 16
+\i (03:01:27) roam y 48
+\i (03:01:27) roam x 48
+\i (03:01:27) roam y 16
+\i (03:01:28) roam x 16
+\i (03:01:28) roam y 16
+\i (03:01:28) roam y 48
+\i (03:01:28) roam x 48
+\i (03:01:28) roam y 80
+\i (03:01:28) roam x 16
+\i (03:01:28) roam y 48
+\i (03:01:28) roam x -16
+\i (03:01:28) roam y 16
+\i (03:01:28) roam x -16
+\i (03:01:28) roam y 16
+\i (03:01:28) roam x -16
+\i (03:01:28) roam end
+\i (03:01:29) zoom in 1 
+\i (03:01:29) setwindow pcb
+\i (03:01:29) zoom in -36.8539 -48.5322
+\i (03:01:29) trapsize 871
+\i (03:01:29) zoom in 1 
+\i (03:01:29) setwindow pcb
+\i (03:01:29) zoom in -36.8539 -48.5322
+\i (03:01:29) trapsize 436
+\i (03:01:29) zoom in 1 
+\i (03:01:29) setwindow pcb
+\i (03:01:29) zoom in -37.6294 -48.5844
+\i (03:01:29) trapsize 218
+\i (03:01:29) zoom in 1 
+\i (03:01:29) setwindow pcb
+\i (03:01:29) zoom in -37.6337 -48.5844
+\i (03:01:29) trapsize 109
+\i (03:01:31) pick grid -37.4050 -48.5081
+\t (03:01:31) last pick:  -37.4142  -48.5140
+\i (03:01:31) setwindow cmgr
+\i (03:01:31) cm expand ( row ( Design "STANDARD" ) )
+\i (03:01:31) cm expand ( row ( Design "STANDARD" ) )
+\i (03:01:31) setwindow pcb
+\i (03:01:31) prepopup -37.4050 -48.5081
+\i (03:01:33) pop dyn_option_select @:@Delete 
+\i (03:01:33) delete 
+\i (03:01:33) generaledit 
+\i (03:01:34) pick grid -37.5945 -48.3752
+\t (03:01:34) last pick:  -37.5920  -48.3870
+\i (03:01:34) setwindow cmgr
+\i (03:01:34) cm expand ( row ( Design "STANDARD" ) )
+\i (03:01:34) cm expand ( row ( Design "STANDARD" ) )
+\i (03:01:34) setwindow pcb
+\i (03:01:34) prepopup -37.5967 -48.3752
+\i (03:01:35) pop dyn_option_select @:@Delete 
+\i (03:01:35) delete 
+\i (03:01:35) generaledit 
+\i (03:01:37) drc update 
+\t (03:01:37) Performing DRC...
+\t (03:01:37) Multithreaded DRC update (8 threads).
+\t (03:01:37) No DRC errors detected.
+\i (03:01:38) generaledit 
+\i (03:01:39) pick grid -37.5510 -48.1356
+\t (03:01:39) last pick:  -37.5412  -48.1330
+\i (03:01:39) zoom out 1 
+\i (03:01:39) setwindow pcb
+\i (03:01:39) zoom out -37.5466 -48.1334
+\i (03:01:39) trapsize 218
+\i (03:01:40) zoom out 1 
+\i (03:01:40) setwindow pcb
+\i (03:01:40) zoom out -37.5509 -48.1465
+\i (03:01:40) trapsize 436
+\i (03:01:40) zoom out 1 
+\i (03:01:40) setwindow pcb
+\i (03:01:40) zoom out -37.5334 -48.1378
+\i (03:01:40) trapsize 871
+\i (03:01:41) zoom out 1 
+\i (03:01:41) setwindow pcb
+\i (03:01:41) zoom out -37.6206 -48.1204
+\i (03:01:41) trapsize 1743
+\i (03:01:42) roam start
+\i (03:01:42) roam y -48
+\i (03:01:42) roam x -16
+\i (03:01:42) roam y -112
+\i (03:01:43) roam x 16
+\i (03:01:43) roam y -160
+\i (03:01:43) roam x 16
+\i (03:01:43) roam y -80
+\i (03:01:43) roam x -32
+\i (03:01:43) roam y -16
+\i (03:01:43) roam x -144
+\i (03:01:43) roam x -64
+\i (03:01:43) roam end
+\i (03:01:45) xdehilite 
+\i (03:01:45) xNet Ext_Power_On 
+\i (03:01:45) xname_flush 
+\t (03:01:45) Net "Ext_Power_On" dehighlighted.
+\i (03:01:45) done 
+\i (03:01:45) generaledit 
+\i (03:01:46) xhilite 
+\i (03:01:46) xNet Gpio_00 
+\i (03:01:46) xname_flush 
+\i (03:01:47) trapsize 1421
+\i (03:01:47) setwindow cmgr
+\i (03:01:47) cm expand ( row ( Design "STANDARD" ) )
+\i (03:01:47) cm expand ( row ( Design "STANDARD" ) )
+\t (03:01:47) Net "Gpio_00" highlighted.
+\i (03:01:47) setwindow pcb
+\i (03:01:47) done 
+\i (03:01:47) generaledit 
+\i (03:01:49) pick grid -43.0740 -19.3637
+\t (03:01:49) last pick:  -43.0784  -19.3548
+\i (03:01:50) zoom in 1 
+\i (03:01:50) setwindow pcb
+\i (03:01:50) zoom in -45.4606 -18.7955
+\i (03:01:50) trapsize 710
+\i (03:01:50) zoom in 1 
+\i (03:01:50) setwindow pcb
+\i (03:01:50) zoom in -45.4748 -18.7812
+\i (03:01:50) trapsize 355
+\i (03:01:51) roam start
+\i (03:01:51) roam y -80
+\i (03:01:51) roam y -32
+\i (03:01:51) roam x 16
+\i (03:01:51) roam y -16
+\i (03:01:51) roam end
+\i (03:01:51) zoom in 1 
+\i (03:01:51) setwindow pcb
+\i (03:01:51) zoom in -43.9090 -18.6297
+\i (03:01:51) trapsize 178
+\i (03:01:52) zoom in 1 
+\i (03:01:52) setwindow pcb
+\i (03:01:52) zoom in -43.9160 -18.6297
+\i (03:01:52) trapsize 89
+\i (03:01:52) zoom out 1 
+\i (03:01:52) setwindow pcb
+\i (03:01:52) zoom out -44.0580 -18.6367
+\i (03:01:52) trapsize 178
+\i (03:01:52) zoom out 1 
+\i (03:01:52) setwindow pcb
+\i (03:01:52) zoom out -44.0509 -18.6439
+\i (03:01:52) trapsize 355
+\i (03:01:57) pick grid -44.1433 -18.7007
+\t (03:01:57) last pick:  -44.1452  -18.6944
+\i (03:01:57) setwindow cmgr
+\i (03:01:57) cm expand ( row ( Design "STANDARD" ) )
+\i (03:01:57) cm expand ( row ( Design "STANDARD" ) )
+\i (03:01:58) setwindow pcb
+\i (03:01:58) pick grid -44.5269 -18.6296
+\t (03:01:58) last pick:  -44.5262  -18.6182
+\i (03:01:58) setwindow cmgr
+\i (03:01:58) cm expand ( row ( Design "STANDARD" ) )
+\i (03:01:58) cm expand ( row ( Design "STANDARD" ) )
+\i (03:01:59) setwindow pcb
+\i (03:01:59) prepopup -44.5269 -18.6225
+\i (03:02:00) pop dyn_option_select @:@Delete 
+\i (03:02:00) delete 
+\i (03:02:00) generaledit 
+\i (03:02:00) pick grid -44.5553 -18.1253
+\t (03:02:00) last pick:  -44.5516  -18.1356
+\i (03:02:00) setwindow cmgr
+\i (03:02:00) cm expand ( row ( Design "STANDARD" ) )
+\i (03:02:00) cm expand ( row ( Design "STANDARD" ) )
+\i (03:02:00) setwindow pcb
+\i (03:02:00) prepopup -44.5553 -18.1253
+\i (03:02:01) pop dyn_option_select @:@Delete 
+\i (03:02:01) delete 
+\i (03:02:01) generaledit 
+\i (03:02:02) pick grid -44.2073 -18.6936
+\t (03:02:02) last pick:  -44.1960  -18.6944
+\i (03:02:02) setwindow cmgr
+\i (03:02:02) cm expand ( row ( Design "STANDARD" ) )
+\i (03:02:02) cm expand ( row ( Design "STANDARD" ) )
+\i (03:02:03) setwindow pcb
+\i (03:02:03) pick grid -44.1433 -18.7078
+\t (03:02:03) last pick:  -44.1452  -18.7198
+\i (03:02:03) setwindow cmgr
+\i (03:02:03) cm expand ( row ( Design "STANDARD" ) )
+\i (03:02:03) cm expand ( row ( Design "STANDARD" ) )
+\i (03:02:03) setwindow pcb
+\i (03:02:03) prepopup -44.1433 -18.7078
+\i (03:02:05) pop dyn_option_select @:@Delete 
+\i (03:02:05) delete 
+\i (03:02:05) generaledit 
+\i (03:02:05) zoom out 1 
+\i (03:02:05) setwindow pcb
+\i (03:02:05) zoom out -44.4345 -19.9650
+\i (03:02:05) trapsize 710
+\i (03:02:05) zoom out 1 
+\i (03:02:05) setwindow pcb
+\i (03:02:05) zoom out -44.4346 -19.9650
+\i (03:02:05) trapsize 1421
+\i (03:02:06) zoom out 1 
+\i (03:02:06) setwindow pcb
+\i (03:02:06) zoom out -41.3093 -27.0394
+\i (03:02:06) trapsize 2841
+\i (03:02:06) zoom out 1 
+\i (03:02:06) setwindow pcb
+\i (03:02:06) zoom out -40.9684 -27.4940
+\i (03:02:06) trapsize 5682
+\i (03:02:06) zoom out 1 
+\i (03:02:06) setwindow pcb
+\i (03:02:06) zoom out -36.1952 -45.4502
+\i (03:02:06) trapsize 11365
+\i (03:02:07) zoom in 1 
+\i (03:02:07) setwindow pcb
+\i (03:02:07) zoom in -35.7406 -49.5414
+\i (03:02:07) trapsize 5682
+\i (03:02:07) zoom in 1 
+\i (03:02:07) setwindow pcb
+\i (03:02:07) zoom in -35.7406 -49.5414
+\i (03:02:07) trapsize 2841
+\i (03:02:07) zoom in 1 
+\i (03:02:07) setwindow pcb
+\i (03:02:07) zoom in -35.7406 -49.5414
+\i (03:02:07) trapsize 1421
+\i (03:02:07) zoom in 1 
+\i (03:02:07) setwindow pcb
+\i (03:02:07) zoom in -35.7405 -49.5414
+\i (03:02:07) trapsize 710
+\i (03:02:08) zoom in 1 
+\i (03:02:08) setwindow pcb
+\i (03:02:08) zoom in -36.7633 -41.7566
+\i (03:02:08) trapsize 355
+\i (03:02:08) zoom in 1 
+\i (03:02:08) setwindow pcb
+\i (03:02:08) zoom in -36.7633 -41.7565
+\i (03:02:08) trapsize 178
+\i (03:02:09) pick grid -36.8414 -42.4668
+\t (03:02:09) last pick:  -36.8300  -42.4688
+\i (03:02:10) pick grid -36.7278 -42.3141
+\t (03:02:10) last pick:  -36.7284  -42.3164
+\i (03:02:10) setwindow cmgr
+\i (03:02:10) cm expand ( row ( Design "STANDARD" ) )
+\i (03:02:10) cm expand ( row ( Design "STANDARD" ) )
+\i (03:02:10) setwindow pcb
+\i (03:02:10) prepopup -36.7313 -42.3141
+\i (03:02:11) pop dyn_option_select @:@Delete 
+\i (03:02:11) delete 
+\i (03:02:11) generaledit 
+\i (03:02:11) pick grid -36.5253 -42.4277
+\t (03:02:11) last pick:  -36.5252  -42.4180
+\i (03:02:12) prepopup -36.5218 -42.4277
+\i (03:02:13) pop dyn_option_select @:@Delete 
+\i (03:02:13) delete 
+\i (03:02:13) generaledit 
+\i (03:02:13) pick grid -36.7917 -42.4491
+\t (03:02:13) last pick:  -36.7792  -42.4434
+\i (03:02:15) drc update 
+\t (03:02:15) Performing DRC...
+\t (03:02:15) Multithreaded DRC update (8 threads).
+\t (03:02:16) No DRC errors detected.
+\i (03:02:16) generaledit 
+\i (03:02:17) save 
+\i (03:02:18) fillin yes 
+\i (03:02:18) generaledit 
+\i (03:02:18) zoom out 1 
+\i (03:02:18) setwindow pcb
+\i (03:02:18) zoom out -36.7065 -42.4171
+\i (03:02:18) trapsize 355
+\i (03:02:19) zoom out 1 
+\i (03:02:19) setwindow pcb
+\i (03:02:19) zoom out -36.7064 -42.4171
+\i (03:02:19) trapsize 710
+\i (03:02:19) zoom out 1 
+\i (03:02:19) setwindow pcb
+\i (03:02:19) zoom out -36.7633 -42.2750
+\i (03:02:19) trapsize 1421
+\i (03:02:20) zoom out 1 
+\i (03:02:20) setwindow pcb
+\i (03:02:20) zoom out -39.3772 -38.5815
+\i (03:02:20) trapsize 2841
+\i (03:02:20) zoom out 1 
+\i (03:02:20) setwindow pcb
+\i (03:02:20) zoom out -39.3772 -38.5247
+\i (03:02:20) trapsize 5682
+\i (03:02:22) xdehilite 
+\i (03:02:22) xNet Gpio_00 
+\i (03:02:22) xname_flush 
+\t (03:02:22) Net "Gpio_00" dehighlighted.
+\i (03:02:22) done 
+\i (03:02:22) generaledit 
+\i (03:02:22) xhilite 
+\i (03:02:22) xNet N40580604 
+\i (03:02:22) xname_flush 
+\i (03:02:22) trapsize 104
+\i (03:02:22) setwindow cmgr
+\i (03:02:22) cm expand ( row ( Design "STANDARD" ) )
+\i (03:02:22) cm expand ( row ( Design "STANDARD" ) )
+\t (03:02:22) Net "N40580604" highlighted.
+\i (03:02:22) setwindow pcb
+\i (03:02:22) done 
+\i (03:02:23) generaledit 
+\i (03:02:25) xdehilite 
+\i (03:02:26) xNet N40580604 
+\i (03:02:26) xname_flush 
+\t (03:02:26) Net "N40580604" dehighlighted.
+\i (03:02:26) done 
+\i (03:02:26) xhilite 
+\i (03:02:26) xrefdes R26 
+\t (03:02:26) Can not select unplaced component R26.
+\t (03:02:26) Can not select unplaced component R26.
+\i (03:02:26) xname_flush 
+\i (03:02:26) done 
+\i (03:02:26) generaledit 
+\i (03:02:29) xdehilite 
+\i (03:02:29) xrefdes R26 
+\t (03:02:29) Can not select unplaced component R26.
+\t (03:02:29) Can not select unplaced component R26.
+\i (03:02:29) xname_flush 
+\i (03:02:29) done 
+\i (03:02:29) xhilite 
+\i (03:02:29) xNet N40580604 
+\i (03:02:29) xname_flush 
+\i (03:02:29) trapsize 104
+\i (03:02:29) setwindow cmgr
+\i (03:02:29) cm expand ( row ( Design "STANDARD" ) )
+\i (03:02:29) cm expand ( row ( Design "STANDARD" ) )
+\t (03:02:29) Net "N40580604" highlighted.
+\i (03:02:29) setwindow pcb
+\i (03:02:29) done 
+\i (03:02:29) generaledit 
+\i (03:02:33) pick grid -49.4795 -19.9480
+\t (03:02:33) last pick:  -49.4792  -19.9390
+\i (03:02:33) zoom out 1 
+\i (03:02:33) setwindow pcb
+\i (03:02:33) zoom out -49.4733 -19.9397
+\i (03:02:33) trapsize 207
+\i (03:02:33) zoom out 1 
+\i (03:02:33) setwindow pcb
+\i (03:02:33) zoom out -49.4732 -19.9398
+\i (03:02:33) trapsize 415
+\i (03:02:34) zoom in 1 
+\i (03:02:34) setwindow pcb
+\i (03:02:34) zoom in -49.3155 -19.9480
+\i (03:02:34) trapsize 207
+\i (03:02:35) xdehilite 
+\i (03:02:35) xNet N40580604 
+\i (03:02:35) xname_flush 
+\t (03:02:35) Net "N40580604" dehighlighted.
+\i (03:02:35) done 
+\i (03:02:35) generaledit 
+\i (03:02:36) xhilite 
+\i (03:02:36) xNet St_Mstr_Mux_Selz 
+\i (03:02:36) xname_flush 
+\i (03:02:36) trapsize 104
+\i (03:02:36) setwindow cmgr
+\i (03:02:36) cm expand ( row ( Design "STANDARD" ) )
+\i (03:02:36) cm expand ( row ( Design "STANDARD" ) )
+\t (03:02:36) Net "St_Mstr_Mux_Selz" highlighted.
+\i (03:02:36) setwindow pcb
+\i (03:02:36) done 
+\i (03:02:36) generaledit 
+\i (03:02:42) xdehilite 
+\i (03:02:42) xNet St_Mstr_Mux_Selz 
+\i (03:02:42) xname_flush 
+\t (03:02:42) Net "St_Mstr_Mux_Selz" dehighlighted.
+\i (03:02:42) done 
+\i (03:02:42) generaledit 
+\i (03:02:44) xhilite 
+\i (03:02:44) xNet Drv_Gpio00 
+\i (03:02:44) xname_flush 
+\i (03:02:44) trapsize 104
+\i (03:02:44) setwindow cmgr
+\i (03:02:44) cm expand ( row ( Design "STANDARD" ) )
+\i (03:02:44) cm expand ( row ( Design "STANDARD" ) )
+\t (03:02:44) Net "Drv_Gpio00" highlighted.
+\i (03:02:44) setwindow pcb
+\i (03:02:44) done 
+\i (03:02:44) generaledit 
+\i (03:02:45) pick grid -42.7270 -14.0003
+\t (03:02:45) last pick:  -42.7228  -13.9954
+\i (03:02:45) zoom out 1 
+\i (03:02:45) setwindow pcb
+\i (03:02:45) zoom out -42.7685 -14.0543
+\i (03:02:45) trapsize 207
+\i (03:02:46) zoom out 1 
+\i (03:02:46) setwindow pcb
+\i (03:02:46) zoom out -42.7726 -14.0501
+\i (03:02:46) trapsize 415
+\i (03:02:46) zoom out 1 
+\i (03:02:46) setwindow pcb
+\i (03:02:46) zoom out -44.2000 -13.9670
+\i (03:02:46) trapsize 830
+\i (03:02:46) zoom out 1 
+\i (03:02:46) setwindow pcb
+\i (03:02:46) zoom out -44.5153 -14.0500
+\i (03:02:46) trapsize 1660
+\i (03:02:47) zoom in 1 
+\i (03:02:47) setwindow pcb
+\i (03:02:47) zoom in -42.5236 -18.4981
+\i (03:02:47) trapsize 830
+\i (03:02:48) zoom in 1 
+\i (03:02:48) setwindow pcb
+\i (03:02:48) zoom in -43.0713 -17.5354
+\i (03:02:48) trapsize 415
+\i (03:02:48) zoom out 1 
+\i (03:02:48) setwindow pcb
+\i (03:02:48) zoom out -42.9468 -17.7678
+\i (03:02:48) trapsize 830
+\i (03:02:49) zoom in 1 
+\i (03:02:49) setwindow pcb
+\i (03:02:49) zoom in -42.7642 -20.6723
+\i (03:02:49) trapsize 415
+\i (03:02:50) pick grid -42.8555 -20.4648
+\t (03:02:50) last pick:  -42.8498  -20.4724
+\i (03:02:56) zoom out 1 
+\i (03:02:56) setwindow pcb
+\i (03:02:56) zoom out -42.8804 -20.3901
+\i (03:02:56) trapsize 830
+\i (03:02:58) roam start
+\i (03:02:58) roam y 128
+\i (03:02:58) roam y 80
+\i (03:02:58) roam x 16
+\i (03:02:58) roam y 80
+\i (03:02:58) roam y 64
+\i (03:02:58) roam y 32
+\i (03:02:58) roam y 16
+\i (03:02:58) roam y 64
+\i (03:02:58) roam y 16
+\i (03:02:58) roam y 32
+\i (03:02:58) roam y 48
+\i (03:02:58) roam end
+\i (03:03:07) setwindow form.find
+\i (03:03:07) FORM find symbols YES 
+\i (03:03:09) setwindow pcb
+\i (03:03:09) pick grid -42.8040 -21.6217
+\t (03:03:09) last pick:  -42.7990  -21.6154
+\i (03:03:10) roam start
+\i (03:03:10) roam x 16
+\i (03:03:10) roam y -80
+\i (03:03:10) roam x 16
+\i (03:03:10) roam y -64
+\i (03:03:10) roam x 16
+\i (03:03:10) roam y -32
+\i (03:03:10) roam y -64
+\i (03:03:10) roam x 16
+\i (03:03:10) roam y -32
+\i (03:03:10) roam x 16
+\i (03:03:10) roam y -32
+\i (03:03:10) roam end
+\i (03:03:11) pick grid -44.0654 -17.8375
+\t (03:03:11) last pick:  -44.0690  -17.8308
+\i (03:03:12) pick grid -43.2687 -17.4392
+\t (03:03:12) last pick:  -43.2562  -17.4498
+\i (03:03:12) setwindow cmgr
+\i (03:03:12) cm expand ( row ( Design "STANDARD" ) )
+\i (03:03:12) cm expand ( row ( "Part Definition" "SN74AVC8T245PW_PW_SN74AVC8T245P:PW:SN74AVC8T245PW:" ) )
+\i (03:03:13) setwindow pcb
+\i (03:03:13) prepopup -43.2687 -17.4392
+\i (03:03:14) pop dyn_option_select '@:@Unplace component' 
+\i (03:03:14) unplace component 
+\i (03:03:14) generaledit 
+\i (03:03:15) prepopup -43.7666 -17.0740
+\i (03:03:15) pick grid -44.0488 -16.6757
+\t (03:03:15) last pick:  -44.0436  -16.6878
+\i (03:03:17) drc update 
+\t (03:03:17) Performing DRC...
+\t (03:03:17) Multithreaded DRC update (8 threads).
+\t (03:03:17) No DRC errors detected.
+\i (03:03:17) generaledit 
+\i (03:03:19) save 
+\i (03:03:20) fillin yes 
+\i (03:03:20) generaledit 
+\i (03:03:25) pick grid -44.5965 -16.8416
+\t (03:03:25) last pick:  -44.6024  -16.8402
+\i (03:03:26) prepopup -44.5135 -16.8250
+\i (03:03:26) pick grid -44.5301 -16.2607
+\t (03:03:26) last pick:  -44.5262  -

@@ -8,7 +8,7 @@
 		)
 		( revisionNumber
 			( logicalViewRevNum 0 )
-			( physicalViewRevNum 12 )
+			( physicalViewRevNum 13 )
 			( otherViewRevNum 0 )
 		)
 		( contents
@@ -1355,14 +1355,6 @@
 				( pinRef "U29.10" )
 				( pinRef "U29.11" )
 			)
-			( pinPair "U7.E8:U7.F8"
-				( pinRef "U7.E8" )
-				( pinRef "U7.F8" )
-			)
-			( pinPair "U7.E10:U7.F10"
-				( pinRef "U7.E10" )
-				( pinRef "U7.F10" )
-			)
 			( pinPair "U7.V11:U7.V12"
 				( pinRef "U7.V11" )
 				( pinRef "U7.V12" )
@@ -1386,26 +1378,6 @@
 			( pinPair "U7.U10:U7.U13"
 				( pinRef "U7.U10" )
 				( pinRef "U7.U13" )
-			)
-			( pinPair "U7.G5:U7.G6"
-				( pinRef "U7.G5" )
-				( pinRef "U7.G6" )
-			)
-			( pinPair "U7.F6:U7.G6"
-				( pinRef "U7.F6" )
-				( pinRef "U7.G6" )
-			)
-			( pinPair "U7.F6:U7.F7"
-				( pinRef "U7.F6" )
-				( pinRef "U7.F7" )
-			)
-			( pinPair "U7.F5:U7.F6"
-				( pinRef "U7.F5" )
-				( pinRef "U7.F6" )
-			)
-			( pinPair "U7.E12:U7.F12"
-				( pinRef "U7.E12" )
-				( pinRef "U7.F12" )
 			)
 			( pinPair "J4.3:U6.L2"
 				( pinRef "J4.3" )
@@ -2668,8 +2640,6 @@
 				( objectStatus "@standard.schematic1(sch_1):p12v_supply" )
 			)
 			( signal "P1P9V"
-				( pinPairRef "U7.E8:U7.F8" )
-				( pinPairRef "U7.E10:U7.F10" )
 				( attribute "FIXED" "1"
 					( Origin gBackEnd )
 				)
@@ -2754,11 +2724,6 @@
 				( objectStatus "@standard.schematic1(sch_1):p3p3v" )
 			)
 			( signal "P1P2V"
-				( pinPairRef "U7.G5:U7.G6" )
-				( pinPairRef "U7.F6:U7.G6" )
-				( pinPairRef "U7.F6:U7.F7" )
-				( pinPairRef "U7.F5:U7.F6" )
-				( pinPairRef "U7.E12:U7.F12" )
 				( attribute "FIXED" "1"
 					( Origin gBackEnd )
 				)
@@ -6658,32 +6623,74 @@
 			( part "J20"
 			)
 			( part "RP1"
+				( attribute "SIGNAL_MODEL" "RESARR_IS_4/SM_0804_2010_METRIC_22_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "RP10"
+				( attribute "SIGNAL_MODEL" "RESARR_IS_4/SM_0804_2010_METRIC_22_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "RP11"
+				( attribute "SIGNAL_MODEL" "RESARR_IS_4/SM_0804_2010_METRIC_22_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "RP12"
+				( attribute "SIGNAL_MODEL" "RESARR_IS_4/SM_0804_2010_METRIC_22_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "RP13"
+				( attribute "SIGNAL_MODEL" "RESARR_IS_4/SM_0804_2010_METRIC_22_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "RP14"
+				( attribute "SIGNAL_MODEL" "RESARR_IS_4/SM_0804_2010_METRIC_22_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "RP2"
+				( attribute "SIGNAL_MODEL" "RESARR_IS_4/SM_0804_2010_METRIC_22_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "RP3"
+				( attribute "SIGNAL_MODEL" "RESARR_IS_4/SM_0804_2010_METRIC_22_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "RP4"
+				( attribute "SIGNAL_MODEL" "RESARR_IS_4/SM_0804_2010_METRIC_22_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "RP5"
+				( attribute "SIGNAL_MODEL" "RESARR_IS_4/SM_0804_2010_METRIC_22_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "RP6"
+				( attribute "SIGNAL_MODEL" "RESARR_IS_4/SM_0804_2010_METRIC_22_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "RP7"
+				( attribute "SIGNAL_MODEL" "RESARR_IS_4/SM_0804_2010_METRIC_22_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "RP8"
+				( attribute "SIGNAL_MODEL" "RESARR_IS_4/SM_0804_2010_METRIC_22_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "RP9"
+				( attribute "SIGNAL_MODEL" "RESARR_IS_4/SM_0804_2010_METRIC_22_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "RN1"
 			)
@@ -6718,12 +6725,24 @@
 			( part "R84"
 			)
 			( part "R15"
+				( attribute "SIGNAL_MODEL" "RESISTOR_RES_0201_22_22_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "R16"
+				( attribute "SIGNAL_MODEL" "RESISTOR_RES_0201_22_22_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "R18"
+				( attribute "SIGNAL_MODEL" "RESISTOR_RES_0201_22_22_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "R23"
+				( attribute "SIGNAL_MODEL" "RESISTOR_RES_0201_22_22_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "R24"
 			)
@@ -6826,70 +6845,169 @@
 			( part "R9"
 			)
 			( part "R163"
+				( attribute "SIGNAL_MODEL" "R_RES_0201_5.1_5.1_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "R164"
+				( attribute "SIGNAL_MODEL" "R_RES_0201_5.1_5.1_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "R165"
+				( attribute "SIGNAL_MODEL" "R_RES_0201_5.1_5.1_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "R166"
+				( attribute "SIGNAL_MODEL" "R_RES_0201_5.1_5.1_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "R167"
+				( attribute "SIGNAL_MODEL" "R_RES_0201_5.1_5.1_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "R168"
+				( attribute "SIGNAL_MODEL" "R_RES_0201_5.1_5.1_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "R169"
+				( attribute "SIGNAL_MODEL" "R_RES_0201_5.1_5.1_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "R170"
+				( attribute "SIGNAL_MODEL" "R_RES_0201_5.1_5.1_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "R171"
+				( attribute "SIGNAL_MODEL" "R_RES_0201_5.1_5.1_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "R172"
+				( attribute "SIGNAL_MODEL" "R_RES_0201_5.1_5.1_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "R173"
+				( attribute "SIGNAL_MODEL" "R_RES_0201_5.1_5.1_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "R174"
+				( attribute "SIGNAL_MODEL" "R_RES_0201_5.1_5.1_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "R175"
+				( attribute "SIGNAL_MODEL" "R_RES_0201_5.1_5.1_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "R176"
+				( attribute "SIGNAL_MODEL" "R_RES_0201_5.1_5.1_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "R177"
+				( attribute "SIGNAL_MODEL" "R_RES_0201_5.1_5.1_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "R178"
+				( attribute "SIGNAL_MODEL" "R_RES_0201_5.1_5.1_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "R179"
+				( attribute "SIGNAL_MODEL" "R_RES_0201_5.1_5.1_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "R180"
+				( attribute "SIGNAL_MODEL" "R_RES_0201_5.1_5.1_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "R181"
+				( attribute "SIGNAL_MODEL" "R_RES_0201_5.1_5.1_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "R182"
+				( attribute "SIGNAL_MODEL" "R_RES_0201_5.1_5.1_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "R183"
+				( attribute "SIGNAL_MODEL" "R_RES_0201_5.1_5.1_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "R184"
+				( attribute "SIGNAL_MODEL" "R_RES_0201_5.1_5.1_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "R185"
+				( attribute "SIGNAL_MODEL" "R_RES_0201_5.1_5.1_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "R186"
+				( attribute "SIGNAL_MODEL" "R_RES_0201_5.1_5.1_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "R187"
+				( attribute "SIGNAL_MODEL" "R_RES_0201_5.1_5.1_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "R188"
+				( attribute "SIGNAL_MODEL" "R_RES_0201_5.1_5.1_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "R190"
+				( attribute "SIGNAL_MODEL" "R_RES_0201_5.1_5.1_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "R191"
+				( attribute "SIGNAL_MODEL" "R_RES_0201_5.1_5.1_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "R192"
+				( attribute "SIGNAL_MODEL" "R_RES_0201_20_20_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "R193"
+				( attribute "SIGNAL_MODEL" "R_RES_0201_20_20_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "R194"
+				( attribute "SIGNAL_MODEL" "R_RES_0201_20_20_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "R195"
+				( attribute "SIGNAL_MODEL" "R_RES_0201_20_20_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "R196"
+				( attribute "SIGNAL_MODEL" "R_RES_0201_20_20_"
+					( Origin gBackEnd )
+				)
 			)
 			( part "R239"
 			)
