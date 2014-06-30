@@ -755,4 +755,124 @@
 \i (00:09:13) zoom out 1 
 \i (00:09:13) setwindow pcb
 \i (00:09:13) zoom out -53.7258 -64.8449
-\i (00:09:13
+\i (00:09:13) trapsize 5034
+\i (00:09:13) zoom out 1 
+\i (00:09:13) setwindow pcb
+\i (00:09:13) zoom out -53.7258 -64.8449
+\i (00:09:13) trapsize 10068
+\i (00:09:28) pick grid 29.4340 -80.1479
+\t (00:09:28) last pick:  29.4386  -80.1370
+\i (00:09:29) zoom in 1 
+\i (00:09:29) setwindow pcb
+\i (00:09:29) zoom in -84.7346 -44.7093
+\i (00:09:29) trapsize 5034
+\i (00:09:29) zoom in 1 
+\i (00:09:29) setwindow pcb
+\i (00:09:29) zoom in -84.7346 -44.6086
+\i (00:09:29) trapsize 2517
+\i (00:09:29) zoom in 1 
+\i (00:09:29) setwindow pcb
+\i (00:09:29) zoom in -84.7346 -44.6086
+\i (00:09:29) trapsize 1258
+\i (00:09:29) zoom out 1 
+\i (00:09:29) setwindow pcb
+\i (00:09:29) zoom out -84.6339 -44.5583
+\i (00:09:29) trapsize 2517
+\i (00:09:30) zoom out 1 
+\i (00:09:30) setwindow pcb
+\i (00:09:30) zoom out -84.4327 -44.6589
+\i (00:09:30) trapsize 5034
+\i (00:09:30) zoom out 1 
+\i (00:09:30) setwindow pcb
+\i (00:09:30) zoom out -84.3320 -44.7595
+\i (00:09:30) trapsize 10068
+\i (00:09:33) pick grid 24.6014 -76.1710
+\t (00:09:33) last pick:  24.6126  -76.1746
+\i (00:09:40) place manual 
+\i (00:10:03) setwindow form.plc_manual
+\i (00:10:03) FORM plc_manual cancel  
+\i (00:10:04) setwindow pcb
+\i (00:10:04) generaledit 
+\i (00:10:04) pick grid 0.8414 -101.7432
+\t (00:10:04) last pick:  0.8382  -101.7524
+\i (00:10:06) zoom in 1 
+\i (00:10:06) setwindow pcb
+\i (00:10:06) zoom in -42.8527 -66.1032
+\i (00:10:06) trapsize 5034
+\i (00:10:12) setwindow form.find
+\i (00:10:12) FORM find find_name j11 
+\i (00:10:12) setwindow cmgr
+\i (00:10:12) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:12) cm expand ( row ( "Part Definition" "CONN_6_CONN_6_53261-0671:CONN_6:53261-0671:" ) )
+\i (00:10:13) setwindow pcb
+\i (00:10:13) pick grid -60.0686 -81.4062
+\t (00:10:13) last pick:  -60.0710  -81.4070
+\i (00:10:13) zoom in 1 
+\i (00:10:13) setwindow pcb
+\i (00:10:13) zoom in -57.5516 -72.2445
+\i (00:10:13) trapsize 2517
+\i (00:10:13) zoom in 1 
+\i (00:10:13) setwindow pcb
+\i (00:10:13) zoom in -57.5516 -72.1942
+\i (00:10:13) trapsize 1258
+\i (00:10:15) pick grid -53.0715 -73.0751
+\t (00:10:15) last pick:  -53.0606  -73.0758
+\i (00:10:15) setwindow cmgr
+\i (00:10:15) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:15) cm expand ( row ( "Part Definition" "CONN_6_CONN_6_53261-0671:CONN_6:53261-0671:" ) )
+\i (00:10:17) setwindow pcb
+\i (00:10:17) pick grid -53.5245 -77.4546
+\t (00:10:17) last pick:  -53.5178  -77.4446
+\i (00:10:22) roam start
+\i (00:10:22) roam x 48
+\i (00:10:22) roam y -32
+\i (00:10:23) roam x 16
+\i (00:10:23) roam y -16
+\i (00:10:23) roam x 32
+\i (00:10:23) roam y -16
+\i (00:10:23) roam end
+\i (00:10:25) pick grid -65.9569 -60.6060
+\t (00:10:25) last pick:  -65.9638  -60.6044
+\i (00:10:32) setwindow form.find
+\i (00:10:32) FORM find find_name u48 
+\i (00:10:32) setwindow cmgr
+\i (00:10:32) cm expand ( row ( Design "STANDARD" ) )
+\i (00:10:32) cm expand ( row ( "Part Definition" "TPS79718_1_TI_DCK_TPS79718DCKT:TI_DCK:TPS79718DCKT:" ) )
+\t (00:10:34) > Symbol "U48"
+\i (00:10:34) setwindow worldview
+\i (00:10:34) trapsize 1612
+\i (00:10:36) setwindow pcb
+\i (00:10:36) zoom in 1 
+\i (00:10:36) setwindow pcb
+\i (00:10:36) zoom in -49.5730 -60.9677
+\i (00:10:36) trapsize 806
+\i (00:10:36) zoom in 1 
+\i (00:10:36) setwindow pcb
+\i (00:10:36) zoom in -49.5729 -60.9677
+\i (00:10:36) trapsize 403
+\i (00:10:36) zoom in 1 
+\i (00:10:36) setwindow pcb
+\i (00:10:36) zoom in -49.5730 -60.9676
+\i (00:10:36) trapsize 202
+\i (00:10:36) zoom out 1 
+\i (00:10:36) setwindow pcb
+\i (00:10:36) zoom out -49.0409 -61.0281
+\i (00:10:36) trapsize 403
+\i (00:10:37) roam start
+\i (00:10:37) roam x -80
+\i (00:10:37) roam x -80
+\i (00:10:37) roam x -48
+\i (00:10:37) roam x -32
+\i (00:10:37) roam x -48
+\i (00:10:37) roam y 16
+\i (00:10:37) roam x -32
+\i (00:10:37) roam y 16
+\i (00:10:37) roam end
+\i (00:10:38) pick grid -49.5471 -61.1316
+\t (00:10:38) last pick:  -49.5554  -61.1378
+\i (00:10:40) pick grid -53.1831 -62.1958
+\t (00:10:40) last pick:  -53.1876  -62.2046
+\i (00:10:41) pick grid -52.2721 -61.5347
+\t (00:10:41) last pick:  -52.2732  -61.5442
+\i (00:10:41) setwindow cmgr
+\i (
