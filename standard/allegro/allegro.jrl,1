@@ -1,344 +1,104 @@
 \t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:00:00)     Journal start - Fri Jun 27 10:56:14 2014
-\t (00:00:00)         Host=INTERN2014-04 User=ma Pid=12180 CPUs=8
+\t (00:00:00)     Journal start - Mon Jun 30 09:55:24 2014
+\t (00:00:00)         Host=INTERN2014-04 User=ma Pid=13028 CPUs=8
 \t (00:00:00) 
 \t (00:00:00) Opening existing design...
 \d (00:00:00) Database opened: C:/Users/ma/Dropbox/Design/allegroProject/designOnGit/modificationForLC4500/standard/allegro/STANDARD.brd
-\i (00:00:00) trapsize 795
-\i (00:00:00) trapsize 780
-\i (00:00:01) trapsize 797
-\i (00:00:01) trapsize 790
-\i (00:00:01) trapsize 824
+\i (00:00:01) trapsize 656
+\i (00:00:01) trapsize 644
+\i (00:00:01) trapsize 658
+\i (00:00:01) trapsize 652
+\i (00:00:01) trapsize 680
 \i (00:00:01) generaledit 
-\i (00:00:01) trapsize 1015
-\i (00:00:02) trapsize 824
-\i (00:00:03) zoom out 1 
-\i (00:00:03) setwindow pcb
-\i (00:00:03) zoom out -107.0463 -63.2407
-\i (00:00:03) trapsize 1648
-\i (00:00:03) zoom out 1 
-\i (00:00:03) setwindow pcb
-\i (00:00:03) zoom out -107.0462 -63.2408
-\i (00:00:03) trapsize 3297
-\i (00:00:03) zoom out 1 
-\i (00:00:03) setwindow pcb
-\i (00:00:03) zoom out -107.0462 -63.2407
-\i (00:00:03) trapsize 6594
-\i (00:00:03) zoom in 1 
-\i (00:00:03) setwindow pcb
-\i (00:00:03) zoom in -106.1231 -66.9332
-\i (00:00:03) trapsize 3297
-\i (00:00:05) zoom in 1 
-\i (00:00:05) setwindow pcb
-\i (00:00:05) zoom in -99.9911 -65.6144
-\i (00:00:05) trapsize 1648
-\i (00:00:05) zoom in 1 
-\i (00:00:05) setwindow pcb
-\i (00:00:05) zoom in -99.9911 -65.6144
-\i (00:00:05) trapsize 824
-\i (00:00:05) zoom out 1 
-\i (00:00:05) setwindow pcb
-\i (00:00:05) zoom out -100.0075 -65.5979
-\i (00:00:05) trapsize 1648
-\i (00:00:06) zoom out 1 
-\i (00:00:06) setwindow pcb
-\i (00:00:06) zoom out -100.2054 -65.6309
-\i (00:00:06) trapsize 3297
-\i (00:00:07) drc update 
-\t (00:00:07) Performing DRC...
-\t (00:00:07) Multithreaded DRC update (8 threads).
-\t (00:00:08) No DRC errors detected.
-\i (00:00:08) generaledit 
-\i (00:00:09) save 
-\i (00:00:10) fillin yes 
-\i (00:00:11) generaledit 
-\i (00:00:24) pick grid -91.4358 -75.4554
-\t (00:00:24) last pick:  -91.4400  -75.4634
-\i (00:00:58) setwindow form.vf_vis
-\i (00:00:58) FORM vf_vis all_all_visible YES 
-\i (00:00:59) setwindow pcb
-\i (00:00:59) pick grid -88.6005 -78.0269
-\t (00:00:59) last pick:  -88.5952  -78.0288
-\i (00:01:01) roam start
-\i (00:01:01) roam x 64
-\i (00:01:01) roam x 112
-\i (00:01:01) roam x 48
-\i (00:01:01) roam x 48
-\i (00:01:01) roam x 96
-\i (00:01:01) roam x 48
-\i (00:01:02) roam x 32
-\i (00:01:02) roam x 32
-\i (00:01:02) roam end
-\i (00:01:03) zoom in 1 
-\i (00:01:03) setwindow pcb
-\i (00:01:03) zoom in -58.5513 -71.3014
-\i (00:01:03) trapsize 1648
-\i (00:01:03) zoom in 1 
-\i (00:01:03) setwindow pcb
-\i (00:01:03) zoom in -58.5513 -71.3014
-\i (00:01:03) trapsize 824
-\i (00:01:03) zoom in 1 
-\i (00:01:03) setwindow pcb
-\i (00:01:03) zoom in -58.5513 -71.3013
-\i (00:01:03) trapsize 412
-\i (00:01:03) zoom in 1 
-\i (00:01:03) setwindow pcb
-\i (00:01:03) zoom in -58.5513 -71.3013
-\i (00:01:03) trapsize 206
-\i (00:01:04) zoom out 1 
-\i (00:01:04) setwindow pcb
-\i (00:01:04) zoom out -58.5884 -71.3012
-\i (00:01:04) trapsize 412
-\i (00:01:04) zoom out 1 
-\i (00:01:04) setwindow pcb
-\i (00:01:04) zoom out -58.5389 -71.3013
-\i (00:01:04) trapsize 824
-\i (00:03:59) pick grid -49.1925 -73.4606
-\t (00:03:59) last pick:  -49.1998  -73.4568
-\i (00:05:22) cmgr 
-\i (00:05:23) setwindow cmgr
-\i (00:05:23) cm newView ( worksheet 144:Properties 14:Net "36:General Properties" "37:General Properties" )
-\i (00:05:23) cm select ( worksheet 144:Properties 14:Net "36:General Properties" "37:General Properties" )
-\i (00:05:23) setwindow pcb
-\i (00:05:23) generaledit 
-\i (00:05:26) setwindow cmgr
-\i (00:05:26) cm newView ( worksheet 144:Properties 38:Component "39:Component Properties" 40:General )
-\i (00:05:41) cm scope Design "STANDARD"
-\i (00:05:41) cm putValue ( "Part Instance" "U16" ) FIXED On 0
-\i (00:05:41) cm endUndoBlock
-\i (00:05:46) cm putValue ( "Part Instance" "U17" ) FIXED On 0
-\i (00:05:46) cm endUndoBlock
-\i (00:06:16) cm putValue ( "Part Instance" "U18" ) FIXED On 0
-\i (00:06:16) cm endUndoBlock
-\i (00:06:20) setwindow pcb
-\i (00:06:20) pick grid -64.9182 -70.8232
-\t (00:06:20) last pick:  -64.9224  -70.8152
-\i (00:06:23) setwindow form.find
-\i (00:06:23) FORM find all_off  
-\i (00:06:23) FORM find symbols YES 
-\i (00:06:25) FORM find name_type Symbol (or Pin) 
-\i (00:06:28) FORM find find_name u16 
-\i (00:06:28) setwindow cmgr
-\i (00:06:28) cm expand ( row ( Design "STANDARD" ) )
-\i (00:06:28) cm expand ( row ( "Part Definition" "SN74AVC1T245_DCK_SN74AVC1T45DCK:DCK:SN74AVC1T45DCK:" ) )
-\i (00:06:29) setwindow pcb
-\i (00:06:29) zoom out 1 
-\i (00:06:29) setwindow pcb
-\i (00:06:29) zoom out -53.5113 -70.3122
-\i (00:06:29) trapsize 1648
-\i (00:06:29) zoom out 1 
-\i (00:06:29) setwindow pcb
-\i (00:06:29) zoom out -53.2475 -70.6748
-\i (00:06:29) trapsize 3297
-\i (00:06:30) zoom out 1 
-\i (00:06:30) setwindow pcb
-\i (00:06:30) zoom out -30.6974 -69.9496
-\i (00:06:30) trapsize 6594
-\t (00:06:32) > Symbol "U16"
-\i (00:06:32) setwindow worldview
-\i (00:06:32) trapsize 477
-\i (00:06:34) setwindow pcb
-\i (00:06:34) pick grid -19.2091 -66.0825
-\t (00:06:34) last pick:  -19.2024  -66.0908
-\i (00:06:44) setwindow form.find
-\i (00:06:44) FORM find find_name u18 
-\i (00:06:44) setwindow cmgr
-\i (00:06:44) cm expand ( row ( Design "STANDARD" ) )
-\i (00:06:44) cm expand ( row ( "Part Definition" "SN74AVC2T45DCU_DCU_SN74AVC2T45D:DCU:SN74AVC2T45DCU:" ) )
-\i (00:06:47) setwindow pcb
-\i (00:06:47) zoom out 1 
-\i (00:06:47) setwindow pcb
-\i (00:06:47) zoom out -19.3142 -65.0129
-\i (00:06:47) trapsize 955
-\i (00:06:47) zoom out 1 
-\i (00:06:47) setwindow pcb
-\i (00:06:47) zoom out -19.3141 -65.0129
-\i (00:06:47) trapsize 1910
-\i (00:06:47) zoom out 1 
-\i (00:06:47) setwindow pcb
-\i (00:06:47) zoom out -19.3141 -65.0129
-\i (00:06:47) trapsize 3820
-\i (00:06:48) pick grid -42.6161 -85.7173
-\t (00:06:48) last pick:  -42.6212  -85.7250
-\i (00:08:07) pick grid -15.1885 -83.7309
-\t (00:08:07) last pick:  -15.1892  -83.7184
-\i (00:08:07) zoom in 1 
-\i (00:08:07) setwindow pcb
-\i (00:08:07) zoom in -14.2717 -82.5085
-\i (00:08:07) trapsize 1910
-\i (00:08:07) zoom in 1 
-\i (00:08:07) setwindow pcb
-\i (00:08:07) zoom in -14.2717 -82.5085
-\i (00:08:07) trapsize 955
-\i (00:08:08) zoom out 1 
-\i (00:08:08) setwindow pcb
-\i (00:08:08) zoom out -14.2717 -82.5085
-\i (00:08:08) trapsize 1910
-\i (00:08:08) zoom out 1 
-\i (00:08:08) setwindow pcb
-\i (00:08:08) zoom out -14.2717 -82.5085
-\i (00:08:08) trapsize 3820
-\i (00:08:09) roam start
-\i (00:08:09) roam x -80
-\i (00:08:09) roam x -176
-\i (00:08:09) roam x -176
-\i (00:08:09) roam x -96
-\i (00:08:09) roam x -96
-\i (00:08:09) roam x -64
-\i (00:08:09) roam x -64
-\i (00:08:09) roam x 16
-\i (00:08:10) roam x 16
-\i (00:08:10) roam x 16
-\i (00:08:10) roam end
-\i (00:08:11) zoom in 1 
-\i (00:08:11) setwindow pcb
-\i (00:08:11) zoom in -67.5992 -83.2725
-\i (00:08:11) trapsize 1910
-\i (00:08:11) zoom in 1 
-\i (00:08:11) setwindow pcb
-\i (00:08:11) zoom in -67.6374 -83.2343
-\i (00:08:11) trapsize 955
-\i (00:08:11) zoom out 1 
-\i (00:08:11) setwindow pcb
-\i (00:08:11) zoom out -67.6374 -83.2343
-\i (00:08:11) trapsize 1910
-\i (00:08:11) zoom out 1 
-\i (00:08:11) setwindow pcb
-\i (00:08:11) zoom out -67.6374 -83.2343
-\i (00:08:11) trapsize 3820
-\i (00:08:12) roam start
-\i (00:08:12) roam x 16
-\i (00:08:12) roam x 48
-\i (00:08:12) roam y -16
-\i (00:08:13) roam x 16
-\i (00:08:13) roam y -16
-\i (00:08:13) roam end
-\i (00:08:13) pick grid -58.8896 -81.4938
-\t (00:08:13) last pick:  -58.8772  -81.4832
-\i (00:08:15) pick grid -63.4736 -83.3274
-\t (00:08:15) last pick:  -63.4746  -83.3374
-\i (00:14:50) pick grid -46.5892 -84.0914
-\t (00:14:50) last pick:  -46.5836  -84.0994
-\i (00:14:50) zoom out 1 
-\i (00:14:50) setwindow pcb
-\i (00:14:50) zoom out -45.2140 -84.3970
-\i (00:14:50) trapsize 7640
-\i (00:14:50) zoom out 1 
-\i (00:14:50) setwindow pcb
-\i (00:14:50) zoom out -45.3668 -84.5498
-\i (00:14:50) trapsize 15280
-\i (00:14:51) zoom in 1 
-\i (00:14:51) setwindow pcb
-\i (00:14:51) zoom in -122.3016 -87.6058
-\i (00:14:51) trapsize 7640
-\i (00:14:51) zoom in 1 
-\i (00:14:51) setwindow pcb
-\i (00:14:51) zoom in -122.3016 -87.6058
-\i (00:14:51) trapsize 3820
-\i (00:14:52) zoom out 1 
-\i (00:14:52) setwindow pcb
-\i (00:14:52) zoom out -90.2136 -77.3682
-\i (00:14:52) trapsize 7640
-\i (00:14:53) roam start
-\i (00:14:53) roam x 48
-\i (00:14:53) roam y -48
-\i (00:14:53) roam x 96
-\i (00:14:53) roam y -64
-\i (00:14:53) roam x 112
-\i (00:14:53) roam y -64
-\i (00:14:53) roam x 32
-\i (00:14:53) roam y -16
-\i (00:14:54) roam x 32
-\i (00:14:54) roam x -16
-\i (00:14:54) roam x -32
-\i (00:14:54) roam end
-\i (00:14:54) zoom in 1 
-\i (00:14:54) setwindow pcb
-\i (00:14:54) zoom in 18.2744 -52.0798
-\i (00:14:54) trapsize 3820
-\i (00:14:55) zoom out 1 
-\i (00:14:55) setwindow pcb
-\i (00:14:55) zoom out 15.4476 -53.1494
-\i (00:14:55) trapsize 7640
-\i (00:34:50) prepopup 14.0724 -54.0662
-\i (00:35:04) pick grid 23.5460 -61.2478
-\t (00:35:04) last pick:  23.5458  -61.2394
-\i (00:35:05) zoom in 1 
-\i (00:35:05) setwindow pcb
-\i (00:35:05) zoom in -32.2260 -60.6366
-\i (00:35:05) trapsize 3820
-\i (00:35:05) zoom in 1 
-\i (00:35:05) setwindow pcb
-\i (00:35:05) zoom in -32.3024 -60.7130
-\i (00:35:05) trapsize 1910
-\i (00:35:05) zoom in 1 
-\i (00:35:05) setwindow pcb
-\i (00:35:05) zoom in -32.7990 -60.7512
-\i (00:35:05) trapsize 955
-\i (00:35:06) zoom out 1 
-\i (00:35:06) setwindow pcb
-\i (00:35:06) zoom out -33.4293 -60.1591
-\i (00:35:06) trapsize 1910
-\i (00:35:06) zoom out 1 
-\i (00:35:06) setwindow pcb
-\i (00:35:06) zoom out -33.4293 -60.0445
-\i (00:35:06) trapsize 3820
-\i (00:35:18) zoom out 1 
-\i (00:35:18) setwindow pcb
-\i (00:35:18) zoom out -69.7957 -67.9901
-\i (00:35:18) trapsize 7640
-\i (00:35:18) zoom out 1 
-\i (00:35:18) setwindow pcb
-\i (00:35:18) zoom out -69.7957 -67.9901
-\i (00:35:18) trapsize 15280
-\i (00:35:18) zoom in 1 
-\i (00:35:18) setwindow pcb
-\i (00:35:18) zoom in -87.9464 -71.1926
-\i (00:35:18) trapsize 7640
-\i (00:35:18) zoom in 1 
-\i (00:35:18) setwindow pcb
-\i (00:35:18) zoom in -87.9464 -71.1926
-\i (00:35:18) trapsize 3820
-\i (01:11:36) prepopup -85.0432 -71.1926
-\i (01:11:36) pop dyn_option_select 'Quick Utilities@:@Design Parameters...' 
-\i (01:11:37) prmed 
-\i (01:11:37) prepopup -81.4524 -71.2690
-\i (01:13:40) setwindow form.prmedit
-\i (01:13:40) FORM prmedit cancel  
-\i (01:13:40) setwindow pcb
-\i (01:13:40) generaledit 
-\i (01:13:46) roam start
-\i (01:13:46) roam x 48
-\i (01:13:46) roam y -32
-\i (01:13:46) roam x 48
-\i (01:13:46) roam y -16
-\i (01:13:46) roam x 48
-\i (01:13:46) roam y -16
-\i (01:13:46) roam x 48
-\i (01:13:46) roam y -16
-\i (01:13:47) roam x -32
-\i (01:13:47) roam x -80
-\i (01:13:47) roam y 16
-\i (01:13:47) roam x -32
-\i (01:13:47) roam y 16
-\i (01:13:47) roam x -16
-\i (01:13:47) roam x -16
-\i (01:13:47) roam y 16
-\i (01:13:47) roam x -32
-\i (01:13:47) roam y 16
-\i (01:13:47) roam y 16
-\i (01:13:47) roam y 16
-\i (01:13:47) roam x 32
-\i (01:13:47) roam x 48
-\i (01:13:47) roam y 16
-\i (01:13:47) roam x 96
-\i (01:13:47) roam y -32
-\i (01:13:47) roam x 48
-\i (01:13:47) roam y -48
-\i (01:13:48) roam x 16
-\i (01:13:48) roam y -48
-\i (01:13:48) roam end
-\i (01:13:49) exit 
-\e (01:13:49) Do you want to save the changes you made to C:/Users/ma/Dropbox/Design/allegroProject/designOnGit/modificationForLC4500/standard/allegro/STANDARD.brd?
-\i (01:13:50) fillin no 
-\t (01:13:50)     Journal end - Fri Jun 27 12:10:04 2014
+\i (00:00:24) trapsize 838
+\i (00:00:25) trapsize 680
+\i (00:00:26) pick grid -11.2937 -56.7252
+\t (00:00:26) last pick:  -11.3030  -56.7182
+\i (00:00:26) zoom out 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom out -11.3209 -56.7388
+\i (00:00:26) trapsize 1361
+\i (00:00:26) zoom out 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom out -11.3210 -56.7387
+\i (00:00:26) trapsize 2721
+\i (00:00:26) zoom out 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom out -11.3209 -56.7387
+\i (00:00:26) trapsize 5442
+\i (00:00:26) zoom out 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom out -11.4298 -56.7388
+\i (00:00:27) trapsize 10885
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out -11.8653 -56.7388
+\i (00:00:27) trapsize 22396
+\i (00:00:27) zoom in 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom in 76.2474 -64.8622
+\i (00:00:27) trapsize 11198
+\i (00:00:28) zoom in 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom in 62.7306 -64.4143
+\i (00:00:28) trapsize 5599
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out 39.7745 -65.8700
+\i (00:00:29) trapsize 11198
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out 17.0422 -65.8700
+\i (00:00:29) trapsize 22396
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in -90.8287 -46.4973
+\i (00:00:29) trapsize 11198
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in -90.8287 -46.4973
+\i (00:00:29) trapsize 5599
+\i (00:00:34) xdehilite 
+\i (00:00:34) xrefdes U31 
+\i (00:00:34) xname_flush 
+\t (00:00:34) Symbol "U31" dehighlighted.
+\i (00:00:34) done 
+\i (00:00:34) generaledit 
+\i (00:00:56) pick grid -61.4896 -92.6336
+\t (00:00:56) last pick:  -61.4934  -92.6338
+\i (00:36:36) trapsize 6893
+\i (00:36:40) trapsize 5599
+\i (00:36:41) pick grid 18.1292 -50.0807
+\t (00:36:41) last pick:  18.1356  -50.0888
+\i (01:01:11) setwindow form.vf_vis
+\i (01:01:11) FORM vf_vis all_all_visible YES 
+\i (01:01:14) FORM vf_vis all_all_visible_pln YES 
+\i (01:01:14) FORM vf_vis all_all_visible NO 
+\i (01:01:15) FORM vf_vis all_all_visible_pln NO 
+\i (01:01:15) FORM vf_vis all_all_visible YES 
+\i (01:01:29) setwindow pcb
+\i (01:01:29) place manual 
+\i (01:06:20) setwindow form.plc_manual
+\i (01:06:20) FORM plc_manual tree  J9 'Components by refdes' 
+\i (01:06:21) FORM plc_manual tree  R1 'Components by refdes' 
+\i (01:16:46) FORM plc_manual cancel  
+\i (01:16:46) setwindow pcb
+\i (01:16:46) generaledit 
+\i (01:16:46) pick grid -26.9993 -88.8262
+\t (01:16:46) last pick:  -27.0002  -88.8238
+\i (01:17:31) pick grid 18.9130 -54.0000
+\t (01:17:31) last pick:  18.9230  -54.0004
+\i (01:17:34) setwindow form.find
+\i (01:17:34) FORM find find_name C290 
+\t (01:17:36) > Symbol "C290"
+\i (01:17:36) setwindow worldview
+\i (01:17:36) trapsize 266
+\i (01:17:40) setwindow pcb
+\i (01:17:40) pick grid -97.0385 -4.1526
+\t (01:17:40) last pick:  -97.0280  -4.1402
+\i (01:17:43) pick grid -96.3370 -3.9454
+\t (01:17:43) last pick:  -96.3422  -3.9370
+\i (01:17:47) exit 
+\e (01:17:47) Do you want to save the changes you made to STANDARD.brd?
+\i (01:17:48) fillin no 
+\t (01:17:48)     Journal end - Mon Jun 30 11:13:11 2014
