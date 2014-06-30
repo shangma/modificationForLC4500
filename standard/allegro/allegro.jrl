@@ -7537,4 +7537,253 @@
 \i (01:35:22) delete 
 \i (01:35:22) generaledit 
 \i (01:35:27) pick grid -19.2515 -60.2990
-\t (01:35:27) last pick:  -19.2532  -60.
+\t (01:35:27) last pick:  -19.2532  -60.2996
+\i (01:35:27) prepopup -19.2515 -60.2990
+\i (01:35:28) pop dyn_option_select @:@Delete 
+\i (01:35:28) delete 
+\i (01:35:28) generaledit 
+\i (01:35:28) zoom in 1 
+\i (01:35:28) setwindow pcb
+\i (01:35:28) zoom in -19.3005 -60.0053
+\i (01:35:28) trapsize 245
+\i (01:35:29) pick grid -19.3004 -60.0297
+\t (01:35:29) last pick:  -19.3040  -60.0202
+\i (01:35:29) prepopup -19.3004 -60.0297
+\i (01:35:30) pop dyn_option_select @:@Delete 
+\i (01:35:30) delete 
+\i (01:35:30) generaledit 
+\i (01:35:32) pick grid -19.7360 -62.1099
+\t (01:35:32) last pick:  -19.7358  -62.1030
+\i (01:35:32) prepopup -19.7360 -62.1099
+\i (01:35:33) pop dyn_option_select @:@Delete 
+\i (01:35:33) delete 
+\i (01:35:33) generaledit 
+\i (01:35:33) pick grid -19.9367 -62.0805
+\t (01:35:33) last pick:  -19.9390  -62.0776
+\i (01:35:34) prepopup -19.9073 -62.0854
+\i (01:35:34) pop dyn_option_select @:@Delete 
+\i (01:35:34) delete 
+\i (01:35:35) generaledit 
+\i (01:35:35) pick grid -19.5207 -61.6302
+\t (01:35:35) last pick:  -19.5326  -61.6204
+\i (01:35:36) prepopup -19.5207 -61.6302
+\i (01:35:37) pop dyn_option_select '@:@Unplace component' 
+\i (01:35:37) unplace component 
+\i (01:35:37) generaledit 
+\i (01:35:39) drc update 
+\t (01:35:39) Performing DRC...
+\t (01:35:39) Multithreaded DRC update (8 threads).
+\t (01:35:39) No DRC errors detected.
+\i (01:35:39) generaledit 
+\i (01:35:41) save 
+\i (01:35:42) fillin yes 
+\i (01:35:42) generaledit 
+\i (01:38:06) pick grid -18.0279 -62.1148
+\t (01:38:06) last pick:  -18.0340  -62.1030
+\i (01:38:07) zoom out 1 
+\i (01:38:07) setwindow pcb
+\i (01:38:07) zoom out -18.0279 -62.1148
+\i (01:38:07) trapsize 489
+\i (01:38:07) zoom out 1 
+\i (01:38:07) setwindow pcb
+\i (01:38:07) zoom out -18.0278 -62.1147
+\i (01:38:07) trapsize 979
+\i (01:38:07) zoom out 1 
+\i (01:38:07) setwindow pcb
+\i (01:38:07) zoom out -17.7733 -63.5244
+\i (01:38:07) trapsize 1958
+\i (01:38:10) setwindow form.vf_vis
+\i (01:38:10) FORM vf_vis 1 all_colorvisible YES 
+\i (01:38:11) FORM vf_vis all_all_visible YES 
+\i (01:38:13) setwindow pcb
+\i (01:38:13) roam start
+\i (01:38:13) roam x -16
+\i (01:38:13) roam y 32
+\i (01:38:13) roam x -16
+\i (01:38:13) roam y 16
+\i (01:38:13) roam y 32
+\i (01:38:13) roam x -16
+\i (01:38:13) roam y 16
+\i (01:38:14) roam end
+\i (01:38:15) zoom out 1 
+\i (01:38:15) setwindow pcb
+\i (01:38:15) zoom out -10.5002 -71.9381
+\i (01:38:15) trapsize 3916
+\i (01:38:15) zoom in 1 
+\i (01:38:15) setwindow pcb
+\i (01:38:15) zoom in -10.7351 -77.4983
+\i (01:38:15) trapsize 1958
+\i (01:38:15) zoom in 1 
+\i (01:38:15) setwindow pcb
+\i (01:38:15) zoom in -10.7742 -77.3808
+\i (01:38:15) trapsize 979
+\i (01:38:17) zoom out 1 
+\i (01:38:17) setwindow pcb
+\i (01:38:17) zoom out -16.3539 -76.0691
+\i (01:38:17) trapsize 1958
+\i (01:38:18) zoom in 1 
+\i (01:38:18) setwindow pcb
+\i (01:38:18) zoom in -26.3778 -71.2529
+\i (01:38:18) trapsize 979
+\i (01:38:18) zoom in 1 
+\i (01:38:18) setwindow pcb
+\i (01:38:18) zoom in -23.7347 -70.8418
+\i (01:38:18) trapsize 489
+\i (01:38:18) zoom in 1 
+\i (01:38:18) setwindow pcb
+\i (01:38:18) zoom in -23.7347 -70.8417
+\i (01:38:18) trapsize 245
+\i (01:38:19) zoom out 1 
+\i (01:38:19) setwindow pcb
+\i (01:38:19) zoom out -23.7347 -70.8417
+\i (01:38:19) trapsize 489
+\i (01:38:19) zoom out 1 
+\i (01:38:19) setwindow pcb
+\i (01:38:19) zoom out -23.7346 -70.8417
+\i (01:38:19) trapsize 979
+\i (01:39:18) pick grid -26.9846 -75.8537
+\t (01:39:18) last pick:  -26.9748  -75.8444
+\i (01:39:20) zoom in 1 
+\i (01:39:20) setwindow pcb
+\i (01:39:20) zoom in -19.5254 -74.3071
+\i (01:39:20) trapsize 489
+\i (01:39:20) zoom out 1 
+\i (01:39:20) setwindow pcb
+\i (01:39:20) zoom out -19.4764 -74.2973
+\i (01:39:20) trapsize 979
+\i (01:39:21) zoom in 1 
+\i (01:39:21) setwindow pcb
+\i (01:39:21) zoom in -22.4132 -69.9314
+\i (01:39:21) trapsize 489
+\i (01:39:21) zoom in 1 
+\i (01:39:21) setwindow pcb
+\i (01:39:21) zoom in -22.4132 -69.9313
+\i (01:39:22) trapsize 245
+\i (01:39:22) zoom in 1 
+\i (01:39:22) setwindow pcb
+\i (01:39:22) zoom in -22.4131 -69.9313
+\i (01:39:22) trapsize 122
+\i (01:39:22) zoom out 1 
+\i (01:39:22) setwindow pcb
+\i (01:39:22) zoom out -22.9344 -70.0218
+\i (01:39:22) trapsize 245
+\i (01:39:22) zoom out 1 
+\i (01:39:22) setwindow pcb
+\i (01:39:22) zoom out -22.9099 -70.0413
+\i (01:39:22) trapsize 489
+\i (01:39:23) zoom in 1 
+\i (01:39:23) setwindow pcb
+\i (01:39:23) zoom in -23.1644 -70.2371
+\i (01:39:23) trapsize 245
+\i (01:39:24) zoom out 1 
+\i (01:39:24) setwindow pcb
+\i (01:39:24) zoom out -23.1448 -70.2567
+\i (01:39:24) trapsize 489
+\i (01:39:24) zoom out 1 
+\i (01:39:24) setwindow pcb
+\i (01:39:24) zoom out -23.1447 -70.2567
+\i (01:39:24) trapsize 979
+\i (01:39:25) zoom in 1 
+\i (01:39:25) setwindow pcb
+\i (01:39:25) zoom in -23.5559 -69.8651
+\i (01:39:25) trapsize 489
+\i (01:39:25) zoom in 1 
+\i (01:39:25) setwindow pcb
+\i (01:39:25) zoom in -23.5559 -69.9042
+\i (01:39:25) trapsize 245
+\i (01:39:25) zoom in 1 
+\i (01:39:25) setwindow pcb
+\i (01:39:25) zoom in -23.5559 -69.9189
+\i (01:39:25) trapsize 122
+\i (01:39:26) zoom out 1 
+\i (01:39:26) setwindow pcb
+\i (01:39:26) zoom out -23.5290 -69.9531
+\i (01:39:26) trapsize 245
+\i (01:39:26) zoom out 1 
+\i (01:39:26) setwindow pcb
+\i (01:39:26) zoom out -23.6415 -69.7084
+\i (01:39:26) trapsize 489
+\i (01:39:27) zoom out 1 
+\i (01:39:27) setwindow pcb
+\i (01:39:27) zoom out -23.5044 -69.5910
+\i (01:39:27) trapsize 979
+\i (01:39:28) pick grid -23.5436 -68.9450
+\t (01:39:28) last pick:  -23.5458  -68.9356
+\i (01:39:28) prepopup -23.5436 -68.9450
+\i (01:39:29) pop dyn_option_select @:@Delete 
+\i (01:39:29) delete 
+\i (01:39:29) generaledit 
+\i (01:39:29) pick grid -23.5436 -69.1995
+\t (01:39:29) last pick:  -23.5458  -69.1896
+\i (01:39:30) prepopup -23.5436 -69.1995
+\i (01:39:30) pop dyn_option_select @:@Delete 
+\i (01:39:30) delete 
+\i (01:39:31) generaledit 
+\i (01:39:37) zoom in 1 
+\i (01:39:37) setwindow pcb
+\i (01:39:37) zoom in -20.2348 -68.6709
+\i (01:39:37) trapsize 489
+\i (01:39:38) pick grid -21.3312 -68.3576
+\t (01:39:38) last pick:  -21.3360  -68.3514
+\i (01:39:38) prepopup -21.3312 -68.3576
+\i (01:39:39) pop dyn_option_select @:@Delete 
+\i (01:39:39) delete 
+\i (01:39:39) generaledit 
+\i (01:39:41) pick grid -20.7145 -69.1994
+\t (01:39:41) last pick:  -20.7264  -69.1896
+\i (01:39:41) prepopup -20.7145 -69.1994
+\i (01:39:42) pop dyn_option_select @:@Delete 
+\i (01:39:42) delete 
+\i (01:39:42) generaledit 
+\i (01:39:42) pick grid -20.8124 -68.9939
+\t (01:39:42) last pick:  -20.8026  -68.9864
+\i (01:39:43) prepopup -20.8124 -68.9547
+\i (01:39:44) pop dyn_option_select @:@Delete 
+\i (01:39:44) delete 
+\i (01:39:45) generaledit 
+\i (01:39:47) zoom out 1 
+\i (01:39:47) setwindow pcb
+\i (01:39:47) zoom out -20.8907 -68.8960
+\i (01:39:47) trapsize 979
+\i (01:40:06) pick grid -24.2582 -69.4246
+\t (01:40:06) last pick:  -24.2570  -69.4182
+\i (01:40:08) pick grid -22.1437 -68.9939
+\t (01:40:08) last pick:  -22.1488  -68.9864
+\i (01:40:08) prepopup -22.1437 -68.9939
+\i (01:40:09) pop dyn_option_select @:@Delete 
+\i (01:40:09) delete 
+\i (01:40:10) generaledit 
+\i (01:40:11) pick grid -22.7898 -69.0330
+\t (01:40:11) last pick:  -22.7838  -69.0372
+\i (01:40:12) prepopup -22.7702 -69.0330
+\i (01:40:12) pop dyn_option_select @:@Delete 
+\i (01:40:12) delete 
+\i (01:40:12) generaledit 
+\i (01:40:15) zoom in 1 
+\i (01:40:15) setwindow pcb
+\i (01:40:15) zoom in -19.4419 -69.0330
+\i (01:40:15) trapsize 489
+\i (01:40:15) zoom in 1 
+\i (01:40:15) setwindow pcb
+\i (01:40:15) zoom in -19.4419 -69.0330
+\i (01:40:15) trapsize 245
+\i (01:40:15) zoom out 1 
+\i (01:40:15) setwindow pcb
+\i (01:40:15) zoom out -19.3097 -69.0477
+\i (01:40:15) trapsize 489
+\i (01:40:15) zoom out 1 
+\i (01:40:15) setwindow pcb
+\i (01:40:15) zoom out -19.3098 -69.0477
+\i (01:40:15) trapsize 979
+\i (01:40:16) pick grid -19.6035 -68.7540
+\t (01:40:16) last pick:  -19.6088  -68.7578
+\i (01:40:16) prepopup -19.6035 -68.7540
+\i (01:40:17) pop dyn_option_select @:@Delete 
+\i (01:40:17) delete 
+\i (01:40:17) generaledit 
+\i (01:40:17) pick grid -19.5839 -68.7736
+\t (01:40:17) last pick:  -19.5834  -68.7832
+\i (01:40:18) prepopup -19.5839 -68.7931
+\i (01:40:18) pop dyn_option_select @:@Delete 
+\i (01:40:18) delete 
+\i (01:40:19
