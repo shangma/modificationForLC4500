@@ -4074,4 +4074,1096 @@
 \t (01:01:40) Performing DRC...
 \t (01:01:40) Multithreaded DRC update (8 threads).
 \t (01:01:40) No DRC errors detected.
-\i (01:01:40) gen
+\i (01:01:40) generaledit 
+\i (01:01:42) save 
+\i (01:01:43) fillin yes 
+\i (01:01:43) generaledit 
+\i (01:02:20) xdehilite 
+\i (01:02:20) xrefdes C43 
+\t (01:02:20) Can not select unplaced component C43.
+\t (01:02:20) Can not select unplaced component C43.
+\i (01:02:20) xname_flush 
+\i (01:02:20) done 
+\i (01:02:20) generaledit 
+\i (01:02:21) xhilite 
+\i (01:02:21) xrefdes R35 
+\t (01:02:21) Can not select unplaced component R35.
+\t (01:02:21) Can not select unplaced component R35.
+\i (01:02:21) xname_flush 
+\i (01:02:21) done 
+\i (01:02:21) generaledit 
+\i (01:02:22) xdehilite 
+\i (01:02:22) xrefdes R35 
+\t (01:02:22) Can not select unplaced component R35.
+\t (01:02:22) Can not select unplaced component R35.
+\i (01:02:22) xname_flush 
+\i (01:02:22) done 
+\i (01:02:22) generaledit 
+\i (01:02:23) xhilite 
+\i (01:02:23) xrefdes C43 
+\t (01:02:23) Can not select unplaced component C43.
+\t (01:02:23) Can not select unplaced component C43.
+\i (01:02:23) xname_flush 
+\i (01:02:23) done 
+\i (01:02:23) generaledit 
+\i (01:02:24) xdehilite 
+\i (01:02:25) xrefdes C43 
+\t (01:02:25) Can not select unplaced component C43.
+\t (01:02:25) Can not select unplaced component C43.
+\i (01:02:25) xname_flush 
+\i (01:02:25) done 
+\i (01:02:25) generaledit 
+\i (01:02:25) xhilite 
+\i (01:02:25) xrefdes U14 
+\t (01:02:25) Can not select unplaced component U14.
+\t (01:02:25) Can not select unplaced component U14.
+\i (01:02:25) xname_flush 
+\i (01:02:25) done 
+\i (01:02:25) generaledit 
+\i (01:02:26) xdehilite 
+\i (01:02:26) xrefdes U14 
+\t (01:02:26) Can not select unplaced component U14.
+\t (01:02:26) Can not select unplaced component U14.
+\i (01:02:26) xname_flush 
+\i (01:02:26) done 
+\i (01:02:26) generaledit 
+\i (01:02:29) xhilite 
+\i (01:02:30) xrefdes R240 
+\t (01:02:30) Can not select unplaced component R240.
+\t (01:02:30) Can not select unplaced component R240.
+\i (01:02:30) xname_flush 
+\i (01:02:30) done 
+\i (01:02:30) generaledit 
+\i (01:02:30) xdehilite 
+\i (01:02:30) xrefdes R240 
+\t (01:02:30) Can not select unplaced component R240.
+\t (01:02:30) Can not select unplaced component R240.
+\i (01:02:30) xname_flush 
+\i (01:02:30) done 
+\i (01:02:31) generaledit 
+\i (01:02:31) xhilite 
+\i (01:02:31) xrefdes U52 
+\t (01:02:31) Can not select unplaced component U52.
+\t (01:02:31) Can not select unplaced component U52.
+\i (01:02:31) xname_flush 
+\i (01:02:31) done 
+\i (01:02:31) generaledit 
+\i (01:02:32) xdehilite 
+\i (01:02:32) xrefdes U52 
+\t (01:02:32) Can not select unplaced component U52.
+\t (01:02:32) Can not select unplaced component U52.
+\i (01:02:32) xname_flush 
+\i (01:02:32) done 
+\i (01:02:32) generaledit 
+\i (01:02:32) xhilite 
+\i (01:02:33) xrefdes C295 
+\t (01:02:33) Can not select unplaced component C295.
+\t (01:02:33) Can not select unplaced component C295.
+\i (01:02:33) xname_flush 
+\i (01:02:33) done 
+\i (01:02:33) generaledit 
+\i (01:02:33) xdehilite 
+\i (01:02:34) xrefdes C295 
+\t (01:02:34) Can not select unplaced component C295.
+\t (01:02:34) Can not select unplaced component C295.
+\i (01:02:34) xname_flush 
+\i (01:02:34) done 
+\i (01:02:34) xhilite 
+\i (01:02:34) xrefdes C42 
+\t (01:02:34) Can not select unplaced component C42.
+\t (01:02:34) Can not select unplaced component C42.
+\i (01:02:34) xname_flush 
+\i (01:02:34) done 
+\i (01:02:34) generaledit 
+\i (01:02:35) xdehilite 
+\i (01:02:35) xrefdes C42 
+\t (01:02:35) Can not select unplaced component C42.
+\t (01:02:35) Can not select unplaced component C42.
+\i (01:02:35) xname_flush 
+\i (01:02:35) done 
+\i (01:02:35) xhilite 
+\i (01:02:35) xrefdes U13 
+\t (01:02:35) Can not select unplaced component U13.
+\t (01:02:35) Can not select unplaced component U13.
+\i (01:02:35) xname_flush 
+\i (01:02:35) done 
+\i (01:02:35) generaledit 
+\i (01:02:36) xdehilite 
+\i (01:02:36) xrefdes U13 
+\t (01:02:36) Can not select unplaced component U13.
+\t (01:02:36) Can not select unplaced component U13.
+\i (01:02:36) xname_flush 
+\i (01:02:36) done 
+\i (01:02:36) xhilite 
+\i (01:02:36) xrefdes R33 
+\t (01:02:36) Can not select unplaced component R33.
+\t (01:02:36) Can not select unplaced component R33.
+\i (01:02:36) xname_flush 
+\i (01:02:36) done 
+\i (01:02:36) generaledit 
+\i (01:02:37) xdehilite 
+\i (01:02:37) xrefdes R33 
+\t (01:02:37) Can not select unplaced component R33.
+\t (01:02:37) Can not select unplaced component R33.
+\i (01:02:37) xname_flush 
+\i (01:02:37) done 
+\i (01:02:38) generaledit 
+\i (01:02:38) xhilite 
+\i (01:02:38) xrefdes R34 
+\t (01:02:38) Can not select unplaced component R34.
+\t (01:02:38) Can not select unplaced component R34.
+\i (01:02:38) xname_flush 
+\i (01:02:38) done 
+\i (01:02:38) generaledit 
+\i (01:02:39) xdehilite 
+\i (01:02:39) xrefdes R34 
+\t (01:02:39) Can not select unplaced component R34.
+\t (01:02:39) Can not select unplaced component R34.
+\i (01:02:39) xname_flush 
+\i (01:02:39) done 
+\i (01:02:39) generaledit 
+\i (01:02:42) xhilite 
+\i (01:02:42) xrefdes C41 
+\t (01:02:42) Can not select unplaced component C41.
+\t (01:02:42) Can not select unplaced component C41.
+\i (01:02:42) xname_flush 
+\i (01:02:42) done 
+\i (01:02:42) generaledit 
+\i (01:02:43) xdehilite 
+\i (01:02:43) xrefdes C41 
+\t (01:02:43) Can not select unplaced component C41.
+\t (01:02:43) Can not select unplaced component C41.
+\i (01:02:43) xname_flush 
+\i (01:02:43) done 
+\i (01:02:43) generaledit 
+\i (01:02:45) xhilite 
+\i (01:02:45) xrefdes R239 
+\t (01:02:45) Can not select unplaced component R239.
+\t (01:02:45) Can not select unplaced component R239.
+\i (01:02:45) xname_flush 
+\i (01:02:45) done 
+\i (01:02:45) generaledit 
+\i (01:02:46) xdehilite 
+\i (01:02:46) xrefdes R239 
+\t (01:02:46) Can not select unplaced component R239.
+\t (01:02:46) Can not select unplaced component R239.
+\i (01:02:46) xname_flush 
+\i (01:02:46) done 
+\i (01:02:46) xhilite 
+\i (01:02:46) xrefdes C294 
+\t (01:02:46) Can not select unplaced component C294.
+\t (01:02:46) Can not select unplaced component C294.
+\i (01:02:46) xname_flush 
+\i (01:02:46) done 
+\i (01:02:47) generaledit 
+\i (01:02:47) xdehilite 
+\i (01:02:47) xrefdes C294 
+\t (01:02:47) Can not select unplaced component C294.
+\t (01:02:47) Can not select unplaced component C294.
+\i (01:02:47) xname_flush 
+\i (01:02:47) done 
+\i (01:02:47) xhilite 
+\i (01:02:47) xrefdes C38 
+\t (01:02:47) Can not select unplaced component C38.
+\t (01:02:47) Can not select unplaced component C38.
+\i (01:02:47) xname_flush 
+\i (01:02:47) done 
+\i (01:02:47) generaledit 
+\i (01:02:48) xdehilite 
+\i (01:02:48) xrefdes C38 
+\t (01:02:48) Can not select unplaced component C38.
+\t (01:02:48) Can not select unplaced component C38.
+\i (01:02:48) xname_flush 
+\i (01:02:48) done 
+\i (01:02:48) generaledit 
+\i (01:02:48) xhilite 
+\i (01:02:49) xrefdes R28 
+\t (01:02:49) Can not select unplaced component R28.
+\t (01:02:49) Can not select unplaced component R28.
+\i (01:02:49) xname_flush 
+\i (01:02:49) done 
+\i (01:02:49) generaledit 
+\i (01:02:49) xdehilite 
+\i (01:02:49) xrefdes R28 
+\t (01:02:49) Can not select unplaced component R28.
+\t (01:02:49) Can not select unplaced component R28.
+\i (01:02:49) xname_flush 
+\i (01:02:49) done 
+\i (01:02:49) generaledit 
+\i (01:02:50) xhilite 
+\i (01:02:50) xrefdes U11 
+\t (01:02:50) Can not select unplaced component U11.
+\t (01:02:50) Can not select unplaced component U11.
+\i (01:02:50) xname_flush 
+\i (01:02:50) done 
+\i (01:02:50) generaledit 
+\i (01:02:50) xdehilite 
+\i (01:02:50) xrefdes U11 
+\t (01:02:50) Can not select unplaced component U11.
+\t (01:02:50) Can not select unplaced component U11.
+\i (01:02:50) xname_flush 
+\i (01:02:50) done 
+\i (01:02:50) generaledit 
+\i (01:02:52) xhilite 
+\i (01:02:52) xrefdes J10 
+\t (01:02:52) Can not select unplaced component J10.
+\t (01:02:52) Can not select unplaced component J10.
+\i (01:02:52) xname_flush 
+\i (01:02:52) done 
+\i (01:02:52) generaledit 
+\i (01:02:52) xdehilite 
+\i (01:02:53) xrefdes J10 
+\t (01:02:53) Can not select unplaced component J10.
+\t (01:02:53) Can not select unplaced component J10.
+\i (01:02:53) xname_flush 
+\i (01:02:53) done 
+\i (01:02:53) generaledit 
+\i (01:02:55) xhilite 
+\i (01:02:55) xrefdes C37 
+\t (01:02:55) Can not select unplaced component C37.
+\t (01:02:55) Can not select unplaced component C37.
+\i (01:02:55) xname_flush 
+\i (01:02:55) done 
+\i (01:02:55) generaledit 
+\i (01:02:55) xdehilite 
+\i (01:02:55) xrefdes C37 
+\t (01:02:55) Can not select unplaced component C37.
+\t (01:02:55) Can not select unplaced component C37.
+\i (01:02:55) xname_flush 
+\i (01:02:55) done 
+\i (01:02:55) generaledit 
+\i (01:02:58) xhilite 
+\i (01:02:58) xrefdes C286.1 
+\t (01:02:58) Can not select unplaced component C286.
+\i (01:02:58) xname_flush 
+\i (01:02:58) done 
+\i (01:02:59) generaledit 
+\i (01:02:59) xdehilite 
+\i (01:02:59) xrefdes C286.1 
+\t (01:02:59) Can not select unplaced component C286.
+\i (01:02:59) xname_flush 
+\i (01:02:59) done 
+\i (01:02:59) xhilite 
+\i (01:02:59) xrefdes C286 
+\t (01:02:59) Can not select unplaced component C286.
+\t (01:02:59) Can not select unplaced component C286.
+\i (01:02:59) xname_flush 
+\i (01:02:59) done 
+\i (01:02:59) generaledit 
+\i (01:03:00) xdehilite 
+\i (01:03:00) xrefdes C286 
+\t (01:03:00) Can not select unplaced component C286.
+\t (01:03:00) Can not select unplaced component C286.
+\i (01:03:00) xname_flush 
+\i (01:03:00) done 
+\i (01:03:00) xhilite 
+\i (01:03:00) xrefdes U48 
+\t (01:03:00) Can not select unplaced component U48.
+\t (01:03:00) Can not select unplaced component U48.
+\i (01:03:00) xname_flush 
+\i (01:03:00) done 
+\i (01:03:00) generaledit 
+\i (01:03:01) xdehilite 
+\i (01:03:01) xrefdes U48 
+\t (01:03:01) Can not select unplaced component U48.
+\t (01:03:01) Can not select unplaced component U48.
+\i (01:03:01) xname_flush 
+\i (01:03:01) done 
+\i (01:03:01) xhilite 
+\i (01:03:01) xrefdes C287.1 
+\t (01:03:01) Can not select unplaced component C287.
+\i (01:03:01) xname_flush 
+\i (01:03:01) done 
+\i (01:03:02) generaledit 
+\i (01:03:02) xdehilite 
+\i (01:03:02) xrefdes C287.1 
+\t (01:03:02) Can not select unplaced component C287.
+\i (01:03:02) xname_flush 
+\i (01:03:02) done 
+\i (01:03:02) xhilite 
+\i (01:03:02) xrefdes C287 
+\t (01:03:02) Can not select unplaced component C287.
+\t (01:03:02) Can not select unplaced component C287.
+\i (01:03:02) xname_flush 
+\i (01:03:02) done 
+\i (01:03:02) generaledit 
+\i (01:03:03) xdehilite 
+\i (01:03:03) xrefdes C287 
+\t (01:03:03) Can not select unplaced component C287.
+\t (01:03:03) Can not select unplaced component C287.
+\i (01:03:03) xname_flush 
+\i (01:03:03) done 
+\i (01:03:03) generaledit 
+\i (01:03:06) xhilite 
+\i (01:03:06) xrefdes C36 
+\t (01:03:06) Can not select unplaced component C36.
+\t (01:03:06) Can not select unplaced component C36.
+\i (01:03:06) xname_flush 
+\i (01:03:06) done 
+\i (01:03:06) generaledit 
+\i (01:03:07) xdehilite 
+\i (01:03:07) xrefdes C36 
+\t (01:03:07) Can not select unplaced component C36.
+\t (01:03:07) Can not select unplaced component C36.
+\i (01:03:07) xname_flush 
+\i (01:03:07) done 
+\i (01:03:07) xhilite 
+\i (01:03:07) xrefdes U10 
+\t (01:03:07) Can not select unplaced component U10.
+\t (01:03:07) Can not select unplaced component U10.
+\i (01:03:07) xname_flush 
+\i (01:03:07) done 
+\i (01:03:07) generaledit 
+\i (01:03:08) xdehilite 
+\i (01:03:08) xrefdes U10 
+\t (01:03:08) Can not select unplaced component U10.
+\t (01:03:08) Can not select unplaced component U10.
+\i (01:03:08) xname_flush 
+\i (01:03:08) done 
+\i (01:03:08) xhilite 
+\i (01:03:08) xrefdes R27 
+\t (01:03:08) Can not select unplaced component R27.
+\t (01:03:08) Can not select unplaced component R27.
+\i (01:03:08) xname_flush 
+\i (01:03:08) done 
+\i (01:03:09) generaledit 
+\i (01:03:09) xdehilite 
+\i (01:03:10) xrefdes R27 
+\t (01:03:10) Can not select unplaced component R27.
+\t (01:03:10) Can not select unplaced component R27.
+\i (01:03:10) xname_flush 
+\i (01:03:10) done 
+\i (01:03:10) generaledit 
+\i (01:03:12) xhilite 
+\i (01:03:12) xrefdes C39 
+\t (01:03:12) Can not select unplaced component C39.
+\t (01:03:12) Can not select unplaced component C39.
+\i (01:03:12) xname_flush 
+\i (01:03:12) done 
+\i (01:03:12) generaledit 
+\i (01:03:13) xdehilite 
+\i (01:03:13) xrefdes C39 
+\t (01:03:13) Can not select unplaced component C39.
+\t (01:03:13) Can not select unplaced component C39.
+\i (01:03:13) xname_flush 
+\i (01:03:13) done 
+\i (01:03:13) xhilite 
+\i (01:03:13) xrefdes C40 
+\t (01:03:13) Can not select unplaced component C40.
+\t (01:03:13) Can not select unplaced component C40.
+\i (01:03:13) xname_flush 
+\i (01:03:13) done 
+\i (01:03:13) generaledit 
+\i (01:03:15) xdehilite 
+\i (01:03:15) xrefdes C40 
+\t (01:03:15) Can not select unplaced component C40.
+\t (01:03:15) Can not select unplaced component C40.
+\i (01:03:15) xname_flush 
+\i (01:03:15) done 
+\i (01:03:15) xhilite 
+\i (01:03:15) xrefdes R30 
+\t (01:03:15) Can not select unplaced component R30.
+\t (01:03:15) Can not select unplaced component R30.
+\i (01:03:15) xname_flush 
+\i (01:03:15) done 
+\i (01:03:15) generaledit 
+\i (01:03:16) xdehilite 
+\i (01:03:16) xrefdes R30 
+\t (01:03:16) Can not select unplaced component R30.
+\t (01:03:16) Can not select unplaced component R30.
+\i (01:03:16) xname_flush 
+\i (01:03:16) done 
+\i (01:03:16) xhilite 
+\i (01:03:16) xrefdes U12 
+\t (01:03:16) Can not select unplaced component U12.
+\t (01:03:16) Can not select unplaced component U12.
+\i (01:03:16) xname_flush 
+\i (01:03:16) done 
+\i (01:03:16) generaledit 
+\i (01:03:17) xdehilite 
+\i (01:03:17) xrefdes U12 
+\t (01:03:17) Can not select unplaced component U12.
+\t (01:03:17) Can not select unplaced component U12.
+\i (01:03:17) xname_flush 
+\i (01:03:17) done 
+\i (01:03:17) xhilite 
+\i (01:03:17) xrefdes R31 
+\t (01:03:17) Can not select unplaced component R31.
+\t (01:03:17) Can not select unplaced component R31.
+\i (01:03:17) xname_flush 
+\i (01:03:17) done 
+\i (01:03:17) generaledit 
+\i (01:03:18) xdehilite 
+\i (01:03:18) xrefdes R31 
+\t (01:03:18) Can not select unplaced component R31.
+\t (01:03:18) Can not select unplaced component R31.
+\i (01:03:18) xname_flush 
+\i (01:03:18) done 
+\i (01:03:18) xhilite 
+\i (01:03:18) xrefdes R32 
+\t (01:03:18) Can not select unplaced component R32.
+\t (01:03:18) Can not select unplaced component R32.
+\i (01:03:18) xname_flush 
+\i (01:03:18) done 
+\i (01:03:19) generaledit 
+\i (01:03:20) xdehilite 
+\i (01:03:20) xrefdes R32 
+\t (01:03:20) Can not select unplaced component R32.
+\t (01:03:20) Can not select unplaced component R32.
+\i (01:03:20) xname_flush 
+\i (01:03:20) done 
+\i (01:03:20) xhilite 
+\i (01:03:20) xNet Drv_Trig_Outa_2 
+\i (01:03:20) xname_flush 
+\i (01:03:20) setwindow cmgr
+\i (01:03:20) cm expand ( row ( Design "STANDARD" ) )
+\i (01:03:20) cm expand ( row ( Design "STANDARD" ) )
+\i (01:03:20) cm expand ( row ( Design "STANDARD" ) )
+\t (01:03:20) Net "Drv_Trig_Outa_2" highlighted.
+\i (01:03:20) setwindow pcb
+\i (01:03:20) done 
+\i (01:03:20) generaledit 
+\i (01:03:21) xdehilite 
+\i (01:03:21) xNet Drv_Trig_Outa_2 
+\i (01:03:21) xname_flush 
+\t (01:03:21) Net "Drv_Trig_Outa_2" dehighlighted.
+\i (01:03:21) done 
+\i (01:03:22) generaledit 
+\i (01:03:25) xhilite 
+\i (01:03:25) xrefdes R35 
+\t (01:03:25) Can not select unplaced component R35.
+\t (01:03:25) Can not select unplaced component R35.
+\i (01:03:25) xname_flush 
+\i (01:03:25) done 
+\i (01:03:25) generaledit 
+\i (01:03:26) xdehilite 
+\i (01:03:26) xrefdes R35 
+\t (01:03:26) Can not select unplaced component R35.
+\t (01:03:26) Can not select unplaced component R35.
+\i (01:03:26) xname_flush 
+\i (01:03:26) done 
+\i (01:03:26) xhilite 
+\i (01:03:26) xrefdes U14 
+\t (01:03:26) Can not select unplaced component U14.
+\t (01:03:26) Can not select unplaced component U14.
+\i (01:03:26) xname_flush 
+\i (01:03:26) done 
+\i (01:03:26) generaledit 
+\i (01:03:28) xdehilite 
+\i (01:03:28) xrefdes U14 
+\t (01:03:28) Can not select unplaced component U14.
+\t (01:03:28) Can not select unplaced component U14.
+\i (01:03:28) xname_flush 
+\i (01:03:28) done 
+\i (01:03:28) xhilite 
+\i (01:03:28) xrefdes C43 
+\t (01:03:28) Can not select unplaced component C43.
+\t (01:03:28) Can not select unplaced component C43.
+\i (01:03:28) xname_flush 
+\i (01:03:28) done 
+\i (01:03:28) generaledit 
+\i (01:03:30) xdehilite 
+\i (01:03:30) xrefdes C43 
+\t (01:03:30) Can not select unplaced component C43.
+\t (01:03:30) Can not select unplaced component C43.
+\i (01:03:30) xname_flush 
+\i (01:03:30) done 
+\i (01:03:30) generaledit 
+\i (01:03:33) xhilite 
+\i (01:03:34) xrefdes R36 
+\t (01:03:34) Can not select unplaced component R36.
+\t (01:03:34) Can not select unplaced component R36.
+\i (01:03:34) xname_flush 
+\i (01:03:34) done 
+\i (01:03:34) generaledit 
+\i (01:03:35) pick grid -42.2250 -73.2762
+\t (01:03:35) last pick:  -42.2148  -73.2790
+\i (01:03:41) xhilite 
+\i (01:03:41) xrefdes J25 
+\i (01:03:41) xname_flush 
+\i (01:03:41) trapsize 912
+\i (01:03:41) setwindow cmgr
+\i (01:03:41) cm expand ( row ( Design "STANDARD" ) )
+\i (01:03:41) cm expand ( row ( "Part Definition" "CONN_6_CONN_6_53261-0671:CONN_6:53261-0671:" ) )
+\t (01:03:41) Symbol "J25" highlighted.
+\i (01:03:41) setwindow pcb
+\i (01:03:41) done 
+\i (01:03:41) generaledit 
+\i (01:03:43) pick grid -49.3906 -76.5499
+\t (01:03:43) last pick:  -49.4030  -76.5556
+\i (01:03:44) xdehilite 
+\i (01:03:44) xrefdes J25 
+\i (01:03:44) xname_flush 
+\t (01:03:44) Symbol "J25" dehighlighted.
+\i (01:03:44) done 
+\i (01:03:44) generaledit 
+\i (01:03:45) pick grid -51.2687 -76.0941
+\t (01:03:45) last pick:  -51.2572  -76.0984
+\i (01:03:45) zoom in 1 
+\i (01:03:45) setwindow pcb
+\i (01:03:45) zoom in -52.0527 -75.6565
+\i (01:03:45) trapsize 456
+\i (01:03:45) zoom in 1 
+\i (01:03:45) setwindow pcb
+\i (01:03:45) zoom in -52.0618 -75.6109
+\i (01:03:45) trapsize 228
+\i (01:03:45) zoom in 1 
+\i (01:03:45) setwindow pcb
+\i (01:03:45) zoom in -52.0663 -75.5835
+\i (01:03:45) trapsize 114
+\i (01:03:46) zoom in 1 
+\i (01:03:46) setwindow pcb
+\i (01:03:46) zoom in -52.0754 -75.5607
+\i (01:03:46) trapsize 57
+\i (01:03:46) zoom out 1 
+\i (01:03:46) setwindow pcb
+\i (01:03:46) zoom out -52.0799 -75.5299
+\i (01:03:46) trapsize 114
+\i (01:03:46) zoom out 1 
+\i (01:03:46) setwindow pcb
+\i (01:03:46) zoom out -52.0800 -75.5299
+\i (01:03:46) trapsize 228
+\i (01:03:46) zoom out 1 
+\i (01:03:46) setwindow pcb
+\i (01:03:46) zoom out -52.0800 -75.5300
+\i (01:03:46) trapsize 456
+\i (01:03:46) zoom out 1 
+\i (01:03:46) setwindow pcb
+\i (01:03:46) zoom out -52.0800 -75.5300
+\i (01:03:46) trapsize 912
+\i (01:03:46) zoom out 1 
+\i (01:03:46) setwindow pcb
+\i (01:03:46) zoom out -52.0799 -75.5300
+\i (01:03:46) trapsize 1824
+\i (01:04:07) pick grid -58.1705 -61.5619
+\t (01:04:07) last pick:  -58.1660  -61.5696
+\i (01:04:12) pick grid -49.4176 -63.3124
+\t (01:04:12) last pick:  -49.4284  -63.3222
+\i (01:04:13) zoom out 1 
+\i (01:04:13) setwindow pcb
+\i (01:04:13) zoom out -48.7612 -64.5524
+\i (01:04:13) trapsize 3647
+\i (01:04:14) zoom out 1 
+\i (01:04:14) setwindow pcb
+\i (01:04:14) zoom out -48.7612 -64.5524
+\i (01:04:14) trapsize 7294
+\i (01:04:33) setwindow form.find
+\i (01:04:33) FORM find find_name C288 
+\i (01:04:33) setwindow cmgr
+\i (01:04:33) cm expand ( row ( Design "STANDARD" ) )
+\i (01:04:33) cm expand ( row ( "Part Definition" "CAP NP_CAP_0402_0.1 UF:CAP_0402:0.1 uF:" ) )
+\t (01:04:35) > Symbol "C288"
+\i (01:04:35) setwindow worldview
+\i (01:04:35) trapsize 661
+\i (01:04:37) setwindow pcb
+\i (01:04:37) pick grid -10.5164 -70.0358
+\t (01:04:37) last pick:  -10.5156  -70.0278
+\i (01:04:38) zoom out 1 
+\i (01:04:38) setwindow pcb
+\i (01:04:38) zoom out -10.4106 -69.7847
+\i (01:04:38) trapsize 1322
+\i (01:04:38) zoom out 1 
+\i (01:04:38) setwindow pcb
+\i (01:04:38) zoom out -10.4107 -69.7846
+\i (01:04:38) trapsize 2644
+\i (01:04:40) pick grid -10.5164 -70.9480
+\t (01:04:40) last pick:  -10.5156  -70.9422
+\i (01:04:42) zoom in 1 
+\i (01:04:42) setwindow pcb
+\i (01:04:42) zoom in -10.5164 -70.9480
+\i (01:04:42) trapsize 1322
+\i (01:04:43) zoom in 1 
+\i (01:04:43) setwindow pcb
+\i (01:04:43) zoom in -14.1387 -65.8450
+\i (01:04:43) trapsize 661
+\i (01:04:43) zoom in 1 
+\i (01:04:43) setwindow pcb
+\i (01:04:43) zoom in -14.1386 -65.8450
+\i (01:04:43) trapsize 331
+\i (01:04:44) pick grid -10.1791 -65.4418
+\t (01:04:44) last pick:  -10.1854  -65.4304
+\i (01:04:46) pick grid -10.1064 -65.7459
+\t (01:04:46) last pick:  -10.1092  -65.7352
+\i (01:04:47) zoom out 1 
+\i (01:04:47) setwindow pcb
+\i (01:04:47) zoom out -10.1064 -65.7459
+\i (01:04:47) trapsize 661
+\i (01:04:47) zoom out 1 
+\i (01:04:47) setwindow pcb
+\i (01:04:47) zoom out -10.1065 -65.7458
+\i (01:04:47) trapsize 1322
+\i (01:12:44) xhilite 
+\i (01:12:44) xrefdes U49 
+\i (01:12:44) xname_flush 
+\i (01:12:44) trapsize 438
+\i (01:12:44) setwindow cmgr
+\i (01:12:44) cm expand ( row ( Design "STANDARD" ) )
+\i (01:12:44) cm expand ( row ( "Part Definition" "TPS79718_1_TI_DCK_TPS79718DCKT:TI_DCK:TPS79718DCKT:" ) )
+\t (01:12:44) Symbol "U49" highlighted.
+\i (01:12:44) setwindow pcb
+\i (01:12:44) done 
+\i (01:12:44) generaledit 
+\i (01:12:46) xdehilite 
+\i (01:12:46) xrefdes U49 
+\i (01:12:46) xname_flush 
+\t (01:12:46) Symbol "U49" dehighlighted.
+\i (01:12:46) done 
+\i (01:12:47) generaledit 
+\i (01:12:48) xhilite 
+\i (01:12:48) xrefdes C288 
+\i (01:12:48) xname_flush 
+\i (01:12:48) trapsize 661
+\i (01:12:48) setwindow cmgr
+\i (01:12:48) cm expand ( row ( Design "STANDARD" ) )
+\i (01:12:48) cm expand ( row ( "Part Definition" "CAP NP_CAP_0402_0.1 UF:CAP_0402:0.1 uF:" ) )
+\t (01:12:48) Symbol "C288" highlighted.
+\i (01:12:48) setwindow pcb
+\i (01:12:48) done 
+\i (01:12:48) generaledit 
+\i (01:12:51) pick grid -10.4635 -70.5118
+\t (01:12:51) last pick:  -10.4648  -70.5104
+\i (01:12:55) pick grid -13.1075 -66.5986
+\t (01:12:55) last pick:  -13.1064  -66.5988
+\i (01:12:55) setwindow cmgr
+\i (01:12:55) cm expand ( row ( Design "STANDARD" ) )
+\i (01:12:55) cm expand ( row ( Design "STANDARD" ) )
+\i (01:12:55) cm expand ( row ( Design "STANDARD" ) )
+\i (01:12:55) setwindow pcb
+\i (01:12:55) prepopup -13.1075 -66.5986
+\i (01:12:56) pop dyn_option_select @:@Delete 
+\i (01:12:56) delete 
+\i (01:12:56) generaledit 
+\i (01:13:00) pick grid -13.0547 -64.7874
+\t (01:13:00) last pick:  -13.0556  -64.7954
+\i (01:13:00) setwindow cmgr
+\i (01:13:00) cm expand ( row ( Design "STANDARD" ) )
+\i (01:13:00) cm expand ( row ( Design "STANDARD" ) )
+\i (01:13:00) cm expand ( row ( Design "STANDARD" ) )
+\i (01:13:01) setwindow pcb
+\i (01:13:01) prepopup -13.0547 -64.7874
+\i (01:13:02) pop dyn_option_select @:@Delete 
+\i (01:13:02) delete 
+\i (01:13:02) generaledit 
+\i (01:13:12) pick grid -11.9442 -69.6128
+\t (01:13:12) last pick:  -11.9380  -69.6214
+\i (01:13:13) pick grid -13.1869 -65.8318
+\t (01:13:13) last pick:  -13.1826  -65.8368
+\i (01:13:13) setwindow cmgr
+\i (01:13:13) cm expand ( row ( Design "STANDARD" ) )
+\i (01:13:13) cm expand ( row ( "Part Definition" "CAP NP_CAP_0402_0.1 UF:CAP_0402:0.1 uF:" ) )
+\i (01:13:13) setwindow pcb
+\i (01:13:13) prepopup -13.1869 -65.8318
+\i (01:13:14) pop dyn_option_select '@:@Unplace component' 
+\i (01:13:14) unplace component 
+\i (01:13:15) generaledit 
+\i (01:13:15) pick grid -10.7015 -70.2077
+\t (01:13:15) last pick:  -10.6934  -70.2056
+\i (01:13:17) drc update 
+\t (01:13:17) Performing DRC...
+\t (01:13:17) Multithreaded DRC update (8 threads).
+\t (01:13:17) No DRC errors detected.
+\i (01:13:17) generaledit 
+\i (01:13:19) pick grid -8.5730 -69.5467
+\t (01:13:19) last pick:  -8.5852  -69.5452
+\i (01:13:22) xdehilite 
+\i (01:13:22) xrefdes C288 
+\t (01:13:22) Can not select unplaced component C288.
+\t (01:13:22) Can not select unplaced component C288.
+\i (01:13:22) xname_flush 
+\i (01:13:22) done 
+\i (01:13:22) xhilite 
+\i (01:13:22) xrefdes C289 
+\i (01:13:22) xname_flush 
+\i (01:13:22) trapsize 880
+\i (01:13:22) setwindow cmgr
+\i (01:13:22) cm expand ( row ( Design "STANDARD" ) )
+\i (01:13:22) cm expand ( row ( "Part Definition" "CAP NP_CAP_0603_2.2 UF:CAP_0603:2.2 uF:" ) )
+\t (01:13:22) Symbol "C289" highlighted.
+\i (01:13:22) setwindow pcb
+\i (01:13:22) done 
+\i (01:13:23) generaledit 
+\i (01:13:24) pick grid -14.1354 -69.5045
+\t (01:13:24) last pick:  -14.1478  -69.4944
+\i (01:13:26) zoom in 1 
+\i (01:13:26) setwindow pcb
+\i (01:13:26) zoom in -15.1391 -67.1449
+\i (01:13:26) trapsize 440
+\i (01:13:27) zoom out 1 
+\i (01:13:27) setwindow pcb
+\i (01:13:27) zoom out -13.2813 -67.0921
+\i (01:13:27) trapsize 880
+\i (01:13:29) pick grid -13.5807 -67.1800
+\t (01:13:29) last pick:  -13.5890  -67.1830
+\i (01:13:29) setwindow cmgr
+\i (01:13:29) cm expand ( row ( Design "STANDARD" ) )
+\i (01:13:29) cm expand ( row ( Design "STANDARD" ) )
+\i (01:13:29) cm expand ( row ( Design "STANDARD" ) )
+\i (01:13:30) setwindow pcb
+\i (01:13:30) prepopup -13.5807 -67.1800
+\i (01:13:31) pop dyn_option_select @:@Delete 
+\i (01:13:32) delete 
+\i (01:13:32) generaledit 
+\i (01:13:58) pick grid -9.6891 -64.9437
+\t (01:13:58) last pick:  -9.6774  -64.9478
+\i (01:13:59) roam start
+\i (01:13:59) roam end
+\i (01:13:59) zoom out 1 
+\i (01:13:59) setwindow pcb
+\i (01:13:59) zoom out -9.1080 -64.7324
+\i (01:13:59) trapsize 1761
+\i (01:14:01) roam start
+\i (01:14:01) roam y -48
+\i (01:14:01) roam x 32
+\i (01:14:01) roam y -48
+\i (01:14:01) roam x 16
+\i (01:14:01) roam y -32
+\i (01:14:01) roam x 32
+\i (01:14:01) roam y -48
+\i (01:14:01) roam x 32
+\i (01:14:01) roam y -32
+\i (01:14:01) roam x 32
+\i (01:14:01) roam y -32
+\i (01:14:01) roam x 32
+\i (01:14:01) roam y -32
+\i (01:14:01) roam x 32
+\i (01:14:01) roam y -32
+\i (01:14:01) roam x 16
+\i (01:14:01) roam y -16
+\i (01:14:02) roam x 32
+\i (01:14:02) roam x 32
+\i (01:14:02) roam y 16
+\i (01:14:02) roam x 16
+\i (01:14:02) roam x 16
+\i (01:14:02) roam x 48
+\i (01:14:02) roam x 32
+\i (01:14:02) roam y -16
+\i (01:14:02) roam x 16
+\i (01:14:02) roam y -16
+\i (01:14:02) roam y -16
+\i (01:14:02) roam x -16
+\i (01:14:02) roam y -32
+\i (01:14:02) roam x -16
+\i (01:14:02) roam y -16
+\i (01:14:02) roam y -16
+\i (01:14:02) roam y -16
+\i (01:14:02) roam x -16
+\i (01:14:02) roam y -16
+\i (01:14:02) roam y -16
+\i (01:14:02) roam y -16
+\i (01:14:02) roam y -16
+\i (01:14:03) roam y -16
+\i (01:14:03) roam y -32
+\i (01:14:03) roam y -16
+\i (01:14:03) roam y -16
+\i (01:14:03) roam y -16
+\i (01:14:03) roam y -16
+\i (01:14:03) roam y -16
+\i (01:14:03) roam y -16
+\i (01:14:03) roam x 16
+\i (01:14:03) roam y -16
+\i (01:14:03) roam x 16
+\i (01:14:03) roam y -16
+\i (01:14:03) roam y -16
+\i (01:14:03) roam y 16
+\i (01:14:03) roam x -32
+\i (01:14:03) roam y 96
+\i (01:14:03) roam x -48
+\i (01:14:03) roam y 96
+\i (01:14:03) roam x -48
+\i (01:14:03) roam y 128
+\i (01:14:03) roam x -16
+\i (01:14:03) roam y 64
+\i (01:14:03) roam x -16
+\i (01:14:03) roam y 32
+\i (01:14:03) roam y 16
+\i (01:14:04) roam x -16
+\i (01:14:04) roam y 32
+\i (01:14:04) roam end
+\i (01:14:04) zoom in 1 
+\i (01:14:04) setwindow pcb
+\i (01:14:04) zoom in -13.2379 -63.6453
+\i (01:14:04) trapsize 880
+\i (01:14:04) zoom in 1 
+\i (01:14:04) setwindow pcb
+\i (01:14:04) zoom in -13.2379 -63.6453
+\i (01:14:04) trapsize 440
+\i (01:14:05) pick grid -14.6025 -64.5345
+\t (01:14:05) last pick:  -14.6050  -64.5414
+\i (01:14:05) setwindow cmgr
+\i (01:14:05) cm expand ( row ( Design "STANDARD" ) )
+\i (01:14:05) cm expand ( row ( Design "STANDARD" ) )
+\i (01:14:05) cm expand ( row ( Design "STANDARD" ) )
+\i (01:14:07) setwindow pcb
+\i (01:14:07) pick grid -14.8667 -64.9835
+\t (01:14:07) last pick:  -14.8590  -64.9732
+\i (01:14:07) setwindow cmgr
+\i (01:14:07) cm expand ( row ( Design "STANDARD" ) )
+\i (01:14:07) cm expand ( row ( Design "STANDARD" ) )
+\i (01:14:07) cm expand ( row ( Design "STANDARD" ) )
+\i (01:14:09) setwindow pcb
+\i (01:14:09) pick grid -14.4000 -64.8867
+\t (01:14:09) last pick:  -14.4018  -64.8970
+\i (01:14:10) pick grid -14.7874 -64.9747
+\t (01:14:10) last pick:  -14.7828  -64.9732
+\i (01:14:10) setwindow cmgr
+\i (01:14:10) cm expand ( row ( Design "STANDARD" ) )
+\i (01:14:10) cm expand ( row ( Design "STANDARD" ) )
+\i (01:14:10) cm expand ( row ( Design "STANDARD" ) )
+\i (01:14:10) setwindow pcb
+\i (01:14:10) prepopup -14.7962 -64.9923
+\i (01:14:11) pop dyn_option_select @:@Delete 
+\i (01:14:11) delete 
+\i (01:14:11) generaledit 
+\i (01:14:13) pick grid -14.9371 -64.6930
+\t (01:14:13) last pick:  -14.9352  -64.6938
+\i (01:14:13) setwindow cmgr
+\i (01:14:13) cm expand ( row ( Design "STANDARD" ) )
+\i (01:14:13) cm expand ( row ( Design "STANDARD" ) )
+\i (01:14:13) cm expand ( row ( Design "STANDARD" ) )
+\i (01:14:13) setwindow pcb
+\i (01:14:13) prepopup -14.9371 -64.6930
+\i (01:14:14) pop dyn_option_select @:@Delete 
+\i (01:14:14) delete 
+\i (01:14:14) generaledit 
+\i (01:14:14) pick grid -14.7874 -64.4729
+\t (01:14:14) last pick:  -14.7828  -64.4652
+\i (01:14:14) setwindow cmgr
+\i (01:14:14) cm expand ( row ( Design "STANDARD" ) )
+\i (01:14:14) cm expand ( row ( Design "STANDARD" ) )
+\i (01:14:14) cm expand ( row ( Design "STANDARD" ) )
+\i (01:14:15) setwindow pcb
+\i (01:14:15) prepopup -14.7874 -64.4729
+\i (01:14:16) pop dyn_option_select @:@Delete 
+\i (01:14:16) delete 
+\i (01:14:16) generaledit 
+\i (01:14:18) zoom out 1 
+\i (01:14:18) setwindow pcb
+\i (01:14:18) zoom out -14.1095 -63.8654
+\i (01:14:18) trapsize 880
+\i (01:14:18) zoom out 1 
+\i (01:14:18) setwindow pcb
+\i (01:14:18) zoom out -12.8769 -61.3825
+\i (01:14:18) trapsize 1761
+\i (01:14:19) roam start
+\i (01:14:19) roam y -112
+\i (01:14:19) roam y -16
+\i (01:14:19) roam y -16
+\i (01:14:20) roam y -32
+\i (01:14:20) roam y -32
+\i (01:14:20) roam x 16
+\i (01:14:20) roam y -64
+\i (01:14:20) roam y -48
+\i (01:14:20) roam x 16
+\i (01:14:20) roam y -16
+\i (01:14:20) roam y -16
+\i (01:14:20) roam y -16
+\i (01:14:20) roam y -16
+\i (01:14:20) roam y -32
+\i (01:14:20) roam y -48
+\i (01:14:20) roam y -48
+\i (01:14:21) roam y -32
+\i (01:14:21) roam y -48
+\i (01:14:21) roam x 16
+\i (01:14:21) roam y -32
+\i (01:14:21) roam y -16
+\i (01:14:21) roam y -16
+\i (01:14:21) roam y -16
+\i (01:14:21) roam y -16
+\i (01:14:21) roam y -32
+\i (01:14:21) roam y -16
+\i (01:14:21) roam x 16
+\i (01:14:21) roam y -16
+\i (01:14:21) roam y -16
+\i (01:14:22) roam end
+\i (01:14:22) zoom in 1 
+\i (01:14:23) setwindow pcb
+\i (01:14:23) zoom in -6.9339 -24.3072
+\i (01:14:23) trapsize 880
+\i (01:14:23) zoom in 1 
+\i (01:14:23) setwindow pcb
+\i (01:14:23) zoom in -6.9339 -24.3071
+\i (01:14:23) trapsize 440
+\i (01:14:23) pick grid -6.9339 -24.3687
+\t (01:14:23) last pick:  -6.9342  -24.3586
+\i (01:14:23) setwindow cmgr
+\i (01:14:23) cm expand ( row ( Design "STANDARD" ) )
+\i (01:14:23) cm expand ( row ( Design "STANDARD" ) )
+\i (01:14:23) cm expand ( row ( Design "STANDARD" ) )
+\i (01:14:24) setwindow pcb
+\i (01:14:24) prepopup -6.9339 -24.3687
+\i (01:14:25) pop dyn_option_select @:@Delete 
+\i (01:14:25) delete 
+\i (01:14:25) generaledit 
+\i (01:14:25) zoom out 1 
+\i (01:14:25) setwindow pcb
+\i (01:14:25) zoom out -7.0044 -24.8178
+\i (01:14:25) trapsize 880
+\i (01:14:25) zoom out 1 
+\i (01:14:25) setwindow pcb
+\i (01:14:25) zoom out -7.0044 -25.1170
+\i (01:14:25) trapsize 1761
+\i (01:14:25) zoom out 1 
+\i (01:14:25) setwindow pcb
+\i (01:14:25) zoom out -7.0043 -26.5257
+\i (01:14:25) trapsize 3522
+\i (01:14:25) zoom out 1 
+\i (01:14:25) setwindow pcb
+\i (01:14:25) zoom out -6.8635 -26.9483
+\i (01:14:25) trapsize 7044
+\i (01:14:25) zoom out 1 
+\i (01:14:25) setwindow pcb
+\i (01:14:25) zoom out -6.1591 -25.5396
+\i (01:14:25) trapsize 14087
+\i (01:14:25) zoom out 1 
+\i (01:14:25) setwindow pcb
+\i (01:14:25) zoom out -6.1237 -25.5396
+\i (01:14:25) trapsize 22396
+\i (01:14:26) zoom in 1 
+\i (01:14:26) setwindow pcb
+\i (01:14:26) zoom in 150.1551 79.8177
+\i (01:14:26) trapsize 11198
+\i (01:14:26) zoom in 1 
+\i (01:14:26) setwindow pcb
+\i (01:14:26) zoom in 101.2522 78.6979
+\i (01:14:26) trapsize 5599
+\i (01:14:28) zoom fit 
+\i (01:14:28) trapsize 4646
+\i (01:14:29) zoom in 1 
+\i (01:14:29) setwindow pcb
+\i (01:14:29) zoom in -23.0560 -58.8835
+\i (01:14:29) trapsize 2323
+\i (01:14:29) zoom in 1 
+\i (01:14:29) setwindow pcb
+\i (01:14:29) zoom in -29.6071 -59.5804
+\i (01:14:29) trapsize 1162
+\i (01:14:32) xdehilite 
+\i (01:14:33) xrefdes C289 
+\i (01:14:33) xname_flush 
+\t (01:14:33) Symbol "C289" dehighlighted.
+\i (01:14:33) done 
+\i (01:14:33) generaledit 
+\i (01:14:34) xhilite 
+\i (01:14:34) xrefdes C289 
+\i (01:14:34) xname_flush 
+\i (01:14:34) trapsize 880
+\i (01:14:34) setwindow cmgr
+\i (01:14:34) cm expand ( row ( Design "STANDARD" ) )
+\i (01:14:34) cm expand ( row ( "Part Definition" "CAP NP_CAP_0603_2.2 UF:CAP_0603:2.2 uF:" ) )
+\t (01:14:34) Symbol "C289" highlighted.
+\i (01:14:34) setwindow pcb
+\i (01:14:34) done 
+\i (01:14:34) generaledit 
+\i (01:14:36) pick grid -15.4208 -64.8030
+\t (01:14:36) last pick:  -15.4178  -64.7954
+\i (01:14:36) zoom in 1 
+\i (01:14:36) setwindow pcb
+\i (01:14:36) zoom in -14.7165 -64.1867
+\i (01:14:36) trapsize 440
+\i (01:14:37) zoom in 1 
+\i (01:14:37) setwindow pcb
+\i (01:14:37) zoom in -14.7252 -64.1779
+\i (01:14:37) trapsize 220
+\i (01:14:38) zoom out 1 
+\i (01:14:38) setwindow pcb
+\i (01:14:38) zoom out -14.9937 -64.2263
+\i (01:14:38) trapsize 440
+\i (01:14:40) zoom out 1 
+\i (01:14:40) setwindow pcb
+\i (01:14:40) zoom out -15.0817 -65.2123
+\i (01:14:40) trapsize 880
+\i (01:14:42) pick grid -14.9233 -65.1594
+\t (01:14:42) last pick:  -14.9352  -65.1510
+\i (01:14:42) setwindow cmgr
+\i (01:14:42) cm expand ( row ( Design "STANDARD" ) )
+\i (01:14:42) cm expand ( row ( "Part Definition" "CAP NP_CAP_0603_2.2 UF:CAP_0603:2.2 uF:" ) )
+\i (01:14:42) setwindow pcb
+\i (01:14:42) prepopup -14.9233 -65.1594
+\i (01:14:43) pop dyn_option_select '@:@Unplace component' 
+\i (01:14:43) unplace component 
+\i (01:14:43) generaledit 
+\i (01:14:44) pick grid -9.5527 -71.4458
+\t (01:14:44) last pick:  -9.5504  -71.4502
+\i (01:14:46) drc update 
+\t (01:14:46) Performing DRC...
+\t (01:14:46) Multithreaded DRC update (8 threads).
+\t (01:14:46) No DRC errors detected.
+\i (01:14:46) generaledit 
+\i (01:14:50) xdehilite 
+\i (01:14:50) xrefdes C289 
+\t (01:14:50) Can not select unplaced component C289.
+\t (01:14:50) Can not select unplaced component C289.
+\i (01:14:50) xname_flush 
+\i (01:14:50) done 
+\i (01:14:50) generaledit 
+\i (01:14:50) xhilite 
+\i (01:14:50) xrefdes U49 
+\i (01:14:50) xname_flush 
+\i (01:14:50) trapsize 438
+\i (01:14:50) setwindow cmgr
+\i (01:14:50) cm expand ( row ( Design "STANDARD" ) )
+\i (01:14:50) cm expand ( row ( "Part Definition" "TPS79718_1_TI_DCK_TPS79718DCKT:TI_DCK:TPS79718DCKT:" ) )
+\t (01:14:50) Symbol "U49" highlighted.
+\i (01:14:50) setwindow pcb
+\i (01:14:50) done 
+\i (01:14:51) generaledit 
+\i (01:14:52) pick grid -14.6595 -64.6630
+\t (01:14:52) last pick:  -14.6558  -64.6684
+\i (01:14:55) zoom in 1 
+\i (01:14:55) setwindow pcb
+\i (01:14:55) zoom in -14.6770 -64.6630
+\i (01:14:55) trapsize 219
+\i (01:14:56) pick grid -14.4582 -64.0592
+\t (01:14:56) last pick:  -14.4526  -64.0588
+\i (01:14:56) setwindow cmgr
+\i (01:14:56) cm expand ( row ( Design "STANDARD" ) )
+\i (01:14:56) cm expand ( row ( Design "STANDARD" ) )
+\i (01:14:56) cm expand ( row ( Design "STANDARD" ) )
+\i (01:14:56) setwindow pcb
+\i (01:14:56) prepopup -14.4582 -64.0592
+\i (01:14:58) pop dyn_option_select @:@Delete 
+\i (01:14:58) delete 
+\i (01:14:58) generaledit 
+\i (01:14:58) pick grid -14.5063 -63.9717
+\t (01:14:58) last pick:  -14.5034  -63.9826
+\i (01:14:58) setwindow cmgr
+\i (01:14:58) cm expand ( row ( Design "STANDARD" ) )
+\i (01:14:58) cm expand ( row ( Design "STANDARD" ) )
+\i (01:14:58) cm expand ( row ( Design "STANDARD" ) )
+\i (01:14:59) setwindow pcb
+\i (01:14:59) prepopup -14.5107 -63.9717
+\i (01:15:00) pop dyn_option_select @:@Delete 
+\i (01:15:00) delete 
+\i (01:15:00) generaledit 
+\i (01:15:01) pick grid -13.2944 -64.2079
+\t (01:15:01) last pick:  -13.2842  -64.2112
+\i (01:15:01) setwindow cmgr
+\i (01:15:01) cm expand ( row ( Design "STANDARD" ) )
+\i (01:15:01) cm expand ( row ( Design "STANDARD" ) )
+\i (01:15:01) cm expand ( row ( Design "STANDARD" ) )
+\i (01:15:01) setwindow pcb
+\i (01:15:01) prepopup -13.2944 -64.2079
+\i (01:15:02) pop dyn_option_select @:@Delete 
+\i (01:15:03) delete 
+\i (01:15:03) generaledit 
+\i (01:15:04) pick grid -13.2113 -63.8798
+\t (01:15:04) last pick:  -13.2080  -63.8810
+\i (01:15:04) setwindow cmgr
+\i (01:15:04) cm expand ( row ( Design "STANDARD" ) )
+\i (01:15:04) cm expand ( row ( Design "STANDARD" ) )
+\i (01:15:04) cm expand ( row ( Design "STANDARD" ) )
+\i (01:15:04) setwindow pcb
+\i (01:15:04) prepopup -13.2113 -63.8798
+\i (01:15:05) pop dyn_option_select @:@Delete 
+\i (01:15:05) delete 
+\i (01:15:05) generaledit 
+\i (01:15:06) zoom out 1 
+\i (01:15:06) setwindow pcb
+\i (01:15:06) zoom out -14.6682 -63.8536
+\i (01:15:06) trapsize 438
+\i (01:15:07) pick grid -14.3620 -62.9960
+\t (01:15:07) last pick:  -14.3510  -62.9920
+\i (01:15:07) setwindow cmgr
+\i (01:15:07) cm expand ( row ( Design "STANDARD" ) )
+\i (01:15:07) cm expand ( row ( "Part Definition" "TPS79718_1_TI_DCK_TPS79718DCKT:TI_DCK:TPS79718DCKT:" ) )
+\i (01:15:08) setwindow pcb
+\i (01:15:08) pick grid -14.3882 -63.
