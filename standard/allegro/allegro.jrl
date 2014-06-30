@@ -7418,4 +7418,123 @@
 \i (01:34:04) xrefdes R41 
 \t (01:34:04) Can not select unplaced component R41.
 \t (01:34:04) Can not select unplaced component R41.
-\i (01:34:04) 
+\i (01:34:04) xname_flush 
+\i (01:34:04) done 
+\i (01:34:04) generaledit 
+\i (01:34:05) xdehilite 
+\i (01:34:05) xrefdes R41 
+\t (01:34:05) Can not select unplaced component R41.
+\t (01:34:05) Can not select unplaced component R41.
+\i (01:34:05) xname_flush 
+\i (01:34:05) done 
+\i (01:34:05) generaledit 
+\i (01:34:05) xhilite 
+\i (01:34:05) xrefdes R43 
+\t (01:34:05) Can not select unplaced component R43.
+\t (01:34:05) Can not select unplaced component R43.
+\i (01:34:06) xname_flush 
+\i (01:34:06) done 
+\i (01:34:06) generaledit 
+\i (01:34:07) xdehilite 
+\i (01:34:07) xrefdes R43 
+\t (01:34:07) Can not select unplaced component R43.
+\t (01:34:07) Can not select unplaced component R43.
+\i (01:34:07) xname_flush 
+\i (01:34:07) done 
+\i (01:34:07) xhilite 
+\i (01:34:07) xrefdes R44 
+\t (01:34:07) Can not select unplaced component R44.
+\t (01:34:07) Can not select unplaced component R44.
+\i (01:34:07) xname_flush 
+\i (01:34:07) done 
+\i (01:34:07) generaledit 
+\i (01:34:08) xdehilite 
+\i (01:34:08) xrefdes R44 
+\t (01:34:08) Can not select unplaced component R44.
+\t (01:34:08) Can not select unplaced component R44.
+\i (01:34:08) xname_flush 
+\i (01:34:08) done 
+\i (01:34:08) xhilite 
+\i (01:34:08) xrefdes R42 
+\t (01:34:08) Can not select unplaced component R42.
+\t (01:34:08) Can not select unplaced component R42.
+\i (01:34:08) xname_flush 
+\i (01:34:08) done 
+\i (01:34:08) generaledit 
+\i (01:34:09) xdehilite 
+\i (01:34:09) xrefdes R42 
+\t (01:34:09) Can not select unplaced component R42.
+\t (01:34:09) Can not select unplaced component R42.
+\i (01:34:09) xname_flush 
+\i (01:34:09) done 
+\i (01:34:10) xhilite 
+\i (01:34:10) xrefdes R45 
+\t (01:34:10) Can not select unplaced component R45.
+\t (01:34:10) Can not select unplaced component R45.
+\i (01:34:10) xname_flush 
+\i (01:34:10) done 
+\i (01:34:10) generaledit 
+\i (01:34:10) xdehilite 
+\i (01:34:10) xrefdes R45 
+\t (01:34:10) Can not select unplaced component R45.
+\t (01:34:10) Can not select unplaced component R45.
+\i (01:34:10) xname_flush 
+\i (01:34:10) done 
+\i (01:34:10) generaledit 
+\i (01:34:17) pick grid -16.9511 -63.1182
+\t (01:34:17) last pick:  -16.9418  -63.1190
+\i (01:34:17) pick grid -17.4895 -63.2063
+\t (01:34:17) last pick:  -17.5006  -63.1952
+\i (01:34:18) prepopup -17.4895 -63.2063
+\i (01:34:18) pop dyn_option_select @:@Delete 
+\i (01:34:18) delete 
+\i (01:34:18) generaledit 
+\i (01:34:19) zoom out 1 
+\i (01:34:19) setwindow pcb
+\i (01:34:19) zoom out -16.6868 -64.4202
+\i (01:34:19) trapsize 979
+\i (01:34:19) zoom out 1 
+\i (01:34:19) setwindow pcb
+\i (01:34:19) zoom out -16.6868 -64.4201
+\i (01:34:19) trapsize 1958
+\i (01:34:19) zoom in 1 
+\i (01:34:19) setwindow pcb
+\i (01:34:19) zoom in -16.3736 -64.9292
+\i (01:34:19) trapsize 979
+\i (01:34:19) zoom in 1 
+\i (01:34:19) setwindow pcb
+\i (01:34:19) zoom in -16.2757 -65.1445
+\i (01:34:19) trapsize 489
+\i (01:34:20) pick grid -17.3035 -64.4789
+\t (01:34:20) last pick:  -17.2974  -64.4906
+\i (01:34:20) prepopup -17.3035 -64.4789
+\i (01:34:22) pick grid -17.8810 -65.2032
+\t (01:34:22) last pick:  -17.8816  -65.2018
+\i (01:34:23) prepopup -17.3133 -64.4005
+\i (01:34:24) pop dyn_option_select '@:@Unplace component' 
+\i (01:34:24) unplace component 
+\i (01:34:24) generaledit 
+\i (01:34:27) drc update 
+\t (01:34:27) Performing DRC...
+\t (01:34:27) Multithreaded DRC update (8 threads).
+\t (01:34:27) No DRC errors detected.
+\i (01:34:27) generaledit 
+\i (01:34:28) save 
+\i (01:34:30) fillin yes 
+\i (01:34:30) generaledit 
+\i (01:35:15) pick grid -17.3133 -61.8652
+\t (01:35:15) last pick:  -17.3228  -61.8744
+\i (01:35:17) pick grid -18.1062 -62.0512
+\t (01:35:17) last pick:  -18.1102  -62.0522
+\i (01:35:18) prepopup -18.1062 -62.0512
+\i (01:35:19) pop dyn_option_select @:@Delete 
+\i (01:35:19) delete 
+\i (01:35:19) generaledit 
+\i (01:35:21) pick grid -20.4653 -61.4541
+\t (01:35:21) last pick:  -20.4724  -61.4426
+\i (01:35:21) prepopup -20.4653 -61.4541
+\i (01:35:22) pop dyn_option_select @:@Delete 
+\i (01:35:22) delete 
+\i (01:35:22) generaledit 
+\i (01:35:27) pick grid -19.2515 -60.2990
+\t (01:35:27) last pick:  -19.2532  -60.
