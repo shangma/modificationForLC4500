@@ -1,0 +1,217 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Tue Jul 01 12:27:05 2014
+\t (00:00:00)         Host=INTERN2014-04 User=ma Pid=10152 CPUs=8
+\t (00:00:00) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Database opened: C:/USERS/MA/DROPBOX/DESIGN/ALLEGROPROJECT/DESIGNONGIT/MODIFICATIONFORLC4500/STANDARD/allegro/STANDARD.brd
+\i (00:00:03) trapsize 11268
+\i (00:00:03) trapsize 11062
+\i (00:00:03) trapsize 11303
+\i (00:00:03) trapsize 11198
+\i (00:00:03) trapsize 11683
+\i (00:00:03) generaledit 
+\i (00:00:04) trapsize 14384
+\i (00:00:04) trapsize 11683
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in -137.7376 -34.2501
+\i (00:00:05) trapsize 5842
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in -138.6723 -33.5491
+\i (00:00:05) trapsize 2921
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in -139.0227 -33.3154
+\i (00:00:05) trapsize 1460
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in -139.1395 -33.2277
+\i (00:00:05) trapsize 730
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out -138.7744 -33.1693
+\i (00:00:06) trapsize 1460
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out -138.7452 -33.1693
+\i (00:00:06) trapsize 2921
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out -138.0441 -33.8120
+\i (00:00:06) trapsize 5842
+\i (00:00:08) setwindow form.vf_vis
+\i (00:00:08) FORM vf_vis all_all_visible YES 
+\i (00:00:10) FORM vf_vis all_all_visible_pln YES 
+\i (00:00:13) FORM vf_vis all_all_visible_pln NO 
+\i (00:00:15) FORM vf_vis 2 all_colorvisible YES 
+\i (00:00:19) FORM vf_vis 2 all_colorvisible NO 
+\i (00:00:20) FORM vf_vis 5 all_colorvisible YES 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) pick grid -127.2956 -41.5228
+\t (00:00:29) last pick:  -127.3048  -41.5290
+\i (00:00:31) zoom in 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom in -94.6996 -5.7723
+\i (00:00:31) trapsize 2921
+\i (00:00:32) zoom out 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom out -95.1669 -6.7069
+\i (00:00:32) trapsize 5842
+\i (00:00:34) pick grid -51.4718 17.2435
+\t (00:00:34) last pick:  -51.4604  17.2466
+\i (00:00:35) shape select 
+\i (00:00:42) setwindow form.vf_vis
+\i (00:00:42) FORM vf_vis 1 all_colorvisible NO 
+\i (00:00:44) FORM vf_vis 8 all_colorvisible NO 
+\i (00:00:47) FORM vf_vis 1 all_colorvisible YES 
+\i (00:00:48) FORM vf_vis 1 all_colorvisible NO 
+\i (00:00:48) FORM vf_vis all_all_visible NO 
+\i (00:00:59) FORM vf_vis 5 drc_colorvisible 0 
+\i (00:01:01) FORM vf_vis 5 all_colorvisible YES 
+\i (00:01:02) FORM vf_vis 5 all_colorvisible NO 
+\i (00:01:03) FORM vf_vis 5 all_colorvisible YES 
+\i (00:01:04) FORM vf_vis 5 all_colorvisible NO 
+\i (00:01:05) FORM vf_vis 5 all_colorvisible YES 
+\i (00:01:05) FORM vf_vis 5 drc_colorvisible 0 
+\i (00:01:06) FORM vf_vis 5 pin_colorvisible 0 
+\i (00:01:07) FORM vf_vis 5 via_colorvisible 0 
+\i (00:01:08) FORM vf_vis 5 etch_colorvisible 0 
+\i (00:01:09) FORM vf_vis 5 etch_colorvisible 1 
+\i (00:01:09) FORM vf_vis 5 via_colorvisible 1 
+\i (00:01:10) FORM vf_vis 5 pin_colorvisible 1 
+\i (00:01:11) FORM vf_vis 5 drc_colorvisible 1 
+\i (00:01:11) FORM vf_vis 5 all_colorvisible NO 
+\i (00:01:11) FORM vf_vis 5 all_colorvisible YES 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) pick grid -149.7272 -27.3861
+\t (00:01:13) last pick:  -149.7330  -27.3812
+\i (00:01:14) color192 
+\i (00:01:14) setwindow cvf.dialog
+\i (00:01:14) cvf layer_mode
+\i (00:01:18) cvf layer_tree_item 'Package Geometry'
+\i (00:01:21) cvf layers_visible package_geometry/silkscreen_top FALSE
+\i (00:01:22) cvf apply
+\i (00:01:33) cvf layers_visible package_geometry/silkscreen_top TRUE
+\i (00:01:34) cvf apply
+\i (00:01:48) cvf okay
+\i (00:01:50) setwindow form.vf_vis
+\i (00:01:50) FORM vf_vis 1 all_colorvisible YES 
+\i (00:01:51) FORM vf_vis 1 all_colorvisible NO 
+\i (00:01:52) FORM vf_vis 1 all_colorvisible YES 
+\i (00:01:53) FORM vf_vis 1 all_colorvisible NO 
+\i (00:01:54) FORM vf_vis 1 all_colorvisible YES 
+\i (00:01:56) FORM vf_vis all_all_visible YES 
+\i (00:01:58) FORM vf_vis all_all_visible NO 
+\i (00:01:58) FORM vf_vis all_all_visible YES 
+\i (00:02:00) FORM vf_vis all_all_visible NO 
+\i (00:02:02) FORM vf_vis all_all_visible YES 
+\i (00:02:03) FORM vf_vis all_all_visible NO 
+\i (00:02:04) FORM vf_vis all_all_visible YES 
+\i (00:02:04) FORM vf_vis all_all_visible NO 
+\i (00:02:05) FORM vf_vis all_all_visible YES 
+\i (00:02:05) FORM vf_vis all_all_visible NO 
+\i (00:02:06) FORM vf_vis all_all_visible YES 
+\i (00:02:26) FORM vf_vis all_all_visible NO 
+\i (00:02:28) FORM vf_vis 5 all_colorvisible NO 
+\i (00:02:31) FORM vf_vis 7 all_colorvisible YES 
+\i (00:02:51) setwindow pcb
+\i (00:02:51) pick grid 8.4628 -67.5762
+\t (00:02:51) last pick:  8.4582  -67.5640
+\i (00:02:55) setwindow form.vf_vis
+\i (00:02:55) FORM vf_vis all_all_visible YES 
+\i (00:02:56) FORM vf_vis all_all_visible NO 
+\i (00:03:02) setwindow form.find
+\i (00:03:02) FORM find all_off  
+\i (00:03:02) FORM find shapes YES 
+\i (00:03:31) setwindow pcb
+\i (00:03:31) pick grid -130.9173 -21.5446
+\t (00:03:31) last pick:  -130.9116  -21.5392
+\i (00:03:36) zoom in 1 
+\i (00:03:36) setwindow pcb
+\i (00:03:36) zoom in -116.6639 -20.9604
+\i (00:03:36) trapsize 2921
+\i (00:03:36) zoom in 1 
+\i (00:03:36) setwindow pcb
+\i (00:03:36) zoom in -116.6639 -20.9604
+\i (00:03:36) trapsize 1460
+\i (00:03:37) zoom out 1 
+\i (00:03:37) setwindow pcb
+\i (00:03:37) zoom out -116.6638 -20.9603
+\i (00:03:37) trapsize 2921
+\i (00:03:41) zoom out 1 
+\i (00:03:41) setwindow pcb
+\i (00:03:41) zoom out -98.2629 -21.1356
+\i (00:03:41) trapsize 5842
+\i (00:03:58) pick grid -86.1124 -42.8663
+\t (00:03:58) last pick:  -86.1060  -42.8752
+\i (00:04:00) setwindow form.vf_vis
+\i (00:04:00) FORM vf_vis all_all_visible YES 
+\i (00:04:01) setwindow pcb
+\i (00:04:01) pick grid -140.7896 -57.7039
+\t (00:04:01) last pick:  -140.7922  -57.7088
+\w (00:04:01) WARNING(SPMHGE-604): No editable vertex was found.
+\i (00:04:03) zoom in 1 
+\i (00:04:03) setwindow pcb
+\i (00:04:03) zoom in -78.4015 -46.7217
+\i (00:04:03) trapsize 2921
+\i (00:04:03) zoom in 1 
+\i (00:04:03) setwindow pcb
+\i (00:04:03) zoom in -79.3362 -46.6048
+\i (00:04:03) trapsize 1460
+\i (00:04:04) zoom out 1 
+\i (00:04:04) setwindow pcb
+\i (00:04:04) zoom out -79.6866 -46.2251
+\i (00:04:04) trapsize 2921
+\i (00:04:08) zoom out 1 
+\i (00:04:08) setwindow pcb
+\i (00:04:08) zoom out -79.6867 -45.9329
+\i (00:04:08) trapsize 5842
+\i (00:04:10) setwindow form.vf_vis
+\i (00:04:10) FORM vf_vis 6 all_colorvisible NO 
+\i (00:04:11) FORM vf_vis 6 all_colorvisible YES 
+\i (00:04:12) FORM vf_vis all_all_visible_pln YES 
+\i (00:04:14) setwindow pcb
+\i (00:04:14) pick grid -136.3500 -53.6439
+\t (00:04:14) last pick:  -136.3472  -53.6448
+\w (00:04:14) WARNING(SPMHGE-604): No editable vertex was found.
+\i (00:04:15) prepopup -138.9203 -50.4894
+\i (00:04:16) cancel 
+\i (00:04:16) generaledit 
+\i (00:04:17) zoom in 1 
+\i (00:04:17) setwindow pcb
+\i (00:04:17) zoom in -80.1540 -50.4894
+\i (00:04:17) trapsize 2921
+\i (00:04:19) zoom out 1 
+\i (00:04:19) setwindow pcb
+\i (00:04:19) zoom out -80.4460 -50.3141
+\i (00:04:19) trapsize 5842
+\i (00:04:22) setwindow form.vf_vis
+\i (00:04:22) FORM vf_vis all_all_visible_pln NO 
+\i (00:04:25) FORM vf_vis 7 all_colorvisible YES 
+\i (00:04:27) setwindow pcb
+\i (00:04:27) zoom in 1 
+\i (00:04:27) setwindow pcb
+\i (00:04:27) zoom in -75.6559 -47.7438
+\i (00:04:27) trapsize 2921
+\i (00:04:31) setwindow form.find
+\i (00:04:31) FORM find all_off  
+\i (00:04:31) FORM find shapes YES 
+\i (00:04:33) setwindow pcb
+\i (00:04:33) pick grid -75.4222 -47.6854
+\t (00:04:33) last pick:  -75.4126  -47.6758
+\i (00:04:34) prepopup -75.4222 -47.6854
+\i (00:04:36) pop dyn_option_select @:@Delete 
+\i (00:04:36) delete 
+\i (00:04:36) generaledit 
+\i (00:04:38) drc update 
+\t (00:04:38) Performing DRC...
+\t (00:04:38) Multithreaded DRC update (8 threads).
+\t (00:04:38) No DRC errors detected.
+\i (00:04:38) generaledit 
+\i (00:04:40) save 
+\i (00:04:41) fillin yes 
+\i (00:04:41) generaledit 
+\i (00:04:42) zoom out 1 
+\i (00:04:42) setwindow pcb
+\i (00:04:42) z
