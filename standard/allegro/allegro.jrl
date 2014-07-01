@@ -10164,4 +10164,529 @@
 \i (03:19:27) pop dyn_option_select @:@Delete 
 \i (03:19:27) delete 
 \i (03:19:27) generaledit 
-\i (03:19:27) pick grid 
+\i (03:19:27) pick grid -70.4859 -16.1797
+\t (03:19:27) last pick:  -70.4850  -16.1798
+\i (03:19:28) setwindow cmgr
+\i (03:19:28) cm expand ( row ( Design "STANDARD" ) )
+\i (03:19:28) cm expand ( row ( Design "STANDARD" ) )
+\i (03:19:28) cm expand ( row ( Design "STANDARD" ) )
+\i (03:19:29) setwindow pcb
+\i (03:19:29) prepopup -70.4859 -16.1797
+\i (03:19:29) pop dyn_option_select @:@Delete 
+\i (03:19:30) delete 
+\i (03:19:30) generaledit 
+\i (03:19:33) pick grid -61.6640 -17.0686
+\t (03:19:33) last pick:  -61.6712  -17.0688
+\i (03:19:33) setwindow cmgr
+\i (03:19:33) cm expand ( row ( Design "STANDARD" ) )
+\i (03:19:33) cm expand ( row ( "Part Definition" "HEADER_1X1_951102-8622-AR_95110:951102-8622-AR:951102-8622-AR:" ) )
+\i (03:19:34) setwindow pcb
+\i (03:19:34) prepopup -61.6775 -17.0955
+\i (03:19:35) pop dyn_option_select '@:@Unplace component' 
+\i (03:19:35) unplace component 
+\i (03:19:35) generaledit 
+\i (03:19:37) drc update 
+\t (03:19:37) Performing DRC...
+\t (03:19:37) Multithreaded DRC update (8 threads).
+\t (03:19:37) No DRC errors detected.
+\i (03:19:37) generaledit 
+\i (03:19:42) save 
+\i (03:19:44) fillin yes 
+\i (03:19:44) generaledit 
+\i (03:20:21) pick grid -60.6808 -17.7824
+\t (03:20:21) last pick:  -60.6806  -17.7800
+\i (03:20:51) xhilite 
+\i (03:20:51) xrefdes U50 
+\t (03:20:51) Can not select unplaced component U50.
+\t (03:20:51) Can not select unplaced component U50.
+\i (03:20:51) xname_flush 
+\i (03:20:51) done 
+\i (03:20:51) generaledit 
+\i (03:20:52) xdehilite 
+\i (03:20:52) xrefdes U50 
+\t (03:20:52) Can not select unplaced component U50.
+\t (03:20:52) Can not select unplaced component U50.
+\i (03:20:52) xname_flush 
+\i (03:20:52) done 
+\i (03:20:52) generaledit 
+\i (03:20:53) xhilite 
+\i (03:20:53) xrefdes C290 
+\t (03:20:53) Can not select unplaced component C290.
+\t (03:20:53) Can not select unplaced component C290.
+\i (03:20:53) xname_flush 
+\i (03:20:53) done 
+\i (03:20:53) generaledit 
+\i (03:20:54) xdehilite 
+\i (03:20:54) xrefdes C290 
+\t (03:20:54) Can not select unplaced component C290.
+\t (03:20:54) Can not select unplaced component C290.
+\i (03:20:54) xname_flush 
+\i (03:20:54) done 
+\i (03:20:54) generaledit 
+\i (03:20:55) xhilite 
+\i (03:20:55) xrefdes C292 
+\t (03:20:55) Can not select unplaced component C292.
+\t (03:20:55) Can not select unplaced component C292.
+\i (03:20:55) xname_flush 
+\i (03:20:55) done 
+\i (03:20:55) generaledit 
+\i (03:20:56) xdehilite 
+\i (03:20:56) xrefdes C292 
+\t (03:20:56) Can not select unplaced component C292.
+\t (03:20:56) Can not select unplaced component C292.
+\i (03:20:56) xname_flush 
+\i (03:20:56) done 
+\i (03:20:56) generaledit 
+\i (03:20:57) xhilite 
+\i (03:20:57) xrefdes C291 
+\t (03:20:57) Can not select unplaced component C291.
+\t (03:20:57) Can not select unplaced component C291.
+\i (03:20:57) xname_flush 
+\i (03:20:57) done 
+\i (03:20:57) generaledit 
+\i (03:20:57) xdehilite 
+\i (03:20:58) xrefdes C291 
+\t (03:20:58) Can not select unplaced component C291.
+\t (03:20:58) Can not select unplaced component C291.
+\i (03:20:58) xname_flush 
+\i (03:20:58) done 
+\i (03:20:58) generaledit 
+\i (03:20:59) xhilite 
+\i (03:20:59) xrefdes J28 
+\t (03:20:59) Can not select unplaced component J28.
+\t (03:20:59) Can not select unplaced component J28.
+\i (03:20:59) xname_flush 
+\i (03:20:59) done 
+\i (03:20:59) generaledit 
+\i (03:21:00) xdehilite 
+\i (03:21:00) xrefdes J28 
+\t (03:21:00) Can not select unplaced component J28.
+\t (03:21:00) Can not select unplaced component J28.
+\i (03:21:00) xname_flush 
+\i (03:21:00) done 
+\i (03:21:00) generaledit 
+\i (03:21:01) xhilite 
+\i (03:21:01) xrefdes C247 
+\t (03:21:01) Can not select unplaced component C247.
+\t (03:21:01) Can not select unplaced component C247.
+\i (03:21:01) xname_flush 
+\i (03:21:01) done 
+\i (03:21:01) generaledit 
+\i (03:21:02) xdehilite 
+\i (03:21:02) xrefdes C247 
+\t (03:21:02) Can not select unplaced component C247.
+\t (03:21:02) Can not select unplaced component C247.
+\i (03:21:02) xname_flush 
+\i (03:21:02) done 
+\i (03:21:03) generaledit 
+\i (03:21:03) xhilite 
+\i (03:21:03) xrefdes C248 
+\t (03:21:03) Can not select unplaced component C248.
+\t (03:21:03) Can not select unplaced component C248.
+\i (03:21:03) xname_flush 
+\i (03:21:03) done 
+\i (03:21:03) generaledit 
+\i (03:21:04) xdehilite 
+\i (03:21:05) xrefdes C248 
+\t (03:21:05) Can not select unplaced component C248.
+\t (03:21:05) Can not select unplaced component C248.
+\i (03:21:05) xname_flush 
+\i (03:21:05) done 
+\i (03:21:05) generaledit 
+\i (03:21:05) xhilite 
+\i (03:21:05) xrefdes U42 
+\i (03:21:05) xname_flush 
+\i (03:21:05) trapsize 1035
+\i (03:21:05) setwindow cmgr
+\i (03:21:05) cm expand ( row ( Design "STANDARD" ) )
+\i (03:21:05) cm expand ( row ( "Part Definition" "SN74AVC8T245PW_PW_SN74AVC8T245P:PW:SN74AVC8T245PW:" ) )
+\t (03:21:05) Symbol "U42" highlighted.
+\i (03:21:05) setwindow pcb
+\i (03:21:05) done 
+\i (03:21:05) generaledit 
+\i (03:21:09) xdehilite 
+\i (03:21:09) xrefdes U42 
+\i (03:21:09) xname_flush 
+\t (03:21:09) Symbol "U42" dehighlighted.
+\i (03:21:09) done 
+\i (03:21:09) generaledit 
+\i (03:21:10) xhilite 
+\i (03:21:10) xrefdes R199 
+\t (03:21:10) Can not select unplaced component R199.
+\t (03:21:10) Can not select unplaced component R199.
+\i (03:21:10) xname_flush 
+\i (03:21:10) done 
+\i (03:21:10) generaledit 
+\i (03:21:23) xdehilite 
+\i (03:21:23) xrefdes R199 
+\t (03:21:23) Can not select unplaced component R199.
+\t (03:21:23) Can not select unplaced component R199.
+\i (03:21:23) xname_flush 
+\i (03:21:23) done 
+\i (03:21:23) generaledit 
+\i (03:21:25) xhilite 
+\i (03:21:25) xrefdes J29 
+\t (03:21:25) Can not select unplaced component J29.
+\t (03:21:25) Can not select unplaced component J29.
+\i (03:21:25) xname_flush 
+\i (03:21:25) done 
+\i (03:21:25) generaledit 
+\i (03:21:27) xdehilite 
+\i (03:21:27) xrefdes J29 
+\t (03:21:27) Can not select unplaced component J29.
+\t (03:21:27) Can not select unplaced component J29.
+\i (03:21:27) xname_flush 
+\i (03:21:27) done 
+\i (03:21:27) generaledit 
+\i (03:21:30) xhilite 
+\i (03:21:30) xrefdes R199 
+\t (03:21:30) Can not select unplaced component R199.
+\t (03:21:30) Can not select unplaced component R199.
+\i (03:21:30) xname_flush 
+\i (03:21:30) done 
+\i (03:21:30) generaledit 
+\i (03:21:31) xdehilite 
+\i (03:21:31) xrefdes R199 
+\t (03:21:31) Can not select unplaced component R199.
+\t (03:21:31) Can not select unplaced component R199.
+\i (03:21:31) xname_flush 
+\i (03:21:31) done 
+\i (03:21:32) generaledit 
+\i (03:21:33) xhilite 
+\i (03:21:33) xrefdes U42 
+\i (03:21:33) xname_flush 
+\i (03:21:33) trapsize 1035
+\i (03:21:33) setwindow cmgr
+\i (03:21:33) cm expand ( row ( Design "STANDARD" ) )
+\i (03:21:33) cm expand ( row ( "Part Definition" "SN74AVC8T245PW_PW_SN74AVC8T245P:PW:SN74AVC8T245PW:" ) )
+\t (03:21:33) Symbol "U42" highlighted.
+\i (03:21:33) setwindow pcb
+\i (03:21:33) done 
+\i (03:21:34) generaledit 
+\i (03:21:35) xdehilite 
+\i (03:21:35) xrefdes U42 
+\i (03:21:35) xname_flush 
+\t (03:21:35) Symbol "U42" dehighlighted.
+\i (03:21:35) done 
+\i (03:21:35) generaledit 
+\i (03:21:44) pick grid -71.4301 -4.1954
+\t (03:21:44) last pick:  -71.4248  -4.1910
+\i (03:21:46) zoom in 1 
+\i (03:21:46) setwindow pcb
+\i (03:21:46) zoom in -78.8385 -12.5971
+\i (03:21:46) trapsize 517
+\i (03:21:46) zoom in 1 
+\i (03:21:46) setwindow pcb
+\i (03:21:46) zoom in -78.8384 -12.5970
+\i (03:21:46) trapsize 259
+\i (03:21:47) zoom out 1 
+\i (03:21:47) setwindow pcb
+\i (03:21:47) zoom out -78.8488 -12.5608
+\i (03:21:47) trapsize 517
+\i (03:21:50) pick grid -78.1451 -12.3848
+\t (03:21:50) last pick:  -78.1558  -12.3952
+\i (03:22:10) pick grid -76.9242 -12.6952
+\t (03:22:10) last pick:  -76.9366  -12.7000
+\i (03:22:13) pick grid -77.2656 -12.2503
+\t (03:22:13) last pick:  -77.2668  -12.2428
+\i (03:22:13) setwindow cmgr
+\i (03:22:13) cm expand ( row ( Design "STANDARD" ) )
+\i (03:22:13) cm expand ( row ( Design "STANDARD" ) )
+\i (03:22:13) cm expand ( row ( Design "STANDARD" ) )
+\i (03:22:13) setwindow pcb
+\i (03:22:13) prepopup -77.2656 -12.2503
+\i (03:22:14) pick grid -77.3381 -12.8090
+\t (03:22:14) last pick:  -77.3430  -12.8016
+\i (03:22:19) setwindow cmgr
+\i (03:22:19) cm select ( frame ( workbook 144:Properties 38:Component "39:Component Properties" ) )
+\i (03:22:19) cm select ( frame ( workbook 144:Properties 14:Net "36:General Properties" ) )
+\i (03:22:20) setwindow pcb
+\i (03:22:20) pick grid -77.1518 -12.7470
+\t (03:22:20) last pick:  -77.1398  -12.7508
+\i (03:22:20) setwindow cmgr
+\i (03:22:20) cm expand ( row ( Design "STANDARD" ) )
+\i (03:22:20) cm expand ( row ( Design "STANDARD" ) )
+\i (03:22:20) cm expand ( row ( Design "STANDARD" ) )
+\i (03:22:21) setwindow pcb
+\i (03:22:21) pick grid -77.3381 -12.1468
+\t (03:22:21) last pick:  -77.3430  -12.1412
+\i (03:22:21) setwindow cmgr
+\i (03:22:21) cm expand ( row ( Design "STANDARD" ) )
+\i (03:22:21) cm expand ( row ( Design "STANDARD" ) )
+\i (03:22:21) cm expand ( row ( Design "STANDARD" ) )
+\i (03:22:23) cm putValue ( Net "LEDB_PWM" ) FIXED (Clear) 0
+\i (03:22:23) cm endUndoBlock
+\i (03:22:24) setwindow pcb
+\i (03:22:24) pick grid -76.9759 -12.8401
+\t (03:22:24) last pick:  -76.9874  -12.8524
+\i (03:22:26) pick grid -77.2967 -12.0848
+\t (03:22:26) last pick:  -77.2922  -12.0904
+\i (03:22:26) setwindow cmgr
+\i (03:22:26) cm expand ( row ( Design "STANDARD" ) )
+\i (03:22:26) cm expand ( row ( Design "STANDARD" ) )
+\i (03:22:26) cm expand ( row ( Design "STANDARD" ) )
+\i (03:22:26) setwindow pcb
+\i (03:22:26) prepopup -77.2967 -12.0848
+\i (03:22:27) pop dyn_option_select @:@Delete 
+\i (03:22:27) delete 
+\i (03:22:27) generaledit 
+\i (03:22:30) pick grid -77.5347 -12.6849
+\t (03:22:30) last pick:  -77.5462  -12.6746
+\i (03:22:30) setwindow cmgr
+\i (03:22:30) cm expand ( row ( Design "STANDARD" ) )
+\i (03:22:30) cm expand ( row ( Design "STANDARD" ) )
+\i (03:22:30) cm expand ( row ( Design "STANDARD" ) )
+\i (03:22:32) cm putValue ( Net "LEDB_PWM" ) FIXED On 0
+\i (03:22:32) cm endUndoBlock
+\i (03:22:33) setwindow pcb
+\i (03:22:33) pick grid -76.8725 -12.7677
+\t (03:22:33) last pick:  -76.8604  -12.7762
+\i (03:22:34) pick grid -76.6655 -12.1882
+\t (03:22:34) last pick:  -76.6572  -12.1920
+\i (03:22:34) setwindow cmgr
+\i (03:22:34) cm expand ( row ( Design "STANDARD" ) )
+\i (03:22:34) cm expand ( row ( Design "STANDARD" ) )
+\i (03:22:34) cm expand ( row ( Design "STANDARD" ) )
+\i (03:22:36) cm putValue ( Net "LEDG_PWM" ) FIXED (Clear) 0
+\i (03:22:36) cm endUndoBlock
+\i (03:22:37) setwindow pcb
+\i (03:22:37) pick grid -76.6138 -12.8711
+\t (03:22:37) last pick:  -76.6064  -12.8778
+\i (03:22:37) setwindow cmgr
+\i (03:22:37) cm expand ( row ( Design "STANDARD" ) )
+\i (03:22:37) cm expand ( row ( Design "STANDARD" ) )
+\i (03:22:37) cm expand ( row ( Design "STANDARD" ) )
+\i (03:22:38) setwindow pcb
+\i (03:22:38) pick grid -76.6241 -12.1986
+\t (03:22:38) last pick:  -76.6318  -12.1920
+\i (03:22:38) setwindow cmgr
+\i (03:22:38) cm expand ( row ( Design "STANDARD" ) )
+\i (03:22:38) cm expand ( row ( Design "STANDARD" ) )
+\i (03:22:38) cm expand ( row ( Design "STANDARD" ) )
+\i (03:22:39) setwindow pcb
+\i (03:22:39) prepopup -76.6241 -12.1986
+\i (03:22:40) pop dyn_option_select @:@Delete 
+\i (03:22:40) delete 
+\i (03:22:40) generaledit 
+\i (03:22:41) pick grid -76.4379 -12.3227
+\t (03:22:41) last pick:  -76.4286  -12.3190
+\i (03:22:41) setwindow cmgr
+\i (03:22:41) cm expand ( row ( Design "STANDARD" ) )
+\i (03:22:41) cm expand ( row ( Design "STANDARD" ) )
+\i (03:22:41) cm expand ( row ( Design "STANDARD" ) )
+\i (03:22:42) cm putValue ( Net "LEDG_PWM" ) FIXED On 0
+\i (03:22:43) cm endUndoBlock
+\i (03:22:44) setwindow pcb
+\i (03:22:44) pick grid -76.5103 -12.8297
+\t (03:22:44) last pick:  -76.5048  -12.8270
+\i (03:22:46) pick grid -75.9619 -12.1986
+\t (03:22:46) last pick:  -75.9714  -12.1920
+\i (03:22:46) setwindow cmgr
+\i (03:22:46) cm expand ( row ( Design "STANDARD" ) )
+\i (03:22:46) cm expand ( row ( Design "STANDARD" ) )
+\i (03:22:46) cm expand ( row ( Design "STANDARD" ) )
+\i (03:22:49) cm putValue ( Net "LEDR_PWM" ) FIXED (Clear) 0
+\i (03:22:49) cm endUndoBlock
+\i (03:22:51) setwindow pcb
+\i (03:22:51) pick grid -76.5000 -13.2436
+\t (03:22:51) last pick:  -76.5048  -13.2334
+\i (03:22:51) setwindow cmgr
+\i (03:22:51) cm expand ( row ( Design "STANDARD" ) )
+\i (03:22:51) cm expand ( row ( Design "STANDARD" ) )
+\i (03:22:51) cm expand ( row ( Bus "PM_" ) )
+\i (03:22:51) cm expand ( row ( Design "STANDARD" ) )
+\i (03:22:51) cm expand ( row ( Design "STANDARD" ) )
+\i (03:22:51) cm expand ( row ( Design "STANDARD" ) )
+\i (03:22:51) cm expand ( row ( Bus "PM_" ) )
+\i (03:22:52) setwindow pcb
+\i (03:22:52) pick grid -75.9826 -12.2400
+\t (03:22:52) last pick:  -75.9714  -12.2428
+\i (03:22:52) setwindow cmgr
+\i (03:22:52) cm expand ( row ( Design "STANDARD" ) )
+\i (03:22:52) cm expand ( row ( Design "STANDARD" ) )
+\i (03:22:52) cm expand ( row ( Design "STANDARD" ) )
+\i (03:22:53) setwindow pcb
+\i (03:22:53) prepopup -76.0033 -12.2193
+\i (03:22:54) pop dyn_option_select @:@Delete 
+\i (03:22:54) delete 
+\i (03:22:54) generaledit 
+\i (03:22:55) pick grid -75.9826 -12.8504
+\t (03:22:55) last pick:  -75.9714  -12.8524
+\i (03:22:55) setwindow cmgr
+\i (03:22:55) cm expand ( row ( Design "STANDARD" ) )
+\i (03:22:55) cm expand ( row ( Design "STANDARD" ) )
+\i (03:22:55) cm expand ( row ( Design "STANDARD" ) )
+\i (03:22:58) cm putValue ( Net "LEDR_PWM" ) FIXED On 0
+\i (03:22:58) cm endUndoBlock
+\i (03:23:02) setwindow pcb
+\i (03:23:02) pick grid -73.8512 -9.8291
+\t (03:23:02) last pick:  -73.8632  -9.8298
+\i (03:23:09) pick grid -71.5128 -12.6125
+\t (03:23:09) last pick:  -71.5010  -12.6238
+\i (03:23:09) setwindow cmgr
+\i (03:23:09) cm expand ( row ( Design "STANDARD" ) )
+\i (03:23:09) cm expand ( row ( Design "STANDARD" ) )
+\i (03:23:09) cm expand ( row ( Design "STANDARD" ) )
+\i (03:23:09) setwindow pcb
+\i (03:23:09) pick grid -71.7197 -12.1882
+\t (03:23:09) last pick:  -71.7296  -12.1920
+\i (03:23:10) zoom in 1 
+\i (03:23:10) setwindow pcb
+\i (03:23:10) zoom in -75.0100 -11.9606
+\i (03:23:10) trapsize 259
+\i (03:23:10) zoom in 1 
+\i (03:23:10) setwindow pcb
+\i (03:23:10) zoom in -75.0100 -11.9606
+\i (03:23:10) trapsize 129
+\i (03:23:11) zoom out 1 
+\i (03:23:11) setwindow pcb
+\i (03:23:11) zoom out -75.0177 -11.9580
+\i (03:23:11) trapsize 259
+\i (03:23:12) zoom out 1 
+\i (03:23:12) setwindow pcb
+\i (03:23:12) zoom out -75.0177 -11.9579
+\i (03:23:12) trapsize 517
+\i (03:23:17) pick grid -75.3282 -12.1028
+\t (03:23:17) last pick:  -75.3364  -12.0904
+\i (03:23:17) setwindow cmgr
+\i (03:23:17) cm expand ( row ( Design "STANDARD" ) )
+\i (03:23:17) cm expand ( row ( Design "STANDARD" ) )
+\i (03:23:17) cm expand ( row ( Design "STANDARD" ) )
+\i (03:23:18) setwindow pcb
+\i (03:23:18) prepopup -75.3282 -12.1028
+\i (03:23:19) pick grid -75.6696 -12.3097
+\t (03:23:19) last pick:  -75.6666  -12.3190
+\i (03:23:28) pick grid -75.4110 -12.0925
+\t (03:23:28) last pick:  -75.4126  -12.0904
+\i (03:23:28) setwindow cmgr
+\i (03:23:28) cm expand ( row ( Design "STANDARD" ) )
+\i (03:23:28) cm expand ( row ( Design "STANDARD" ) )
+\i (03:23:28) cm expand ( row ( Design "STANDARD" ) )
+\i (03:23:32) setwindow pcb
+\i (03:23:32) pick grid -75.3075 -12.1442
+\t (03:23:32) last pick:  -75.3110  -12.1412
+\i (03:23:32) setwindow cmgr
+\i (03:23:32) cm expand ( row ( Design "STANDARD" ) )
+\i (03:23:32) cm expand ( row ( Design "STANDARD" ) )
+\i (03:23:32) cm expand ( row ( Design "STANDARD" ) )
+\i (03:23:35) cm putValue ( Net "LEDB_EN" ) FIXED (Clear) 0
+\i (03:23:35) cm endUndoBlock
+\i (03:23:36) setwindow pcb
+\i (03:23:36) pick grid -75.3592 -12.0304
+\t (03:23:36) last pick:  -75.3618  -12.0396
+\i (03:23:36) setwindow cmgr
+\i (03:23:36) cm expand ( row ( Design "STANDARD" ) )
+\i (03:23:36) cm expand ( row ( Design "STANDARD" ) )
+\i (03:23:36) cm expand ( row ( Design "STANDARD" ) )
+\i (03:23:37) setwindow pcb
+\i (03:23:37) prepopup -75.3592 -12.0304
+\i (03:23:38) pop dyn_option_select @:@Delete 
+\i (03:23:38) delete 
+\i (03:23:38) generaledit 
+\i (03:23:38) pick grid -75.1523 -12.2063
+\t (03:23:38) last pick:  -75.1586  -12.2174
+\i (03:23:38) setwindow cmgr
+\i (03:23:38) cm expand ( row ( Design "STANDARD" ) )
+\i (03:23:38) cm expand ( row ( Design "STANDARD" ) )
+\i (03:23:38) cm expand ( row ( Design "STANDARD" ) )
+\i (03:23:40) cm putValue ( Net "LEDB_EN" ) FIXED On 0
+\i (03:23:40) cm endUndoBlock
+\i (03:23:42) setwindow pcb
+\i (03:23:42) pick grid -72.4414 -12.1649
+\t (03:23:42) last pick:  -72.4408  -12.1666
+\i (03:23:43) pick grid -74.7177 -12.1545
+\t (03:23:43) last pick:  -74.7268  -12.1666
+\i (03:23:43) setwindow cmgr
+\i (03:23:43) cm expand ( row ( Design "STANDARD" ) )
+\i (03:23:43) cm expand ( row ( Design "STANDARD" ) )
+\i (03:23:43) cm expand ( row ( Design "STANDARD" ) )
+\i (03:23:46) cm putValue ( Net "LEDG_EN" ) FIXED (Clear) 0
+\i (03:23:46) cm endUndoBlock
+\i (03:23:47) setwindow pcb
+\i (03:23:47) pick grid -74.5625 -13.5824
+\t (03:23:47) last pick:  -74.5744  -13.5890
+\i (03:23:48) pick grid -74.6349 -12.6202
+\t (03:23:48) last pick:  -74.6252  -12.6238
+\i (03:23:48) setwindow cmgr
+\i (03:23:48) cm expand ( row ( Design "STANDARD" ) )
+\i (03:23:48) cm expand ( row ( Design "STANDARD" ) )
+\i (03:23:48) cm expand ( row ( Design "STANDARD" ) )
+\i (03:23:49) setwindow pcb
+\i (03:23:49) prepopup -74.6867 -12.6202
+\i (03:23:50) pop dyn_option_select @:@Delete 
+\i (03:23:50) delete 
+\i (03:23:50) generaledit 
+\i (03:23:50) pick grid -74.4487 -13.1065
+\t (03:23:50) last pick:  -74.4474  -13.1064
+\i (03:23:50) setwindow cmgr
+\i (03:23:50) cm expand ( row ( Design "STANDARD" ) )
+\i (03:23:50) cm expand ( row ( Design "STANDARD" ) )
+\i (03:23:50) cm expand ( row ( Design "STANDARD" ) )
+\i (03:23:53) cm putValue ( Net "LEDG_EN" ) FIXED On 0
+\i (03:23:53) cm endUndoBlock
+\i (03:23:54) setwindow pcb
+\i (03:23:54) pick grid -71.9034 -12.1959
+\t (03:23:54) last pick:  -71.9074  -12.1920
+\i (03:23:55) pick grid -74.0762 -12.1856
+\t (03:23:55) last pick:  -74.0664  -12.1920
+\i (03:23:55) setwindow cmgr
+\i (03:23:55) cm expand ( row ( Design "STANDARD" ) )
+\i (03:23:55) cm expand ( row ( Design "STANDARD" ) )
+\i (03:23:55) cm expand ( row ( Design "STANDARD" ) )
+\i (03:23:57) cm putValue ( Net "LEDR_EN" ) FIXED (Clear) 0
+\i (03:23:57) cm endUndoBlock
+\i (03:23:58) setwindow pcb
+\i (03:23:58) pick grid -72.4931 -12.2477
+\t (03:23:58) last pick:  -72.4916  -12.2428
+\i (03:23:59) pick grid -74.0245 -12.1649
+\t (03:23:59) last pick:  -74.0156  -12.1666
+\i (03:23:59) setwindow cmgr
+\i (03:23:59) cm expand ( row ( Design "STANDARD" ) )
+\i (03:23:59) cm expand ( row ( Design "STANDARD" ) )
+\i (03:23:59) cm expand ( row ( Design "STANDARD" ) )
+\i (03:23:59) setwindow pcb
+\i (03:23:59) prepopup -74.0245 -12.1545
+\i (03:24:00) pop dyn_option_select @:@Delete 
+\i (03:24:00) delete 
+\i (03:24:00) generaledit 
+\i (03:24:01) pick grid -73.5899 -12.5891
+\t (03:24:01) last pick:  -73.5838  -12.5984
+\i (03:24:01) setwindow cmgr
+\i (03:24:01) cm expand ( row ( Design "STANDARD" ) )
+\i (03:24:01) cm expand ( row ( Design "STANDARD" ) )
+\i (03:24:01) cm expand ( row ( Design "STANDARD" ) )
+\i (03:24:04) cm putValue ( Net "LEDR_EN" ) FIXED On 0
+\i (03:24:04) cm endUndoBlock
+\i (03:24:05) setwindow pcb
+\i (03:24:05) pick grid -71.7275 -12.0925
+\t (03:24:05) last pick:  -71.7296  -12.0904
+\i (03:24:06) pick grid -72.7932 -11.8545
+\t (03:24:06) last pick:  -72.7964  -11.8618
+\i (03:24:06) setwindow cmgr
+\i (03:24:06) cm expand ( row ( Design "STANDARD" ) )
+\i (03:24:06) cm expand ( row ( "Part Definition" "SN74AVC8T245PW_PW_SN74AVC8T245P:PW:SN74AVC8T245PW:" ) )
+\i (03:24:09) setwindow pcb
+\i (03:24:09) zoom in 1 
+\i (03:24:09) setwindow pcb
+\i (03:24:09) zoom in -72.2965 -11.4717
+\i (03:24:09) trapsize 259
+\i (03:24:09) zoom out 1 
+\i (03:24:09) setwindow pcb
+\i (03:24:09) zoom out -72.2965 -11.4717
+\i (03:24:09) trapsize 517
+\i (03:24:10) zoom out 1 
+\i (03:24:10) setwindow pcb
+\i (03:24:10) zoom out -72.3483 -11.4613
+\i (03:24:10) trapsize 1035
+\i (03:24:11) zoom in 1 
+\i (03:24:11) setwindow pcb
+\i (03:24:11) zoom in -72.4103 -11.4406
+\i (03:24:11) trapsize 517
+\t (03:24:12) Cannot edit Symbol "U42". Net "Ledr_En" has the FIXED property.
+\i (03:24:12) prepopup -77.9666 -10.9129
+\i (03:24:13) pick grid -77.8528 -10.7473
+\t (03:24:13) last pick:  -77.8510  -10.7442
+\i (03:24:13) setwindow cmgr
+\i (03:24:13) cm expand ( row ( Design "STANDARD" ) )
+\i (03:24:13) cm expand ( row ( "Part Definition" "SN74AVC8T245PW_PW_SN74AVC8T245P:PW:SN74AVC8T245PW:" ) )
+\i (03:24:17) cm select ( frame ( wo

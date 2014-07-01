@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : STANDARD.brd                                  )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Mon Jun 30 16:55:02 2014                      )
+(    Date/Time        : Mon Jun 30 17:42:55 2014                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -22,6 +22,6 @@
 
  ..... Total number of DRC errors  0
 
- ..... DRC update completed, total CPU time   0:00:00
+ ..... DRC update completed, total CPU time   0:00:01
  *************************************************************************
 
