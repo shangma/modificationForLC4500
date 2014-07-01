@@ -49,7 +49,7 @@
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "TRUE")
     ("Allegro Netlist Input Board File"
-       "C:\Users\ma\Dropbox\Design\allegroProject\helps\standard\allegro\STANDARD.brd")
+       "C:\Users\ma\Dropbox\Design\allegroProject\designOnGit\modificationForLC4500\standard\allegro\STANDARD.brd")
     ("Allegro Netlist Output Board File" "allegro\STANDARD.brd")
     ("Allegro Netlist Remove Etch" "FALSE")
     ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
@@ -91,7 +91,7 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 1062"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 1022"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
@@ -162,7 +162,7 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 200 1509 200 789")
+        (Placement "44 0 1 -1 -1 -8 -30 200 1509 200 789")
         (Scroll "0 280")
         (Zoom "100")
         (Occurrence "/"))
