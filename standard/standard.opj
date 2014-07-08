@@ -96,63 +96,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 0 1334 0 574")
-        (Scroll "-89 0")
-        (Zoom "67")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\MA\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE-16  RS-232, SSP, USB"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 50 1384 50 624")
-        (Scroll "0 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\MA\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE-10  IO MUX"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 75 1409 75 649")
-        (Scroll "0 317")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\MA\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE-09  FRONT END INTERFACE"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 100 1434 100 674")
-        (Scroll "514 96")
-        (Zoom "200")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\MA\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE-12  TRIGGER INPUT"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 125 1459 125 699")
-        (Scroll "0 150")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\MA\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE-17  FAN, POWER SUPPLIES"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
         (Placement "44 0 1 -1 -1 -8 -30 175 1484 175 764")
-        (Scroll "0 200")
+        (Scroll "0 222")
         (Zoom "100")
         (Occurrence "/"))
       (Path
@@ -162,8 +107,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 200 1509 200 789")
-        (Scroll "0 280")
+        (Placement "44 0 1 -1 -1 -8 -30 50 1384 50 624")
+        (Scroll "0 326")
         (Zoom "100")
         (Occurrence "/"))
       (Path
