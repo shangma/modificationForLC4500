@@ -86,18 +86,30 @@
          "SCHEMATIC1")
       (Path "Outputs")
       (Select "Design Resources"
-         "c:\users\ma\dropbox\design\allegroproject\designongit\modificationforlc4500\standard\standard.dsn"))
+         "c:\users\ma\dropbox\design\allegroproject\designongit\modificationforlc4500\standard\standard.dsn"
+         "SCHEMATIC1" "PAGE-17  FAN, POWER SUPPLIES"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 1022"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 1062"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 175 1484 175 764")
-        (Scroll "0 222")
+        (Placement "44 0 1 -1 -1 -8 -30 50 1384 50 624")
+        (Scroll "0 50")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\MA\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE-27  LED DRIVER BLUE/GREEN"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 100 1434 100 674")
+        (Scroll "0 10")
         (Zoom "100")
         (Occurrence "/"))
       (Path
@@ -107,13 +119,13 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 50 1384 50 624")
-        (Scroll "0 326")
+        (Placement "44 0 1 -1 -1 -8 -30 125 1459 125 699")
+        (Scroll "0 10")
         (Zoom "100")
         (Occurrence "/"))
       (Path
          "C:\USERS\MA\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE-27  LED DRIVER BLUE/GREEN")))
+      (Page "PAGE-17  FAN, POWER SUPPLIES")))
   (MPSSessionName "ma")
   (ISPCBBASICLICENSE "false"))
