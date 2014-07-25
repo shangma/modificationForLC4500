@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : STANDARD.brd                                  )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Wed Jul 09 12:06:32 2014                      )
+(    Date/Time        : Tue Jul 08 19:25:27 2014                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -20,8 +20,8 @@
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
 
- ..... Total number of DRC errors  334
+ ..... Total number of DRC errors  301
 
- ..... DRC update completed, total CPU time   0:00:01
+ ..... DRC update completed, total CPU time   0:00:00
  *************************************************************************
 
