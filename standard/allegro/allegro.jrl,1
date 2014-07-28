@@ -1,2057 +1,1282 @@
-\t (00:00:18) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:00:18)     Journal start - Tue Jul 08 11:40:45 2014
-\t (00:00:18)         Host=INTERN2014-04 User=ma Pid=10392 CPUs=8
-\t (00:00:18) 
-\t (00:00:20) Opening existing design...
-\d (00:00:20) Database opened: C:/USERS/MA/DROPBOX/DESIGN/ALLEGROPROJECT/DESIGNONGIT/MODIFICATIONFORLC4500/STANDARD/allegro/STANDARD.brd
-\i (00:00:20) trapsize 5634
-\i (00:00:20) trapsize 5531
-\i (00:00:20) trapsize 5652
-\i (00:00:20) trapsize 5599
-\i (00:00:20) trapsize 5842
-\i (00:00:21) signalintegrity 
-\i (00:02:22) setwindow form.vf_vis
-\i (00:02:22) FORM vf_vis all_all_visible YES 
-\i (00:02:23) FORM vf_vis all_all_visible_pln YES 
-\i (00:02:33) FORM vf_vis 2 all_colorvisible NO 
-\i (00:03:40) setwindow form.find
-\i (00:03:40) FORM find all_off  
-\i (00:03:42) FORM find symbols YES 
-\i (00:03:44) setwindow pcb
-\i (00:03:44) pick grid -57.0082 -44.9629
-\t (00:03:44) last pick:  -56.9976  -44.9580
-\i (00:15:00) pick grid -136.2203 -74.8720
-\t (00:15:00) last pick:  -136.2202  -74.8792
-\i (03:35:35) trapsize 7192
-\i (03:35:36) trapsize 5842
-\i (03:35:37) pick grid -136.1035 -82.4660
-\t (03:35:37) last pick:  -136.0932  -82.4738
-\i (03:36:19) pick grid -157.4837 -64.0065
-\t (03:36:19) last pick:  -157.4800  -64.0080
-\i (03:36:20) drc update 
-\t (03:36:20) Performing DRC...
-\t (03:36:20) Multithreaded DRC update (8 threads).
-\t (03:36:21) DRC done; 256 errors detected.
-\i (03:36:21) signalintegrity 
-\i (03:36:22) save 
-\i (03:36:24) fillin yes 
-\i (03:36:24) signalintegrity 
-\i (03:37:43) pick grid -143.3470 -73.5868
-\t (03:37:43) last pick:  -143.3576  -73.5838
-\i (03:37:43) zoom out 1 
-\i (03:37:43) setwindow pcb
-\i (03:37:43) zoom out -139.1411 -71.8343
-\i (03:37:43) trapsize 11683
-\i (03:37:44) zoom in 1 
-\i (03:37:44) setwindow pcb
-\i (03:37:44) zoom in -138.6737 -71.3670
-\i (03:37:44) trapsize 5842
-\i (03:37:44) zoom in 1 
-\i (03:37:44) setwindow pcb
-\i (03:37:44) zoom in -138.6737 -71.3669
-\i (03:37:44) trapsize 2921
-\i (03:37:44) zoom in 1 
-\i (03:37:44) setwindow pcb
-\i (03:37:44) zoom in -138.6737 -71.3669
-\i (03:37:44) trapsize 1460
-\i (03:37:44) zoom out 1 
-\i (03:37:44) setwindow pcb
-\i (03:37:44) zoom out -135.2856 -68.7382
-\i (03:37:44) trapsize 2921
-\i (03:37:45) zoom out 1 
-\i (03:37:45) setwindow pcb
-\i (03:37:45) zoom out -135.2855 -68.7381
-\i (03:37:45) trapsize 5842
-\i (03:37:46) roam start
-\i (03:37:46) roam x 96
-\i (03:37:46) roam y -96
-\i (03:37:46) roam x 16
-\i (03:37:46) roam y -16
-\i (03:37:46) roam x 32
-\i (03:37:46) roam end
-\i (03:38:03) pick grid -134.4372 -51.3773
-\t (03:38:03) last pick:  -134.4422  -51.3842
-\i (03:38:05) setwindow form.find
-\i (03:38:05) FORM find all_off  
-\i (03:38:05) FORM find symbols YES 
-\i (03:38:06) setwindow pcb
-\i (03:38:06) pick grid -147.8729 -27.1931
-\t (03:38:06) last pick:  -147.8788  -27.2034
-\i (03:38:07) zoom in 1 
-\i (03:38:07) setwindow pcb
-\i (03:38:07) zoom in -137.7085 -0.4385
-\i (03:38:07) trapsize 2921
-\i (03:38:07) zoom in 1 
-\i (03:38:07) setwindow pcb
-\i (03:38:07) zoom in -137.7084 -0.3801
-\i (03:38:07) trapsize 1460
-\i (03:38:07) zoom out 1 
-\i (03:38:07) setwindow pcb
-\i (03:38:07) zoom out -134.6123 -8.4707
-\i (03:38:07) trapsize 2921
-\i (03:38:23) pick grid -119.5994 -22.3153
-\t (03:38:23) last pick:  -119.6086  -22.3266
-\i (03:38:23) zoom out 1 
-\i (03:38:23) setwindow pcb
-\i (03:38:23) zoom out -119.6578 -22.3153
-\i (03:38:23) trapsize 5842
-\i (03:38:23) zoom out 1 
-\i (03:38:23) setwindow pcb
-\i (03:38:23) zoom out -119.6578 -22.3152
-\i (03:38:23) trapsize 11683
-\i (03:38:23) zoom out 1 
-\i (03:38:23) setwindow pcb
-\i (03:38:23) zoom out -119.6578 -22.3152
-\i (03:38:23) trapsize 22396
-\i (03:38:24) zoom in 1 
-\i (03:38:24) setwindow pcb
-\i (03:38:24) zoom in -33.0463 -127.5718
-\i (03:38:24) trapsize 11198
-\i (03:38:24) zoom in 1 
-\i (03:38:24) setwindow pcb
-\i (03:38:24) zoom in -33.0463 -127.5718
-\i (03:38:24) trapsize 5599
-\i (03:38:26) zoom fit 
-\i (03:38:26) trapsize 4646
-\i (03:38:27) roam start
-\i (03:38:27) roam x -80
-\i (03:38:27) roam x -160
-\i (03:38:27) roam x -304
-\i (03:38:27) roam x -288
-\i (03:38:27) roam x -32
-\i (03:38:27) roam end
-\i (03:38:28) roam start
-\i (03:38:28) roam x 16
-\i (03:38:28) roam y 64
-\i (03:38:29) roam x 48
-\i (03:38:29) roam y 96
-\i (03:38:29) roam x 48
-\i (03:38:29) roam y 80
-\i (03:38:29) roam x 80
-\i (03:38:29) roam y 48
-\i (03:38:29) roam x 80
-\i (03:38:29) roam y 32
-\i (03:38:29) roam x 64
-\i (03:38:29) roam y 16
-\i (03:38:29) roam x 64
-\i (03:38:29) roam end
-\i (03:38:43) pick grid -61.6831 -99.4235
-\t (03:38:43) last pick:  -61.6712  -99.4156
-\i (03:38:43) roam start
-\i (03:38:44) roam x 64
-\i (03:38:44) roam y -64
-\i (03:38:44) roam x 64
-\i (03:38:44) roam y -32
-\i (03:38:44) roam x 80
-\i (03:38:44) roam y -48
-\i (03:38:44) roam x 64
-\i (03:38:44) roam y -32
-\i (03:38:44) roam x 96
-\i (03:38:44) roam y -64
-\i (03:38:44) roam x 32
-\i (03:38:44) roam y -16
-\i (03:38:44) roam x -32
-\i (03:38:44) roam y -32
-\i (03:38:44) roam x -16
-\i (03:38:44) roam y -32
-\i (03:38:44) roam x -16
-\i (03:38:44) roam y -32
-\i (03:38:44) roam x -64
-\i (03:38:44) roam x -64
-\i (03:38:44) roam y -32
-\i (03:38:44) roam x -48
-\i (03:38:44) roam y -16
-\i (03:38:44) roam x -64
-\i (03:38:44) roam y -16
-\i (03:38:45) roam x -16
-\i (03:38:45) roam x -80
-\i (03:38:45) roam x -16
-\i (03:38:45) roam y 16
-\i (03:38:45) roam end
-\i (03:38:45) pick grid -147.0788 -35.3999
-\t (03:38:45) last pick:  -147.0914  -35.4076
-\i (03:38:56) pick grid -132.0254 -51.3825
-\t (03:38:56) last pick:  -132.0292  -51.3842
-\i (03:38:56) zoom out 1 
-\i (03:38:56) setwindow pcb
-\i (03:38:56) zoom out -131.8395 -51.1967
-\i (03:38:56) trapsize 9292
-\i (03:38:57) zoom in 1 
-\i (03:38:57) setwindow pcb
-\i (03:38:57) zoom in -131.8395 -51.1967
-\i (03:38:57) trapsize 4646
-\i (03:38:58) roam start
-\i (03:38:58) roam y 80
-\i (03:38:58) roam y 16
-\i (03:38:59) roam end
-\i (03:39:17) xhilite 
-\i (03:39:17) xrefdes Q2 
-\i (03:39:17) xname_flush 
-\i (03:39:17) trapsize 568
-\t (03:39:17) Symbol "Q2" highlighted.
-\i (03:39:17) done 
-\i (03:39:17) signalintegrity 
-\i (03:39:18) xdehilite 
-\i (03:39:18) xrefdes Q2 
-\i (03:39:18) xname_flush 
-\t (03:39:18) Symbol "Q2" dehighlighted.
-\i (03:39:18) done 
-\i (03:39:18) signalintegrity 
-\i (03:39:28) cmgr 
-\i (03:39:28) setwindow cmgr
-\i (03:39:28) cm newView ( worksheet 144:Properties 14:Net "67:Electrical Properties" "73:Electrical Properties" )
-\i (03:39:28) cm newView ( worksheet 144:Properties 14:Net "36:General Properties" "37:General Properties" )
-\i (03:39:28) cm newView ( worksheet 144:Properties 38:Component "39:Component Properties" 40:General )
-\i (03:39:29) setwindow pcb
-\i (03:39:29) signalintegrity 
-\i (03:39:38) setwindow cmgr
-\i (03:39:38) cm select ( frame ( workbook 144:Properties 14:Net "36:General Properties" ) )
-\i (03:39:39) cm select ( frame ( workbook 144:Properties 38:Component "39:Component Properties" ) )
-\i (03:42:22) setwindow pcb
-\i (03:42:22) xhilite 
-\i (03:42:22) xrefdes R96 
-\i (03:42:22) xname_flush 
-\i (03:42:22) trapsize 224
-\i (03:42:22) setwindow cmgr
-\i (03:42:22) cm expand ( row ( Design "STANDARD" ) )
-\i (03:42:22) cm scope Design "STANDARD"
-\i (03:42:22) cm expand ( row ( "Part Definition" "1KR2F_RES_0201_10K:RES_0201:10K:" ) )
-\t (03:42:22) Symbol "R96" highlighted.
-\i (03:42:22) setwindow pcb
-\i (03:42:22) done 
-\i (03:42:22) signalintegrity 
-\i (03:42:27) xdehilite 
-\i (03:42:27) xrefdes R96 
-\i (03:42:27) xname_flush 
-\t (03:42:27) Symbol "R96" dehighlighted.
-\i (03:42:27) done 
-\i (03:42:27) signalintegrity 
-\i (03:42:28) xhilite 
-\i (03:42:28) xrefdes Q2 
-\i (03:42:28) xname_flush 
-\i (03:42:28) trapsize 568
-\i (03:42:28) setwindow cmgr
-\i (03:42:28) cm expand ( row ( Design "STANDARD" ) )
-\i (03:42:28) cm expand ( row ( "Part Definition" "2N2222A_SOT23AVXD_2N2222A:SOT23AVXD:2N2222A:" ) )
-\t (03:42:28) Symbol "Q2" highlighted.
-\i (03:42:28) setwindow pcb
-\i (03:42:28) done 
-\i (03:42:28) signalintegrity 
-\i (03:42:31) xdehilite 
-\i (03:42:31) xrefdes Q2 
-\i (03:42:31) xname_flush 
-\t (03:42:31) Symbol "Q2" dehighlighted.
-\i (03:42:31) done 
-\i (03:42:31) signalintegrity 
-\i (03:42:32) xhilite 
-\i (03:42:32) xrefdes R93 
-\i (03:42:32) xname_flush 
-\i (03:42:32) trapsize 568
-\i (03:42:32) setwindow cmgr
-\i (03:42:32) cm expand ( row ( Design "STANDARD" ) )
-\i (03:42:32) cm expand ( row ( "Part Definition" "R_RES_0402_1.5K:RES_0402:1.5K:" ) )
-\t (03:42:32) Symbol "R93" highlighted.
-\i (03:42:32) setwindow pcb
-\i (03:42:32) done 
-\i (03:42:32) signalintegrity 
-\i (03:42:35) xdehilite 
-\i (03:42:35) xrefdes R93 
-\i (03:42:35) xname_flush 
-\t (03:42:35) Symbol "R93" dehighlighted.
-\i (03:42:35) done 
-\i (03:42:35) xhilite 
-\i (03:42:35) xrefdes R95 
-\i (03:42:35) xname_flush 
-\i (03:42:35) trapsize 314
-\i (03:42:35) setwindow cmgr
-\i (03:42:35) cm expand ( row ( Design "STANDARD" ) )
-\i (03:42:35) cm expand ( row ( "Part Definition" "R_RES_0402_1.5K:RES_0402:1.5K:" ) )
-\t (03:42:35) Symbol "R95" highlighted.
-\i (03:42:35) setwindow pcb
-\i (03:42:35) done 
-\i (03:42:35) signalintegrity 
-\i (03:42:37) xdehilite 
-\i (03:42:37) xrefdes R95 
-\i (03:42:37) xname_flush 
-\t (03:42:37) Symbol "R95" dehighlighted.
-\i (03:42:37) done 
-\i (03:42:37) xhilite 
-\i (03:42:37) xrefdes Q1 
-\i (03:42:37) xname_flush 
-\i (03:42:37) trapsize 419
-\i (03:42:37) setwindow cmgr
-\i (03:42:37) cm expand ( row ( Design "STANDARD" ) )
-\i (03:42:37) cm expand ( row ( "Part Definition" "2N2222A_SOT23AVXD_2N2222A:SOT23AVXD:2N2222A:" ) )
-\t (03:42:37) Symbol "Q1" highlighted.
-\i (03:42:37) setwindow pcb
-\i (03:42:37) done 
-\i (03:42:37) signalintegrity 
-\i (03:42:40) xdehilite 
-\i (03:42:40) xrefdes Q1 
-\i (03:42:40) xname_flush 
-\t (03:42:40) Symbol "Q1" dehighlighted.
-\i (03:42:40) done 
-\i (03:42:40) xhilite 
-\i (03:42:40) xrefdes C66 
-\i (03:42:40) xname_flush 
-\i (03:42:40) trapsize 419
-\i (03:42:40) setwindow cmgr
-\i (03:42:40) cm expand ( row ( Design "STANDARD" ) )
-\i (03:42:40) cm expand ( row ( "Part Definition" "CAP NP_CAP_0805_1 UF:CAP_0805:1 uF:" ) )
-\t (03:42:40) Symbol "C66" highlighted.
-\i (03:42:40) setwindow pcb
-\i (03:42:40) done 
-\i (03:42:40) signalintegrity 
-\i (03:42:42) xdehilite 
-\i (03:42:42) xrefdes C66 
-\i (03:42:42) xname_flush 
-\t (03:42:42) Symbol "C66" dehighlighted.
-\i (03:42:42) done 
-\i (03:42:42) xhilite 
-\i (03:42:42) xrefdes C67 
-\i (03:42:42) xname_flush 
-\i (03:42:42) trapsize 775
-\i (03:42:42) setwindow cmgr
-\i (03:42:42) cm expand ( row ( Design "STANDARD" ) )
-\i (03:42:42) cm expand ( row ( "Part Definition" "CAP NP_CAP_1210_22 UF:CAP_1210:22 uF:" ) )
-\t (03:42:42) Symbol "C67" highlighted.
-\i (03:42:42) setwindow pcb
-\i (03:42:42) done 
-\i (03:42:42) signalintegrity 
-\i (03:42:43) xdehilite 
-\i (03:42:43) xrefdes C67 
-\i (03:42:43) xname_flush 
-\t (03:42:43) Symbol "C67" dehighlighted.
-\i (03:42:43) done 
-\i (03:42:43) xhilite 
-\i (03:42:43) xrefdes D5 
-\i (03:42:43) xname_flush 
-\i (03:42:43) trapsize 510
-\i (03:42:43) setwindow cmgr
-\i (03:42:43) cm expand ( row ( Design "STANDARD" ) )
-\i (03:42:43) cm expand ( row ( "Part Definition" "DIODE_SCHOTTKY_DSIZE_SOD_123_ST:SOD_123:STPS0560Z:" ) )
-\t (03:42:43) Symbol "D5" highlighted.
-\i (03:42:43) setwindow pcb
-\i (03:42:43) done 
-\i (03:42:43) signalintegrity 
-\i (03:42:46) xdehilite 
-\i (03:42:46) xrefdes D5 
-\i (03:42:46) xname_flush 
-\t (03:42:46) Symbol "D5" dehighlighted.
-\i (03:42:46) done 
-\i (03:42:46) xhilite 
-\i (03:42:46) xrefdes J22 
-\i (03:42:46) xname_flush 
-\i (03:42:46) trapsize 1281
-\i (03:42:46) setwindow cmgr
-\i (03:42:46) cm expand ( row ( Design "STANDARD" ) )
-\i (03:42:46) cm expand ( row ( "Part Definition" "CON3_CONN_3_53261-0371:CONN_3:53261-0371:" ) )
-\t (03:42:46) Symbol "J22" highlighted.
-\i (03:42:46) setwindow pcb
-\i (03:42:46) done 
-\i (03:42:46) signalintegrity 
-\i (03:42:48) xdehilite 
-\i (03:42:48) xrefdes J22 
-\i (03:42:48) xname_flush 
-\t (03:42:48) Symbol "J22" dehighlighted.
-\i (03:42:48) done 
-\i (03:42:48) xhilite 
-\i (03:42:48) xrefdes R94 
-\i (03:42:48) xname_flush 
-\i (03:42:48) trapsize 277
-\i (03:42:48) setwindow cmgr
-\i (03:42:48) cm expand ( row ( Design "STANDARD" ) )
-\i (03:42:48) cm expand ( row ( "Part Definition" "R_RES_0402_3.3K:RES_0402:3.3K:" ) )
-\t (03:42:48) Symbol "R94" highlighted.
-\i (03:42:48) setwindow pcb
-\i (03:42:48) done 
-\i (03:42:48) signalintegrity 
-\i (03:42:51) xdehilite 
-\i (03:42:51) xrefdes R94 
-\i (03:42:51) xname_flush 
-\t (03:42:51) Symbol "R94" dehighlighted.
-\i (03:42:51) done 
-\i (03:42:52) signalintegrity 
-\i (03:42:52) xhilite 
-\i (03:42:52) xrefdes J22 
-\i (03:42:52) xname_flush 
-\i (03:42:52) trapsize 1281
-\i (03:42:52) setwindow cmgr
-\i (03:42:52) cm expand ( row ( Design "STANDARD" ) )
-\i (03:42:52) cm expand ( row ( "Part Definition" "CON3_CONN_3_53261-0371:CONN_3:53261-0371:" ) )
-\t (03:42:52) Symbol "J22" highlighted.
-\i (03:42:52) setwindow pcb
-\i (03:42:52) done 
-\i (03:42:52) signalintegrity 
-\i (03:42:54) pick grid -120.3904 -64.4386
-\t (03:42:54) last pick:  -120.3960  -64.4398
-\i (03:42:55) prepopup -120.4673 -64.3105
-\i (03:42:55) pick grid -121.3895 -64.6179
-\t (03:42:55) last pick:  -121.3866  -64.6176
-\i (03:42:56) pick grid -109.4258 -64.6179
-\t (03:42:56) last pick:  -109.4232  -64.6176
-\i (03:42:58) pick grid -110.2456 -65.7195
-\t (03:42:58) last pick:  -110.2360  -65.7098
-\i (03:42:58) pick grid -121.4920 -62.4403
-\t (03:42:58) last pick:  -121.4882  -62.4332
-\i (03:43:00) dehilight 
-\i (03:43:01) pick grid -116.0097 -65.6170
-\t (03:43:01) last pick:  -116.0018  -65.6082
-\t (03:43:01) Symbol "J22" dehighlighted.
-\i (03:43:02) prepopup -121.8763 -64.5667
-\i (03:43:02) pick grid -123.6439 -64.1055
-\t (03:43:02) last pick:  -123.6472  -64.1096
-\i (03:43:03) prepopup -123.8233 -63.8750
-\i (03:43:03) done 
-\i (03:43:03) signalintegrity 
-\i (03:43:03) pick grid -123.2341 -63.9262
-\t (03:43:03) last pick:  -123.2408  -63.9318
-\i (03:43:06) groupedit 
-\t (03:43:06) Pick a group to edit or select a group from the Options form.
-\i (03:43:10) prepopup -124.3100 -59.2893
-\i (03:43:10) cancel 
-\i (03:43:10) signalintegrity 
-\i (03:43:11) move 
-\t (03:43:12) Select element(s) to move.
-\i (03:43:14) setwindow form.find
-\i (03:43:14) FORM find name_type Generic Group 
-\i (03:43:15) FORM find find_by_name  
-\i (03:43:16) setwindow form.findname
-\i (03:43:16) FORM findname objlist Fan 
-\i (03:43:17) FORM findname done  
-\i (03:43:17) setwindow cmgr
-\i (03:43:17) cm expand ( row ( Design "STANDARD" ) )
-\i (03:43:17) cm expand ( row ( Design "STANDARD" ) )
-\i (03:43:17) cm expand ( row ( Design "STANDARD" ) )
-\i (03:43:17) cm expand ( row ( "Part Definition" "CAP NP_CAP_0805_1 UF:CAP_0805:1 uF:" ) )
-\i (03:43:18) cm expand ( row ( Design "STANDARD" ) )
-\i (03:43:18) cm expand ( row ( "Part Definition" "R_RES_0402_1.5K:RES_0402:1.5K:" ) )
-\i (03:43:18) cm expand ( row ( Design "STANDARD" ) )
-\i (03:43:18) cm expand ( row ( Design "STANDARD" ) )
-\i (03:43:18) cm expand ( row ( Design "STANDARD" ) )
-\i (03:43:18) cm expand ( row ( Design "STANDARD" ) )
-\i (03:43:18) cm expand ( row ( Design "STANDARD" ) )
-\i (03:43:18) cm expand ( row ( Design "STANDARD" ) )
-\i (03:43:18) cm expand ( row ( Design "STANDARD" ) )
-\i (03:43:18) cm expand ( row ( "Part Definition" "2N2222A_SOT23AVXD_2N2222A:SOT23AVXD:2N2222A:" ) )
-\i (03:43:18) cm expand ( row ( Design "STANDARD" ) )
-\i (03:43:18) cm expand ( row ( Design "STANDARD" ) )
-\i (03:43:18) cm expand ( row ( Design "STANDARD" ) )
-\i (03:43:18) cm expand ( row ( "Part Definition" "R_RES_0402_1.5K:RES_0402:1.5K:" ) )
-\i (03:43:18) cm expand ( row ( Design "STANDARD" ) )
-\i (03:43:18) cm expand ( row ( Design "STANDARD" ) )
-\i (03:43:18) cm expand ( row ( Design "STANDARD" ) )
-\i (03:43:18) cm expand ( row ( "Part Definition" "1KR2F_RES_0201_10K:RES_0201:10K:" ) )
-\i (03:43:18) cm expand ( row ( Design "STANDARD" ) )
-\i (03:43:18) cm expand ( row ( "Part Definition" "2N2222A_SOT23AVXD_2N2222A:SOT23AVXD:2N2222A:" ) )
-\i (03:43:18) cm expand ( row ( Design "STANDARD" ) )
-\i (03:43:18) cm expand ( row ( Design "STANDARD" ) )
-\i (03:43:18) cm expand ( row ( Design "STANDARD" ) )
-\i (03:43:18) cm expand ( row ( "Part Definition" "CAP NP_CAP_1210_22 UF:CAP_1210:22 uF:" ) )
-\i (03:43:18) cm expand ( row ( Design "STANDARD" ) )
-\i (03:43:18) cm expand ( row ( "Part Definition" "CON3_CONN_3_53261-0371:CONN_3:53261-0371:" ) )
-\i (03:43:18) cm expand ( row ( Design "STANDARD" ) )
-\i (03:43:18) cm expand ( row ( Design "STANDARD" ) )
-\i (03:43:18) cm expand ( row ( Design "STANDARD" ) )
-\i (03:43:18) cm expand ( row ( Design "STANDARD" ) )
-\i (03:43:18) cm expand ( row ( Design "STANDARD" ) )
-\i (03:43:18) cm expand ( row ( "Part Definition" "DIODE_SCHOTTKY_DSIZE_SOD_123_ST:SOD_123:STPS0560Z:" ) )
-\i (03:43:18) cm expand ( row ( Design "STANDARD" ) )
-\i (03:43:18) cm expand ( row ( "Part Definition" "R_RES_0402_3.3K:RES_0402:3.3K:" ) )
-\i (03:43:20) setwindow pcb
-\i (03:43:20) zoom in 1 
-\i (03:43:20) setwindow pcb
-\i (03:43:20) zoom in -112.4744 -62.5940
-\i (03:43:20) trapsize 640
-\i (03:43:20) zoom in 1 
-\i (03:43:20) setwindow pcb
-\i (03:43:20) zoom in -112.4743 -62.5940
-\i (03:43:20) trapsize 320
-\i (03:43:21) zoom in 1 
-\i (03:43:21) setwindow pcb
-\i (03:43:21) zoom in -112.4743 -62.5940
-\i (03:43:21) trapsize 160
-\i (03:43:22) zoom out 1 
-\i (03:43:22) setwindow pcb
-\i (03:43:22) zoom out -113.6175 -63.0487
-\i (03:43:22) trapsize 320
-\i (03:43:22) zoom out 1 
-\i (03:43:22) setwindow pcb
-\i (03:43:22) zoom out -113.6176 -63.0424
-\i (03:43:22) trapsize 640
-\i (03:43:22) zoom out 1 
-\i (03:43:22) setwindow pcb
-\i (03:43:22) zoom out -113.6175 -63.0039
-\i (03:43:22) trapsize 1281
-\i (03:43:23) prepopup -120.7906 -60.4677
-\i (03:43:24) cancel 
-\i (03:43:24) signalintegrity 
-\i (03:43:27) xdehilite 
-\i (03:43:27) xrefdes J22 
-\i (03:43:27) xname_flush 
-\i (03:43:27) done 
-\i (03:43:27) xhilite 
-\i (03:43:27) xrefdes R96 
-\i (03:43:27) xname_flush 
-\i (03:43:27) trapsize 224
-\i (03:43:27) setwindow cmgr
-\i (03:43:27) cm expand ( row ( Design "STANDARD" ) )
-\i (03:43:27) cm expand ( row ( "Part Definition" "1KR2F_RES_0201_10K:RES_0201:10K:" ) )
-\t (03:43:27) Symbol "R96" highlighted.
-\i (03:43:27) setwindow pcb
-\i (03:43:27) done 
-\i (03:43:27) signalintegrity 
-\i (03:43:28) pick grid -100.6721 -53.4140
-\t (03:43:28) last pick:  -100.6602  -53.4162
-\i (03:43:28) zoom out 1 
-\i (03:43:28) setwindow pcb
-\i (03:43:28) zoom out -100.6676 -53.4005
-\i (03:43:28) trapsize 447
-\i (03:43:28) zoom out 1 
-\i (03:43:28) setwindow pcb
-\i (03:43:28) zoom out -100.6676 -53.4006
-\i (03:43:28) trapsize 894
-\i (03:43:29) roam start
-\i (03:43:29) roam x -64
-\i (03:43:29) roam y 48
-\i (03:43:29) roam x -64
-\i (03:43:29) roam y 112
-\i (03:43:29) roam y 16
-\i (03:43:30) roam y 32
-\i (03:43:30) roam y 48
-\i (03:43:30) roam y 64
-\i (03:43:30) roam y 16
-\i (03:43:30) roam x 16
-\i (03:43:30) roam y 48
-\i (03:43:30) roam y 32
-\i (03:43:30) roam x 32
-\i (03:43:30) roam y 16
-\i (03:43:30) roam x 16
-\i (03:43:30) roam y 48
-\i (03:43:30) roam end
-\i (03:43:31) pick grid -100.3044 -63.1615
-\t (03:43:31) last pick:  -100.3046  -63.1698
-\i (03:43:32) pick grid -99.8036 -62.8753
-\t (03:43:32) last pick:  -99.7966  -62.8650
-\i (03:43:33) xdehilite 
-\i (03:43:33) xrefdes R96 
-\i (03:43:33) xname_flush 
-\t (03:43:33) Symbol "R96" dehighlighted.
-\i (03:43:33) done 
-\i (03:43:33) signalintegrity 
-\i (03:43:34) xhilite 
-\i (03:43:34) xrefdes Q2 
-\i (03:43:34) xname_flush 
-\i (03:43:34) trapsize 568
-\i (03:43:34) setwindow cmgr
-\i (03:43:34) cm expand ( row ( Design "STANDARD" ) )
-\i (03:43:34) cm expand ( row ( "Part Definition" "2N2222A_SOT23AVXD_2N2222A:SOT23AVXD:2N2222A:" ) )
-\t (03:43:34) Symbol "Q2" highlighted.
-\i (03:43:34) setwindow pcb
-\i (03:43:34) done 
-\i (03:43:34) signalintegrity 
-\i (03:43:37) xdehilite 
-\i (03:43:37) xrefdes Q2 
-\i (03:43:37) xname_flush 
-\t (03:43:37) Symbol "Q2" dehighlighted.
-\i (03:43:37) done 
-\i (03:43:37) signalintegrity 
-\i (03:43:38) xhilite 
-\i (03:43:38) xrefdes R95 
-\i (03:43:38) xname_flush 
-\i (03:43:38) trapsize 314
-\i (03:43:38) setwindow cmgr
-\i (03:43:38) cm expand ( row ( Design "STANDARD" ) )
-\i (03:43:38) cm expand ( row ( "Part Definition" "R_RES_0402_1.5K:RES_0402:1.5K:" ) )
-\t (03:43:38) Symbol "R95" highlighted.
-\i (03:43:38) setwindow pcb
-\i (03:43:38) done 
-\i (03:43:38) signalintegrity 
-\i (03:43:40) pick grid -100.0132 -58.9645
-\t (03:43:40) last pick:  -100.0252  -58.9534
-\i (03:43:40) zoom out 1 
-\i (03:43:40) setwindow pcb
-\i (03:43:40) zoom out -100.0195 -58.9645
-\i (03:43:40) trapsize 628
-\i (03:43:40) zoom out 1 
-\i (03:43:40) setwindow pcb
-\i (03:43:40) zoom out -100.0195 -58.9645
-\i (03:43:40) trapsize 1256
-\i (03:43:42) xdehilite 
-\i (03:43:42) xrefdes R95 
-\i (03:43:42) xname_flush 
-\t (03:43:42) Symbol "R95" dehighlighted.
-\i (03:43:42) done 
-\i (03:43:42) xhilite 
-\i (03:43:42) xrefdes R93 
-\i (03:43:42) xname_flush 
-\i (03:43:42) trapsize 540
-\i (03:43:42) setwindow cmgr
-\i (03:43:42) cm expand ( row ( Design "STANDARD" ) )
-\i (03:43:42) cm expand ( row ( "Part Definition" "R_RES_0402_1.5K:RES_0402:1.5K:" ) )
-\t (03:43:42) Symbol "R93" highlighted.
-\i (03:43:42) setwindow pcb
-\i (03:43:42) done 
-\i (03:43:42) signalintegrity 
-\i (03:43:44) pick grid -100.1291 -56.9275
-\t (03:43:44) last pick:  -100.1268  -56.9214
-\i (03:43:44) zoom out 1 
-\i (03:43:44) setwindow pcb
-\i (03:43:44) zoom out -100.1399 -56.9167
-\i (03:43:44) trapsize 1080
-\i (03:43:44) zoom out 1 
-\i (03:43:44) setwindow pcb
-\i (03:43:44) zoom out -100.1399 -56.9168
-\i (03:43:44) trapsize 2160
-\i (03:43:45) zoom in 1 
-\i (03:43:45) setwindow pcb
-\i (03:43:45) zoom in -103.6399 -60.8920
-\i (03:43:45) trapsize 1080
-\i (03:43:48) xdehilite 
-\i (03:43:48) xrefdes R93 
-\i (03:43:48) xname_flush 
-\t (03:43:48) Symbol "R93" dehighlighted.
-\i (03:43:48) done 
-\i (03:43:48) signalintegrity 
-\i (03:43:49) xhilite 
-\i (03:43:49) xrefdes Q1 
-\i (03:43:49) xname_flush 
-\i (03:43:49) trapsize 419
-\i (03:43:49) setwindow cmgr
-\i (03:43:49) cm expand ( row ( Design "STANDARD" ) )
-\i (03:43:49) cm expand ( row ( "Part Definition" "2N2222A_SOT23AVXD_2N2222A:SOT23AVXD:2N2222A:" ) )
-\t (03:43:49) Symbol "Q1" highlighted.
-\i (03:43:49) setwindow pcb
-\i (03:43:49) done 
-\i (03:43:49) signalintegrity 
-\i (03:43:50) pick grid -101.6733 -62.5710
-\t (03:43:50) last pick:  -101.6762  -62.5602
-\i (03:43:50) zoom out 1 
-\i (03:43:50) setwindow pcb
-\i (03:43:50) zoom out -101.6901 -62.5626
-\i (03:43:50) trapsize 838
-\i (03:43:54) xdehilite 
-\i (03:43:54) xrefdes Q1 
-\i (03:43:54) xname_flush 
-\t (03:43:54) Symbol "Q1" dehighlighted.
-\i (03:43:54) done 
-\i (03:43:54) xhilite 
-\i (03:43:54) xrefdes C66 
-\i (03:43:54) xname_flush 
-\i (03:43:54) trapsize 407
-\i (03:43:54) setwindow cmgr
-\i (03:43:54) cm expand ( row ( Design "STANDARD" ) )
-\i (03:43:54) cm expand ( row ( "Part Definition" "CAP NP_CAP_0805_1 UF:CAP_0805:1 uF:" ) )
-\t (03:43:54) Symbol "C66" highlighted.
-\i (03:43:54) setwindow pcb
-\i (03:43:54) done 
-\i (03:43:55) signalintegrity 
-\i (03:43:55) pick grid -94.0163 -62.1028
-\t (03:43:55) last pick:  -94.0054  -62.1030
-\i (03:43:56) zoom out 1 
-\i (03:43:56) setwindow pcb
-\i (03:43:56) zoom out -94.0163 -62.0946
-\i (03:43:56) trapsize 814
-\i (03:43:56) zoom out 1 
-\i (03:43:56) setwindow pcb
-\i (03:43:56) zoom out -94.0162 -62.0947
-\i (03:43:56) trapsize 1627
-\i (03:43:57) zoom in 1 
-\i (03:43:57) setwindow pcb
-\i (03:43:57) zoom in -96.3596 -61.9645
-\i (03:43:57) trapsize 814
-\i (03:43:57) zoom in 1 
-\i (03:43:57) setwindow pcb
-\i (03:43:57) zoom in -96.3597 -61.9645
-\i (03:43:57) trapsize 407
-\i (03:43:57) zoom out 1 
-\i (03:43:57) setwindow pcb
-\i (03:43:57) zoom out -96.3678 -61.9645
-\i (03:43:57) trapsize 814
-\i (03:43:58) xdehilite 
-\i (03:43:58) xrefdes C66 
-\i (03:43:58) xname_flush 
-\t (03:43:58) Symbol "C66" dehighlighted.
-\i (03:43:58) done 
-\i (03:43:58) signalintegrity 
-\i (03:44:00) xhilite 
-\i (03:44:00) xrefdes D5 
-\i (03:44:00) xname_flush 
-\i (03:44:00) trapsize 510
-\i (03:44:00) setwindow cmgr
-\i (03:44:00) cm expand ( row ( Design "STANDARD" ) )
-\i (03:44:00) cm expand ( row ( "Part Definition" "DIODE_SCHOTTKY_DSIZE_SOD_123_ST:SOD_123:STPS0560Z:" ) )
-\t (03:44:00) Symbol "D5" highlighted.
-\i (03:44:00) setwindow pcb
-\i (03:44:00) done 
-\i (03:44:00) signalintegrity 
-\i (03:44:01) pick grid -106.9690 -62.1219
-\t (03:44:01) last pick:  -106.9594  -62.1284
-\i (03:44:01) zoom out 1 
-\i (03:44:01) setwindow pcb
-\i (03:44:01) zoom out -106.8261 -62.1015
-\i (03:44:01) trapsize 1021
-\i (03:44:03) xdehilite 
-\i (03:44:04) xrefdes D5 
-\i (03:44:04) xname_flush 
-\t (03:44:04) Symbol "D5" dehighlighted.
-\i (03:44:04) done 
-\i (03:44:04) xhilite 
-\i (03:44:04) xrefdes C67.2 
-\i (03:44:04) xname_flush 
-\i (03:44:04) trapsize 215
-\t (03:44:04) Pin "C67.2" highlighted.
-\i (03:44:04) done 
-\i (03:44:04) signalintegrity 
-\i (03:44:04) xdehilite 
-\i (03:44:04) xrefdes C67.2 
-\i (03:44:04) xname_flush 
-\t (03:44:04) Pin "C67.2" dehighlighted.
-\i (03:44:04) done 
-\i (03:44:04) xhilite 
-\i (03:44:04) xrefdes C67 
-\i (03:44:04) xname_flush 
-\i (03:44:04) trapsize 775
-\i (03:44:04) setwindow cmgr
-\i (03:44:04) cm expand ( row ( Design "STANDARD" ) )
-\i (03:44:04) cm expand ( row ( "Part Definition" "CAP NP_CAP_1210_22 UF:CAP_1210:22 uF:" ) )
-\t (03:44:04) Symbol "C67" highlighted.
-\i (03:44:04) setwindow pcb
-\i (03:44:04) done 
-\i (03:44:04) signalintegrity 
-\i (03:44:05) pick grid -101.9080 -62.9227
-\t (03:44:05) last pick:  -101.9048  -62.9158
-\i (03:44:07) xdehilite 
-\i (03:44:07) xrefdes C67 
-\i (03:44:07) xname_flush 
-\t (03:44:07) Symbol "C67" dehighlighted.
-\i (03:44:07) done 
-\i (03:44:07) xhilite 
-\i (03:44:07) xrefdes J22 
-\i (03:44:07) xname_flush 
-\i (03:44:07) trapsize 1281
-\i (03:44:07) setwindow cmgr
-\i (03:44:07) cm expand ( row ( Design "STANDARD" ) )
-\i (03:44:07) cm expand ( row ( "Part Definition" "CON3_CONN_3_53261-0371:CONN_3:53261-0371:" ) )
-\t (03:44:07) Symbol "J22" highlighted.
-\i (03:44:07) setwindow pcb
-\i (03:44:07) done 
-\i (03:44:07) signalintegrity 
-\i (03:44:08) pick grid -105.3013 -66.9748
-\t (03:44:08) last pick:  -105.3084  -66.9798
-\i (03:44:09) xdehilite 
-\i (03:44:09) xrefdes J22 
-\i (03:44:09) xname_flush 
-\t (03:44:09) Symbol "J22" dehighlighted.
-\i (03:44:09) done 
-\i (03:44:09) xhilite 
-\i (03:44:09) xrefdes R94 
-\i (03:44:09) xname_flush 
-\i (03:44:09) trapsize 277
-\i (03:44:09) setwindow cmgr
-\i (03:44:09) cm expand ( row ( Design "STANDARD" ) )
-\i (03:44:09) cm expand ( row ( "Part Definition" "R_RES_0402_3.3K:RES_0402:3.3K:" ) )
-\t (03:44:09) Symbol "R94" highlighted.
-\i (03:44:09) setwindow pcb
-\i (03:44:09) done 
-\i (03:44:10) signalintegrity 
-\i (03:44:10) pick grid -110.8781 -64.2211
-\t (03:44:10) last pick:  -110.8710  -64.2112
-\i (03:44:10) zoom out 1 
-\i (03:44:10) setwindow pcb
-\i (03:44:10) zoom out -110.8781 -64.2045
-\i (03:44:10) trapsize 553
-\i (03:44:13) pick grid -109.9485 -65.2999
-\t (03:44:13) last pick:  -109.9566  -65.3034
-\i (03:44:13) zoom out 1 
-\i (03:44:13) setwindow pcb
-\i (03:44:13) zoom out -109.7714 -64.9127
-\i (03:44:13) trapsize 1107
-\i (03:44:13) zoom out 1 
-\i (03:44:13) setwindow pcb
-\i (03:44:13) zoom out -109.7715 -64.8905
-\i (03:44:13) trapsize 2213
-\i (03:44:14) roam start
-\i (03:44:14) roam x 96
-\i (03:44:14) roam x 96
-\i (03:44:14) roam x 64
-\i (03:44:14) roam x 32
-\i (03:44:14) roam x 64
-\i (03:44:14) roam x 32
-\i (03:44:15) roam end
-\i (03:44:15) pick grid -105.5513 -65.6871
-\t (03:44:15) last pick:  -105.5624  -65.6844
-\i (03:44:16) zoom in 1 
-\i (03:44:16) setwindow pcb
-\i (03:44:16) zoom in -96.2123 -59.1366
-\i (03:44:16) trapsize 1107
-\i (03:44:16) zoom in 1 
-\i (03:44:16) setwindow pcb
-\i (03:44:16) zoom in -96.2123 -59.1365
-\i (03:44:16) trapsize 553
-\i (03:44:17) zoom out 1 
-\i (03:44:17) setwindow pcb
-\i (03:44:17) zoom out -96.2122 -59.1365
-\i (03:44:17) trapsize 1107
-\i (03:44:21) pick grid -121.4409 -57.9415
-\t (03:44:21) last pick:  -121.4374  -57.9374
-\i (03:44:21) prepopup -121.4409 -57.9636
-\i (03:44:21) pick grid -120.7106 -57.0120
-\t (03:44:21) last pick:  -120.7008  -57.0230
-\i (03:44:23) groupedit 
-\t (03:44:23) Pick a group to edit or select a group from the Options form.
-\i (03:44:27) setwindow form.find
-\i (03:44:27) FORM find name_type Generic Group 
-\i (03:44:29) setwindow form.mini
-\i (03:44:29) FORM mini grouplist FAN 
-\i (03:44:29) setwindow cmgr
-\i (03:44:29) cm expand ( row ( Design "STANDARD" ) )
-\i (03:44:29) cm expand ( row ( Design "STANDARD" ) )
-\i (03:44:29) cm expand ( row ( Design "STANDARD" ) )
-\i (03:44:29) cm expand ( row ( "Part Definition" "CAP NP_CAP_0805_1 UF:CAP_0805:1 uF:" ) )
-\i (03:44:29) cm expand ( row ( Design "STANDARD" ) )
-\i (03:44:29) cm expand ( row ( "Part Definition" "R_RES_0402_1.5K:RES_0402:1.5K:" ) )
-\i (03:44:29) cm expand ( row ( Design "STANDARD" ) )
-\i (03:44:29) cm expand ( row ( Design "STANDARD" ) )
-\i (03:44:29) cm expand ( row ( Design "STANDARD" ) )
-\i (03:44:29) cm expand ( row ( Design "STANDARD" ) )
-\i (03:44:29) cm expand ( row ( Design "STANDARD" ) )
-\i (03:44:29) cm expand ( row ( Design "STANDARD" ) )
-\i (03:44:29) cm expand ( row ( Design "STANDARD" ) )
-\i (03:44:29) cm expand ( row ( "Part Definition" "2N2222A_SOT23AVXD_2N2222A:SOT23AVXD:2N2222A:" ) )
-\i (03:44:29) cm expand ( row ( Design "STANDARD" ) )
-\i (03:44:29) cm expand ( row ( Design "STANDARD" ) )
-\i (03:44:29) cm expand ( row ( Design "STANDARD" ) )
-\i (03:44:29) cm expand ( row ( "Part Definition" "R_RES_0402_1.5K:RES_0402:1.5K:" ) )
-\i (03:44:29) cm expand ( row ( Design "STANDARD" ) )
-\i (03:44:29) cm expand ( row ( Design "STANDARD" ) )
-\i (03:44:29) cm expand ( row ( Design "STANDARD" ) )
-\i (03:44:29) cm expand ( row ( "Part Definition" "1KR2F_RES_0201_10K:RES_0201:10K:" ) )
-\i (03:44:29) cm expand ( row ( Design "STANDARD" ) )
-\i (03:44:29) cm expand ( row ( "Part Definition" "2N2222A_SOT23AVXD_2N2222A:SOT23AVXD:2N2222A:" ) )
-\i (03:44:29) cm expand ( row ( Design "STANDARD" ) )
-\i (03:44:29) cm expand ( row ( Design "STANDARD" ) )
-\i (03:44:29) cm expand ( row ( Design "STANDARD" ) )
-\i (03:44:29) cm expand ( row ( "Part Definition" "CAP NP_CAP_1210_22 UF:CAP_1210:22 uF:" ) )
-\i (03:44:29) cm expand ( row ( Design "STANDARD" ) )
-\i (03:44:29) cm expand ( row ( "Part Definition" "CON3_CONN_3_53261-0371:CONN_3:53261-0371:" ) )
-\i (03:44:29) cm expand ( row ( Design "STANDARD" ) )
-\i (03:44:29) cm expand ( row ( Design "STANDARD" ) )
-\i (03:44:29) cm expand ( row ( Design "STANDARD" ) )
-\i (03:44:29) cm expand ( row ( Design "STANDARD" ) )
-\i (03:44:29) cm expand ( row ( Design "STANDARD" ) )
-\i (03:44:29) cm expand ( row ( "Part Definition" "DIODE_SCHOTTKY_DSIZE_SOD_123_ST:SOD_123:STPS0560Z:" ) )
-\i (03:44:29) cm expand ( row ( Design "STANDARD" ) )
-\i (03:44:29) cm expand ( row ( "Part Definition" "R_RES_0402_3.3K:RES_0402:3.3K:" ) )
-\t (03:44:29) Choose items to add to or remove from the group.
-\i (03:44:32) setwindow form.find
-\i (03:44:32) FORM find symbols NO 
-\i (03:44:33) FORM find symbols YES 
-\i (03:44:38) FORM find shapes YES 
-\i (03:45:06) setwindow pcb
-\i (03:45:06) zoom in 1 
-\i (03:45:06) setwindow pcb
-\i (03:45:06) zoom in -101.0367 -56.7243
-\i (03:45:06) trapsize 553
-\i (03:45:07) zoom in 1 
-\i (03:45:07) setwindow pcb
-\i (03:45:07) zoom in -101.0367 -56.7243
-\i (03:45:07) trapsize 277
-\i (03:45:08) zoom out 1 
-\i (03:45:08) setwindow pcb
-\i (03:45:08) zoom out -101.5070 -56.7464
-\i (03:45:08) trapsize 553
-\i (03:45:12) zoom out 1 
-\i (03:45:12) setwindow pcb
-\i (03:45:12) zoom out -102.7130 -54.2567
-\i (03:45:12) trapsize 1107
-\i (03:45:12) prepopup -103.6867 -63.2195
-\i (03:45:14) cancel 
-\i (03:45:14) signalintegrity 
-\i (03:45:16) zoom in 1 
-\i (03:45:16) setwindow pcb
-\i (03:45:16) zoom in -102.1155 -56.8238
-\i (03:45:16) trapsize 553
-\i (03:45:16) zoom in 1 
-\i (03:45:16) setwindow pcb
-\i (03:45:16) zoom in -102.1265 -56.8127
-\i (03:45:16) trapsize 277
-\i (03:45:16) zoom in 1 
-\i (03:45:16) setwindow pcb
-\i (03:45:16) zoom in -102.1154 -56.7795
-\i (03:45:16) trapsize 138
-\i (03:45:16) zoom in 1 
-\i (03:45:16) setwindow pcb
-\i (03:45:16) zoom in -102.1098 -56.7767
-\i (03:45:16) trapsize 69
-\i (03:45:16) zoom out 1 
-\i (03:45:16) setwindow pcb
-\i (03:45:16) zoom out -101.8885 -56.6799
-\i (03:45:16) trapsize 138
-\i (03:45:16) zoom out 1 
-\i (03:45:16) setwindow pcb
-\i (03:45:16) zoom out -101.8885 -56.6799
-\i (03:45:16) trapsize 277
-\i (03:45:17) zoom out 1 
-\i (03:45:17) setwindow pcb
-\i (03:45:17) zoom out -101.3187 -56.5526
-\i (03:45:17) trapsize 553
-\i (03:45:17) zoom out 1 
-\i (03:45:17) setwindow pcb
-\i (03:45:17) zoom out -101.3518 -56.5525
-\i (03:45:17) trapsize 1107
-\i (03:45:19) roam start
-\i (03:45:19) roam x 144
-\i (03:45:19) roam x 16
-\i (03:45:19) roam x 16
-\i (03:45:19) roam x 16
-\i (03:45:19) roam x 32
-\i (03:45:19) roam x 32
-\i (03:45:19) roam end
-\i (03:45:21) zoom in 1 
-\i (03:45:21) setwindow pcb
-\i (03:45:21) zoom in -99.2220 -58.4557
-\i (03:45:21) trapsize 553
-\i (03:45:21) zoom in 1 
-\i (03:45:21) setwindow pcb
-\i (03:45:21) zoom in -99.1556 -58.4889
-\i (03:45:21) trapsize 277
-\i (03:45:22) zoom out 1 
-\i (03:45:22) setwindow pcb
-\i (03:45:22) zoom out -98.5691 -59.3962
-\i (03:45:22) trapsize 553
-\i (03:45:22) zoom out 1 
-\i (03:45:22) setwindow pcb
-\i (03:45:22) zoom out -98.6133 -59.4183
-\i (03:45:22) trapsize 1107
-\i (03:45:27) move 
-\t (03:45:27) Select element(s) to move.
-\i (03:45:30) setwindow form.find
-\i (03:45:30) FORM find name_type Generic Group 
-\i (03:45:31) FORM find find_by_name  
-\i (03:45:32) setwindow form.findname
-\i (03:45:32) FORM findname objlist Fan 
-\i (03:45:33) FORM findname done  
-\i (03:45:33) setwindow cmgr
-\i (03:45:33) cm expand ( row ( Design "STANDARD" ) )
-\i (03:45:33) cm expand ( row ( Design "STANDARD" ) )
-\i (03:45:33) cm expand ( row ( Design "STANDARD" ) )
-\i (03:45:33) cm expand ( row ( "Part Definition" "CAP NP_CAP_0805_1 UF:CAP_0805:1 uF:" ) )
-\i (03:45:33) cm expand ( row ( Design "STANDARD" ) )
-\i (03:45:33) cm expand ( row ( "Part Definition" "R_RES_0402_1.5K:RES_0402:1.5K:" ) )
-\i (03:45:33) cm expand ( row ( Design "STANDARD" ) )
-\i (03:45:33) cm expand ( row ( Design "STANDARD" ) )
-\i (03:45:33) cm expand ( row ( Design "STANDARD" ) )
-\i (03:45:33) cm expand ( row ( Design "STANDARD" ) )
-\i (03:45:33) cm expand ( row ( Design "STANDARD" ) )
-\i (03:45:33) cm expand ( row ( Design "STANDARD" ) )
-\i (03:45:33) cm expand ( row ( Design "STANDARD" ) )
-\i (03:45:33) cm expand ( row ( "Part Definition" "2N2222A_SOT23AVXD_2N2222A:SOT23AVXD:2N2222A:" ) )
-\i (03:45:33) cm expand ( row ( Design "STANDARD" ) )
-\i (03:45:33) cm expand ( row ( Design "STANDARD" ) )
-\i (03:45:33) cm expand ( row ( Design "STANDARD" ) )
-\i (03:45:33) cm expand ( row ( "Part Definition" "R_RES_0402_1.5K:RES_0402:1.5K:" ) )
-\i (03:45:33) cm expand ( row ( Design "STANDARD" ) )
-\i (03:45:33) cm expand ( row ( Design "STANDARD" ) )
-\i (03:45:33) cm expand ( row ( Design "STANDARD" ) )
-\i (03:45:33) cm expand ( row ( "Part Definition" "1KR2F_RES_0201_10K:RES_0201:10K:" ) )
-\i (03:45:33) cm expand ( row ( Design "STANDARD" ) )
-\i (03:45:33) cm expand ( row ( "Part Definition" "2N2222A_SOT23AVXD_2N2222A:SOT23AVXD:2N2222A:" ) )
-\i (03:45:33) cm expand ( row ( Design "STANDARD" ) )
-\i (03:45:33) cm expand ( row ( Design "STANDARD" ) )
-\i (03:45:33) cm expand ( row ( Design "STANDARD" ) )
-\i (03:45:33) cm expand ( row ( "Part Definition" "CAP NP_CAP_1210_22 UF:CAP_1210:22 uF:" ) )
-\i (03:45:33) cm expand ( row ( Design "STANDARD" ) )
-\i (03:45:33) cm expand ( row ( "Part Definition" "CON3_CONN_3_53261-0371:CONN_3:53261-0371:" ) )
-\i (03:45:33) cm expand ( row ( Design "STANDARD" ) )
-\i (03:45:33) cm expand ( row ( Design "STANDARD" ) )
-\i (03:45:33) cm expand ( row ( Design "STANDARD" ) )
-\i (03:45:33) cm expand ( row ( Design "STANDARD" ) )
-\i (03:45:33) cm expand ( row ( Design "STANDARD" ) )
-\i (03:45:33) cm expand ( row ( "Part Definition" "DIODE_SCHOTTKY_DSIZE_SOD_123_ST:SOD_123:STPS0560Z:" ) )
-\i (03:45:33) cm expand ( row ( Design "STANDARD" ) )
-\i (03:45:33) cm expand ( row ( "Part Definition" "R_RES_0402_3.3K:RES_0402:3.3K:" ) )
-\i (03:45:34) setwindow pcb
-\i (03:45:34) zoom out 1 
-\i (03:45:34) setwindow pcb
-\i (03:45:34) zoom out -107.9523 -66.2123
-\i (03:45:34) trapsize 2213
-\i (03:45:35) pick grid -101.0477 -60.3257
-\t (03:45:35) last pick:  -101.0412  -60.3250
-\t (03:45:35) Element has no origin, using pick.
-\t (03:45:35) Element has no origin, using pick.
-\t (03:45:35) Element has no origin, using pick.
-\t (03:45:35) Element has no origin, using pick.
-\t (03:45:35) Element has no origin, using pick.
-\t (03:45:35) Element has no origin, using pick.
-\t (03:45:35) Element has no origin, using pick.
-\t (03:45:35) Element has no origin, using pick.
-\t (03:45:35) Element has no origin, using pick.
-\t (03:45:35) Element has no origin, using pick.
-\t (03:45:35) Element has no origin, using pick.
-\t (03:45:35) Element has no origin, using pick.
-\t (03:45:35) Element has no origin, using pick.
-\t (03:45:35) Element has no origin, using pick.
-\t (03:45:35) Element has no origin, using pick.
-\t (03:45:35) Element has no origin, using pick.
-\t (03:45:35) Element has no origin, using pick.
-\t (03:45:35) Element has no origin, using pick.
-\t (03:45:35) Element has no origin, using pick.
-\t (03:45:35) Element has no origin, using pick.
-\t (03:45:35) Moving C66 / CAP NP_CAP_0805_1 UF / CAP_0805.
-\t (03:45:35) Moving R93 / R_RES_0402_1.5K / RES_0402.
-\t (03:45:35) Moving Q2 / 2N2222A_SOT23AVXD_2N2222A / SOT23AVXD.
-\t (03:45:35) Moving R95 / R_RES_0402_1.5K / RES_0402.
-\t (03:45:35) Moving R96 / 1KR2F_RES_0201_10K / RES_0201.
-\t (03:45:35) Moving Q1 / 2N2222A_SOT23AVXD_2N2222A / SOT23AVXD.
-\t (03:45:35) Moving C67 / CAP NP_CAP_1210_22 UF / CAP_1210.
-\t (03:45:35) Moving J22 / CON3_CONN_3_53261-0371 / CONN_3.
-\t (03:45:35) Moving D5 / DIODE_SCHOTTKY_DSIZE_SOD_123_ST / SOD_123.
-\t (03:45:35) Moving R94 / R_RES_0402_3.3K / RES_0402.
-\t (03:45:35) Pick new location for the element(s).
-\i (03:45:40) pick grid -125.3468 -62.3174
-\t (03:45:40) last pick:  -125.3490  -62.3062
-\i (03:45:44) save 
-\i (03:45:45) fillin yes 
-\i (03:45:45) signalintegrity 
-\i (03:46:35) pick grid -98.3478 -65.5927
-\t (03:46:35) last pick:  -98.3488  -65.5828
-\i (03:46:35) zoom out 1 
-\i (03:46:35) setwindow pcb
-\i (03:46:35) zoom out -98.3036 -65.5927
-\i (03:46:35) trapsize 4426
-\i (03:46:37) prepopup -131.6760 -45.5868
-\i (03:46:37) pick grid -134.1546 -46.2065
-\t (03:46:37) last pick:  -134.1628  -46.2026
-\i (03:46:38) zoom out 1 
-\i (03:46:38) setwindow pcb
-\i (03:46:38) zoom out -134.0661 -46.3835
-\i (03:46:38) trapsize 8852
-\i (03:46:38) zoom in 1 
-\i (03:46:38) setwindow pcb
-\i (03:46:38) zoom in -136.8988 -35.7610
-\i (03:46:38) trapsize 4426
-\i (03:46:39) zoom in 1 
-\i (03:46:39) setwindow pcb
-\i (03:46:39) zoom in -136.8987 -35.7610
-\i (03:46:39) trapsize 2213
-\i (03:46:39) zoom out 1 
-\i (03:46:39) setwindow pcb
-\i (03:46:39) zoom out -136.3233 -35.8938
-\i (03:46:39) trapsize 4426
-\i (03:46:42) setwindow form.vf_vis
-\i (03:46:42) FORM vf_vis all_all_visible YES 
-\i (03:46:43) FORM vf_vis all_all_visible_pln YES 
-\i (03:46:44) FORM vf_vis 2 all_colorvisible NO 
-\i (03:46:45) setwindow pcb
-\i (03:46:45) roam start
-\i (03:46:45) roam x 32
-\i (03:46:45) roam y -16
-\i (03:46:45) roam x 96
-\i (03:46:45) roam x 112
-\i (03:46:45) roam y -16
-\i (03:46:45) roam x 176
-\i (03:46:45) roam y -32
-\i (03:46:45) roam x 16
-\i (03:46:45) roam x 16
-\i (03:46:45) roam y -16
-\i (03:46:45) roam y -32
-\i (03:46:45) roam x -16
-\i (03:46:46) roam x -64
-\i (03:46:46) roam end
-\i (03:46:51) roam start
-\i (03:46:51) roam x 96
-\i (03:46:51) roam x 16
-\i (03:46:51) roam y -16
-\i (03:46:52) roam x -80
-\i (03:46:52) roam x -96
-\i (03:46:52) roam y 16
-\i (03:46:52) roam x -48
-\i (03:46:52) roam end
-\i (03:46:52) zoom out 1 
-\i (03:46:52) setwindow pcb
-\i (03:46:52) zoom out -143.6154 -48.4073
-\i (03:46:52) trapsize 8852
-\i (03:46:53) zoom in 1 
-\i (03:46:53) setwindow pcb
-\i (03:46:53) zoom in -131.5765 -14.5922
-\i (03:46:53) trapsize 4426
-\i (03:46:53) zoom in 1 
-\i (03:46:53) setwindow pcb
-\i (03:46:53) zoom in -131.5764 -14.5921
-\i (03:46:53) trapsize 2213
-\i (03:46:53) zoom out 1 
-\i (03:46:53) setwindow pcb
-\i (03:46:53) zoom out -131.6207 -14.5921
-\i (03:46:53) trapsize 4426
-\i (03:46:54) roam start
-\i (03:46:54) roam x -16
-\i (03:46:54) roam y 128
-\i (03:46:54) roam y 96
-\i (03:46:55) roam y -16
-\i (03:46:55) roam y -32
-\i (03:46:55) roam end
-\i (03:46:56) pick grid -136.2681 -39.5552
-\t (03:46:56) last pick:  -136.2710  -39.5478
-\i (03:47:00) xdehilite 
-\i (03:47:00) xrefdes R94 
-\i (03:47:00) xname_flush 
-\t (03:47:00) Symbol "R94" dehighlighted.
-\i (03:47:00) done 
-\i (03:47:00) signalintegrity 
-\i (03:47:03) xhilite 
-\i (03:47:03) xrefdes U45 
-\i (03:47:03) xname_flush 
-\i (03:47:03) trapsize 562
-\i (03:47:03) setwindow cmgr
-\i (03:47:03) cm expand ( row ( Design "STANDARD" ) )
-\i (03:47:03) cm expand ( row ( "Part Definition" "TPS54620RGY_RGY_TPS54620RGY:RGY:TPS54620RGY:" ) )
-\t (03:47:03) Symbol "U45" highlighted.
-\i (03:47:03) setwindow pcb
-\i (03:47:03) done 
-\i (03:47:03) signalintegrity 
-\i (03:47:05) pick grid -110.6446 -47.5546
-\t (03:47:05) last pick:  -110.6424  -47.5488
-\i (03:47:05) zoom out 1 
-\i (03:47:05) setwindow pcb
-\i (03:47:05) zoom out -110.6446 -47.5546
-\i (03:47:05) trapsize 1125
-\i (03:47:08) prepopup -118.6970 -45.5078
-\i (03:47:08) pick grid -118.8545 -43.7084
-\t (03:47:08) last pick:  -118.8466  -43.7134
-\i (03:47:09) prepopup -118.6745 -43.9333
-\i (03:47:09) pick grid -119.1469 -44.0008
-\t (03:47:09) last pick:  -119.1514  -43.9928
-\i (03:47:10) pick grid -111.2295 -46.6549
-\t (03:47:10) last pick:  -111.2266  -46.6598
-\i (03:47:14) setwindow form.find
-\i (03:47:14) FORM find clines YES 
-\i (03:47:14) FORM find vias YES 
-\i (03:47:16) setwindow pcb
-\i (03:47:16) dehilight 
-\i (03:47:16) pick grid -107.5857 -44.6306
-\t (03:47:16) last pick:  -107.5944  -44.6278
-\t (03:47:16) Symbol "U45" dehighlighted.
-\i (03:47:18) pick grid -116.6727 -47.3297
-\t (03:47:18) last pick:  -116.6622  -47.3202
-\i (03:47:21) xrefdes U45 
-\i (03:47:21) xname_flush 
-\i (03:47:24) roam start
-\i (03:47:24) roam x -32
-\i (03:47:24) roam y 32
-\i (03:47:24) roam x -16
-\i (03:47:24) roam y 16
-\i (03:47:24) roam x -64
-\i (03:47:24) roam x -80
-\i (03:47:24) roam x -32
-\i (03:47:24) roam y -32
-\i (03:47:24) roam x -16
-\i (03:47:24) roam y -32
-\i (03:47:25) roam x -16
-\i (03:47:25) roam y -32
-\i (03:47:25) roam x -32
-\i (03:47:25) roam y -32
-\i (03:47:25) roam x -16
-\i (03:47:25) roam y -16
-\i (03:47:25) roam x -32
-\i (03:47:25) roam y -16
-\i (03:47:25) roam end
-\i (03:47:25) zoom out 1 
-\i (03:47:25) setwindow pcb
-\i (03:47:25) zoom out -124.5115 -43.5218
-\i (03:47:25) trapsize 2249
-\i (03:47:29) xrefdes D11 
-\i (03:47:29) xname_flush 
-\i (03:47:34) pick grid -124.2416 -43.7468
-\t (03:47:34) last pick:  -124.2314  -43.7388
-\i (03:47:34) zoom out 1 
-\i (03:47:34) setwindow pcb
-\i (03:47:34) zoom out -124.1966 -43.7468
-\i (03:47:34) trapsize 4499
-\i (03:47:34) zoom out 1 
-\i (03:47:34) setwindow pcb
-\i (03:47:34) zoom out -124.0167 -43.7467
-\i (03:47:34) trapsize 8997
-\i (03:47:34) zoom out 1 
-\i (03:47:34) setwindow pcb
-\i (03:47:34) zoom out -123.8367 -43.7467
-\i (03:47:34) trapsize 17994
-\i (03:47:34) zoom in 1 
-\i (03:47:34) setwindow pcb
-\i (03:47:34) zoom in -226.9199 -85.5269
-\i (03:47:34) trapsize 8997
-\i (03:47:34) zoom in 1 
-\i (03:47:34) setwindow pcb
-\i (03:47:34) zoom in -226.9199 -85.5269
-\i (03:47:34) trapsize 4499
-\i (03:47:35) roam start
-\i (03:47:35) roam x 16
-\i (03:47:35) roam x 176
-\i (03:47:35) roam y -16
-\i (03:47:35) roam x 80
-\i (03:47:35) roam x 32
-\i (03:47:35) roam x 16
-\i (03:47:35) roam x 64
-\i (03:47:35) roam x 128
-\i (03:47:35) roam y -16
-\i (03:47:35) roam x 464
-\i (03:47:35) roam y -64
-\i (03:47:36) roam x 128
-\i (03:47:36) roam y -16
-\i (03:47:36) roam x 32
-\i (03:47:36) roam y -16
-\i (03:47:36) roam x 16
-\i (03:47:36) roam y -32
-\i (03:47:36) roam x -144
-\i (03:47:36) roam x -128
-\i (03:47:36) roam y 32
-\i (03:47:36) roam x -32
-\i (03:47:36) roam y 16
-\i (03:47:36) roam y -16
-\i (03:47:36) roam y -32
-\i (03:47:36) roam y -16
-\i (03:47:37) roam y -16
-\i (03:47:37) roam y -16
-\i (03:47:37) roam y -16
-\i (03:47:37) roam y -32
-\i (03:47:37) roam y -32
-\i (03:47:37) roam y -16
-\i (03:47:37) roam end
-\i (03:47:38) pick grid -127.1431 -47.1431
-\t (03:47:38) last pick:  -127.1524  -47.1424
-\i (03:47:39) zoom in 1 
-\i (03:47:39) setwindow pcb
-\i (03:47:39) zoom in -116.6166 -47.2330
-\i (03:47:39) trapsize 2249
-\i (03:47:40) zoom in 1 
-\i (03:47:40) setwindow pcb
-\i (03:47:40) zoom in -124.7588 -55.1054
-\i (03:47:40) trapsize 1125
-\i (03:47:40) zoom out 1 
-\i (03:47:40) setwindow pcb
-\i (03:47:40) zoom out -125.2986 -55.2853
-\i (03:47:40) trapsize 2249
-\i (03:47:40) zoom out 1 
-\i (03:47:40) setwindow pcb
-\i (03:47:40) zoom out -125.2987 -55.1954
-\i (03:47:40) trapsize 4499
-\i (03:47:41) zoom out 1 
-\i (03:47:41) setwindow pcb
-\i (03:47:41) zoom out -125.3886 -55.0155
-\i (03:47:41) trapsize 8997
-\i (03:47:41) zoom in 1 
-\i (03:47:41) setwindow pcb
-\i (03:47:41) zoom in -130.9668 -53.9358
-\i (03:47:41) trapsize 4499
-\i (03:47:41) zoom in 1 
-\i (03:47:41) setwindow pcb
-\i (03:47:41) zoom in -131.1467 -53.8458
-\i (03:47:41) trapsize 2249
-\i (03:47:42) zoom out 1 
-\i (03:47:42) setwindow pcb
-\i (03:47:42) zoom out -131.1017 -53.8457
-\i (03:47:42) trapsize 4499
-\i (03:47:43) roam start
-\i (03:47:43) roam y -64
-\i (03:47:44) roam y -16
-\i (03:47:44) roam x 16
-\i (03:47:44) roam y 96
-\i (03:47:44) roam y 80
-\i (03:47:44) roam y 48
-\i (03:47:44) roam y 32
-\i (03:47:44) roam y 16
-\i (03:47:44) roam end
-\i (03:47:44) zoom out 1 
-\i (03:47:44) setwindow pcb
-\i (03:47:44) zoom out -125.2537 -58.1194
-\i (03:47:45) trapsize 8997
-\i (03:47:46) xrefdes D11 
-\i (03:47:46) xname_flush 
-\i (03:47:47) xrefdes C253 
-\i (03:47:47) xname_flush 
-\i (03:47:50) xrefdes C253 
-\i (03:47:50) xname_flush 
-\i (03:47:50) xrefdes C254 
-\i (03:47:50) xname_flush 
-\i (03:47:51) xrefdes C254 
-\i (03:47:51) xname_flush 
-\i (03:47:51) xrefdes C255 
-\i (03:47:51) xname_flush 
-\i (03:47:53) xrefdes C255 
-\i (03:47:53) xname_flush 
-\i (03:47:58) drc update 
-\t (03:47:58) Performing DRC...
-\t (03:47:58) Multithreaded DRC update (8 threads).
-\t (03:47:58) DRC done; 301 errors detected.
-\i (03:47:58) signalintegrity 
-\i (03:47:59) save 
-\i (03:48:01) fillin yes 
-\i (03:48:01) signalintegrity 
-\i (03:48:03) xhilite 
-\i (03:48:03) xrefdes C254 
-\i (03:48:03) xname_flush 
-\i (03:48:03) trapsize 597
-\i (03:48:03) setwindow cmgr
-\i (03:48:03) cm expand ( row ( Design "STANDARD" ) )
-\i (03:48:03) cm expand ( row ( "Part Definition" "CAP NP_CAP_0603_0.1 UF:CAP_0603:0.1 uF:" ) )
-\t (03:48:03) Symbol "C254" highlighted.
-\i (03:48:03) setwindow pcb
-\i (03:48:03) done 
-\i (03:48:03) signalintegrity 
-\i (03:48:06) pick grid -98.2010 -10.9921
-\t (03:48:06) last pick:  -98.1964  -10.9982
-\i (03:48:06) zoom out 1 
-\i (03:48:06) setwindow pcb
-\i (03:48:06) zoom out -98.2010 -10.9921
-\i (03:48:06) trapsize 1195
-\i (03:48:06) zoom out 1 
-\i (03:48:06) setwindow pcb
-\i (03:48:06) zoom out -98.2010 -10.9921
-\i (03:48:06) trapsize 2389
-\i (04:34:15) pick grid -140.1070 -28.0986
-\t (04:34:15) last pick:  -140.1064  -28.0924
-\i (04:38:42) zoom out 1 
-\i (04:38:42) setwindow pcb
-\i (04:38:42) zoom out -142.9263 -24.9449
-\i (04:38:42) trapsize 4778
-\i (04:38:42) zoom out 1 
-\i (04:38:42) setwindow pcb
-\i (04:38:42) zoom out -142.9262 -24.9449
-\i (04:38:42) trapsize 9557
-\i (04:38:42) zoom in 1 
-\i (04:38:42) setwindow pcb
-\i (04:38:42) zoom in -116.3587 -49.9834
-\i (04:38:42) trapsize 4778
-\i (04:38:43) zoom in 1 
-\i (04:38:43) setwindow pcb
-\i (04:38:43) zoom in -130.6937 -45.9696
-\i (04:38:43) trapsize 2389
-\i (04:38:45) zoom out 1 
-\i (04:38:45) setwindow pcb
-\i (04:38:45) zoom out -128.7824 -45.3006
-\i (04:38:45) trapsize 4778
-\i (04:38:47) zoom out 1 
-\i (04:38:47) setwindow pcb
-\i (04:38:47) zoom out -126.0109 -42.2424
-\i (04:38:47) trapsize 9557
-\i (04:38:49) roam start
-\i (04:38:49) roam y 80
-\i (04:38:49) roam y 160
-\i (04:38:50) roam x 16
-\i (04:38:50) roam y 64
-\i (04:38:50) zoom out 1 
-\i (04:38:50) setwindow pcb
-\i (04:38:50) zoom out 30.4533 -42.2300
-\i (04:38:50) trapsize 19113
-\i (04:38:50) roam y 16
-\i (04:38:50) zoom in 1 
-\i (04:38:50) setwindow pcb
-\i (04:38:50) zoom in 246.6258 -45.2881
-\i (04:38:50) trapsize 9557
-\i (04:38:50) roam end
-\i (04:38:50) zoom in 1 
-\i (04:38:50) setwindow pcb
-\i (04:38:50) zoom in 203.9483 -45.2881
-\i (04:38:50) trapsize 4778
-\i (04:38:51) zoom in 1 
-\i (04:38:51) setwindow pcb
-\i (04:38:51) zoom in 187.8930 -46.3393
-\i (04:38:51) trapsize 2389
-\i (04:38:52) zoom out 1 
-\i (04:38:52) setwindow pcb
-\i (04:38:52) zoom out 187.8931 -46.3393
-\i (04:38:52) trapsize 4778
-\i (04:38:52) zoom out 1 
-\i (04:38:52) setwindow pcb
-\i (04:38:52) zoom out 187.8930 -46.3393
-\i (04:38:52) trapsize 9557
-\i (04:38:54) zoom points 
-\t (04:38:54) Pick 1st corner of the new window.
-\i (04:38:55) zoom fit 
-\i (04:38:55) trapsize 4646
-\i (04:38:56) roam start
-\i (04:38:56) roam x -80
-\i (04:38:56) roam x -240
-\i (04:38:56) roam x -128
-\i (04:38:56) roam y 16
-\i (04:38:57) roam x -48
-\i (04:38:57) roam y 16
-\i (04:38:57) roam x -48
-\i (04:38:57) roam end
-\i (04:38:58) pick -131.6537 -49.2454
-\t (04:38:58) last pick:  -131.6537  -49.2454
-\t (04:38:58) Pick to complete the window.
-\i (04:39:02) prepopup -134.3485 -41.9045
-\i (04:39:03) cancel 
-\i (04:39:03) signalintegrity 
-\i (04:39:05) zoom in 1 
-\i (04:39:05) setwindow pcb
-\i (04:39:05) zoom in -106.2859 -11.5189
-\i (04:39:05) trapsize 2323
-\i (04:39:05) zoom in 1 
-\i (04:39:05) setwindow pcb
-\i (04:39:05) zoom in -106.2859 -11.5189
-\i (04:39:05) trapsize 1162
-\i (04:39:06) zoom in 1 
-\i (04:39:06) setwindow pcb
-\i (04:39:06) zoom in -106.0536 -11.5653
-\i (04:39:06) trapsize 581
-\i (04:39:07) dehilight 
-\i (04:39:08) pick grid -104.9734 -11.4260
-\t (04:39:08) last pick:  -104.9782  -11.4300
-\i (04:39:09) zoom out 1 
-\i (04:39:09) setwindow pcb
-\i (04:39:09) zoom out -104.8804 -11.3446
-\i (04:39:09) trapsize 1162
-\i (04:39:09) zoom out 1 
-\i (04:39:09) setwindow pcb
-\i (04:39:09) zoom out -104.9037 -11.7396
-\i (04:39:09) trapsize 2323
-\i (04:39:12) xrefdes C254 
-\i (04:39:12) xname_flush 
-\t (04:39:12) Symbol "C254" dehighlighted.
-\i (04:39:17) setwindow form.vf_vis
-\i (04:39:17) FORM vf_vis all_all_visible YES 
-\i (04:39:18) FORM vf_vis all_all_visible_pln YES 
-\i (04:39:18) FORM vf_vis all_all_visible_pln NO 
-\i (04:39:19) FORM vf_vis all_all_visible_pln YES 
-\i (04:39:20) FORM vf_vis 2 all_colorvisible NO 
-\i (04:54:31) setwindow pcb
-\i (04:54:31) pick grid -124.3709 -41.5676
-\t (04:54:31) last pick:  -124.3584  -41.5798
-\i (04:54:31) zoom out 1 
-\i (04:54:31) setwindow pcb
-\i (04:54:31) zoom out -123.7204 -40.9636
-\i (04:54:31) trapsize 4646
-\i (04:54:31) zoom out 1 
-\i (04:54:31) setwindow pcb
-\i (04:54:31) zoom out -123.7205 -40.9636
-\i (04:54:31) trapsize 9292
-\i (04:54:32) zoom in 1 
-\i (04:54:32) setwindow pcb
-\i (04:54:32) zoom in -125.5790 -56.9462
-\i (04:54:32) trapsize 4646
-\i (04:54:32) zoom in 1 
-\i (04:54:32) setwindow pcb
-\i (04:54:32) zoom in -125.5790 -56.9462
-\i (04:54:32) trapsize 2323
-\i (04:54:32) zoom in 1 
-\i (04:54:32) setwindow pcb
-\i (04:54:32) zoom in -125.4396 -56.5745
-\i (04:54:32) trapsize 1162
-\i (04:54:32) zoom out 1 
-\i (04:54:32) setwindow pcb
-\i (04:54:32) zoom out -123.7205 -53.2525
-\i (04:54:32) trapsize 2323
-\i (04:54:32) zoom out 1 
-\i (04:54:32) setwindow pcb
-\i (04:54:32) zoom out -123.7205 -53.2525
-\i (04:54:32) trapsize 4646
-\i (04:54:33) zoom in 1 
-\i (04:54:33) setwindow pcb
-\i (04:54:33) zoom in -136.0793 -34.8540
-\i (04:54:33) trapsize 2323
-\i (04:54:35) roam start
-\i (04:54:35) roam x 96
-\i (04:54:35) roam y -96
-\i (04:54:35) zoom in 1 
-\i (04:54:35) setwindow pcb
-\i (04:54:35) zoom in -119.8533 -32.1485
-\i (04:54:35) trapsize 1162
-\i (04:54:35) roam x 80
-\i (04:54:35) roam y -80
-\i (04:54:35) roam x 64
-\i (04:54:35) roam y -96
-\i (04:54:36) roam x 16
-\i (04:54:36) roam y -16
-\i (04:54:36) roam x 32
-\i (04:54:36) roam y -32
-\i (04:54:36) roam x 64
-\i (04:54:36) roam y -32
-\i (04:54:36) roam x 48
-\i (04:54:36) roam y -32
-\i (04:54:36) roam x 128
-\i (04:54:36) roam y -64
-\i (04:54:36) roam x 80
-\i (04:54:36) roam y -16
-\i (04:54:36) roam x 112
-\i (04:54:36) roam y -16
-\i (04:54:36) roam x 64
-\i (04:54:36) roam y -16
-\i (04:54:36) roam x 128
-\i (04:54:36) roam y -32
-\i (04:54:36) roam x 80
-\i (04:54:36) roam y -16
-\i (04:54:36) roam x 48
-\i (04:54:36) roam y -16
-\i (04:54:36) roam x -64
-\i (04:54:36) roam end
-\i (04:54:38) zoom out 1 
-\i (04:54:38) setwindow pcb
-\i (04:54:38) zoom out -97.1105 -22.2756
-\i (04:54:38) trapsize 2323
-\i (04:54:39) zoom in 1 
-\i (04:54:39) setwindow pcb
-\i (04:54:39) zoom in -109.8873 -12.7046
-\i (04:54:39) trapsize 1162
-\i (04:54:39) zoom in 1 
-\i (04:54:39) setwindow pcb
-\i (04:54:39) zoom in -109.8873 -12.7046
-\i (04:54:39) trapsize 581
-\i (04:54:39) zoom out 1 
-\i (04:54:39) setwindow pcb
-\i (04:54:39) zoom out -109.8873 -12.7046
-\i (04:54:39) trapsize 1162
-\i (04:54:51) xrefdes Q2 
-\i (04:54:51) xname_flush 
-\i (04:54:53) xrefdes Q2 
-\i (04:54:53) xname_flush 
-\i (04:54:54) drc update 
-\t (04:54:54) Performing DRC...
-\t (04:54:54) Multithreaded DRC update (8 threads).
-\t (04:54:55) DRC done; 301 errors detected.
-\i (04:54:55) signalintegrity 
-\i (04:54:57) save 
-\i (04:54:57) fillin yes 
-\i (04:54:58) signalintegrity 
-\i (04:54:59) xhilite 
-\i (04:54:59) xrefdes D5 
-\i (04:54:59) xname_flush 
-\i (04:54:59) trapsize 510
-\i (04:54:59) setwindow cmgr
-\i (04:54:59) cm expand ( row ( Design "STANDARD" ) )
-\i (04:54:59) cm expand ( row ( "Part Definition" "DIODE_SCHOTTKY_DSIZE_SOD_123_ST:SOD_123:STPS0560Z:" ) )
-\t (04:54:59) Symbol "D5" highlighted.
-\i (04:54:59) setwindow pcb
-\i (04:54:59) done 
-\i (04:54:59) signalintegrity 
-\i (04:55:00) pick grid -132.0014 -65.1645
-\t (04:55:00) last pick:  -132.0038  -65.1764
-\i (04:55:01) zoom out 1 
-\i (04:55:01) setwindow pcb
-\i (04:55:01) zoom out -132.0014 -65.1645
-\i (04:55:01) trapsize 1021
-\i (04:55:01) zoom out 1 
-\i (04:55:01) setwindow pcb
-\i (04:55:01) zoom out -132.0014 -65.1646
-\i (04:55:01) trapsize 2041
-\i (04:55:01) zoom out 1 
-\i (04:55:01) setwindow pcb
-\i (04:55:01) zoom out -132.0013 -65.0829
-\i (04:55:01) trapsize 4082
-\i (04:55:01) zoom out 1 
-\i (04:55:01) setwindow pcb
-\i (04:55:01) zoom out -132.0012 -65.0829
-\i (04:55:01) trapsize 8165
-\i (04:55:02) zoom in 1 
-\i (04:55:02) setwindow pcb
-\i (04:55:02) zoom in -79.1428 -12.9911
-\i (04:55:02) trapsize 4082
-\i (04:55:02) zoom in 1 
-\i (04:55:02) setwindow pcb
-\i (04:55:02) zoom in -79.3877 -13.1544
-\i (04:55:02) trapsize 2041
-\i (04:55:05) xhilite 
-\i (04:55:05) xrefdes D11 
-\i (04:55:05) xname_flush 
-\i (04:55:05) trapsize 379
-\i (04:55:05) setwindow cmgr
-\i (04:55:05) cm expand ( row ( Design "STANDARD" ) )
-\i (04:55:05) cm expand ( row ( "Part Definition" "DIODE ZENER_DO-219AB_SMF15A-GS0:DO-219AB:SMF15A-GS08:" ) )
-\t (04:55:05) Symbol "D11" highlighted.
-\i (04:55:05) setwindow pcb
-\i (04:55:05) done 
-\i (04:55:06) signalintegrity 
-\i (04:55:07) pick grid -95.5260 -20.0398
-\t (04:55:07) last pick:  -95.5294  -20.0406
-\i (04:55:07) zoom out 1 
-\i (04:55:07) setwindow pcb
-\i (04:55:07) zoom out -95.7081 -20.0322
-\i (04:55:07) trapsize 759
-\i (04:55:07) zoom out 1 
-\i (04:55:07) setwindow pcb
-\i (04:55:07) zoom out -95.7081 -20.0321
-\i (04:55:07) trapsize 1517
-\i (04:55:08) roam start
-\i (04:55:09) roam x -64
-\i (04:55:09) roam x -32
-\i (04:55:09) roam y 16
-\i (04:55:09) roam x -48
-\i (04:55:09) roam x -48
-\i (04:55:09) roam y 16
-\i (04:55:09) roam end
-\i (04:55:13) xdehilite 
-\i (04:55:13) xrefdes D11 
-\i (04:55:13) xname_flush 
-\t (04:55:13) Symbol "D11" dehighlighted.
-\i (04:55:13) done 
-\i (04:55:13) signalintegrity 
-\i (04:55:13) xhilite 
-\i (04:55:14) xrefdes C253 
-\i (04:55:14) xname_flush 
-\i (04:55:14) trapsize 385
-\i (04:55:14) setwindow cmgr
-\i (04:55:14) cm expand ( row ( Design "STANDARD" ) )
-\i (04:55:14) cm expand ( row ( "Part Definition" "CAP NP_CAP_0603_0.1 UF:CAP_0603:0.1 uF:" ) )
-\t (04:55:14) Symbol "C253" highlighted.
-\i (04:55:14) setwindow pcb
-\i (04:55:14) done 
-\i (04:55:14) signalintegrity 
-\i (04:55:15) pick grid -90.9482 -16.7473
-\t (04:55:15) last pick:  -90.9574  -16.7386
-\i (04:55:15) zoom out 1 
-\i (04:55:15) setwindow pcb
-\i (04:55:15) zoom out -90.9482 -16.7473
-\i (04:55:15) trapsize 771
-\i (04:55:15) zoom out 1 
-\i (04:55:15) setwindow pcb
-\i (04:55:15) zoom out -90.9483 -16.7473
-\i (04:55:15) trapsize 1541
-\i (04:55:16) xdehilite 
-\i (04:55:16) xrefdes C253 
-\i (04:55:16) xname_flush 
-\t (04:55:16) Symbol "C253" dehighlighted.
-\i (04:55:16) done 
-\i (04:55:16) signalintegrity 
-\i (04:55:18) xhilite 
-\i (04:55:18) xrefdes C254 
-\i (04:55:18) xname_flush 
-\i (04:55:18) trapsize 597
-\i (04:55:18) setwindow cmgr
-\i (04:55:18) cm expand ( row ( Design "STANDARD" ) )
-\i (04:55:18) cm expand ( row ( "Part Definition" "CAP NP_CAP_0603_0.1 UF:CAP_0603:0.1 uF:" ) )
-\t (04:55:18) Symbol "C254" highlighted.
-\i (04:55:18) setwindow pcb
-\i (04:55:18) done 
-\i (04:55:18) signalintegrity 
-\i (04:55:19) pick grid -98.2727 -11.0757
-\t (04:55:19) last pick:  -98.2726  -11.0744
-\i (04:55:19) zoom out 1 
-\i (04:55:19) setwindow pcb
-\i (04:55:19) zoom out -98.2727 -11.0757
-\i (04:55:19) trapsize 1195
-\i (04:55:19) zoom out 1 
-\i (04:55:19) setwindow pcb
-\i (04:55:19) zoom out -98.2726 -11.0758
-\i (04:55:19) trapsize 2389
-\i (04:55:20) roam start
-\i (04:55:20) roam x 80
-\i (04:55:20) roam x 64
-\i (04:55:20) roam y -16
-\i (04:55:20) roam x 48
-\i (04:55:20) roam x 32
-\i (04:55:20) roam x 48
-\i (04:55:20) roam x 16
-\i (04:55:21) roam end
-\i (04:55:23) xdehilite 
-\i (04:55:23) xrefdes C254 
-\i (04:55:23) xname_flush 
-\t (04:55:23) Symbol "C254" dehighlighted.
-\i (04:55:23) done 
-\i (04:55:23) xhilite 
-\i (04:55:23) xrefdes Fb7 
-\i (04:55:23) xname_flush 
-\i (04:55:23) trapsize 366
-\i (04:55:23) setwindow cmgr
-\i (04:55:23) cm expand ( row ( Design "STANDARD" ) )
-\i (04:55:23) cm expand ( row ( "Part Definition" "FERRITE_FLTR_0805_HI0805R800R-1:FLTR_0805:HI0805R800R-10:" ) )
-\t (04:55:23) Symbol "Fb7" highlighted.
-\i (04:55:23) setwindow pcb
-\i (04:55:23) done 
-\i (04:55:23) signalintegrity 
-\i (04:55:24) pick grid -90.1212 -12.3127
-\t (04:55:24) last pick:  -90.1192  -12.3190
-\i (04:55:24) zoom out 1 
-\i (04:55:24) setwindow pcb
-\i (04:55:24) zoom out -90.1212 -12.2981
-\i (04:55:24) trapsize 732
-\i (04:55:24) zoom out 1 
-\i (04:55:24) setwindow pcb
-\i (04:55:24) zoom out -90.1210 -12.2980
-\i (04:55:24) trapsize 1465
-\i (04:55:30) xdehilite 
-\i (04:55:30) xrefdes Fb7 
-\i (04:55:30) xname_flush 
-\t (04:55:30) Symbol "Fb7" dehighlighted.
-\i (04:55:30) done 
-\i (04:55:30) xhilite 
-\i (04:55:30) xrefdes C254 
-\i (04:55:30) xname_flush 
-\i (04:55:30) trapsize 597
-\i (04:55:30) setwindow cmgr
-\i (04:55:30) cm expand ( row ( Design "STANDARD" ) )
-\i (04:55:30) cm expand ( row ( "Part Definition" "CAP NP_CAP_0603_0.1 UF:CAP_0603:0.1 uF:" ) )
-\t (04:55:30) Symbol "C254" highlighted.
-\i (04:55:30) setwindow pcb
-\i (04:55:30) done 
-\i (04:55:30) signalintegrity 
-\i (04:55:31) pick grid -97.4007 -10.5382
-\t (04:55:31) last pick:  -97.4090  -10.5410
-\i (04:55:32) zoom out 1 
-\i (04:55:32) setwindow pcb
-\i (04:55:32) zoom out -97.4365 -10.5382
-\i (04:55:32) trapsize 1195
-\i (04:55:32) zoom out 1 
-\i (04:55:32) setwindow pcb
-\i (04:55:32) zoom out -97.4364 -10.5381
-\i (04:55:32) trapsize 2389
-\i (04:55:33) roam start
-\i (04:55:33) roam x 48
-\i (04:55:33) roam x 80
-\i (04:55:33) roam x 64
-\i (04:55:33) roam x 48
-\i (04:55:33) roam x 32
-\i (04:55:33) roam end
-\i (04:55:34) xdehilite 
-\i (04:55:34) xrefdes C254 
-\i (04:55:34) xname_flush 
-\t (04:55:34) Symbol "C254" dehighlighted.
-\i (04:55:34) done 
-\i (04:55:34) xhilite 
-\i (04:55:34) xrefdes C255 
-\i (04:55:34) xname_flush 
-\i (04:55:34) trapsize 727
-\i (04:55:34) setwindow cmgr
-\i (04:55:34) cm expand ( row ( Design "STANDARD" ) )
-\i (04:55:34) cm expand ( row ( "Part Definition" "CAP NP_CAP_1206_10UF:CAP_1206:10uF:" ) )
-\t (04:55:34) Symbol "C255" highlighted.
-\i (04:55:34) setwindow pcb
-\i (04:55:34) done 
-\i (04:55:34) signalintegrity 
-\i (04:55:35) pick grid -95.6686 -20.1117
-\t (04:55:35) last pick:  -95.6564  -20.1168
-\i (04:55:36) zoom out 1 
-\i (04:55:36) setwindow pcb
-\i (04:55:36) zoom out -95.6105 -20.0971
-\i (04:55:36) trapsize 1454
-\i (04:55:36) roam start
-\i (04:55:36) roam x 80
-\i (04:55:36) roam x 64
-\i (04:55:36) roam x 80
-\i (04:55:36) roam x 48
-\i (04:55:37) roam x 48
-\i (04:55:37) roam x 48
-\i (04:55:37) roam end
-\i (04:55:38) xdehilite 
-\i (04:55:38) xrefdes C255 
-\i (04:55:38) xname_flush 
-\t (04:55:38) Symbol "C255" dehighlighted.
-\i (04:55:38) done 
-\i (04:55:38) xhilite 
-\i (04:55:38) xrefdes C256 
-\i (04:55:38) xname_flush 
-\i (04:55:38) trapsize 986
-\i (04:55:38) setwindow cmgr
-\i (04:55:38) cm expand ( row ( Design "STANDARD" ) )
-\i (04:55:38) cm expand ( row ( "Part Definition" "CAP POL_CAP-FK-V-CASEE_PAN_100:CAP-FK-V-CASEE_PAN:100 uF:" ) )
-\t (04:55:38) Symbol "C256" highlighted.
-\i (04:55:38) setwindow pcb
-\i (04:55:38) done 
-\i (04:55:38) signalintegrity 
-\i (04:55:42) pick grid -97.2139 -22.2002
-\t (04:55:42) last pick:  -97.2058  -22.1996
-\i (04:55:42) zoom out 1 
-\i (04:55:42) setwindow pcb
-\i (04:55:42) zoom out -96.9180 -22.1411
-\i (04:55:42) trapsize 1972
-\i (04:55:48) setwindow form.find
-\i (04:55:48) FORM find shapes YES 
-\i (04:55:49) setwindow pcb
-\i (04:55:49) pick grid -98.7325 -8.0202
-\t (04:55:49) last pick:  -98.7298  -8.0264
-\i (04:55:49) setwindow cmgr
-\i (04:55:49) cm expand ( row ( Design "STANDARD" ) )
-\i (04:55:49) cm expand ( row ( Design "STANDARD" ) )
-\i (04:55:50) setwindow pcb
-\i (04:55:50) zoom out 1 
-\i (04:55:50) setwindow pcb
-\i (04:55:50) zoom out -97.7464 -9.8740
-\i (04:55:50) trapsize 3944
-\i (04:55:50) zoom out 1 
-\i (04:55:50) setwindow pcb
-\i (04:55:50) zoom out -97.6674 -10.0319
-\i (04:55:50) trapsize 7889
-\i (04:55:50) zoom out 1 
-\i (04:55:50) setwindow pcb
-\i (04:55:50) zoom out -97.6674 -10.0318
-\i (04:55:50) trapsize 15777
-\i (04:55:51) zoom in 1 
-\i (04:55:51) setwindow pcb
-\i (04:55:51) zoom in -95.1662 -32.4358
-\i (04:55:51) trapsize 7889
-\i (04:55:51) zoom in 1 
-\i (04:55:51) setwindow pcb
-\i (04:55:51) zoom in -95.1662 -32.4358
-\i (04:55:51) trapsize 3944
-\i (04:55:52) roam start
-\i (04:55:52) roam x 80
-\i (04:55:52) roam y -80
-\i (04:55:52) roam x 128
-\i (04:55:52) roam y -80
-\i (04:55:53) roam x 112
-\i (04:55:53) roam y -48
-\i (04:55:53) roam x 96
-\i (04:55:53) roam y -32
-\i (04:55:53) roam x 32
-\i (04:55:53) roam y -16
-\i (04:55:53) roam x -64
-\i (04:55:53) roam x -176
-\i (04:55:53) roam y 32
-\i (04:55:53) roam x -32
-\i (04:55:53) roam x -48
-\i (04:55:53) roam x -64
-\i (04:55:53) roam x -176
-\i (04:55:54) roam x -48
-\i (04:55:54) roam end
-\i (04:55:54) zoom in 1 
-\i (04:55:54) setwindow pcb
-\i (04:55:54) zoom in -99.6629 -13.2245
-\i (04:55:54) trapsize 1972
-\i (04:55:54) zoom in 1 
-\i (04:55:54) setwindow pcb
-\i (04:55:54) zoom in -99.6629 -13.2245
-\i (04:55:54) trapsize 986
-\i (04:56:01) pick grid -89.9992 -14.7825
-\t (04:56:01) last pick:  -89.9922  -14.7828
-\i (04:56:27) groupedit 
-\t (04:56:28) Pick a group to edit or select a group from the Options form.
-\i (04:56:33) setwindow form.mini
-\i (04:56:33) FORM mini grouplist POWERONOFF 
-\i (04:56:33) setwindow cmgr
-\i (04:56:33) cm expand ( row ( Design "STANDARD" ) )
-\i (04:56:33) cm expand ( row ( Design "STANDARD" ) )
-\i (04:56:33) cm expand ( row ( Design "STANDARD" ) )
-\i (04:56:33) cm expand ( row ( Design "STANDARD" ) )
-\i (04:56:33) cm expand ( row ( Design "STANDARD" ) )
-\i (04:56:33) cm expand ( row ( "Part Definition" "CAP NP_CAP_0402_0.1UF:CAP_0402:0.1uF:" ) )
-\i (04:56:33) cm expand ( row ( Design "STANDARD" ) )
-\i (04:56:33) cm expand ( row ( "Part Definition" "R_RES_0402_10K:RES_0402:10K:" ) )
-\i (04:56:33) cm expand ( row ( Design "STANDARD" ) )
-\i (04:56:33) cm expand ( row ( Design "STANDARD" ) )
-\i (04:56:33) cm expand ( row ( Design "STANDARD" ) )
-\i (04:56:33) cm expand ( row ( Design "STANDARD" ) )
-\i (04:56:33) cm expand ( row ( Design "STANDARD" ) )
-\i (04:56:33) cm expand ( row ( "Part Definition" "SN74LVC1G17DBV_TI_DBV_SN74LVC1G:TI_DBV:SN74LVC1G17DBV:" ) )
-\i (04:56:33) cm expand ( row ( Design "STANDARD" ) )
-\i (04:56:33) cm expand ( row ( "Part Definition" "CAP NP_CAP_0402_0.1UF:CAP_0402:0.1uF:" ) )
-\t (04:56:33) Choose items to add to or remove from the group.
-\i (04:56:35) setwindow form.mini
-\i (04:56:35) FORM mini grouplist JTAGBOUNDARYSCAN 
-\i (04:56:38) fillin no 
-\i (04:56:39) setwindow pcb
-\i (04:56:39) prepopup -90.5120 -11.2522
-\i (04:56:40) cancel 
-\i (04:56:40) signalintegrity 
-\i (04:56:43) groupedit 
-\t (04:56:44) Pick a group to edit or select a group from the Options form.
-\i (04:56:50) setwindow form.mini
-\i (04:56:50) FORM mini groupname 12VLD 
-\i (04:56:51) fillin yes 
-\t (04:56:51) Choose items to add to or remove from the group.
-\i (04:59:54) setwindow pcb
-\i (04:59:54) pick grid -102.8578 -9.9901
-\t (04:59:54) last pick:  -102.8700  -9.9822
-\i (04:59:55) pick grid -95.5805 -10.1676
-\t (04:59:55) last pick:  -95.5802  -10.1600
-\i (05:00:00) pick grid -94.9297 -11.1734
-\t (05:00:00) last pick:  -94.9198  -11.1760
-\i (05:00:01) roam start
-\i (05:00:01) roam x -16
-\i (05:00:01) roam y 32
-\i (05:00:02) roam y 32
-\i (05:00:02) roam end
-\i (05:00:07) prepopup -90.3147 -14.6051
-\i (05:00:11) setwindow form.find
-\i (05:00:11) FORM find all_off  
-\i (05:00:12) FORM find vias YES 
-\i (05:00:13) setwindow pcb
-\i (05:00:13) pick grid -94.3182 -20.2258
-\t (05:00:13) last pick:  -94.3102  -20.2184
-\i (05:00:13) setwindow cmgr
-\i (05:00:13) cm expand ( row ( Design "STANDARD" ) )
-\i (05:00:13) cm expand ( row ( Design "STANDARD" ) )
-\i (05:00:13) setwindow pcb
-\i (05:00:13) pick grid -93.4899 -20.1666
-\t (05:00:13) last pick:  -93.4974  -20.1676
-\i (05:00:14) pick grid -92.4841 -20.1666
-\t (05:00:14) last pick:  -92.4814  -20.1676
-\i (05:00:14) pick grid -91.9713 -20.1469
-\t (05:00:14) last pick:  -91.9734  -20.1422
-\i (05:00:14) pick grid -91.8135 -19.5355
-\t (05:00:14) last pick:  -91.8210  -19.5326
-\i (05:00:15) pick grid -92.5038 -19.4763
-\t (05:00:15) last pick:  -92.5068  -19.4818
-\i (05:00:15) pick grid -93.2335 -19.3383
-\t (05:00:15) last pick:  -93.2434  -19.3294
-\i (05:00:16) pick grid -94.1802 -19.3186
-\t (05:00:16) last pick:  -94.1832  -19.3294
-\i (05:00:17) pick grid -95.9748 -15.6503
-\t (05:00:17) last pick:  -95.9866  -15.6464
-\i (05:00:17) setwindow cmgr
-\i (05:00:17) cm expand ( row ( Design "STANDARD" ) )
-\i (05:00:17) cm expand ( row ( Design "STANDARD" ) )
-\i (05:00:17) setwindow pcb
-\i (05:00:17) pick grid -96.5271 -17.9972
-\t (05:00:17) last pick:  -96.5200  -18.0086
-\i (05:00:19) pick grid -99.8009 -19.7327
-\t (05:00:19) last pick:  -99.7966  -19.7358
-\i (05:00:21) pick grid -105.2441 -19.2791
-\t (05:00:21) last pick:  -105.2322  -19.2786
-\i (05:00:21) pick grid -106.0132 -19.2397
-\t (05:00:21) last pick:  -106.0196  -19.2278
-\i (05:00:25) pick grid -105.6188 -9.8127
-\t (05:00:25) last pick:  -105.6132  -9.8044
-\i (05:00:26) pick grid -104.2975 -11.7060
-\t (05:00:26) last pick:  -104.2924  -11.7094
-\i (05:00:26) setwindow cmgr
-\i (05:00:26) cm expand ( row ( Design "STANDARD" ) )
-\i (05:00:26) cm expand ( row ( Design "STANDARD" ) )
-\i (05:00:26) setwindow pcb
-\i (05:00:26) pick grid -103.2325 -11.7060
-\t (05:00:26) last pick:  -103.2256  -11.7094
-\i (05:00:27) pick grid -102.6803 -11.7257
-\t (05:00:27) last pick:  -102.6922  -11.7348
-\i (05:00:27) pick grid -102.5225 -12.3962
-\t (05:00:27) last pick:  -102.5144  -12.3952
-\i (05:00:28) pick grid -102.4436 -13.1851
-\t (05:00:28) last pick:  -102.4382  -13.1826
-\i (05:00:28) pick grid -102.3647 -14.1317
-\t (05:00:28) last pick:  -102.3620  -14.1224
-\i (05:00:29) pick grid -103.4494 -12.4948
-\t (05:00:29) last pick:  -103.4542  -12.4968
-\i (05:00:29) pick grid -104.1002 -12.5934
-\t (05:00:29) last pick:  -104.0892  -12.5984
-\i (05:00:37) setwindow form.find
-\i (05:00:37) FORM find vias NO 
-\i (05:00:40) FORM find symbols YES 
-\i (05:00:41) setwindow pcb
-\i (05:00:41) pick grid -105.2638 -11.5285
-\t (05:00:41) last pick:  -105.2576  -11.5316
-\i (05:00:41) setwindow cmgr
-\i (05:00:41) cm expand ( row ( Design "STANDARD" ) )
-\i (05:00:41) cm expand ( row ( "Part Definition" "CAP NP_CAP_0603_0.1 UF:CAP_0603:0.1 uF:" ) )
-\i (05:00:43) setwindow pcb
-\i (05:00:43) pick grid -106.1119 -17.2083
-\t (05:00:43) last pick:  -106.1212  -17.1958
-\i (05:00:43) setwindow cmgr
-\i (05:00:43) cm expand ( row ( Design "STANDARD" ) )
-\i (05:00:43) cm expand ( row ( "Part Definition" "CAP NP_CAP_1206_10UF:CAP_1206:10uF:" ) )
-\i (05:00:53) setwindow pcb
-\i (05:00:53) pick grid -94.0224 -13.6584
-\t (05:00:53) last pick:  -94.0308  -13.6652
-\i (05:00:53) setwindow cmgr
-\i (05:00:53) cm expand ( row ( Design "STANDARD" ) )
-\i (05:00:53) cm expand ( row ( "Part Definition" "FERRITE_FLTR_0805_HI0805R800R-1:FLTR_0805:HI0805R800R-10:" ) )
-\i (05:00:53) setwindow pcb
-\i (05:00:53) pick grid -93.8646 -15.2756
-\t (05:00:53) last pick:  -93.8530  -15.2654
-\i (05:00:54) pick grid -94.0027 -15.4137
-\t (05:00:54) last pick:  -94.0054  -15.4178
-\i (05:00:55) pick grid -94.1013 -16.2617
-\t (05:00:55) last pick:  -94.1070  -16.2560
-\i (05:00:56) pick grid -94.2985 -16.4786
-\t (05:00:56) last pick:  -94.3102  -16.4846
-\i (05:00:56) setwindow cmgr
-\i (05:00:56) cm expand ( row ( Design "STANDARD" ) )
-\i (05:00:56) cm expand ( row ( "Part Definition" "CAP NP_CAP_0603_0.1 UF:CAP_0603:0.1 uF:" ) )
-\i (05:00:57) setwindow pcb
-\i (05:00:57) pick grid -94.3577 -17.0506
-\t (05:00:57) last pick:  -94.3610  -17.0434
-\i (05:00:57) setwindow cmgr
-\i (05:00:57) cm expand ( row ( Design "STANDARD" ) )
-\i (05:00:57) cm expand ( row ( "Part Definition" "DIODE ZENER_DO-219AB_SMF15A-GS0:DO-219AB:SMF15A-GS08:" ) )
-\i (05:01:00) setwindow form.find
-\i (05:01:00) FORM find symbols NO 
-\i (05:01:00) FORM find clines YES 
-\i (05:01:02) setwindow pcb
-\i (05:01:02) pick grid -105.5991 -10.4832
-\t (05:01:02) last pick:  -105.5878  -10.4902
-\i (05:01:05) pick grid -105.7371 -18.0564
-\t (05:01:05) last pick:  -105.7402  -18.0594
-\i (05:01:06) pick grid -105.0469 -18.3916
-\t (05:01:06) last pick:  -105.0544  -18.3896
-\i (05:01:08) pick grid -100.3136 -18.7269
-\t (05:01:08) last pick:  -100.3046  -18.7198
-\i (05:01:10) pick grid -96.3101 -18.0564
-\t (05:01:10) last pick:  -96.3168  -18.0594
-\i (05:01:10) pick grid -95.2846 -15.9264
-\t (05:01:10) last pick:  -95.2754  -15.9258
-\i (05:01:21) setwindow form.find
-\i (05:01:21) FORM find clines NO 
-\i (05:01:22) FORM find shapes YES 
-\i (05:01:24) setwindow pcb
-\i (05:01:24) pick grid -101.1025 -14.6839
-\t (05:01:24) last pick:  -101.0920  -14.6812
-\i (05:01:26) pick grid -91.5374 -16.4589
-\t (05:01:26) last pick:  -91.5416  -16.4592
-\i (05:01:28) prepopup -90.5316 -14.9798
-\i (05:01:29) done 
-\i (05:01:29) signalintegrity 
-\i (05:01:30) pick grid -95.6001 -19.5158
-\t (05:01:30) last pick:  -95.6056  -19.5072
-\i (05:01:31) zoom out 1 
-\i (05:01:31) setwindow pcb
-\i (05:01:31) zoom out -95.4621 -19.6933
-\i (05:01:31) trapsize 1972
-\i (05:01:33) zoom out 1 
-\i (05:01:33) setwindow pcb
-\i (05:01:33) zoom out -96.4087 -20.4821
-\i (05:01:33) trapsize 3944
-\i (05:01:33) zoom in 1 
-\i (05:01:33) setwindow pcb
-\i (05:01:33) zoom in -96.5665 -20.8766
-\i (05:01:33) trapsize 1972
-\i (05:01:35) move 
-\t (05:01:35) Select element(s) to move.
-\i (05:01:37) setwindow form.find
-\i (05:01:37) FORM find find_by_name  
-\i (05:01:40) setwindow form.findname
-\i (05:01:40) FORM findname objlist 12Vld 
-\i (05:01:40) FORM findname done  
-\i (05:01:40) setwindow cmgr
-\i (05:01:40) cm expand ( row ( Design "STANDARD" ) )
-\i (05:01:40) cm expand ( row ( Design "STANDARD" ) )
-\i (05:01:40) cm expand ( row ( Design "STANDARD" ) )
-\i (05:01:40) cm expand ( row ( Design "STANDARD" ) )
-\i (05:01:40) cm expand ( row ( Design "STANDARD" ) )
-\i (05:01:40) cm expand ( row ( Design "STANDARD" ) )
-\i (05:01:40) cm expand ( row ( Design "STANDARD" ) )
-\i (05:01:40) cm expand ( row ( "Part Definition" "CAP NP_CAP_0603_0.1 UF:CAP_0603:0.1 uF:" ) )
-\i (05:01:40) cm expand ( row ( Design "STANDARD" ) )
-\i (05:01:40) cm expand ( row ( "Part Definition" "CAP NP_CAP_1206_10UF:CAP_1206:10uF:" ) )
-\i (05:01:40) cm expand ( row ( Design "STANDARD" ) )
-\i (05:01:41) cm expand ( row ( "Part Definition" "FERRITE_FLTR_0805_HI0805R800R-1:FLTR_0805:HI0805R800R-10:" ) )
-\i (05:01:41) cm expand ( row ( Design "STANDARD" ) )
-\i (05:01:41) cm expand ( row ( "Part Definition" "CAP NP_CAP_0603_0.1 UF:CAP_0603:0.1 uF:" ) )
-\i (05:01:41) cm expand ( row ( Design "STANDARD" ) )
-\i (05:01:41) cm expand ( row ( "Part Definition" "DIODE ZENER_DO-219AB_SMF15A-GS0:DO-219AB:SMF15A-GS08:" ) )
-\i (05:01:43) setwindow pcb
-\i (05:01:43) pick grid -92.0699 -15.3545
-\t (05:01:43) last pick:  -92.0750  -15.3670
-\t (05:01:43) Element has no origin, using pick.
-\t (05:01:43) Element has no origin, using pick.
-\t (05:01:43) Element has no origin, using pick.
-\t (05:01:43) Element has no origin, using pick.
-\t (05:01:43) Element has no origin, using pick.
-\t (05:01:43) Element has no origin, using pick.
-\t (05:01:43) Element has no origin, using pick.
-\t (05:01:43) Element has no origin, using pick.
-\t (05:01:43) Moving C254 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
-\t (05:01:43) Moving C255 / CAP NP_CAP_1206_10UF / CAP_1206.
-\t (05:01:43) Moving FB7 / FERRITE_FLTR_0805_HI0805R800R-1 / FLTR_0805.
-\t (05:01:43) Moving C253 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
-\t (05:01:43) Moving D11 / DIODE ZENER_DO-219AB_SMF15A-GS0 / DO-219AB.
-\t (05:01:43) Pick new location for the element(s).
-\i (05:01:46) prepopup -90.6105 2.3557
-\i (05:01:47) cancel 
-\i (05:01:47) signalintegrity 
-\i (05:01:48) pick grid -96.9215 -21.2710
-\t (05:01:48) last pick:  -96.9264  -21.2598
-\i (05:01:48) zoom in 1 
-\i (05:01:48) setwindow pcb
-\i (05:01:48) zoom in -96.9215 -21.1921
-\i (05:01:48) trapsize 986
-\i (05:01:48) zoom in 1 
-\i (05:01:48) setwindow pcb
-\i (05:01:48) zoom in -96.9214 -21.1921
-\i 
+\t (00:00:02) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:02)     Journal start - Mon Jul 28 10:45:38 2014
+\t (00:00:02)         Host=SHANG-X201 User=shang Pid=1256 CPUs=4
+\t (00:00:02) 
+\t (00:00:04) Opening existing design...
+\i (00:00:05) fillin yes 
+\d (00:00:05) Database opened: D:/Dropbox/Design/allegroProject/designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd
+\i (00:00:05) trapsize 1014
+\i (00:00:05) trapsize 984
+\i (00:00:05) trapsize 1019
+\i (00:00:05) trapsize 1127
+\i (00:00:06) trapsize 1730
+\i (00:00:07) trapsize 677
+\i (00:00:07) generaledit 
+\i (00:00:13) pick grid -120.8925 -24.1699
+\t (00:00:13) last pick:  -120.9040  -24.1808
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out -120.0932 -24.1835
+\i (00:00:13) trapsize 1355
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out -119.9307 -24.2376
+\i (00:00:13) trapsize 2709
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out -119.8764 -24.0208
+\i (00:00:13) trapsize 5419
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in -117.6005 -20.1191
+\i (00:00:15) trapsize 2709
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in -118.1423 -21.2029
+\i (00:00:15) trapsize 1355
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in -118.6571 -24.4001
+\i (00:00:16) trapsize 677
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out -118.4132 -24.7794
+\i (00:00:16) trapsize 1355
+\i (00:00:20) pick grid -114.2677 -29.0333
+\t (00:00:20) last pick:  -114.2746  -29.0322
+\i (00:00:21) show element 
+\i (00:00:22) generaledit 
+\i (00:00:22) zoom out 1 
+\i (00:00:22) setwindow pcb
+\i (00:00:22) zoom out -101.0454 -27.2180
+\i (00:00:22) trapsize 2709
+\i (00:00:22) zoom out 1 
+\i (00:00:22) setwindow pcb
+\i (00:00:22) zoom out -100.8828 -27.1638
+\i (00:00:22) trapsize 5419
+\i (00:00:26) setwindow text
+\i (00:00:26) close 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in -109.4447 -24.6710
+\i (00:00:26) trapsize 2709
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in -109.4447 -25.2129
+\i (00:00:26) trapsize 1355
+\i (00:00:26) zoom in 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom in -109.4447 -25.2671
+\i (00:00:27) trapsize 677
+\i (00:00:28) pick grid -119.0905 -26.0663
+\t (00:00:28) last pick:  -119.1006  -26.0604
+\i (00:00:29) roam start
+\i (00:00:29) roam y 48
+\i (00:00:29) roam y 16
+\i (00:00:29) roam x -16
+\i (00:00:29) roam y 32
+\i (00:00:29) roam y 32
+\i (00:00:29) roam y 16
+\i (00:00:29) roam end
+\i (00:00:32) groupedit 
+\t (00:00:32) Pick a group to edit or select a group from the Options form.
+\i (00:00:33) setwindow form.mini
+\i (00:00:33) FORM mini grouplist 3 
+\t (00:00:33) Choose items to add to or remove from the group.
+\i (00:00:36) setwindow pcb
+\i (00:00:36) pick grid -114.3849 -26.2998
+\t (00:00:36) last pick:  -114.3762  -26.2890
+\i (00:00:37) prepopup -119.3026 -23.9696
+\i (00:00:37) done 
+\i (00:00:37) generaledit 
+\i (00:00:39) drc update 
+\t (00:00:39) Performing DRC...
+\t (00:00:39) Multithreaded DRC update (4 threads).
+\t (00:00:40) DRC done; 334 errors detected.
+\i (00:00:40) generaledit 
+\i (00:00:41) save 
+\i (00:00:42) fillin yes 
+\i (00:00:42) generaledit 
+\i (00:00:43) pick grid -119.1265 -25.6360
+\t (00:00:43) last pick:  -119.1260  -25.6286
+\i (00:00:49) pick grid -112.5831 -18.4829
+\t (00:00:49) last pick:  -112.5728  -18.4912
+\i (00:00:49) move 
+\t (00:00:50) Select element(s) to move.
+\i (00:00:53) setwindow form.find
+\i (00:00:53) FORM find name_type Generic Group 
+\i (00:00:54) FORM find find_by_name  
+\i (00:00:55) setwindow form.findname
+\i (00:00:55) FORM findname objlist 2 
+\i (00:00:57) FORM findname destlist 2 
+\i (00:00:58) FORM findname objlist 3 
+\i (00:00:59) FORM findname done  
+\t (00:00:59) Cannot edit Symbol "Tp59". Component Instance "Tp59" has the FIXED property.
+\t (00:00:59) Cannot edit Symbol "J32". It has the FIXED property.
+\t (00:00:59) Cannot edit Symbol "Tp60". Component Instance "Tp60" has the FIXED property.
+\t (00:00:59) Cannot edit Symbol "R218". Net "N40044144" has the FIXED property.
+\t (00:00:59) Cannot edit Symbol "R217". Net "N40044144" has the FIXED property.
+\t (00:00:59) Cannot edit Symbol "C272". Net "N40044144" has the FIXED property.
+\t (00:00:59) Cannot edit Symbol "Tp61". Component Instance "Tp61" has the FIXED property.
+\t (00:00:59) Cannot edit Pin "C274.1". Symbol or drawing must have UNFIXED_PINS property.
+\t (00:00:59) Cannot edit Connect Line "N40044144, Etch/Bottom". Net "N40044144" has the FIXED property.
+\t (00:00:59) Cannot edit Connect Line "N40044144, Etch/Bottom". Net "N40044144" has the FIXED property.
+\t (00:00:59) Cannot edit Connect Line "N40044144, Etch/Bottom". Net "N40044144" has the FIXED property.
+\w (00:00:59) WARNING(SPMHFN-50): Only some members of Group "3" have been selected.
+\i (00:01:01) setwindow form.mini
+\i (00:01:01) FORM mini stretch NO 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom out 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom out -112.7186 -27.6681
+\i (00:01:02) trapsize 1355
+\i (00:01:02) zoom out 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom out -112.7457 -27.6139
+\i (00:01:02) trapsize 2709
+\i (00:01:03) pick grid -103.5875 -17.8055
+\t (00:01:03) last pick:  -103.5812  -17.8054
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Element has no origin, using pick.
+\t (00:01:03) Moving D13 / DIODE ZENER_D_0603_CDBU0520 / D_0603.
+\t (00:01:03) Moving R212 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:01:03) Moving C269 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:01:03) Moving L12 / INDUCTOR_MSS1048_3.3U / MSS1048.
+\t (00:01:03) Moving Q17 / CSD16301Q2_U_6_SON_N-NEXTFET PO / U_6_SON.
+\t (00:01:03) Moving C266 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:01:03) Moving R216 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:01:03) Moving R215 / RESISTOR_V_TOL_3_RES_0603_NC_1K / RES_0603.
+\t (00:01:03) Moving R213 / RESISTOR_V_TOL_3_RES_0603_NC_9. / RES_0603.
+\t (00:01:03) Moving C273 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:01:03) Moving C270 / CAP NP_CAP_0603_8.2N / CAP_0603.
+\t (00:01:03) Moving R214 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:01:03) Moving U46 / TPS54620RGY_RGY_TPS54620RGY / RGY.
+\t (00:01:03) Moving R220 / RESISTOR_V_TOL_3_RES_0603_3.48K / RES_0603.
+\t (00:01:03) Moving R211 / RESISTOR_H_TOL_1_RES_0603_56.2K / RES_0603.
+\t (00:01:03) Moving C267 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:01:03) Moving R219 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:01:03) Moving R221 / RESISTOR_V_TOL_3_RES_1206_20M / RES_1206.
+\t (00:01:03) Moving C268 / CAP NP_CAP_0805_4.7UF / CAP_0805.
+\t (00:01:03) Moving C274 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:01:03) Moving C271 / CAP NP_CAP_0603_NC_0.1 UF / CAP_0603.
+\t (00:01:03) Pick new location for the element(s).
+\i (00:01:15) prepopup -101.0406 -14.2290
+\i (00:01:16) cancel 
+\i (00:01:16) generaledit 
+\i (00:01:17) zoom in 1 
+\i (00:01:17) setwindow pcb
+\i (00:01:17) zoom in -113.9377 -27.2887
+\i (00:01:17) trapsize 1355
+\i (00:01:17) zoom in 1 
+\i (00:01:17) setwindow pcb
+\i (00:01:17) zoom in -113.9648 -27.2887
+\i (00:01:17) trapsize 677
+\i (00:01:18) zoom in 1 
+\i (00:01:18) setwindow pcb
+\i (00:01:18) zoom in -114.5745 -27.2074
+\i (00:01:18) trapsize 339
+\i (00:01:21) pick grid -111.2012 -25.4259
+\t (00:01:21) last pick:  -111.2012  -25.4254
+\i (00:01:24) groupedit 
+\t (00:01:24) Pick a group to edit or select a group from the Options form.
+\i (00:01:25) setwindow form.mini
+\i (00:01:25) FORM mini grouplist 3 
+\t (00:01:25) Choose items to add to or remove from the group.
+\i (00:01:26) setwindow pcb
+\i (00:01:26) pick grid -114.9606 -25.8323
+\t (00:01:26) last pick:  -114.9604  -25.8318
+\i (00:01:27) pick grid -115.0486 -25.4530
+\t (00:01:27) last pick:  -115.0366  -25.4508
+\i (00:01:28) prepopup -111.1673 -25.3920
+\i (00:01:28) done 
+\i (00:01:28) generaledit 
+\i (00:01:29) zoom in 1 
+\i (00:01:29) setwindow pcb
+\i (00:01:29) zoom in -111.2215 -25.5275
+\i (00:01:29) trapsize 169
+\i (00:01:29) zoom in 1 
+\i (00:01:29) setwindow pcb
+\i (00:01:29) zoom in -111.2181 -25.5241
+\i (00:01:29) trapsize 85
+\i (00:01:29) zoom in 1 
+\i (00:01:29) setwindow pcb
+\i (00:01:29) zoom in -111.2164 -25.5241
+\i (00:01:29) trapsize 42
+\i (00:01:29) zoom out 1 
+\i (00:01:29) setwindow pcb
+\i (00:01:29) zoom out -111.2156 -25.5173
+\i (00:01:29) trapsize 85
+\i (00:01:29) zoom out 1 
+\i (00:01:29) setwindow pcb
+\i (00:01:29) zoom out -111.2155 -25.5173
+\i (00:01:29) trapsize 169
+\i (00:01:29) zoom out 1 
+\i (00:01:29) setwindow pcb
+\i (00:01:29) zoom out -111.2156 -25.5174
+\i (00:01:29) trapsize 339
+\i (00:01:29) zoom out 1 
+\i (00:01:29) setwindow pcb
+\i (00:01:29) zoom out -111.2088 -25.5173
+\i (00:01:29) trapsize 677
+\i (00:01:29) zoom out 1 
+\i (00:01:29) setwindow pcb
+\i (00:01:29) zoom out -111.2630 -25.3413
+\i (00:01:29) trapsize 1355
+\i (00:01:29) zoom out 1 
+\i (00:01:29) setwindow pcb
+\i (00:01:29) zoom out -111.2630 -25.3412
+\i (00:01:29) trapsize 2709
+\i (00:01:30) zoom in 1 
+\i (00:01:30) setwindow pcb
+\i (00:01:30) zoom in -111.4256 -16.2915
+\i (00:01:30) trapsize 1355
+\i (00:01:30) zoom in 1 
+\i (00:01:30) setwindow pcb
+\i (00:01:30) zoom in -111.4256 -16.2914
+\i (00:01:30) trapsize 677
+\i (00:01:32) zoom out 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom out -109.1767 -18.4997
+\i (00:01:32) trapsize 1355
+\i (00:01:32) zoom out 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom out -109.1766 -18.4996
+\i (00:01:32) trapsize 2709
+\i (00:01:34) zoom in 1 
+\i (00:01:34) setwindow pcb
+\i (00:01:34) zoom in -102.6739 -9.3415
+\i (00:01:34) trapsize 1355
+\i (00:01:37) pick grid -112.5093 -3.3264
+\t (00:01:37) last pick:  -112.4966  -3.3274
+\i (00:01:38) unfix 
+\i (00:01:38) generaledit 
+\i (00:01:40) pick grid -121.6131 -8.6912
+\t (00:01:40) last pick:  -121.6152  -8.6868
+\i (00:01:41) save 
+\i (00:01:42) fillin yes 
+\i (00:01:42) generaledit 
+\i (00:01:44) pick grid -105.0040 -8.5828
+\t (00:01:44) last pick:  -105.0036  -8.5852
+\i (00:01:47) pick grid -104.4621 -9.2331
+\t (00:01:47) last pick:  -104.4702  -9.2456
+\i (00:01:49) move 
+\t (00:01:49) Select element(s) to move.
+\i (00:01:51) setwindow form.find
+\i (00:01:51) FORM find name_type Generic Group 
+\i (00:01:52) FORM find find_by_name  
+\i (00:01:53) setwindow form.findname
+\i (00:01:53) FORM findname objlist 2 
+\i (00:01:55) FORM findname destlist 2 
+\i (00:01:55) FORM findname objlist 3 
+\i (00:01:56) FORM findname done  
+\t (00:01:56) Cannot edit Symbol "Tp59". Component Instance "Tp59" has the FIXED property.
+\t (00:01:56) Cannot edit Symbol "J32". It has the FIXED property.
+\t (00:01:56) Cannot edit Symbol "Tp60". Component Instance "Tp60" has the FIXED property.
+\t (00:01:56) Cannot edit Symbol "R218". Net "N40044144" has the FIXED property.
+\t (00:01:56) Cannot edit Symbol "R217". Net "N40044144" has the FIXED property.
+\t (00:01:56) Cannot edit Symbol "C272". Net "N40044144" has the FIXED property.
+\t (00:01:56) Cannot edit Symbol "Tp61". Component Instance "Tp61" has the FIXED property.
+\t (00:01:56) Cannot edit Pin "C274.1". Symbol or drawing must have UNFIXED_PINS property.
+\t (00:01:56) Cannot edit Connect Line "N40044144, Etch/Bottom". Net "N40044144" has the FIXED property.
+\t (00:01:56) Cannot edit Connect Line "N40044144, Etch/Bottom". Net "N40044144" has the FIXED property.
+\t (00:01:56) Cannot edit Connect Line "N40044144, Etch/Bottom". Net "N40044144" has the FIXED property.
+\w (00:01:56) WARNING(SPMHFN-50): Only some members of Group "3" have been selected.
+\i (00:01:57) setwindow pcb
+\i (00:01:57) zoom out 1 
+\i (00:01:57) setwindow pcb
+\i (00:01:57) zoom out -108.6347 -19.6104
+\i (00:01:57) trapsize 2709
+\i (00:01:59) pick grid -103.6493 -17.6596
+\t (00:01:59) last pick:  -103.6574  -17.6530
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Moving D13 / DIODE ZENER_D_0603_CDBU0520 / D_0603.
+\t (00:01:59) Moving R212 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:01:59) Moving C269 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:01:59) Moving L12 / INDUCTOR_MSS1048_3.3U / MSS1048.
+\t (00:01:59) Moving Q17 / CSD16301Q2_U_6_SON_N-NEXTFET PO / U_6_SON.
+\t (00:01:59) Moving C266 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:01:59) Moving R216 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:01:59) Moving R215 / RESISTOR_V_TOL_3_RES_0603_NC_1K / RES_0603.
+\t (00:01:59) Moving R213 / RESISTOR_V_TOL_3_RES_0603_NC_9. / RES_0603.
+\t (00:01:59) Moving C273 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:01:59) Moving C270 / CAP NP_CAP_0603_8.2N / CAP_0603.
+\t (00:01:59) Moving R214 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:01:59) Moving U46 / TPS54620RGY_RGY_TPS54620RGY / RGY.
+\t (00:01:59) Moving R220 / RESISTOR_V_TOL_3_RES_0603_3.48K / RES_0603.
+\t (00:01:59) Moving R211 / RESISTOR_H_TOL_1_RES_0603_56.2K / RES_0603.
+\t (00:01:59) Moving C267 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:01:59) Moving R219 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:01:59) Moving R221 / RESISTOR_V_TOL_3_RES_1206_20M / RES_1206.
+\t (00:01:59) Moving C268 / CAP NP_CAP_0805_4.7UF / CAP_0805.
+\t (00:01:59) Moving C274 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:01:59) Moving C271 / CAP NP_CAP_0603_NC_0.1 UF / CAP_0603.
+\t (00:01:59) Pick new location for the element(s).
+\i (00:02:03) prepopup -118.7140 -10.9401
+\i (00:02:04) cancel 
+\i (00:02:04) generaledit 
+\i (00:02:05) zoom in 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom in -107.8219 -18.2557
+\i (00:02:05) trapsize 1355
+\i (00:02:07) pick grid -112.5364 -3.2451
+\t (00:02:07) last pick:  -112.5474  -3.2512
+\i (00:02:09) pick grid -109.0412 -18.9330
+\t (00:02:09) last pick:  -109.0422  -18.9230
+\i (00:02:31) cmgr 
+\i (00:02:31) setwindow cmgr
+\i (00:02:31) cm newView ( worksheet 144:Properties 14:Net "67:Electrical Properties" "73:Electrical Properties" )
+\i (00:02:31) cm newView ( worksheet 144:Properties 14:Net "36:General Properties" "37:General Properties" )
+\i (00:02:31) cm newView ( worksheet 144:Properties 38:Component "39:Component Properties" 40:General )
+\i (00:02:32) setwindow pcb
+\i (00:02:32) generaledit 
+\i (00:02:41) pick grid -111.6152 -18.3098
+\t (00:02:41) last pick:  -111.6076  -18.3134
+\i (00:02:46) setwindow cmgr
+\i (00:02:46) cm scope Design "STANDARD"
+\i (00:02:46) cm expand ( row ( "Part Definition" "ACH3218_FILTER_1210_ACH3218:FILTER_1210:ACH3218:" ) )
+\i (00:02:46) cm collapse ( row ( "Part Definition" "ACH3218_FILTER_1210_ACH3218:FILTER_1210:ACH3218:" ) )
+\i (00:02:46) cm expand ( row ( "Part Definition" "BAT54SW_SOT323AVX_BAT54SW:SOT323AVX:BAT54SW:" ) )
+\i (00:02:46) cm collapse ( row ( "Part Definition" "BAT54SW_SOT323AVX_BAT54SW:SOT323AVX:BAT54SW:" ) )
+\i (00:02:46) cm expand ( row ( "Part Definition" "CAP NP_CAP_0201_0.1UF:CAP_0201:0.1uF:" ) )
+\i (00:02:46) cm collapse ( row ( "Part Definition" "CAP NP_CAP_0201_0.1UF:CAP_0201:0.1uF:" ) )
+\i (00:02:46) cm expand ( row ( "Part Definition" "CAP NP_CAP_0402_0.1 UF:CAP_0402:0.1 uF:" ) )
+\i (00:02:46) cm collapse ( row ( "Part Definition" "CAP NP_CAP_0402_0.1 UF:CAP_0402:0.1 uF:" ) )
+\i (00:02:46) cm expand ( row ( "Part Definition" "CAP NP_CAP_0402_0.1UF:CAP_0402:0.1uF:" ) )
+\i (00:02:46) cm collapse ( row ( "Part Definition" "CAP NP_CAP_0402_0.1UF:CAP_0402:0.1uF:" ) )
+\i (00:02:46) cm expand ( row ( "Part Definition" "CAP NP_CAP_0402_0.001 UF:CAP_0402:0.001 uF:" ) )
+\i (00:02:46) cm collapse ( row ( "Part Definition" "CAP NP_CAP_0402_0.001 UF:CAP_0402:0.001 uF:" ) )
+\i (00:02:46) cm expand ( row ( "Part Definition" "CAP NP_CAP_0402_3.3 NF:CAP_0402:3.3 nF:" ) )
+\i (00:02:46) cm collapse ( row ( "Part Definition" "CAP NP_CAP_0402_3.3 NF:CAP_0402:3.3 nF:" ) )
+\i (00:02:46) cm expand ( row ( "Part Definition" "CAP NP_CAP_0402_4.7 NF:CAP_0402:4.7 nF:" ) )
+\i (00:02:46) cm collapse ( row ( "Part Definition" "CAP NP_CAP_0402_4.7 NF:CAP_0402:4.7 nF:" ) )
+\i (00:02:46) cm expand ( row ( "Part Definition" "CAP NP_CAP_0402_10 NF:CAP_0402:10 nF:" ) )
+\i (00:02:46) cm collapse ( row ( "Part Definition" "CAP NP_CAP_0402_10 NF:CAP_0402:10 nF:" ) )
+\i (00:02:46) cm expand ( row ( "Part Definition" "CAP NP_CAP_0402_10 PF:CAP_0402:10 pF:" ) )
+\i (00:02:46) cm collapse ( row ( "Part Definition" "CAP NP_CAP_0402_10 PF:CAP_0402:10 pF:" ) )
+\i (00:02:46) cm expand ( row ( "Part Definition" "CAP NP_CAP_0402_47 NF:CAP_0402:47 nF:" ) )
+\i (00:02:46) cm collapse ( row ( "Part Definition" "CAP NP_CAP_0402_47 NF:CAP_0402:47 nF:" ) )
+\i (00:02:46) cm expand ( row ( "Part Definition" "CAP NP_CAP_0402_100 PF:CAP_0402:100 pF:" ) )
+\i (00:02:46) cm collapse ( row ( "Part Definition" "CAP NP_CAP_0402_100 PF:CAP_0402:100 pF:" ) )
+\i (00:02:46) cm expand ( row ( "Part Definition" "CAP NP_CAP_0603_NC_0.1 UF:CAP_0603:NC_0.1 uF:" ) )
+\i (00:02:46) cm collapse ( row ( "Part Definition" "CAP NP_CAP_0603_NC_0.1 UF:CAP_0603:NC_0.1 uF:" ) )
+\i (00:02:46) cm expand ( row ( "Part Definition" "CAP NP_CAP_0603_0.1 UF:CAP_0603:0.1 uF:" ) )
+\i (00:02:46) cm collapse ( row ( "Part Definition" "CAP NP_CAP_0603_0.1 UF:CAP_0603:0.1 uF:" ) )
+\i (00:02:46) cm expand ( row ( "Part Definition" "CAP NP_CAP_0603_0.01 UF:CAP_0603:0.01 uF:" ) )
+\i (00:02:46) cm collapse ( row ( "Part Definition" "CAP NP_CAP_0603_0.01 UF:CAP_0603:0.01 uF:" ) )
+\i (00:02:46) cm expand ( row ( "Part Definition" "CAP NP_CAP_0603_0.33UF:CAP_0603:0.33uF:" ) )
+\i (00:02:46) cm collapse ( row ( "Part Definition" "CAP NP_CAP_0603_0.33UF:CAP_0603:0.33uF:" ) )
+\i (00:02:46) cm expand ( row ( "Part Definition" "CAP NP_CAP_0603_2.2 UF:CAP_0603:2.2 uF:" ) )
+\i (00:02:46) cm collapse ( row ( "Part Definition" "CAP NP_CAP_0603_2.2 UF:CAP_0603:2.2 uF:" ) )
+\i (00:02:46) cm expand ( row ( "Part Definition" "CAP NP_CAP_0603_8.2N:CAP_0603:8.2n:" ) )
+\i (00:02:46) cm collapse ( row ( "Part Definition" "CAP NP_CAP_0603_8.2N:CAP_0603:8.2n:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "CAP NP_CAP_0603_10 UF:CAP_0603:10 uF:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "CAP NP_CAP_0603_10 UF:CAP_0603:10 uF:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "CAP NP_CAP_0805_1 UF:CAP_0805:1 uF:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "CAP NP_CAP_0805_1 UF:CAP_0805:1 uF:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "CAP NP_CAP_0805_4.7UF:CAP_0805:4.7uF:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "CAP NP_CAP_0805_4.7UF:CAP_0805:4.7uF:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "CAP NP_CAP_0805_10 UF:CAP_0805:10 uF:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "CAP NP_CAP_0805_10 UF:CAP_0805:10 uF:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "CAP NP_CAP_1206_3.3 UF:CAP_1206:3.3 uF:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "CAP NP_CAP_1206_3.3 UF:CAP_1206:3.3 uF:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "CAP NP_CAP_1206_10UF:CAP_1206:10uF:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "CAP NP_CAP_1206_10UF:CAP_1206:10uF:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "CAP NP_CAP_1206_100 UF:CAP_1206:100 uF:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "CAP NP_CAP_1206_100 UF:CAP_1206:100 uF:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "CAP NP_CAP_1210_10 UF:CAP_1210:10 uF:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "CAP NP_CAP_1210_10 UF:CAP_1210:10 uF:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "CAP NP_CAP_1210_22 UF:CAP_1210:22 uF:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "CAP NP_CAP_1210_22 UF:CAP_1210:22 uF:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "CAP POL_CAP-FK-V-CASEE_PAN_100:CAP-FK-V-CASEE_PAN:100 uF:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "CAP POL_CAP-FK-V-CASEE_PAN_100:CAP-FK-V-CASEE_PAN:100 uF:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "CAP_NP_DSIZE_CAP_0402_6.2 PF:CAP_0402:6.2 PF:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "CAP_NP_DSIZE_CAP_0402_6.2 PF:CAP_0402:6.2 PF:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "CAP_NP_DSIZE_CAP_0603_1 UF:CAP_0603:1 uF:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "CAP_NP_DSIZE_CAP_0603_1 UF:CAP_0603:1 uF:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "CAP_NP_DSIZE_CAP_0805_0.1 UF:CAP_0805:0.1 uF:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "CAP_NP_DSIZE_CAP_0805_0.1 UF:CAP_0805:0.1 uF:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "CAP_NP_DSIZE_CAP_0805_0.22 UF:CAP_0805:0.22 uF:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "CAP_NP_DSIZE_CAP_0805_0.22 UF:CAP_0805:0.22 uF:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "CAP_NP_DSIZE_CAP_0805_1000PF:CAP_0805:1000PF:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "CAP_NP_DSIZE_CAP_0805_1000PF:CAP_0805:1000PF:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "CONN SOCKET AXT580124_AXT580124:AXT580124:AXT580124:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "CONN SOCKET AXT580124_AXT580124:AXT580124:AXT580124:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "CONN_6_CONN_6_53261-0671:CONN_6:53261-0671:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "CONN_6_CONN_6_53261-0671:CONN_6:53261-0671:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "CONN20_2X10_CONN_2X10_AXK5S2004:CONN_2X10:AXK5S20047YG:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "CONN20_2X10_CONN_2X10_AXK5S2004:CONN_2X10:AXK5S20047YG:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "CONN20_2X10_CONN_2X20_SFM-110-0:CONN_2X20:SFM-110-03-L-D-A:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "CONN20_2X10_CONN_2X20_SFM-110-0:CONN_2X20:SFM-110-03-L-D-A:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "CON_PWRJACK3_RAPC712_CONN_PWRJA:CONN_PWRJACK:RAPC712X:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "CON_PWRJACK3_RAPC712_CONN_PWRJA:CONN_PWRJACK:RAPC712X:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "CON3_CONN_3_53261-0371:CONN_3:53261-0371:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "CON3_CONN_3_53261-0371:CONN_3:53261-0371:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "CON4_CONN_4_53261-0471:CONN_4:53261-0471:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "CON4_CONN_4_53261-0471:CONN_4:53261-0471:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "CON4_0_CONN_5_USB_MINI_B_173403:CONN_5_USB_MINI_B:1734035-2:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "CON4_0_CONN_5_USB_MINI_B_173403:CONN_5_USB_MINI_B:1734035-2:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "CON20A_CON_10X2_CON20A:CON_10X2:CON20A:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "CON20A_CON_10X2_CON20A:CON_10X2:CON20A:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "CRYSTAL_0_3_2MM_2_5MM_32.0 MHZ:3_2MM_2_5MM:32.0 MHZ:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "CRYSTAL_0_3_2MM_2_5MM_32.0 MHZ:3_2MM_2_5MM:32.0 MHZ:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "CSD16301Q2_U_6_SON_N-NEXTFET PO:U_6_SON:N-NextFET Power MOSFET:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "CSD16301Q2_U_6_SON_N-NEXTFET PO:U_6_SON:N-NextFET Power MOSFET:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "DIODE ZENER_DO-219AB_SMF15A-GS0:DO-219AB:SMF15A-GS08:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "DIODE ZENER_DO-219AB_SMF15A-GS0:DO-219AB:SMF15A-GS08:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "DIODE ZENER_D_0603_CDBU0520:D_0603:CDBU0520:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "DIODE ZENER_D_0603_CDBU0520:D_0603:CDBU0520:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "DIODE ZENER_SC-90_SOD-323F_MAZ8:SC-90_SOD-323F:MAZ80330HL:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "DIODE ZENER_SC-90_SOD-323F_MAZ8:SC-90_SOD-323F:MAZ80330HL:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "DIODE_SCHOTTKY_DO-214AB_SMC_B52:DO-214AB_SMC:B520C-13-F:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "DIODE_SCHOTTKY_DO-214AB_SMC_B52:DO-214AB_SMC:B520C-13-F:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "DIODE_SCHOTTKY_DSIZE_SOD_123_ST:SOD_123:STPS0560Z:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "DIODE_SCHOTTKY_DSIZE_SOD_123_ST:SOD_123:STPS0560Z:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "DIODE_TVS_DO-214AB_SMC_SMCJ15CA:DO-214AB_SMC:SMCJ15CA:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "DIODE_TVS_DO-214AB_SMC_SMCJ15CA:DO-214AB_SMC:SMCJ15CA:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "DLPC350_BGA_419_DLPC350:BGA_419:DLPC350:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "DLPC350_BGA_419_DLPC350:BGA_419:DLPC350:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "DMP2160UW_SOT323_DMP2160UW-7:SOT323:DMP2160UW-7:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "DMP2160UW_SOT323_DMP2160UW-7:SOT323:DMP2160UW-7:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "DUAL_COLOR_LED_4-SMD_GULL_WING_:4-SMD_GULL_WING:LNJ107W5PRW:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "DUAL_COLOR_LED_4-SMD_GULL_WING_:4-SMD_GULL_WING:LNJ107W5PRW:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "ESD9C_SOD-923_ESD9C5.0ST5G:SOD-923:ESD9C5.0ST5G:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "ESD9C_SOD-923_ESD9C5.0ST5G:SOD-923:ESD9C5.0ST5G:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "FDV303N_SPT23AVXD_FDV303N:SPT23AVXD:FDV303N:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "FDV303N_SPT23AVXD_FDV303N:SPT23AVXD:FDV303N:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "FERRITE_FLTR_0805_HI0805R800R-1:FLTR_0805:HI0805R800R-10:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "FERRITE_FLTR_0805_HI0805R800R-1:FLTR_0805:HI0805R800R-10:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "HDR_1X6_M_HDR_1X6_MOLEX_87438-0:HDR_1X6_MOLEX:87438-0643:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "HDR_1X6_M_HDR_1X6_MOLEX_87438-0:HDR_1X6_MOLEX:87438-0643:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "HDR_1X9_M_HDR_1X9_MOLEX_87438-0:HDR_1X9_MOLEX:87438-0943:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "HDR_1X9_M_HDR_1X9_MOLEX_87438-0:HDR_1X9_MOLEX:87438-0943:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "HDR7X2_M_B14B-PHDSS_B14B-PHDSS(:B14B-PHDSS:B14B-PHDSS(LF)(SN)(P):" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "HDR7X2_M_B14B-PHDSS_B14B-PHDSS(:B14B-PHDSS:B14B-PHDSS(LF)(SN)(P):" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "HEADER_1X1_951102-8622-AR_95110:951102-8622-AR:951102-8622-AR:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "HEADER_1X1_951102-8622-AR_95110:951102-8622-AR:951102-8622-AR:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "HEADER_2X2_951204-8622-AR_95120:951204-8622-AR:951204-8622-AR:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "HEADER_2X2_951204-8622-AR_95120:951204-8622-AR:951204-8622-AR:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "HEADER_2X3_951206-8622-AR_95120:951206-8622-AR:951206-8622-AR:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "HEADER_2X3_951206-8622-AR_95120:951206-8622-AR:951206-8622-AR:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "HEADER_2X14_J_CONN_2X14_SSQ-114:CONN_2X14:SSQ-114-01-F-D:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "HEADER_2X14_J_CONN_2X14_SSQ-114:CONN_2X14:SSQ-114-01-F-D:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "INDUCTOR_DT1608A_22 UH:DT1608A:22 uH:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "INDUCTOR_DT1608A_22 UH:DT1608A:22 uH:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "INDUCTOR_FLTR_0603_MI0603J680R-:FLTR_0603:MI0603J680R-10:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "INDUCTOR_FLTR_0603_MI0603J680R-:FLTR_0603:MI0603J680R-10:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "INDUCTOR_L0402_MMZ1005D330C:L0402:MMZ1005D330C:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "INDUCTOR_L0402_MMZ1005D330C:L0402:MMZ1005D330C:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "INDUCTOR_MSS1048_3.3U:MSS1048:3.3u:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "INDUCTOR_MSS1048_3.3U:MSS1048:3.3u:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "INDUCTOR_SRR1005_4.7 UH:SRR1005:4.7 uH:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "INDUCTOR_SRR1005_4.7 UH:SRR1005:4.7 uH:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "INDUCTOR_XFL4020_2.2 UH:XFL4020:2.2 uH:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "INDUCTOR_XFL4020_2.2 UH:XFL4020:2.2 uH:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "LED_0_D_0402_SML-LX0402SUGC:D_0402:SML-LX0402SUGC:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "LED_0_D_0402_SML-LX0402SUGC:D_0402:SML-LX0402SUGC:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "MAX3232_SOIC16-PW_TI_MAX3232CPW:SOIC16-PW_TI:MAX3232CPWR:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "MAX3232_SOIC16-PW_TI_MAX3232CPW:SOIC16-PW_TI:MAX3232CPWR:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "MCP3021_SOT23-5_MCP3021A5T-E/OT:SOT23-5:MCP3021A5T-E/OT:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "MCP3021_SOT23-5_MCP3021A5T-E/OT:SOT23-5:MCP3021A5T-E/OT:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "MHDMI CONN_0_HDMI19_MHDMI-19-02:HDMI19:MHDMI-19-02-H-TH-L-TR:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "MHDMI CONN_0_HDMI19_MHDMI-19-02:HDMI19:MHDMI-19-02-H-TH-L-TR:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "M24C08L_DSIZE_SOP8_M24C02-WMN6T:SOP8:M24C02-WMN6TP:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "M24C08L_DSIZE_SOP8_M24C02-WMN6T:SOP8:M24C02-WMN6TP:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "M29DW128GL70N_TSOP-56_M29DW128G:TSOP-56:M29DW128GL70N:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "M29DW128GL70N_TSOP-56_M29DW128G:TSOP-56:M29DW128GL70N:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "PHONEJACK STEREO_5_PH_TG-2573_S:PH_TG-2573:SJ-2523-SMT:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "PHONEJACK STEREO_5_PH_TG-2573_S:PH_TG-2573:SJ-2523-SMT:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "RESARR_IS_4/SM_0804_2010_METRIC:0804_2010_METRIC:22:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "RESARR_IS_4/SM_0804_2010_METRIC:0804_2010_METRIC:22:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "RESISTOR DIP 8_RPACK_16_33:RPACK_16:33:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "RESISTOR DIP 8_RPACK_16_33:RPACK_16:33:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "RESISTOR_DSIZE_RES_0603_0:RES_0603:0:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "RESISTOR_DSIZE_RES_0603_0:RES_0603:0:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "RESISTOR_DSIZE_RES_0603_10K:RES_0603:10K:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "RESISTOR_DSIZE_RES_0603_10K:RES_0603:10K:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "RESISTOR_DSIZE_RES_0603_56.0K:RES_0603:56.0K:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "RESISTOR_DSIZE_RES_0603_56.0K:RES_0603:56.0K:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "RESISTOR_DSIZE_RES_0603_360K:RES_0603:360K:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "RESISTOR_DSIZE_RES_0603_360K:RES_0603:360K:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "RESISTOR_DSIZE_RES_0603_620K:RES_0603:620K:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "RESISTOR_DSIZE_RES_0603_620K:RES_0603:620K:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "RESISTOR_DSIZE_RES_0603_680K:RES_0603:680K:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "RESISTOR_DSIZE_RES_0603_680K:RES_0603:680K:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "RESISTOR_H_TOL_1_RES_0603_56.2K:RES_0603:56.2k:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "RESISTOR_H_TOL_1_RES_0603_56.2K:RES_0603:56.2k:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "RESISTOR_RES_0201_NC_0:RES_0201:NC_0:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "RESISTOR_RES_0201_NC_0:RES_0201:NC_0:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "RESISTOR_RES_0201_0:RES_0201:0:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "RESISTOR_RES_0201_0:RES_0201:0:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "RESISTOR_RES_0201_22:RES_0201:22:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "RESISTOR_RES_0201_22:RES_0201:22:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "RESISTOR_RES_0201_750:RES_0201:750:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "RESISTOR_RES_0201_750:RES_0201:750:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "RESISTOR_RES_0402_2.2K:RES_0402:2.2K:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "RESISTOR_RES_0402_2.2K:RES_0402:2.2K:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "RESISTOR_RES_0402_3.3K:RES_0402:3.3K:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "RESISTOR_RES_0402_3.3K:RES_0402:3.3K:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "RESISTOR_RES_0402_10K:RES_0402:10K:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "RESISTOR_RES_0402_10K:RES_0402:10K:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "RESISTOR_RES_0402_33K:RES_0402:33K:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "RESISTOR_RES_0402_33K:RES_0402:33K:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "RESISTOR_RES_0603_2.2K:RES_0603:2.2K:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "RESISTOR_RES_0603_2.2K:RES_0603:2.2K:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "RESISTOR_RES_0603_12:RES_0603:12:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "RESISTOR_RES_0603_12:RES_0603:12:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "RESISTOR_V_TOL_3_RES_0603_NC_ 1:RES_0603:NC_ 1k:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "RESISTOR_V_TOL_3_RES_0603_NC_ 1:RES_0603:NC_ 1k:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "RESISTOR_V_TOL_3_RES_0603_NC_1K:RES_0603:NC_1k:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "RESISTOR_V_TOL_3_RES_0603_NC_1K:RES_0603:NC_1k:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "RESISTOR_V_TOL_3_RES_0603_NC_9.:RES_0603:NC_9.09k:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "RESISTOR_V_TOL_3_RES_0603_NC_9.:RES_0603:NC_9.09k:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "RESISTOR_V_TOL_3_RES_0603_1K:RES_0603:1k:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "RESISTOR_V_TOL_3_RES_0603_1K:RES_0603:1k:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "RESISTOR_V_TOL_3_RES_0603_3.48K:RES_0603:3.48k:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "RESISTOR_V_TOL_3_RES_0603_3.48K:RES_0603:3.48k:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "RESISTOR_V_TOL_3_RES_0603_28.7K:RES_0603:28.7k:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "RESISTOR_V_TOL_3_RES_0603_28.7K:RES_0603:28.7k:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "RESISTOR_V_TOL_3_RES_1206_20M:RES_1206:20m:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "RESISTOR_V_TOL_3_RES_1206_20M:RES_1206:20m:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "RES_RES_0603_15K:RES_0603:15K:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "RES_RES_0603_15K:RES_0603:15K:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "R_RES_0201_NC_100K:RES_0201:NC_100K:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "R_RES_0201_NC_100K:RES_0201:NC_100K:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "R_RES_0201_5.1:RES_0201:5.1:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "R_RES_0201_5.1:RES_0201:5.1:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "R_RES_0201_20:RES_0201:20:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "R_RES_0201_20:RES_0201:20:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "R_RES_0201_100K:RES_0201:100K:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "R_RES_0201_100K:RES_0201:100K:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "R_RES_0201_330:RES_0201:330:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "R_RES_0201_330:RES_0201:330:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "R_RES_0402_1.5K:RES_0402:1.5K:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "R_RES_0402_1.5K:RES_0402:1.5K:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "R_RES_0402_1K:RES_0402:1K:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "R_RES_0402_1K:RES_0402:1K:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "R_RES_0402_1M:RES_0402:1M:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "R_RES_0402_1M:RES_0402:1M:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "R_RES_0402_3.3K:RES_0402:3.3K:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "R_RES_0402_3.3K:RES_0402:3.3K:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "R_RES_0402_4.7K:RES_0402:4.7K:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "R_RES_0402_4.7K:RES_0402:4.7K:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "R_RES_0402_7.68K:RES_0402:7.68K:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "R_RES_0402_7.68K:RES_0402:7.68K:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "R_RES_0402_10K:RES_0402:10K:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "R_RES_0402_10K:RES_0402:10K:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "R_RES_0402_20K:RES_0402:20K:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "R_RES_0402_20K:RES_0402:20K:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "R_RES_0402_29.4K:RES_0402:29.4K:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "R_RES_0402_29.4K:RES_0402:29.4K:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "R_RES_0402_30K:RES_0402:30K:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "R_RES_0402_30K:RES_0402:30K:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "R_RES_0402_33:RES_0402:33:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "R_RES_0402_33:RES_0402:33:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "R_RES_0402_33.2:RES_0402:33.2:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "R_RES_0402_33.2:RES_0402:33.2:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "R_RES_0402_40.2K:RES_0402:40.2K:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "R_RES_0402_40.2K:RES_0402:40.2K:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "R_RES_0402_80.6K:RES_0402:80.6K:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "R_RES_0402_80.6K:RES_0402:80.6K:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "R_RES_0402_100:RES_0402:100:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "R_RES_0402_100:RES_0402:100:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "R_RES_0402_100K:RES_0402:100K:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "R_RES_0402_100K:RES_0402:100K:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "R_RES_0402_130K:RES_0402:130K:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "R_RES_0402_130K:RES_0402:130K:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "R_RES_0402_150K:RES_0402:150K:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "R_RES_0402_150K:RES_0402:150K:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "R_RES_0402_160:RES_0402:160:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "R_RES_0402_160:RES_0402:160:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "R_RES_0402_240K:RES_0402:240K:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "R_RES_0402_240K:RES_0402:240K:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "R_RES_0402_383K:RES_0402:383K:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "R_RES_0402_383K:RES_0402:383K:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "R_RES_0402_680K:RES_0402:680K:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "R_RES_0402_680K:RES_0402:680K:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "R_RES_0402_750K:RES_0402:750K:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "R_RES_0402_750K:RES_0402:750K:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "R_RES_0603_0:RES_0603:0:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "R_RES_0603_0:RES_0603:0:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "R_RES_0603_1.5K:RES_0603:1.5K:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "R_RES_0603_1.5K:RES_0603:1.5K:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "R_RES_0603_22:RES_0603:22:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "R_RES_0603_22:RES_0603:22:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "R_RES_0603_75K:RES_0603:75K:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "R_RES_0603_75K:RES_0603:75K:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "SC2D2U10V3ZY_0_CAP_0603_10UF:CAP_0603:10uF:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "SC2D2U10V3ZY_0_CAP_0603_10UF:CAP_0603:10uF:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "SN74AHC1G09_TI_DVB_SN74AHC1G09D:TI_DVB:SN74AHC1G09DVB:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "SN74AHC1G09_TI_DVB_SN74AHC1G09D:TI_DVB:SN74AHC1G09DVB:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "SN74AVC1T245_DCK_SN74AVC1T45DCK:DCK:SN74AVC1T45DCK:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "SN74AVC1T245_DCK_SN74AVC1T45DCK:DCK:SN74AVC1T45DCK:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "SN74AVC2T45DCU_DCU_SN74AVC2T45D:DCU:SN74AVC2T45DCU:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "SN74AVC2T45DCU_DCU_SN74AVC2T45D:DCU:SN74AVC2T45DCU:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "SN74AVC8T245PW_PW_SN74AVC8T245P:PW:SN74AVC8T245PW:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "SN74AVC8T245PW_PW_SN74AVC8T245P:PW:SN74AVC8T245PW:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "SN74AVC32T245ZKE_96LFBGA_SN74AV:96LFBGA:SN74AVC32T245ZKE:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "SN74AVC32T245ZKE_96LFBGA_SN74AV:96LFBGA:SN74AVC32T245ZKE:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "SN74HC21_14-SOIC_SN74HC21PWR:14-SOIC:SN74HC21PWR:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "SN74HC21_14-SOIC_SN74HC21PWR:14-SOIC:SN74HC21PWR:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "SN74LVC1G04DBV_DBV_SN74LVC1G04D:DBV:SN74LVC1G04DBV:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "SN74LVC1G04DBV_DBV_SN74LVC1G04D:DBV:SN74LVC1G04DBV:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "SN74LVC1G17DBV_TI_DBV_SN74LVC1G:TI_DBV:SN74LVC1G17DBV:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "SN74LVC1G17DBV_TI_DBV_SN74LVC1G:TI_DBV:SN74LVC1G17DBV:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "SW SPST_1_SW_GT12_SW SPST:SW_GT12:SW SPST:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "SW SPST_1_SW_GT12_SW SPST:SW_GT12:SW SPST:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "SWITCH,SPDT_NKK-B12AH_B12AH:NKK-B12AH:B12AH:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "SWITCH,SPDT_NKK-B12AH_B12AH:NKK-B12AH:B12AH:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "TESTPIN_TP40_TESTPIN:TP40:TESTPIN:" ) )
+\i (00:02:47) cm collapse ( row ( "Part Definition" "TESTPIN_TP40_TESTPIN:TP40:TESTPIN:" ) )
+\i (00:02:47) cm expand ( row ( "Part Definition" "TESTPIN_TP40_TESTPIN:TP40:TESTPIN:" ) )
+\i (00:02:54) cm putValue ( "Part Instance" "TP59" ) FIXED (Clear) 0
+\i (00:02:54) cm endUndoBlock
+\i (00:02:55) setwindow pcb
+\i (00:02:55) pick grid -107.6864 -18.0118
+\t (00:02:55) last pick:  -107.6960  -18.0086
+\i (00:03:00) setwindow cmgr
+\i (00:03:00) cm putValue ( "Part Instance" "TP60" ) FIXED (Clear) 0
+\i (00:03:00) cm endUndoBlock
+\i (00:03:01) cm putValue ( "Part Instance" "TP61" ) FIXED (Clear) 0
+\i (00:03:01) cm endUndoBlock
+\i (00:03:03) setwindow pcb
+\i (00:03:03) pick grid -120.5836 -10.6420
+\t (00:03:03) last pick:  -120.5738  -10.6426
+\i (00:03:04) save 
+\i (00:03:05) fillin yes 
+\i (00:03:05) generaledit 
+\i (00:03:06) pick grid -118.6056 -15.6274
+\t (00:03:06) last pick:  -118.6180  -15.6210
+\i (00:03:06) zoom out 1 
+\i (00:03:06) setwindow pcb
+\i (00:03:06) zoom out -118.6327 -15.7629
+\i (00:03:06) trapsize 2709
+\i (00:03:08) move 
+\t (00:03:08) Select element(s) to move.
+\i (00:03:11) setwindow form.find
+\i (00:03:11) FORM find name_type Generic Group 
+\i (00:03:12) FORM find find_by_name  
+\i (00:03:13) setwindow form.findname
+\i (00:03:13) FORM findname objlist 3 
+\i (00:03:14) FORM findname done  
+\t (00:03:14) Cannot edit Symbol "J32". It has the FIXED property.
+\t (00:03:14) Cannot edit Symbol "R218". Net "N40044144" has the FIXED property.
+\t (00:03:14) Cannot edit Symbol "R217". Net "N40044144" has the FIXED property.
+\t (00:03:14) Cannot edit Symbol "C272". Net "N40044144" has the FIXED property.
+\t (00:03:14) Cannot edit Pin "C274.1". Symbol or drawing must have UNFIXED_PINS property.
+\t (00:03:14) Cannot edit Connect Line "N40044144, Etch/Bottom". Net "N40044144" has the FIXED property.
+\t (00:03:14) Cannot edit Connect Line "N40044144, Etch/Bottom". Net "N40044144" has the FIXED property.
+\t (00:03:14) Cannot edit Connect Line "N40044144, Etch/Bottom". Net "N40044144" has the FIXED property.
+\w (00:03:14) WARNING(SPMHFN-50): Only some members of Group "3" have been selected.
+\i (00:03:14) setwindow cmgr
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( "Part Definition" "DIODE ZENER_D_0603_CDBU0520:D_0603:CDBU0520:" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( "Part Definition" "RESISTOR_V_TOL_3_RES_0603_1K:RES_0603:1k:" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( "Part Definition" "TESTPIN_TP40_TESTPIN:TP40:TESTPIN:" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( "Part Definition" "CAP NP_CAP_1206_10UF:CAP_1206:10uF:" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( "Part Definition" "INDUCTOR_MSS1048_3.3U:MSS1048:3.3u:" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( "Part Definition" "CSD16301Q2_U_6_SON_N-NEXTFET PO:U_6_SON:N-NextFET Power MOSFET:" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( "Part Definition" "TESTPIN_TP40_TESTPIN:TP40:TESTPIN:" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( "Part Definition" "CAP NP_CAP_0603_0.1 UF:CAP_0603:0.1 uF:" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( "Part Definition" "RESISTOR_V_TOL_3_RES_0603_1K:RES_0603:1k:" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( "Part Definition" "RESISTOR_V_TOL_3_RES_0603_NC_1K:RES_0603:NC_1k:" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( "Part Definition" "RESISTOR_V_TOL_3_RES_0603_NC_9.:RES_0603:NC_9.09k:" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( "Part Definition" "CAP NP_CAP_0603_0.1 UF:CAP_0603:0.1 uF:" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( "Part Definition" "CAP NP_CAP_0603_8.2N:CAP_0603:8.2n:" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( "Part Definition" "RESISTOR_V_TOL_3_RES_0603_1K:RES_0603:1k:" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( "Part Definition" "RESISTOR_V_TOL_3_RES_0603_3.48K:RES_0603:3.48k:" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( "Part Definition" "RESISTOR_H_TOL_1_RES_0603_56.2K:RES_0603:56.2k:" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( "Part Definition" "CAP NP_CAP_1206_10UF:CAP_1206:10uF:" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( "Part Definition" "RESISTOR_V_TOL_3_RES_0603_1K:RES_0603:1k:" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( "Part Definition" "RESISTOR_V_TOL_3_RES_1206_20M:RES_1206:20m:" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( "Part Definition" "CAP NP_CAP_0805_4.7UF:CAP_0805:4.7uF:" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( "Part Definition" "TESTPIN_TP40_TESTPIN:TP40:TESTPIN:" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( "Part Definition" "CAP NP_CAP_1206_10UF:CAP_1206:10uF:" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( "Part Definition" "CAP NP_CAP_0603_NC_0.1 UF:CAP_0603:NC_0.1 uF:" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:14) cm expand ( row ( Design "STANDARD" ) )
+\i (00:03:15) setwindow pcb
+\i (00:03:15) zoom out 1 
+\i (00:03:15) setwindow pcb
+\i (00:03:15) zoom out -95.2228 -17.1177
+\i (00:03:15) trapsize 5419
+\i (00:03:15) zoom out 1 
+\i (00:03:15) setwindow pcb
+\i (00:03:15) zoom out -95.4396 -17.0092
+\i (00:03:15) trapsize 10838
+\i (00:03:16) zoom in 1 
+\i (00:03:16) setwindow pcb
+\i (00:03:16) zoom in -92.3708 -44.3209
+\i (00:03:16) trapsize 5419
+\i (00:03:17) zoom in 1 
+\i (00:03:17) setwindow pcb
+\i (00:03:17) zoom in -102.6668 -16.6841
+\i (00:03:17) trapsize 2709
+\i (00:03:19) pick grid -103.9132 -17.8763
+\t (00:03:19) last pick:  -103.9114  -17.8816
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Element has no origin, using pick.
+\t (00:03:19) Moving D13 / DIODE ZENER_D_0603_CDBU0520 / D_0603.
+\t (00:03:19) Moving R212 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:03:19) Moving TP59 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:03:19) Moving C269 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:03:19) Moving L12 / INDUCTOR_MSS1048_3.3U / MSS1048.
+\t (00:03:19) Moving Q17 / CSD16301Q2_U_6_SON_N-NEXTFET PO / U_6_SON.
+\t (00:03:19) Moving TP60 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:03:19) Moving C266 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:03:19) Moving R216 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:03:19) Moving R215 / RESISTOR_V_TOL_3_RES_0603_NC_1K / RES_0603.
+\t (00:03:19) Moving R213 / RESISTOR_V_TOL_3_RES_0603_NC_9. / RES_0603.
+\t (00:03:19) Moving C273 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:03:19) Moving C270 / CAP NP_CAP_0603_8.2N / CAP_0603.
+\t (00:03:19) Moving R214 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:03:19) Moving U46 / TPS54620RGY_RGY_TPS54620RGY / RGY.
+\t (00:03:19) Moving R220 / RESISTOR_V_TOL_3_RES_0603_3.48K / RES_0603.
+\t (00:03:19) Moving R211 / RESISTOR_H_TOL_1_RES_0603_56.2K / RES_0603.
+\t (00:03:19) Moving C267 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:03:19) Moving R219 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:03:19) Moving R221 / RESISTOR_V_TOL_3_RES_1206_20M / RES_1206.
+\t (00:03:19) Moving C268 / CAP NP_CAP_0805_4.7UF / CAP_0805.
+\t (00:03:19) Moving TP61 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:03:19) Moving C274 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:03:19) Moving C271 / CAP NP_CAP_0603_NC_0.1 UF / CAP_0603.
+\t (00:03:19) Pick new location for the element(s).
+\i (00:03:28) prepopup -105.1595 -16.8467
+\i (00:03:29) cancel 
+\i (00:03:29) generaledit 
+\i (00:03:30) zoom in 1 
+\i (00:03:30) setwindow pcb
+\i (00:03:30) zoom in -105.8098 -37.3845
+\i (00:03:30) trapsize 1355
+\i (00:03:30) zoom in 1 
+\i (00:03:30) setwindow pcb
+\i (00:03:30) zoom in -105.7827 -37.4116
+\i (00:03:30) trapsize 677
+\i (00:03:50) pick grid -101.4475 -31.8300
+\t (00:03:50) last pick:  -101.4476  -31.8262
+\i (00:03:50) zoom out 1 
+\i (00:03:50) setwindow pcb
+\i (00:03:50) zoom out -101.4339 -31.8165
+\i (00:03:50) trapsize 1355
+\i (00:03:51) zoom out 1 
+\i (00:03:51) setwindow pcb
+\i (00:03:51) zoom out -101.4339 -31.8164
+\i (00:03:51) trapsize 2709
+\i (00:03:54) pick grid -151.6677 -33.6047
+\t (00:03:54) last pick:  -151.6634  -33.6042
+\i (00:03:54) move 
+\t (00:03:55) Select element(s) to move.
+\i (00:03:57) setwindow form.find
+\i (00:03:57) FORM find name_type Generic Group 
+\i (00:03:59) FORM find find_by_name  
+\i (00:04:00) setwindow form.findname
+\i (00:04:00) FORM findname objlist 3 
+\i (00:04:01) FORM findname done  
+\t (00:04:01) Cannot edit Symbol "J32". It has the FIXED property.
+\t (00:04:01) Cannot edit Symbol "R218". Net "N40044144" has the FIXED property.
+\t (00:04:01) Cannot edit Symbol "R217". Net "N40044144" has the FIXED property.
+\t (00:04:01) Cannot edit Symbol "C272". Net "N40044144" has the FIXED property.
+\t (00:04:01) Cannot edit Pin "C274.1". Symbol or drawing must have UNFIXED_PINS property.
+\t (00:04:01) Cannot edit Connect Line "N40044144, Etch/Bottom". Net "N40044144" has the FIXED property.
+\t (00:04:01) Cannot edit Connect Line "N40044144, Etch/Bottom". Net "N40044144" has the FIXED property.
+\t (00:04:01) Cannot edit Connect Line "N40044144, Etch/Bottom". Net "N40044144" has the FIXED property.
+\w (00:04:01) WARNING(SPMHFN-50): Only some members of Group "3" have been selected.
+\i (00:04:01) setwindow cmgr
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( "Part Definition" "DIODE ZENER_D_0603_CDBU0520:D_0603:CDBU0520:" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( "Part Definition" "RESISTOR_V_TOL_3_RES_0603_1K:RES_0603:1k:" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( "Part Definition" "TESTPIN_TP40_TESTPIN:TP40:TESTPIN:" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( "Part Definition" "CAP NP_CAP_1206_10UF:CAP_1206:10uF:" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( "Part Definition" "INDUCTOR_MSS1048_3.3U:MSS1048:3.3u:" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( "Part Definition" "CSD16301Q2_U_6_SON_N-NEXTFET PO:U_6_SON:N-NextFET Power MOSFET:" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( "Part Definition" "TESTPIN_TP40_TESTPIN:TP40:TESTPIN:" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( "Part Definition" "CAP NP_CAP_0603_0.1 UF:CAP_0603:0.1 uF:" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( "Part Definition" "RESISTOR_V_TOL_3_RES_0603_1K:RES_0603:1k:" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( "Part Definition" "RESISTOR_V_TOL_3_RES_0603_NC_1K:RES_0603:NC_1k:" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( "Part Definition" "RESISTOR_V_TOL_3_RES_0603_NC_9.:RES_0603:NC_9.09k:" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( "Part Definition" "CAP NP_CAP_0603_0.1 UF:CAP_0603:0.1 uF:" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( "Part Definition" "CAP NP_CAP_0603_8.2N:CAP_0603:8.2n:" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( "Part Definition" "RESISTOR_V_TOL_3_RES_0603_1K:RES_0603:1k:" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( "Part Definition" "RESISTOR_V_TOL_3_RES_0603_3.48K:RES_0603:3.48k:" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( "Part Definition" "RESISTOR_H_TOL_1_RES_0603_56.2K:RES_0603:56.2k:" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( "Part Definition" "CAP NP_CAP_1206_10UF:CAP_1206:10uF:" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( "Part Definition" "RESISTOR_V_TOL_3_RES_0603_1K:RES_0603:1k:" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( "Part Definition" "RESISTOR_V_TOL_3_RES_1206_20M:RES_1206:20m:" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( "Part Definition" "CAP NP_CAP_0805_4.7UF:CAP_0805:4.7uF:" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( "Part Definition" "TESTPIN_TP40_TESTPIN:TP40:TESTPIN:" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( "Part Definition" "CAP NP_CAP_1206_10UF:CAP_1206:10uF:" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( "Part Definition" "CAP NP_CAP_0603_NC_0.1 UF:CAP_0603:NC_0.1 uF:" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:01) cm expand ( row ( Design "STANDARD" ) )
+\i (00:04:03) setwindow pcb
+\i (00:04:03) pick grid -103.1680 -18.2690
+\t (00:04:03) last pick:  -103.1748  -18.2626
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Element has no origin, using pick.
+\t (00:04:03) Moving D13 / DIODE ZENER_D_0603_CDBU0520 / D_0603.
+\t (00:04:03) Moving R212 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:04:03) Moving TP59 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:04:03) Moving C269 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:04:03) Moving L12 / INDUCTOR_MSS1048_3.3U / MSS1048.
+\t (00:04:03) Moving Q17 / CSD16301Q2_U_6_SON_N-NEXTFET PO / U_6_SON.
+\t (00:04:03) Moving TP60 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:04:03) Moving C266 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:04:03) Moving R216 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:04:03) Moving R215 / RESISTOR_V_TOL_3_RES_0603_NC_1K / RES_0603.
+\t (00:04:03) Moving R213 / RESISTOR_V_TOL_3_RES_0603_NC_9. / RES_0603.
+\t (00:04:03) Moving C273 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:04:03) Moving C270 / CAP NP_CAP_0603_8.2N / CAP_0603.
+\t (00:04:03) Moving R214 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:04:03) Moving U46 / TPS54620RGY_RGY_TPS54620RGY / RGY.
+\t (00:04:03) Moving R220 / RESISTOR_V_TOL_3_RES_0603_3.48K / RES_0603.
+\t (00:04:03) Moving R211 / RESISTOR_H_TOL_1_RES_0603_56.2K / RES_0603.
+\t (00:04:03) Moving C267 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:04:03) Moving R219 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:04:03) Moving R221 / RESISTOR_V_TOL_3_RES_1206_20M / RES_1206.
+\t (00:04:03) Moving C268 / CAP NP_CAP_0805_4.7UF / CAP_0805.
+\t (00:04:03) Moving TP61 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:04:03) Moving C274 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:04:03) Moving C271 / CAP NP_CAP_0603_NC_0.1 UF / CAP_0603.
+\t (00:04:03) Pick new location for the element(s).
+\i (00:04:04) pick grid -145.0566 -37.9940
+\t (00:04:04) last pick:  -145.0594  -37.9984
+\i (00:04:05) prepopup -136.3321 -37.6689
+\i (00:04:07) pick grid -139.8002 -39.0778
+\t (00:04:07) last pick:  -139.8016  -39.0652
+\i (00:04:07) pick grid -127.1740 -44.6052
+\t (00:04:07) last pick:  -127.1778  -44.6024
+\i (00:04:08) zoom in 1 
+\i (00:04:08) setwindow pcb
+\i (00:04:08) zoom in -105.3356 -30.8952
+\i (00:04:08) trapsize 1355
+\i (00:04:09) zoom out 1 
+\i (00:04:09) setwindow pcb
+\i (00:04:09) zoom out -105.4439 -33.4150
+\i (00:04:09) trapsize 2709
+\i (00:04:10) zoom in 1 
+\i (00:04:10) setwindow pcb
+\i (00:04:10) zoom in -105.1730 -32.3854
+\i (00:04:10) trapsize 1355
+\i (00:04:10) zoom in 1 
+\i (00:04:10) setwindow pcb
+\i (00:04:10) zoom in -105.1459 -32.1145
+\i (00:04:10) trapsize 677
+\i (00:04:11) zoom out 1 
+\i (00:04:11) setwindow pcb
+\i (00:04:11) zoom out -107.0696 -30.5565
+\i (00:04:11) trapsize 1355
+\i (00:04:12) zoom in 1 
+\i (00:04:12) setwindow pcb
+\i (00:04:12) zoom in -108.0991 -36.9509
+\i (00:04:12) trapsize 677
+\i (00:04:16) pick grid -110.1718 -33.1577
+\t (00:04:16) last pick:  -110.1598  -33.1470
+\i (00:04:17) prepopup -110.1854 -33.2389
+\i (00:04:18) cancel 
+\i (00:04:18) generaledit 
+\i (00:04:18) prepopup -110.2802 -33.1848
+\i (00:04:19) pick grid -110.3209 -32.3990
+\t (00:04:19) last pick:  -110.3122  -32.4104
+\i (00:04:20) zoom out 1 
+\i (00:04:20) setwindow pcb
+\i (00:04:20) zoom out -110.3209 -32.3990
+\i (00:04:20) trapsize 1355
+\i (00:04:20) zoom out 1 
+\i (00:04:20) setwindow pcb
+\i (00:04:20) zoom out -110.3208 -32.3990
+\i (00:04:20) trapsize 2709
+\i (00:04:20) prepopup -121.5380 -41.7738
+\i (00:04:22) pop dyn_option_select 'Quick Utilities@:@Undo' 
+\i (00:04:22) undo 
+\i (00:04:23) trapsize 2709
+\i (00:04:24) generaledit 
+\i (00:04:25) prepopup -132.2137 -40.8661
+\i (00:04:27) pop dyn_option_select 'Quick Utilities@:@Undo' 
+\i (00:04:27) undo 
+\i (00:04:29) trapsize 2709
+\i (00:04:29) generaledit 
+\i (00:04:30) pick grid -123.2724 -40.1616
+\t (00:04:30) last pick:  -123.2662  -40.1574
+\i (00:04:30) zoom in 1 
+\i (00:04:30) setwindow pcb
+\i (00:04:30) zoom in -113.5182 -31.9790
+\i (00:04:30) trapsize 1355
+\i (00:04:30) zoom in 1 
+\i (00:04:30) setwindow pcb
+\i (00:04:30) zoom in -113.5182 -32.0874
+\i (00:04:30) trapsize 677
+\i (00:04:34) pick grid -112.0280 -32.5751
+\t (00:04:34) last pick:  -112.0394  -32.5628
+\i (00:04:35) zoom out 1 
+\i (00:04:35) setwindow pcb
+\i (00:04:35) zoom out -112.0280 -32.5616
+\i (00:04:35) trapsize 1355
+\i (00:04:36) zoom out 1 
+\i (00:04:36) setwindow pcb
+\i (00:04:36) zoom out -112.0279 -32.5615
+\i (00:04:36) trapsize 2709
+\i (00:04:37) move 
+\t (00:04:37) Select element(s) to move.
+\i (00:04:39) setwindow form.find
+\i (00:04:39) FORM find name_type Xnet 
+\i (00:04:40) FORM find find_by_name  
+\i (00:04:42) setwindow form.findname
+\i (00:04:42) FORM findname cancel  
+\i (00:04:44) setwindow form.find
+\i (00:04:44) FORM find name_type Xnet 
+\i (00:04:45) FORM find find_by_name  
+\i (00:04:47) setwindow form.findname
+\i (00:04:47) FORM findname cancel  
+\i (00:04:49) setwindow form.find
+\i (00:04:49) FORM find name_type Generic Group 
+\i (00:04:49) FORM find find_by_name  
+\i (00:04:51) setwindow form.findname
+\i (00:04:51) FORM findname objlist 3 
+\i (00:04:51) FORM findname done  
+\t (00:04:51) Cannot edit Symbol "J32". It has the FIXED property.
+\t (00:04:51) Cannot edit Symbol "R218". Net "N40044144" has the FIXED property.
+\t (00:04:51) Cannot edit Symbol "R217". Net "N40044144" has the FIXED property.
+\t (00:04:51) Cannot edit Symbol "C272". Net "N40044144" has the FIXED property.
+\t (00:04:51) Cannot edit Pin "C274.1". Symbol or drawing must have UNFIXED_PINS property.
+\t (00:04:51) Cannot edit Connect Line "N40044144, Etch/Bottom". Net "N40044144" has the FIXED property.
+\t (00:04:51) Cannot edit Connect Line "N40044144, Etch/Bottom". Net "N40044144" has the FIXED property.
+\t (00:04:51) Cannot edit Connect Line "N40044144, Etch/Bottom". Net "N40044144" has the FIXED property.
+\w (00:04:51) WARNING(SPMHFN-50): Only some members of Group "3" have been selected.
+\i (00:04:54) setwindow pcb
+\i (00:04:54) pick grid -103.1951 -17.9303
+\t (00:04:54) last pick:  -103.2002  -17.9324
+\t (00:04:54) Element has no origin, using pick.
+\t (00:04:54) Element has no origin, using pick.
+\t (00:04:54) Element has no origin, using pick.
+\t (00:04:54) Element has no origin, using pick.
+\t (00:04:54) Element has no origin, using pick.
+\t (00:04:54) Element has no origin, using pick.
+\t (00:04:54) Element has no origin, using pick.
+\t (00:04:54) Element has no origin, using pick.
+\t (00:04:54) Element has no origin, using pick.
+\t (00:04:54) Element has no origin, using pick.
+\t (00:04:54) Element has no origin, using pick.
+\t (00:04:54) Element has no origin, using pick.
+\t (00:04:54) Element has no origin, using pick.
+\t (00:04:54) Element has no origin, using pick.
+\t (00:04:54) Element has no origin, using pick.
+\t (00:04:54) Element has no origin, using pick.
+\t (00:04:54) Element has no origin, using pick.
+\t (00:04:54) Element has no origin, using pick.
+\t (00:04:54) Element has no origin, using pick.
+\t (00:04:54) Element has no origin, using pick.
+\t (00:04:54) Element has no origin, using pick.
+\t (00:04:54) Element has no origin, using pick.
+\t (00:04:54) Element has no origin, usin
