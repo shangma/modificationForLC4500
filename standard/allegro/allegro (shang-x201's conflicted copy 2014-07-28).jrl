@@ -360,4 +360,213 @@
 \i (00:02:40) roam x -32
 \i (00:02:40) roam y 16
 \i (00:02:40) roam x -80
-\i (00:02:40) roam x
+\i (00:02:40) roam x -48
+\i (00:02:40) roam y 16
+\i (00:02:41) roam end
+\i (00:02:41) prepopup -101.9797 -39.4132
+\i (00:02:42) pick grid -103.0940 -39.9703
+\t (00:02:42) last pick:  -103.0986  -39.9796
+\i (00:02:43) delete 
+\i (00:02:44) pick grid -106.9632 -34.4296
+\t (00:02:44) last pick:  -106.9594  -34.4170
+\t (00:02:44) Horizontal Line Segment "Ledg_Pwm, Etch/4--Sig"
+\i (00:02:45) pick grid -97.3367 -36.9059
+\t (00:02:45) last pick:  -97.3328  -36.9062
+\t (00:02:45) Horizontal Line Segment "I2c1_Scl, Etch/4--Sig"
+\i (00:02:46) pick grid -97.3676 -37.5559
+\t (00:02:46) last pick:  -97.3582  -37.5666
+\t (00:02:46) Horizontal Line Segment "I2c1_Sda, Etch/4--Sig"
+\i (00:02:46) pick grid -94.1175 -37.0916
+\t (00:02:46) last pick:  -94.1070  -37.0840
+\t (00:02:46) Odd-angle Line Segment "I2c1_Sda, Etch/4--Sig"
+\i (00:02:47) pick grid -94.6747 -36.5654
+\t (00:02:47) last pick:  -94.6658  -36.5760
+\t (00:02:47) Odd-angle Line Segment "I2c1_Scl, Etch/4--Sig"
+\i (00:02:47) pick grid -93.4675 -36.1630
+\t (00:02:47) last pick:  -93.4720  -36.1696
+\t (00:02:47) Horizontal Line Segment "I2c1_Scl, Etch/4--Sig"
+\i (00:02:47) pick grid -93.0341 -36.7511
+\t (00:02:47) last pick:  -93.0402  -36.7538
+\t (00:02:47) Horizontal Line Segment "I2c1_Sda, Etch/4--Sig"
+\i (00:02:48) pick grid -91.4555 -36.1011
+\t (00:02:48) last pick:  -91.4654  -36.0934
+\t (00:02:48) Odd-angle Line Segment "I2c1_Sda, Etch/4--Sig"
+\i (00:02:48) pick grid -91.8579 -35.3582
+\t (00:02:48) last pick:  -91.8464  -35.3568
+\t (00:02:48) Odd-angle Line Segment "I2c1_Scl, Etch/4--Sig"
+\i (00:02:49) pick grid -92.3531 -34.3368
+\t (00:02:49) last pick:  -92.3544  -34.3408
+\t (00:02:49) Odd-angle Line Segment "Ledb_Pwm, Etch/4--Sig"
+\i (00:02:49) pick grid -92.7555 -33.4082
+\t (00:02:49) last pick:  -92.7608  -33.4010
+\t (00:02:49) Odd-angle Line Segment "Ledg_Pwm, Etch/4--Sig"
+\i (00:02:50) pick grid -90.5269 -32.1391
+\t (00:02:50) last pick:  -90.5256  -32.1310
+\t (00:02:50) Horizontal Line Segment "Ledg_Pwm, Etch/4--Sig"
+\i (00:02:50) pick grid -90.2793 -32.4796
+\t (00:02:50) last pick:  -90.2716  -32.4866
+\t (00:02:50) Horizontal Line Segment "Ledb_Pwm, Etch/4--Sig"
+\i (00:02:51) pick grid -89.9388 -34.0272
+\t (00:02:51) last pick:  -89.9414  -34.0360
+\t (00:02:51) Horizontal Line Segment "I2c1_Scl, Etch/4--Sig"
+\i (00:02:51) pick grid -89.5673 -34.6154
+\t (00:02:51) last pick:  -89.5604  -34.6202
+\t (00:02:51) Horizontal Line Segment "I2c1_Sda, Etch/4--Sig"
+\i (00:02:52) pick grid -88.7935 -31.9224
+\t (00:02:52) last pick:  -88.7984  -31.9278
+\t (00:02:52) Odd-angle Line Segment "Ledg_Pwm, Etch/4--Sig"
+\i (00:02:52) zoom in 1 
+\i (00:02:52) setwindow pcb
+\i (00:02:52) zoom in -87.6173 -31.0557
+\i (00:02:52) trapsize 774
+\i (00:02:53) zoom in 1 
+\i (00:02:53) setwindow pcb
+\i (00:02:53) zoom in -87.6483 -31.0866
+\i (00:02:53) trapsize 387
+\i (00:02:54) pick grid -88.5149 -32.1931
+\t (00:02:54) last pick:  -88.5190  -32.1818
+\t (00:02:54) Odd-angle Line Segment "Ledb_Pwm, Etch/4--Sig"
+\i (00:02:55) pick grid -87.2690 -33.8569
+\t (00:02:55) last pick:  -87.2744  -33.8582
+\t (00:02:55) Odd-angle Line Segment "I2c1_Scl, Etch/4--Sig"
+\i (00:02:56) pick grid -86.8744 -34.5688
+\t (00:02:56) last pick:  -86.8680  -34.5694
+\t (00:02:56) Odd-angle Line Segment "I2c1_Sda, Etch/4--Sig"
+\i (00:02:57) pick grid -87.5399 -30.8853
+\t (00:02:57) last pick:  -87.5284  -30.8864
+\t (00:02:57) Horizontal Line Segment "Ledg_Pwm, Etch/4--Sig"
+\i (00:02:58) zoom out 1 
+\i (00:02:58) setwindow pcb
+\i (00:02:58) zoom out -87.5631 -31.3961
+\i (00:02:58) trapsize 774
+\i (00:03:00) pick grid -87.3928 -31.1329
+\t (00:03:00) last pick:  -87.4014  -31.1404
+\t (00:03:00) Cannot edit Vertical Line Segment "Pm_Adr_3, Etch/3-Sig". Net "Pm_Adr_3" has the FIXED property.
+\t (00:03:00) Horizontal Line Segment "Ledb_Pwm, Etch/4--Sig"
+\i (00:03:01) zoom in 1 
+\i (00:03:01) setwindow pcb
+\i (00:03:01) zoom in -84.7618 -32.9283
+\i (00:03:01) trapsize 387
+\i (00:03:02) pick grid -84.8004 -32.9515
+\t (00:03:02) last pick:  -84.8106  -32.9438
+\t (00:03:02) Cannot edit Odd-angle Line Segment "Pm_Adr_6, Etch/3-Sig". Net "Pm_Adr_6" has the FIXED property.
+\t (00:03:02) Cannot edit Horizontal Line Segment "Pm_Adr_6, Etch/Top". Net "Pm_Adr_6" has the FIXED property.
+\t (00:03:02) Horizontal Line Segment "I2c1_Scl, Etch/4--Sig"
+\i (00:03:03) pick grid -84.8855 -33.9343
+\t (00:03:03) last pick:  -84.8868  -33.9344
+\t (00:03:03) Cannot edit Horizontal Line Segment "Pm_Adr_4, Etch/3-Sig". Net "Pm_Adr_4" has the FIXED property.
+\t (00:03:03) Cannot edit Horizontal Line Segment "Pm_Adr_4, Etch/Top". Net "Pm_Adr_4" has the FIXED property.
+\t (00:03:03) Horizontal Line Segment "I2c1_Sda, Etch/4--Sig"
+\i (00:03:03) pick grid -84.3129 -33.5319
+\t (00:03:03) last pick:  -84.3026  -33.5280
+\t (00:03:03) Odd-angle Line Segment "I2c1_Sda, Etch/4--Sig"
+\i (00:03:04) pick grid -84.1272 -32.6420
+\t (00:03:04) last pick:  -84.1248  -32.6390
+\t (00:03:04) Odd-angle Line Segment "I2c1_Scl, Etch/4--Sig"
+\i (00:03:04) zoom out 1 
+\i (00:03:04) setwindow pcb
+\i (00:03:04) zoom out -84.1427 -32.8277
+\i (00:03:04) trapsize 774
+\i (00:03:06) prepopup -83.4307 -31.8371
+\i (00:03:06) done 
+\i (00:03:07) generaledit 
+\i (00:03:08) zoom out 1 
+\i (00:03:08) setwindow pcb
+\i (00:03:08) zoom out -81.9604 -34.7158
+\i (00:03:08) trapsize 1548
+\i (00:03:10) zoom in 1 
+\i (00:03:10) setwindow pcb
+\i (00:03:10) zoom in -74.7172 -30.7228
+\i (00:03:10) trapsize 774
+\i (00:03:12) delete 
+\i (00:03:13) pick grid -81.2329 -32.3169
+\t (00:03:13) last pick:  -81.2292  -32.3088
+\t (00:03:13) Cannot edit Horizontal Line Segment "Pm_Adr_6, Etch/3-Sig". Net "Pm_Adr_6" has the FIXED property.
+\t (00:03:13) Horizontal Line Segment "I2c1_Scl, Etch/4--Sig"
+\i (00:03:14) pick grid -81.3258 -33.2610
+\t (00:03:14) last pick:  -81.3308  -33.2486
+\t (00:03:14) Horizontal Line Segment "I2c1_Sda, Etch/4--Sig"
+\i (00:03:16) pick grid -77.9828 -31.7133
+\t (00:03:16) last pick:  -77.9780  -31.7246
+\t (00:03:16) Odd-angle Line Segment "I2c1_Sda, Etch/4--Sig"
+\i (00:03:16) pick grid -78.0757 -30.8312
+\t (00:03:16) last pick:  -78.0796  -30.8356
+\t (00:03:16) Odd-angle Line Segment "I2c1_Scl, Etch/4--Sig"
+\i (00:03:18) prepopup -80.9234 -30.4597
+\i (00:03:19) done 
+\i (00:03:19) generaledit 
+\i (00:03:20) zoom out 1 
+\i (00:03:20) setwindow pcb
+\i (00:03:20) zoom out -78.6174 -30.8002
+\i (00:03:20) trapsize 1548
+\i (00:03:20) zoom out 1 
+\i (00:03:20) setwindow pcb
+\i (00:03:20) zoom out -78.5554 -30.7693
+\i (00:03:20) trapsize 3095
+\i (00:03:21) zoom in 1 
+\i (00:03:21) setwindow pcb
+\i (00:03:21) zoom in -102.6993 -40.3648
+\i (00:03:21) trapsize 1548
+\i (00:03:21) zoom in 1 
+\i (00:03:21) setwindow pcb
+\i (00:03:21) zoom in -102.6683 -40.3648
+\i (00:03:21) trapsize 774
+\i (00:03:22) drag_start grid -103.3338 -37.0991
+\i (00:03:22) drag_stop -101.8790 -38.7242
+\i (00:03:23) delete 
+\i (00:03:23) generaledit 
+\i (00:03:24) prepopup -103.6433 -37.9504
+\i (00:03:24) pick grid -104.1386 -38.0432
+\t (00:03:24) last pick:  -104.1400  -38.0492
+\i (00:03:25) zoom out 1 
+\i (00:03:25) setwindow pcb
+\i (00:03:25) zoom out -103.8910 -38.7551
+\i (00:03:25) trapsize 1548
+\i (00:03:25) zoom out 1 
+\i (00:03:25) setwindow pcb
+\i (00:03:25) zoom out -103.8290 -38.7552
+\i (00:03:25) trapsize 3095
+\i (00:03:25) zoom out 1 
+\i (00:03:25) setwindow pcb
+\i (00:03:25) zoom out -103.7052 -37.7028
+\i (00:03:25) trapsize 6191
+\i (00:03:39) roam start
+\i (00:03:39) roam x 176
+\i (00:03:39) roam x 192
+\i (00:03:39) roam y 16
+\i (00:03:39) roam x 224
+\i (00:03:39) roam x 112
+\i (00:03:39) roam x 16
+\i (00:03:39) roam y 32
+\i (00:03:39) roam y 80
+\i (00:03:39) roam y 16
+\i (00:03:39) roam x -96
+\i (00:03:39) roam y 32
+\i (00:03:40) roam x -112
+\i (00:03:40) roam y 16
+\i (00:03:40) roam x -352
+\i (00:03:40) roam x -32
+\i (00:03:40) roam x -48
+\i (00:03:40) roam x -112
+\i (00:03:40) roam y -16
+\i (00:03:40) roam x 64
+\i (00:03:40) roam y -128
+\i (00:03:41) roam end
+\i (00:03:42) setwindow form.vf_vis
+\i (00:03:42) FORM vf_vis all_all_visible YES 
+\i (00:03:42) FORM vf_vis all_all_visible_pln YES 
+\i (00:31:53) setwindow pcb
+\i (00:31:53) prepopup -57.5917 18.9350
+\i (00:31:55) pick grid -134.9757 -14.8664
+\t (00:31:55) last pick:  -134.9756  -14.8590
+\i (03:50:45) trapsize 10301
+\i (03:50:50) drc update 
+\t (03:50:50) Performing DRC...
+\t (03:50:50) Multithreaded DRC update (4 threads).
+\t (03:50:51) DRC done; 783 errors detected.
+\i (03:50:51) generaledit 
+\i (03:50:53) save 
+\i (03:50:54) fillin yes 
+\i (03:50:55) generaledit 
+\i (03:50:56) exit 
+\t (03:50:56)     Journal end - Mon Jul 28 19:13:06 2014
