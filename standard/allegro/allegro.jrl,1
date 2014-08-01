@@ -1,363 +1,2567 @@
-\t (00:00:06) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:00:06)     Journal start - Mon Jul 28 15:22:15 2014
-\t (00:00:06)         Host=SHANG-X201 User=shang Pid=1856 CPUs=4
-\t (00:00:06) 
-\t (00:00:07) Opening existing design...
-\d (00:00:09) Database opened: D:/Dropbox/Design/allegroProject/designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd
-\i (00:00:09) trapsize 18537
-\i (00:00:09) trapsize 17980
-\i (00:00:09) trapsize 18633
-\i (00:00:09) trapsize 20601
-\i (00:00:10) generaledit 
-\i (00:00:11) trapsize 31624
-\i (00:00:12) trapsize 12381
-\i (00:01:11) pick grid -48.1586 -104.2724
-\t (00:01:11) last pick:  -48.1584  -104.2670
-\i (00:01:12) zoom in 1 
-\i (00:01:12) setwindow pcb
-\i (00:01:12) zoom in -97.9319 -10.6688
-\i (00:01:12) trapsize 6191
-\i (00:01:12) zoom in 1 
-\i (00:01:12) setwindow pcb
-\i (00:01:12) zoom in -97.9319 -10.7926
-\i (00:01:12) trapsize 3095
-\i (00:01:12) zoom in 1 
-\i (00:01:12) setwindow pcb
-\i (00:01:12) zoom in -97.9319 -10.7926
-\i (00:01:12) trapsize 1548
-\i (00:01:13) zoom out 1 
-\i (00:01:13) setwindow pcb
-\i (00:01:13) zoom out -97.1580 -11.3807
-\i (00:01:13) trapsize 3095
-\i (00:01:14) zoom out 1 
-\i (00:01:14) setwindow pcb
-\i (00:01:14) zoom out -95.8580 -9.5234
-\i (00:01:14) trapsize 6191
-\i (00:01:14) zoom out 1 
-\i (00:01:14) setwindow pcb
-\i (00:01:14) zoom out -95.8581 -9.5234
-\i (00:01:14) trapsize 12381
-\i (00:01:15) zoom in 1 
-\i (00:01:15) setwindow pcb
-\i (00:01:15) zoom in -90.4103 -19.9238
-\i (00:01:15) trapsize 6191
-\i (00:01:15) zoom in 1 
-\i (00:01:15) setwindow pcb
-\i (00:01:15) zoom in -90.4103 -19.9238
-\i (00:01:15) trapsize 3095
-\i (00:01:17) zoom in 1 
-\i (00:01:17) setwindow pcb
-\i (00:01:17) zoom in -90.1627 -9.3377
-\i (00:01:17) trapsize 1548
-\i (00:01:17) zoom out 1 
-\i (00:01:17) setwindow pcb
-\i (00:01:17) zoom out -90.1008 -9.5543
-\i (00:01:17) trapsize 3095
-\i (00:01:24) setwindow form.find
-\i (00:01:24) FORM find cline_segs YES 
-\i (00:01:25) FORM find other_segs YES 
-\i (00:01:26) setwindow pcb
-\i (00:01:26) zoom in 1 
-\i (00:01:26) setwindow pcb
-\i (00:01:26) zoom in -98.2107 -16.6118
-\i (00:01:26) trapsize 1548
-\i (00:01:26) zoom in 1 
-\i (00:01:26) setwindow pcb
-\i (00:01:26) zoom in -98.7679 -17.3546
-\i (00:01:26) trapsize 774
-\i (00:01:28) pick grid -101.7859 -19.9701
-\t (00:01:28) last pick:  -101.7778  -19.9644
-\i (00:01:30) delete 
-\i (00:01:30) generaledit 
-\i (00:01:31) pick grid -101.2751 -21.3476
-\t (00:01:31) last pick:  -101.2698  -21.3360
-\i (00:01:31) pick grid -100.9346 -20.5583
-\t (00:01:31) last pick:  -100.9396  -20.5486
-\i (00:01:32) pick grid -100.6096 -18.1903
-\t (00:01:32) last pick:  -100.6094  -18.1864
-\i (00:01:33) pick grid -97.9786 -16.6426
-\t (00:01:33) last pick:  -97.9678  -16.6370
-\i (00:01:35) pick grid -100.8882 -19.7380
-\t (00:01:35) last pick:  -100.8888  -19.7358
-\i (00:01:35) pick grid -101.1823 -21.1928
-\t (00:01:35) last pick:  -101.1936  -21.1836
-\i (00:01:39) prepopup -101.8168 -12.3401
-\i (00:01:39) pick grid -102.7919 -12.1389
-\t (00:01:39) last pick:  -102.7938  -12.1412
-\i (00:01:40) delete 
-\i (00:01:43) setwindow form.find
-\i (00:01:43) FORM find all_off  
-\i (00:01:44) FORM find cline_segs YES 
-\i (00:01:45) setwindow pcb
-\i (00:01:45) pick grid -98.9381 -16.7046
-\t (00:01:45) last pick:  -98.9330  -16.7132
-\t (00:01:45) Odd-angle Line Segment "Sda0, Etch/3-Sig"
-\i (00:01:46) pick grid -98.2107 -16.9677
-\t (00:01:46) last pick:  -98.2218  -16.9672
-\t (00:01:46) Odd-angle Line Segment "Scl0, Etch/3-Sig"
-\i (00:01:47) pick grid -100.9656 -20.1094
-\t (00:01:47) last pick:  -100.9650  -20.1168
-\t (00:01:47) Vertical Line Segment "Not On A Net, Etch/3-Sig"
-\i (00:01:48) pick grid -101.0430 -21.0535
-\t (00:01:48) last pick:  -101.0412  -21.0566
-\t (00:01:48) Odd-angle Line Segment "Not On A Net, Etch/3-Sig"
-\i (00:01:51) setwindow form.find
-\i (00:01:51) FORM find vias YES 
-\i (00:01:52) setwindow pcb
-\i (00:01:52) pick grid -101.8633 -20.7595
-\t (00:01:52) last pick:  -101.8540  -20.7518
-\t (00:01:52) Via "Not On A Net, Via16c8, (-101.8000 -20.7000)"
-\i (00:01:52) pick grid -101.8633 -21.8119
-\t (00:01:52) last pick:  -101.8540  -21.8186
-\t (00:01:52) Via "Not On A Net, Via16c8, (-101.8000 -21.8000)"
-\i (00:01:53) roam start
-\i (00:01:53) roam x 64
-\i (00:01:53) roam y -96
-\i (00:01:54) roam x 80
-\i (00:01:54) roam y -64
-\i (00:01:54) roam x 80
-\i (00:01:54) roam y -96
-\i (00:01:54) roam x 64
-\i (00:01:54) roam y -64
-\i (00:01:54) roam x 128
-\i (00:01:54) roam y -64
-\i (00:01:54) roam x 80
-\i (00:01:54) roam y -48
-\i (00:01:54) roam x 64
-\i (00:01:54) roam y -32
-\i (00:01:54) roam x 64
-\i (00:01:54) roam y -32
-\i (00:01:54) roam x 48
-\i (00:01:54) roam y -32
-\i (00:01:54) roam x 48
-\i (00:01:54) roam y -32
-\i (00:01:54) roam end
-\i (00:01:55) pick grid -90.7130 -9.2648
-\t (00:01:55) last pick:  -90.7034  -9.2710
-\t (00:01:55) Horizontal Line Segment "Sda0, Etch/3-Sig"
-\i (00:01:56) pick grid -90.6356 -9.9148
-\t (00:01:56) last pick:  -90.6272  -9.9060
-\t (00:01:56) Horizontal Line Segment "Scl0, Etch/3-Sig"
-\i (00:01:56) pick grid -89.5058 -9.2493
-\t (00:01:56) last pick:  -89.5096  -9.2456
-\i (00:01:57) pick grid -89.5058 -9.3112
-\t (00:01:57) last pick:  -89.5096  -9.3218
-\t (00:01:57) Odd-angle Line Segment "Scl0, Etch/3-Sig"
-\i (00:01:57) pick grid -89.5986 -8.9243
-\t (00:01:57) last pick:  -89.6112  -8.9154
-\t (00:01:57) Odd-angle Line Segment "Sda0, Etch/3-Sig"
-\i (00:01:58) roam start
-\i (00:01:59) roam x 80
-\i (00:01:59) roam x 16
-\i (00:01:59) roam x 16
-\i (00:01:59) roam x 64
-\i (00:01:59) roam x 64
-\i (00:01:59) roam x 64
-\i (00:01:59) roam x 32
-\i (00:01:59) roam x 32
-\i (00:01:59) roam x 48
-\i (00:01:59) roam x 64
-\i (00:01:59) roam x 80
-\i (00:01:59) roam x 48
-\i (00:01:59) roam x 32
-\i (00:01:59) roam x 32
-\i (00:01:59) roam x 96
-\i (00:01:59) roam x 64
-\i (00:01:59) roam x 64
-\i (00:01:59) roam x 32
-\i (00:01:59) roam x 64
-\i (00:01:59) roam x 64
-\i (00:01:59) roam x 64
-\i (00:01:59) roam x 32
-\i (00:01:59) roam x 48
-\i (00:01:59) roam x 64
-\i (00:02:00) roam x 80
-\i (00:02:00) roam x 64
-\i (00:02:00) roam x 96
-\i (00:02:00) roam x 96
-\i (00:02:00) roam x 64
-\i (00:02:00) roam x 16
-\i (00:02:00) roam x 16
-\i (00:02:00) roam x 48
-\i (00:02:00) roam x 64
-\i (00:02:00) roam end
-\i (00:02:01) pick grid -53.0116 -6.8504
-\t (00:02:01) last pick:  -53.0098  -6.8580
-\t (00:02:01) Horizontal Line Segment "Scl0, Etch/3-Sig"
-\i (00:02:02) pick grid -52.9497 -5.8135
-\t (00:02:02) last pick:  -52.9590  -5.8166
-\t (00:02:02) Horizontal Line Segment "Sda0, Etch/3-Sig"
-\i (00:02:03) roam start
-\i (00:02:03) roam x -144
-\i (00:02:03) roam x -208
-\i (00:02:03) roam x -192
-\i (00:02:03) roam x -160
-\i (00:02:03) roam x -112
-\i (00:02:03) roam x -128
-\i (00:02:03) roam x -96
-\i (00:02:03) roam x -64
-\i (00:02:03) roam x -48
-\i (00:02:03) roam x -32
-\i (00:02:03) roam y 16
-\i (00:02:03) roam x -64
-\i (00:02:03) roam x -96
-\i (00:02:03) roam x -128
-\i (00:02:03) roam x -80
-\i (00:02:03) roam x -80
-\i (00:02:03) roam x -80
-\i (00:02:03) roam x -80
-\i (00:02:03) roam x -80
-\i (00:02:03) roam x -32
-\i (00:02:03) roam x 16
-\i (00:02:04) roam x 16
-\i (00:02:04) roam end
-\i (00:02:04) prepopup -91.1927 -5.5659
-\i (00:02:05) done 
-\i (00:02:05) generaledit 
-\i (00:02:05) zoom out 1 
-\i (00:02:05) setwindow pcb
-\i (00:02:05) zoom out -91.1773 -5.5969
-\i (00:02:05) trapsize 1548
-\i (00:02:05) zoom out 1 
-\i (00:02:05) setwindow pcb
-\i (00:02:05) zoom out -91.1772 -5.5969
-\i (00:02:05) trapsize 3095
-\i (00:02:10) zoom in 1 
-\i (00:02:10) setwindow pcb
-\i (00:02:10) zoom in -98.4204 -21.4450
-\i (00:02:10) trapsize 1548
-\i (00:02:10) zoom in 1 
-\i (00:02:10) setwindow pcb
-\i (00:02:10) zoom in -98.4513 -21.4759
-\i (00:02:10) trapsize 774
-\i (00:02:11) zoom out 1 
-\i (00:02:11) setwindow pcb
-\i (00:02:11) zoom out -98.4204 -21.6771
-\i (00:02:11) trapsize 1548
-\i (00:02:12) zoom out 1 
-\i (00:02:12) setwindow pcb
-\i (00:02:12) zoom out -98.1108 -21.6771
-\i (00:02:12) trapsize 3095
-\i (00:02:15) delete 
-\i (00:02:17) pick grid -104.0539 -19.5104
-\t (00:02:17) last pick:  -104.0638  -19.5072
-\t (00:02:17) Odd-angle Line Segment "Ledg_En, Etch/6-Sig"
-\i (00:02:18) pick grid -96.1298 -18.7056
-\t (00:02:18) last pick:  -96.1390  -18.6944
-\t (00:02:18) Horizontal Line Segment "Ledg_En, Etch/6-Sig"
-\i (00:02:19) pick grid -90.1248 -19.3246
-\t (00:02:19) last pick:  -90.1192  -19.3294
-\t (00:02:19) Odd-angle Line Segment "Ledg_En, Etch/6-Sig"
-\i (00:02:19) zoom in 1 
-\i (00:02:19) setwindow pcb
-\i (00:02:19) zoom in -91.9820 -19.6961
-\i (00:02:19) trapsize 1548
-\i (00:02:20) zoom in 1 
-\i (00:02:20) setwindow pcb
-\i (00:02:20) zoom in -91.9820 -19.7271
-\i (00:02:20) trapsize 774
-\i (00:02:21) pick grid -89.1033 -20.0985
-\t (00:02:21) last pick:  -89.1032  -20.0914
-\t (00:02:21) Horizontal Line Segment "Ledg_En, Etch/6-Sig"
-\i (00:02:23) pick grid -86.3639 -19.8199
-\t (00:02:23) last pick:  -86.3600  -19.8120
-\t (00:02:23) Cannot edit Vertical Line Segment "Pm_Adr_4, Etch/3-Sig". Net "Pm_Adr_4" has the FIXED property.
-\t (00:02:23) Cannot edit Odd-angle Line Segment "Pm_Adr_4, Etch/3-Sig". Net "Pm_Adr_4" has the FIXED property.
-\t (00:02:23) Cannot edit Vertical Line Segment "Pm_Adr_11, Etch/4--Sig". Net "Pm_Adr_11" has the FIXED property.
-\t (00:02:23) Odd-angle Line Segment "Ledg_En, Etch/6-Sig"
-\i (00:02:24) pick grid -84.5532 -19.7425
-\t (00:02:24) last pick:  -84.5566  -19.7358
-\t (00:02:24) Cannot edit Vertical Line Segment "Pm_Adr_14, Etch/4--Sig". Net "Pm_Adr_14" has the FIXED property.
-\t (00:02:24) Horizontal Line Segment "Ledg_En, Etch/6-Sig"
-\i (00:02:25) pick grid -81.5507 -19.7116
-\t (00:02:25) last pick:  -81.5594  -19.7104
-\t (00:02:25) Via "Ledg_En, Via16c8, (-81.6500 -19.6000)"
-\i (00:02:26) pick grid -80.2352 -19.6342
-\t (00:02:26) last pick:  -80.2386  -19.6342
-\t (00:02:26) Horizontal Line Segment "Ledg_En, Etch/Bottom"
-\i (00:02:27) roam start
-\i (00:02:27) roam x 64
-\i (00:02:27) roam x 16
-\i (00:02:27) roam x 16
-\i (00:02:27) roam x 32
-\i (00:02:27) roam x 48
-\i (00:02:27) roam x 48
-\i (00:02:27) roam y -16
-\i (00:02:27) roam x 64
-\i (00:02:27) roam y -16
-\i (00:02:27) roam x 96
-\i (00:02:27) roam y -32
-\i (00:02:27) roam x 112
-\i (00:02:27) roam y -32
-\i (00:02:27) roam x 48
-\i (00:02:27) roam y -32
-\i (00:02:27) roam x 32
-\i (00:02:27) roam y -16
-\i (00:02:27) roam x 48
-\i (00:02:27) roam y -32
-\i (00:02:27) roam x 64
-\i (00:02:27) roam y -32
-\i (00:02:27) roam x 48
-\i (00:02:27) roam y -32
-\i (00:02:27) roam x 32
-\i (00:02:27) roam y -16
-\i (00:02:28) roam end
-\i (00:02:31) pick grid -75.0969 -18.4117
-\t (00:02:31) last pick:  -75.1078  -18.4150
-\t (00:02:31) Odd-angle Line Segment "Ledg_En, Etch/Bottom"
-\i (00:02:32) pick grid -73.6421 -17.1116
-\t (00:02:32) last pick:  -73.6346  -17.1196
-\t (00:02:32) Via "Ledg_En, Via16c8, (-73.6346 -16.9926)"
-\i (00:02:33) prepopup -73.1778 -17.4366
-\i (00:02:34) oops 
-\t (00:02:34) last pick:  -75.1078  -18.4150
-\i (00:02:34) prepopup -73.1933 -17.4366
-\i (00:02:35) done 
-\i (00:02:35) generaledit 
-\i (00:02:35) pick grid -73.3326 -17.4676
-\t (00:02:35) last pick:  -73.3298  -17.4752
-\i (00:02:35) zoom out 1 
-\i (00:02:35) setwindow pcb
-\i (00:02:35) zoom out -73.2707 -17.4676
-\i (00:02:35) trapsize 1548
-\i (00:02:35) zoom out 1 
-\i (00:02:35) setwindow pcb
-\i (00:02:35) zoom out -73.2706 -17.4675
-\i (00:02:35) trapsize 3095
-\i (00:02:36) zoom out 1 
-\i (00:02:36) setwindow pcb
-\i (00:02:36) zoom out -76.9850 -18.0247
-\i (00:02:36) trapsize 6191
-\i (00:02:37) roam start
-\i (00:02:37) roam x -224
-\i (00:02:37) roam y 128
-\i (00:02:37) roam x -208
-\i (00:02:37) roam y 176
-\i (00:02:37) roam x -16
-\i (00:02:37) roam y 176
-\i (00:02:37) roam x 16
-\i (00:02:37) roam y 80
-\i (00:02:38) roam x 160
-\i (00:02:38) roam x 224
-\i (00:02:38) roam y -64
-\i (00:02:38) roam x 160
-\i (00:02:38) roam y -160
-\i (00:02:38) roam y -128
-\i (00:02:38) roam end
-\i (00:02:39) zoom in 1 
-\i (00:02:39) setwindow pcb
-\i (00:02:39) zoom in -89.5361 -37.5248
-\i (00:02:39) trapsize 3095
-\i (00:02:39) zoom in 1 
-\i (00:02:39) setwindow pcb
-\i (00:02:39) zoom in -93.3743 -37.5248
-\i (00:02:39) trapsize 1548
-\i (00:02:40) roam start
-\i (00:02:40) roam x -64
-\i (00:02:40) roam x -16
-\i (00:02:40) roam x -80
-\i (00:02:40) roam x -16
-\i (00:02:40) roam x -32
-\i (00:02:40) roam y 16
-\i (00:02:40) roam x -80
-\i (00:02:40) roam x
+\t (00:00:07) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:07)     Journal start - Fri Aug 01 08:55:52 2014
+\t (00:00:07)         Host=SHANG-X201 User=shang Pid=2684 CPUs=4
+\t (00:00:07) 
+\t (00:00:08) Opening existing design...
+\d (00:00:08) Database opened: D:/Dropbox/Design/allegroProject/designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd
+\i (00:00:08) trapsize 10248
+\i (00:00:08) trapsize 9940
+\i (00:00:08) trapsize 10301
+\i (00:00:08) trapsize 9521
+\i (00:00:08) trapsize 10301
+\i (00:00:09) generaledit 
+\i (00:00:54) trapsize 10482
+\i (00:05:26) trapsize 6384
+\i (00:05:59) pick grid -33.5011 -88.6953
+\t (00:05:59) last pick:  -33.5026  -88.6968
+\i (00:05:59) zoom out 1 
+\i (00:05:59) setwindow pcb
+\i (00:05:59) zoom out -41.2892 -85.2481
+\i (00:05:59) trapsize 12767
+\i (00:05:59) zoom out 1 
+\i (00:05:59) setwindow pcb
+\i (00:05:59) zoom out 33.1840 -84.2267
+\i (00:05:59) trapsize 23366
+\i (00:10:09) pick grid 157.3976 -61.8974
+\t (00:10:09) last pick:  157.4038  -61.8998
+\i (00:10:10) zoom in 1 
+\i (00:10:10) setwindow pcb
+\i (00:10:10) zoom in -109.9072 -25.9140
+\i (00:10:10) trapsize 11683
+\i (00:10:10) zoom in 1 
+\i (00:10:10) setwindow pcb
+\i (00:10:10) zoom in -109.9072 -25.9140
+\i (00:10:10) trapsize 5841
+\i (00:10:11) zoom out 1 
+\i (00:10:11) setwindow pcb
+\i (00:10:11) zoom out -45.8849 -29.7693
+\i (00:10:11) trapsize 11683
+\i (00:10:12) zoom out 1 
+\i (00:10:12) setwindow pcb
+\i (00:10:12) zoom out -45.8849 -29.7693
+\i (00:10:12) trapsize 23366
+\i (00:10:14) pick grid -138.8808 9.6020
+\t (00:10:14) last pick:  -138.8872  9.6012
+\i (00:10:17) drc update 
+\t (00:10:17) Performing DRC...
+\t (00:10:17) Multithreaded DRC update (4 threads).
+\t (00:10:18) DRC done; 783 errors detected.
+\i (00:10:18) generaledit 
+\i (00:10:19) save 
+\i (00:10:21) fillin yes 
+\i (00:10:22) generaledit 
+\i (00:10:26) pick grid -203.8377 -109.5636
+\t (00:10:26) last pick:  -203.8350  -109.5756
+\i (00:10:27) zoom in 1 
+\i (00:10:27) setwindow pcb
+\i (00:10:27) zoom in -174.3968 -44.6067
+\i (00:10:27) trapsize 11683
+\i (00:10:27) zoom in 1 
+\i (00:10:27) setwindow pcb
+\i (00:10:27) zoom in -174.3968 -44.6067
+\i (00:10:27) trapsize 5841
+\i (00:10:29) zoom in 1 
+\i (00:10:29) setwindow pcb
+\i (00:10:29) zoom in -146.1242 -68.6734
+\i (00:10:29) trapsize 2921
+\i (00:10:30) zoom out 1 
+\i (00:10:30) setwindow pcb
+\i (00:10:30) zoom out -146.1242 -68.7318
+\i (00:10:30) trapsize 5841
+\i (00:10:33) zoom out 1 
+\i (00:10:33) setwindow pcb
+\i (00:10:33) zoom out -182.3412 -63.3576
+\i (00:10:33) trapsize 11683
+\i (00:10:34) zoom in 1 
+\i (00:10:34) setwindow pcb
+\i (00:10:34) zoom in -106.6360 30.1056
+\i (00:10:34) trapsize 5841
+\i (00:10:35) zoom in 1 
+\i (00:10:35) setwindow pcb
+\i (00:10:35) zoom in -105.2340 32.0917
+\i (00:10:35) trapsize 2921
+\i (00:10:35) zoom out 1 
+\i (00:10:35) setwindow pcb
+\i (00:10:35) zoom out -105.3508 32.1502
+\i (00:10:35) trapsize 5841
+\i (00:10:35) zoom out 1 
+\i (00:10:35) setwindow pcb
+\i (00:10:35) zoom out -105.3509 32.1501
+\i (00:10:35) trapsize 11683
+\i (00:10:40) trapsize 12540
+\i (00:10:41) pick grid 117.7672 -64.4311
+\t (00:10:41) last pick:  117.7798  -64.4398
+\i (00:11:04) setwindow form.find
+\i (00:11:04) FORM find all_off  
+\i (00:11:06) setwindow form.vf_vis
+\i (00:11:06) FORM vf_vis 2 all_colorvisible NO 
+\i (00:11:15) FORM vf_vis 7 all_colorvisible NO 
+\i (00:11:16) FORM vf_vis 7 all_colorvisible YES 
+\i (00:11:23) FORM vf_vis 5 all_colorvisible NO 
+\i (00:11:26) setwindow pcb
+\i (00:11:26) pick grid 46.0398 -108.3202
+\t (00:11:26) last pick:  46.0502  -108.3310
+\i (00:11:53) pick grid -141.5548 1.7788
+\t (00:11:53) last pick:  -141.5542  1.7780
+\i (00:11:54) zoom in 1 
+\i (00:11:54) setwindow pcb
+\i (00:11:54) zoom in -188.2026 52.1886
+\i (00:11:54) trapsize 6270
+\i (00:11:54) zoom in 1 
+\i (00:11:54) setwindow pcb
+\i (00:11:54) zoom in -188.2026 52.1886
+\i (00:11:54) trapsize 3135
+\i (00:11:54) zoom in 1 
+\i (00:11:54) setwindow pcb
+\i (00:11:54) zoom in -188.2026 52.1887
+\i (00:11:54) trapsize 1567
+\i (00:11:54) zoom out 1 
+\i (00:11:54) setwindow pcb
+\i (00:11:54) zoom out -188.2339 52.1260
+\i (00:11:54) trapsize 3135
+\i (00:11:55) zoom out 1 
+\i (00:11:55) setwindow pcb
+\i (00:11:55) zoom out -188.2340 52.0633
+\i (00:11:55) trapsize 6270
+\i (00:11:56) roam start
+\i (00:11:57) roam x -448
+\i (00:11:57) roam y 176
+\i (00:11:57) roam x -176
+\i (00:11:57) roam y 112
+\i (00:11:57) roam x -16
+\i (00:11:57) roam y 16
+\i (00:11:57) roam y 16
+\i (00:11:57) roam end
+\i (00:11:58) pick grid -193.8497 -40.1733
+\t (00:11:58) last pick:  -193.8528  -40.1828
+\i (00:11:59) zoom out 1 
+\i (00:11:59) setwindow pcb
+\i (00:11:59) zoom out -194.9783 -38.9193
+\i (00:11:59) trapsize 12540
+\i (00:11:59) zoom in 1 
+\i (00:11:59) setwindow pcb
+\i (00:11:59) zoom in -169.6480 -51.4591
+\i (00:11:59) trapsize 6270
+\i (00:12:00) zoom in 1 
+\i (00:12:00) setwindow pcb
+\i (00:12:00) zoom in -170.6512 -51.2083
+\i (00:12:00) trapsize 3135
+\i (00:12:00) zoom out 1 
+\i (00:12:00) setwindow pcb
+\i (00:12:00) zoom out -172.3441 -52.1487
+\i (00:12:00) trapsize 6270
+\i (00:12:00) zoom out 1 
+\i (00:12:00) setwindow pcb
+\i (00:12:00) zoom out -173.7234 -52.2742
+\i (00:12:00) trapsize 12540
+\i (00:12:01) pick grid -194.7901 -48.0106
+\t (00:12:01) last pick:  -194.7926  -48.0060
+\i (00:12:02) prepopup -194.7901 -48.0106
+\i (00:12:02) pick grid -196.5457 -57.2900
+\t (00:12:02) last pick:  -196.5452  -57.3024
+\i (00:12:04) copy 
+\t (00:12:04) Select the element(s) to copy.
+\i (00:12:06) prepopup -249.2126 96.9488
+\i (00:12:06) cancel 
+\i (00:12:07) generaledit 
+\i (00:12:07) move 
+\t (00:12:07) Select element(s) to move.
+\i (00:12:09) setwindow form.find
+\i (00:12:09) FORM find find_by_name  
+\i (00:12:14) setwindow form.findname
+\i (00:12:14) FORM findname objlist Red_Led 
+\i (00:12:15) FORM findname done  
+\t (00:12:15) Cannot edit Pin "C259.1". Symbol or drawing must have UNFIXED_PINS property.
+\t (00:12:15) Cannot edit Pin "C264.1". Symbol or drawing must have UNFIXED_PINS property.
+\t (00:12:15) Cannot edit Pin "C257.1". Symbol or drawing must have UNFIXED_PINS property.
+\w (00:12:15) WARNING(SPMHFN-50): Only some members of Group "Red_Led" have been selected.
+\i (00:12:18) setwindow pcb
+\i (00:12:18) zoom in 1 
+\i (00:12:18) setwindow pcb
+\i (00:12:18) zoom in -218.1140 -58.0424
+\i (00:12:18) trapsize 6270
+\i (00:12:18) zoom in 1 
+\i (00:12:18) setwindow pcb
+\i (00:12:18) zoom in -217.9886 -58.1678
+\i (00:12:18) trapsize 3135
+\i (00:12:18) zoom in 1 
+\i (00:12:18) setwindow pcb
+\i (00:12:18) zoom in -217.9886 -58.1678
+\i (00:12:18) trapsize 1567
+\i (00:12:18) zoom out 1 
+\i (00:12:18) setwindow pcb
+\i (00:12:18) zoom out -217.9259 -58.1365
+\i (00:12:18) trapsize 3135
+\i (00:12:18) zoom out 1 
+\i (00:12:18) setwindow pcb
+\i (00:12:18) zoom out -217.9258 -58.1364
+\i (00:12:18) trapsize 6270
+\i (00:12:19) zoom out 1 
+\i (00:12:19) setwindow pcb
+\i (00:12:19) zoom out -214.2893 -58.7634
+\i (00:12:19) trapsize 12540
+\i (00:12:21) pick grid -216.0449 -58.2618
+\t (00:12:21) last pick:  -216.0524  -58.2676
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Element has no origin, using pick.
+\t (00:12:21) Moving U45 / TPS54620RGY_RGY_TPS54620RGY / RGY.
+\t (00:12:21) Moving TP57 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:12:21) Moving R208 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:12:21) Moving R207 / RESISTOR_V_TOL_3_RES_0603_28.7K / RES_0603.
+\t (00:12:21) Moving C265 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:12:21) Moving R210 / RESISTOR_V_TOL_3_RES_1206_20M / RES_1206.
+\t (00:12:21) Moving R209 / RESISTOR_V_TOL_3_RES_0603_3.48K / RES_0603.
+\t (00:12:21) Moving C263 / CAP NP_CAP_0603_0.33UF / CAP_0603.
+\t (00:12:21) Moving C258 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:12:21) Moving C259 / CAP NP_CAP_0805_4.7UF / CAP_0805.
+\t (00:12:21) Moving R206 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:12:21) Moving C264 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:12:21) Moving U44 / MCP3021_SOT23-5_MCP3021A5T-E/OT / SOT23-5.
+\t (00:12:21) Moving C251 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:12:21) Moving TP63 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:12:21) Moving C252 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:12:21) Moving C257 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:12:21) Moving Q16 / CSD16301Q2_U_6_SON_N-NEXTFET PO / U_6_SON.
+\t (00:12:21) Moving R200 / RESISTOR_H_TOL_1_RES_0603_56.2K / RES_0603.
+\t (00:12:21) Moving R202 / RESISTOR_V_TOL_3_RES_0603_NC_9. / RES_0603.
+\t (00:12:21) Moving R204 / RESISTOR_V_TOL_3_RES_0603_NC_ 1 / RES_0603.
+\t (00:12:21) Moving C262 / CAP NP_CAP_0603_NC_0.1 UF / CAP_0603.
+\t (00:12:21) Moving R203 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:12:21) Moving C261 / CAP NP_CAP_0603_8.2N / CAP_0603.
+\t (00:12:21) Moving L11 / INDUCTOR_MSS1048_3.3U / MSS1048.
+\t (00:12:21) Moving D12 / DIODE ZENER_D_0603_CDBU0520 / D_0603.
+\t (00:12:21) Moving C260 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:12:21) Moving R201 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:12:21) Moving J31 / HDR_1X9_M_HDR_1X9_MOLEX_87438-0 / HDR_1X9_MOLEX.
+\t (00:12:21) Moving R205 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:12:21) Moving TP54 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:12:21) Moving TP55 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:12:21) Moving TP56 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:12:21) Moving TP58 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:12:21) Pick new location for the element(s).
+\i (00:12:23) pick grid -26.4439 21.2402
+\t (00:12:23) last pick:  -26.4414  21.2344
+\i (00:12:35) zoom in 1 
+\i (00:12:35) setwindow pcb
+\i (00:12:35) zoom in -17.6661 26.5069
+\i (00:12:35) trapsize 6270
+\i (00:12:35) zoom in 1 
+\i (00:12:35) setwindow pcb
+\i (00:12:35) zoom in -17.6661 26.5069
+\i (00:12:35) trapsize 3135
+\i (00:12:36) zoom in 1 
+\i (00:12:36) setwindow pcb
+\i (00:12:36) zoom in -15.9732 17.7291
+\i (00:12:36) trapsize 1567
+\i (00:12:37) zoom in 1 
+\i (00:12:37) setwindow pcb
+\i (00:12:37) zoom in -15.9732 17.7605
+\i (00:12:37) trapsize 784
+\i (00:12:37) zoom out 1 
+\i (00:12:37) setwindow pcb
+\i (00:12:37) zoom out -15.9731 17.7605
+\i (00:12:37) trapsize 1567
+\i (00:12:37) zoom out 1 
+\i (00:12:37) setwindow pcb
+\i (00:12:37) zoom out -15.9732 17.7605
+\i (00:12:37) trapsize 3135
+\i (00:12:38) zoom out 1 
+\i (00:12:38) setwindow pcb
+\i (00:12:38) zoom out -15.9732 17.7605
+\i (00:12:38) trapsize 6270
+\i (00:12:39) zoom in 1 
+\i (00:12:39) setwindow pcb
+\i (00:12:39) zoom in -13.5906 19.8923
+\i (00:12:39) trapsize 3135
+\i (00:12:41) zoom out 1 
+\i (00:12:41) setwindow pcb
+\i (00:12:41) zoom out -13.5906 19.8923
+\i (00:12:41) trapsize 6270
+\i (00:12:43) pick grid -10.7065 22.4003
+\t (00:12:43) last pick:  -10.7188  22.4028
+\i (00:12:44) zoom in 1 
+\i (00:12:44) setwindow pcb
+\i (00:12:44) zoom in -9.4525 27.2908
+\i (00:12:44) trapsize 3135
+\i (00:12:48) zoom in 1 
+\i (00:12:48) setwindow pcb
+\i (00:12:48) zoom in -31.9613 21.0210
+\i (00:12:48) trapsize 1567
+\i (00:12:48) zoom in 1 
+\i (00:12:48) setwindow pcb
+\i (00:12:48) zoom in -31.9612 21.0210
+\i (00:12:48) trapsize 784
+\i (00:12:48) zoom in 1 
+\i (00:12:48) setwindow pcb
+\i (00:12:48) zoom in -31.9612 21.0210
+\i (00:12:48) trapsize 392
+\i (00:12:49) zoom out 1 
+\i (00:12:49) setwindow pcb
+\i (00:12:49) zoom out -31.9298 21.0602
+\i (00:12:49) trapsize 784
+\i (00:12:49) zoom out 1 
+\i (00:12:49) setwindow pcb
+\i (00:12:49) zoom out -31.9298 21.0602
+\i (00:12:49) trapsize 1567
+\i (00:12:49) zoom out 1 
+\i (00:12:49) setwindow pcb
+\i (00:12:49) zoom out -31.9298 21.0602
+\i (00:12:49) trapsize 3135
+\i (00:12:49) zoom out 1 
+\i (00:12:49) setwindow pcb
+\i (00:12:49) zoom out -31.9297 21.0602
+\i (00:12:49) trapsize 6270
+\i (00:12:50) drag_start grid -49.9869 35.7316
+\i (00:12:51) drag_stop -14.1233 15.4173
+\i (00:12:51) pick grid -5.0946 18.8030
+\t (00:12:51) last pick:  -5.1054  18.7960
+\i (00:12:52) drag_start grid -46.9774 37.2364
+\i (00:12:54) drag_stop -14.3741 10.9029
+\i (00:12:54) pick grid -9.7344 19.4300
+\t (00:12:54) last pick:  -9.7282  19.4310
+\i (00:12:54) zoom in 1 
+\i (00:12:54) setwindow pcb
+\i (00:12:54) zoom in -27.0392 13.1601
+\i (00:12:54) trapsize 3135
+\i (00:12:57) zoom out 1 
+\i (00:12:57) setwindow pcb
+\i (00:12:57) zoom out -26.5376 14.8530
+\i (00:12:57) trapsize 6270
+\i (00:12:59) setwindow form.find
+\i (00:12:59) FORM find all_on  
+\i (00:13:01) setwindow pcb
+\i (00:13:01) drag_start grid -47.8551 40.4341
+\i (00:13:03) drag_stop -15.0010 9.9625
+\i (00:13:04) pick grid -13.1200 25.1356
+\t (00:13:04) last pick:  -13.1318  25.1460
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Element has no origin, using pick.
+\t (00:13:04) Moving J31 / HDR_1X9_M_HDR_1X9_MOLEX_87438-0 / HDR_1X9_MOLEX.
+\t (00:13:04) Moving R200 / RESISTOR_H_TOL_1_RES_0603_56.2K / RES_0603.
+\t (00:13:04) Moving C258 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:13:04) Moving L11 / INDUCTOR_MSS1048_3.3U / MSS1048.
+\t (00:13:04) Moving R205 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:13:04) Moving R203 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:13:04) Moving R204 / RESISTOR_V_TOL_3_RES_0603_NC_ 1 / RES_0603.
+\t (00:13:04) Moving C257 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:13:04) Moving R207 / RESISTOR_V_TOL_3_RES_0603_28.7K / RES_0603.
+\t (00:13:04) Moving TP57 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:13:04) Moving U45 / TPS54620RGY_RGY_TPS54620RGY / RGY.
+\t (00:13:04) Moving R206 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:13:04) Moving C259 / CAP NP_CAP_0805_4.7UF / CAP_0805.
+\t (00:13:04) Moving C263 / CAP NP_CAP_0603_0.33UF / CAP_0603.
+\t (00:13:04) Moving C260 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:13:04) Moving D12 / DIODE ZENER_D_0603_CDBU0520 / D_0603.
+\t (00:13:04) Moving R201 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:13:04) Moving Q16 / CSD16301Q2_U_6_SON_N-NEXTFET PO / U_6_SON.
+\t (00:13:04) Moving C261 / CAP NP_CAP_0603_8.2N / CAP_0603.
+\t (00:13:04) Moving C262 / CAP NP_CAP_0603_NC_0.1 UF / CAP_0603.
+\t (00:13:04) Moving R202 / RESISTOR_V_TOL_3_RES_0603_NC_9. / RES_0603.
+\t (00:13:04) Moving R210 / RESISTOR_V_TOL_3_RES_1206_20M / RES_1206.
+\t (00:13:04) Moving C265 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:13:04) Moving R208 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:13:04) Moving C264 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:13:04) Moving R209 / RESISTOR_V_TOL_3_RES_0603_3.48K / RES_0603.
+\t (00:13:04) Moving TP56 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:13:04) Moving TP55 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:13:04) Moving TP54 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:13:04) Moving TP58 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:13:04) Pick new location for the element(s).
+\i (00:13:06) prepopup -6.7247 28.2706
+\i (00:13:06) cancel 
+\i (00:13:07) generaledit 
+\i (00:13:07) zoom in 1 
+\i (00:13:07) setwindow pcb
+\i (00:13:07) zoom in -25.1582 44.6976
+\i (00:13:07) trapsize 3135
+\i (00:13:07) zoom in 1 
+\i (00:13:07) setwindow pcb
+\i (00:13:07) zoom in -25.1582 44.6976
+\i (00:13:07) trapsize 1567
+\i (00:13:07) zoom in 1 
+\i (00:13:07) setwindow pcb
+\i (00:13:07) zoom in -25.1582 44.6977
+\i (00:13:07) trapsize 784
+\i (00:13:07) zoom in 1 
+\i (00:13:07) setwindow pcb
+\i (00:13:07) zoom in -25.1581 44.6977
+\i (00:13:07) trapsize 392
+\i (00:13:07) zoom out 1 
+\i (00:13:07) setwindow pcb
+\i (00:13:07) zoom out -25.1895 45.1131
+\i (00:13:07) trapsize 784
+\i (00:13:08) zoom out 1 
+\i (00:13:08) setwindow pcb
+\i (00:13:08) zoom out -25.1894 45.1131
+\i (00:13:08) trapsize 1567
+\i (00:13:10) pick grid -25.4716 46.9314
+\t (00:13:10) last pick:  -25.4762  46.9392
+\i (00:13:12) setwindow form.find
+\i (00:13:12) FORM find cline_segs YES 
+\i (00:13:13) setwindow pcb
+\i (00:13:13) pick grid -25.5343 46.4925
+\t (00:13:13) last pick:  -25.5270  46.4820
+\i (00:13:15) prepopup -25.5970 48.0600
+\i (00:13:16) pop dyn_option_select @:@Delete 
+\i (00:13:17) delete 
+\i (00:13:17) generaledit 
+\i (00:13:18) prepopup -22.7129 45.7402
+\i (00:13:19) pick grid -22.0232 40.4108
+\t (00:13:19) last pick:  -22.0218  40.4114
+\i (00:13:20) save 
+\i (00:13:21) fillin yes 
+\i (00:13:22) generaledit 
+\i (00:13:22) zoom out 1 
+\i (00:13:22) setwindow pcb
+\i (00:13:22) zoom out -18.5121 37.1504
+\i (00:13:22) trapsize 3135
+\i (00:13:22) zoom out 1 
+\i (00:13:22) setwindow pcb
+\i (00:13:22) zoom out -18.5120 37.1505
+\i (00:13:22) trapsize 6270
+\i (00:13:22) zoom out 1 
+\i (00:13:22) setwindow pcb
+\i (00:13:22) zoom out -18.5121 37.1504
+\i (00:13:22) trapsize 12540
+\i (00:13:23) zoom in 1 
+\i (00:13:23) setwindow pcb
+\i (00:13:23) zoom in -14.4993 26.3663
+\i (00:13:23) trapsize 6270
+\i (00:13:23) zoom in 1 
+\i (00:13:23) setwindow pcb
+\i (00:13:23) zoom in -14.4993 26.3663
+\i (00:13:23) trapsize 3135
+\i (00:13:27) setwindow form.find
+\i (00:13:27) FORM find all_on  
+\i (00:13:28) setwindow pcb
+\i (00:13:28) drag_start grid -45.2843 38.3418
+\i (00:13:29) drag_stop -16.1294 9.9393
+\i (00:13:31) pick grid -9.1699 21.6639
+\t (00:13:31) last pick:  -9.1694  21.6662
+\i (00:13:32) drag_start grid -48.7328 36.8997
+\i (00:13:33) drag_stop -15.0009 9.8139
+\i (00:13:34) pick grid -13.4961 15.4567
+\t (00:13:34) last pick:  -13.4874  15.4686
+\i (00:13:34) drag_start grid -46.7264 41.6648
+\i (00:13:36) drag_stop -12.3048 10.1274
+\i (00:13:38) prepopup -25.5342 19.9711
+\i (00:13:39) pick grid -3.9659 25.7393
+\t (00:13:39) last pick:  -3.9624  25.7302
+\i (00:13:40) undo 
+\i (00:13:41) trapsize 1567
+\i (00:13:41) generaledit 
+\i (00:13:41) undo 
+\i (00:13:41) trapsize 6270
+\i (00:13:42) generaledit 
+\i (00:13:44) prepopup -4.5620 35.4416
+\i (00:13:45) pick grid -8.9509 43.7179
+\t (00:13:45) last pick:  -8.9408  43.7134
+\i (00:13:47) drc update 
+\t (00:13:47) Performing DRC...
+\t (00:13:47) Multithreaded DRC update (4 threads).
+\t (00:13:47) DRC done; 783 errors detected.
+\i (00:13:47) generaledit 
+\i (00:13:49) save 
+\i (00:13:50) fillin yes 
+\i (00:13:50) generaledit 
+\i (00:13:50) zoom in 1 
+\i (00:13:50) setwindow pcb
+\i (00:13:50) zoom in -27.7605 52.8719
+\i (00:13:50) trapsize 3135
+\i (00:13:50) zoom in 1 
+\i (00:13:50) setwindow pcb
+\i (00:13:50) zoom in -27.6978 52.8092
+\i (00:13:50) trapsize 1567
+\i (00:13:50) zoom in 1 
+\i (00:13:50) setwindow pcb
+\i (00:13:50) zoom in -27.6978 52.8092
+\i (00:13:50) trapsize 784
+\i (00:13:51) zoom out 1 
+\i (00:13:51) setwindow pcb
+\i (00:13:51) zoom out -27.0081 50.7872
+\i (00:13:51) trapsize 1567
+\i (00:13:51) zoom out 1 
+\i (00:13:51) setwindow pcb
+\i (00:13:51) zoom out -26.9768 50.6305
+\i (00:13:51) trapsize 3135
+\i (00:13:51) zoom out 1 
+\i (00:13:51) setwindow pcb
+\i (00:13:51) zoom out -26.9140 50.5051
+\i (00:13:51) trapsize 6270
+\i (00:13:54) move 
+\t (00:13:54) Select element(s) to move.
+\i (00:13:57) setwindow form.find
+\i (00:13:57) FORM find find_by_name  
+\i (00:13:59) setwindow form.findname
+\i (00:13:59) FORM findname objlist Red_Led 
+\i (00:14:00) FORM findname done  
+\t (00:14:00) Cannot edit Pin "C259.1". Symbol or drawing must have UNFIXED_PINS property.
+\t (00:14:00) Cannot edit Pin "C264.1". Symbol or drawing must have UNFIXED_PINS property.
+\t (00:14:00) Cannot edit Pin "C257.1". Symbol or drawing must have UNFIXED_PINS property.
+\w (00:14:00) WARNING(SPMHFN-50): Only some members of Group "Red_Led" have been selected.
+\i (00:14:01) setwindow pcb
+\i (00:14:01) prepopup -28.6696 21.5382
+\i (00:14:06) pick grid -30.1744 20.9112
+\t (00:14:06) last pick:  -30.1752  20.9042
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Moving U45 / TPS54620RGY_RGY_TPS54620RGY / RGY.
+\t (00:14:06) Moving TP57 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:14:06) Moving R208 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:14:06) Moving R207 / RESISTOR_V_TOL_3_RES_0603_28.7K / RES_0603.
+\t (00:14:06) Moving C265 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:14:06) Moving R210 / RESISTOR_V_TOL_3_RES_1206_20M / RES_1206.
+\t (00:14:06) Moving R209 / RESISTOR_V_TOL_3_RES_0603_3.48K / RES_0603.
+\t (00:14:06) Moving C263 / CAP NP_CAP_0603_0.33UF / CAP_0603.
+\t (00:14:06) Moving C258 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:14:06) Moving C259 / CAP NP_CAP_0805_4.7UF / CAP_0805.
+\t (00:14:06) Moving R206 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:14:06) Moving C264 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:14:06) Moving U44 / MCP3021_SOT23-5_MCP3021A5T-E/OT / SOT23-5.
+\t (00:14:06) Moving C251 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:14:06) Moving TP63 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:14:06) Moving C252 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:14:06) Moving C257 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:14:06) Moving Q16 / CSD16301Q2_U_6_SON_N-NEXTFET PO / U_6_SON.
+\t (00:14:06) Moving R200 / RESISTOR_H_TOL_1_RES_0603_56.2K / RES_0603.
+\t (00:14:06) Moving R202 / RESISTOR_V_TOL_3_RES_0603_NC_9. / RES_0603.
+\t (00:14:06) Moving R204 / RESISTOR_V_TOL_3_RES_0603_NC_ 1 / RES_0603.
+\t (00:14:06) Moving C262 / CAP NP_CAP_0603_NC_0.1 UF / CAP_0603.
+\t (00:14:06) Moving R203 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:14:06) Moving C261 / CAP NP_CAP_0603_8.2N / CAP_0603.
+\t (00:14:06) Moving L11 / INDUCTOR_MSS1048_3.3U / MSS1048.
+\t (00:14:06) Moving D12 / DIODE ZENER_D_0603_CDBU0520 / D_0603.
+\t (00:14:06) Moving C260 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:14:06) Moving R201 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:14:06) Moving J31 / HDR_1X9_M_HDR_1X9_MOLEX_87438-0 / HDR_1X9_MOLEX.
+\t (00:14:06) Moving R205 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:14:06) Moving TP54 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:14:06) Moving TP55 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:14:06) Moving TP56 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:14:06) Moving TP58 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:14:06) Pick new location for the element(s).
+\i (00:14:07) prepopup -29.4220 20.9112
+\i (00:14:09) rotate 
+\t (00:14:09) Spin the element(s).
+\i (00:14:16) prepopup -5.4711 27.4319
+\i (00:14:17) cancel 
+\i (00:14:17) generaledit 
+\i (00:14:18) zoom in 1 
+\i (00:14:18) setwindow pcb
+\i (00:14:18) zoom in -21.7728 44.6113
+\i (00:14:18) trapsize 3135
+\i (00:14:18) zoom in 1 
+\i (00:14:18) setwindow pcb
+\i (00:14:18) zoom in -21.7728 44.6113
+\i (00:14:18) trapsize 1567
+\i (00:14:18) zoom in 1 
+\i (00:14:18) setwindow pcb
+\i (00:14:18) zoom in -21.7728 44.6114
+\i (00:14:18) trapsize 784
+\i (00:14:18) zoom in 1 
+\i (00:14:18) setwindow pcb
+\i (00:14:18) zoom in -21.7728 44.6114
+\i (00:14:18) trapsize 392
+\i (00:14:18) zoom out 1 
+\i (00:14:18) setwindow pcb
+\i (00:14:18) zoom out -21.9844 44.7524
+\i (00:14:18) trapsize 784
+\i (00:14:18) zoom out 1 
+\i (00:14:18) setwindow pcb
+\i (00:14:18) zoom out -21.9844 44.7525
+\i (00:14:18) trapsize 1567
+\i (00:14:23) setwindow form.find
+\i (00:14:23) FORM find cline_segs YES 
+\i (00:14:25) setwindow pcb
+\i (00:14:25) pick grid -25.5269 47.1978
+\t (00:14:25) last pick:  -25.5270  47.1932
+\i (00:14:26) delete 
+\i (00:14:26) generaledit 
+\i (00:14:27) prepopup -18.6614 47.1038
+\i (00:14:29) pick grid -22.0471 47.5113
+\t (00:14:29) last pick:  -22.0472  47.5234
+\i (00:14:31) save 
+\i (00:14:32) fillin yes 
+\i (00:14:33) generaledit 
+\i (00:14:33) zoom out 1 
+\i (00:14:33) setwindow pcb
+\i (00:14:33) zoom out -21.6709 40.1442
+\i (00:14:33) trapsize 3135
+\i (00:14:33) zoom out 1 
+\i (00:14:33) setwindow pcb
+\i (00:14:33) zoom out -21.6710 40.1442
+\i (00:14:33) trapsize 6270
+\i (00:14:34) zoom in 1 
+\i (00:14:34) setwindow pcb
+\i (00:14:34) zoom in -18.6614 17.0710
+\i (00:14:34) trapsize 3135
+\i (00:14:38) pick grid -25.3075 43.4672
+\t (00:14:38) last pick:  -25.2984  43.4594
+\i (00:14:39) pick grid -70.2624 49.9879
+\t (00:14:39) last pick:  -70.2564  49.9872
+\i (00:14:40) delete 
+\i (00:14:42) setwindow form.find
+\i (00:14:42) FORM find all_off  
+\i (00:14:42) FORM find cline_segs YES 
+\i (00:14:44) setwindow pcb
+\i (00:14:44) zoom in 1 
+\i (00:14:44) setwindow pcb
+\i (00:14:44) zoom in -25.3075 45.5362
+\i (00:14:44) trapsize 1567
+\i (00:14:44) zoom in 1 
+\i (00:14:44) setwindow pcb
+\i (00:14:44) zoom in -25.3075 45.5362
+\i (00:14:44) trapsize 784
+\i (00:14:44) pick grid -25.3075 45.4108
+\t (00:14:44) last pick:  -25.2984  45.4152
+\t (00:14:44) Odd-angle Line Segment "Led_Vout, Etch/3-Sig"
+\i (00:14:45) pick grid -25.0410 44.1568
+\t (00:14:45) last pick:  -25.0444  44.1452
+\t (00:14:45) Vertical Line Segment "Led_Vout, Etch/3-Sig"
+\i (00:14:45) zoom out 1 
+\i (00:14:45) setwindow pcb
+\i (00:14:45) zoom out -25.0097 43.5926
+\i (00:14:45) trapsize 1567
+\i (00:14:45) zoom out 1 
+\i (00:14:45) setwindow pcb
+\i (00:14:45) zoom out -25.0096 43.4985
+\i (00:14:45) trapsize 3135
+\i (00:14:45) zoom out 1 
+\i (00:14:45) setwindow pcb
+\i (00:14:45) zoom out -25.0097 43.1849
+\i (00:14:45) trapsize 6270
+\i (00:14:46) zoom in 1 
+\i (00:14:46) setwindow pcb
+\i (00:14:46) zoom in -28.1446 20.6134
+\i (00:14:46) trapsize 3135
+\i (00:14:46) zoom in 1 
+\i (00:14:46) setwindow pcb
+\i (00:14:46) zoom in -28.1445 20.7388
+\i (00:14:46) trapsize 1567
+\i (00:14:46) zoom in 1 
+\i (00:14:46) setwindow pcb
+\i (00:14:46) zoom in -28.1445 20.7702
+\i (00:14:46) trapsize 784
+\i (00:14:48) pick grid -27.5958 22.3534
+\t (00:14:48) last pick:  -27.5844  22.3520
+\t (00:14:48) Odd-angle Line Segment "Led_Vout, Etch/3-Sig"
+\i (00:14:49) pick grid -27.9563 19.3282
+\t (00:14:49) last pick:  -27.9654  19.3294
+\t (00:14:49) Vertical Line Segment "Led_Vout, Etch/3-Sig"
+\i (00:14:49) zoom out 1 
+\i (00:14:49) setwindow pcb
+\i (00:14:49) zoom out -27.9250 19.2498
+\i (00:14:49) trapsize 1567
+\i (00:14:49) zoom out 1 
+\i (00:14:49) setwindow pcb
+\i (00:14:49) zoom out -27.9250 19.2498
+\i (00:14:49) trapsize 3135
+\i (00:14:50) zoom in 1 
+\i (00:14:50) setwindow pcb
+\i (00:14:50) zoom in -27.2980 14.9236
+\i (00:14:50) trapsize 1567
+\i (00:14:51) prepopup -16.7646 24.8613
+\i (00:14:52) done 
+\i (00:14:52) generaledit 
+\i (00:14:53) zoom out 1 
+\i (00:14:53) setwindow pcb
+\i (00:14:53) zoom out -16.7646 24.4224
+\i (00:14:53) trapsize 3135
+\i (00:14:53) zoom out 1 
+\i (00:14:53) setwindow pcb
+\i (00:14:53) zoom out -16.7646 24.4225
+\i (00:14:53) trapsize 6270
+\i (00:14:54) zoom in 1 
+\i (00:14:54) setwindow pcb
+\i (00:14:54) zoom in -17.1408 25.0494
+\i (00:14:54) trapsize 3135
+\i (00:14:55) drag_start grid -46.4838 37.3384
+\i (00:14:57) drag_stop -14.6956 10.1272
+\i (00:14:59) pick grid -14.7582 10.1272
+\t (00:14:59) last pick:  -14.7574  10.1346
+\i (00:14:59) setwindow form.find
+\i (00:14:59) FORM find all_on  
+\i (00:15:00) setwindow pcb
+\i (00:15:00) drag_start grid -44.9163 37.7146
+\i (00:15:02) drag_stop -16.4511 10.0645
+\i (00:15:03) pick grid -13.6297 16.7105
+\t (00:15:03) last pick:  -13.6398  16.7132
+\i (00:15:03) zoom in 1 
+\i (00:15:03) setwindow pcb
+\i (00:15:03) zoom in -11.0590 27.5574
+\i (00:15:03) trapsize 1567
+\i (00:15:04) zoom out 1 
+\i (00:15:04) setwindow pcb
+\i (00:15:04) zoom out -13.5983 28.3412
+\i (00:15:04) trapsize 3135
+\i (00:15:05) roam start
+\i (00:15:05) roam x -16
+\i (00:15:05) roam y 96
+\i (00:15:05) roam x -96
+\i (00:15:05) roam y 288
+\i (00:15:05) roam x -32
+\i (00:15:05) roam y 256
+\i (00:15:06) roam y 80
+\i (00:15:06) roam x 32
+\i (00:15:06) roam y -128
+\i (00:15:06) roam x 96
+\i (00:15:06) roam y -320
+\i (00:15:06) roam y -48
+\i (00:15:06) roam y -16
+\i (00:15:06) roam y -32
+\i (00:15:06) roam y -96
+\i (00:15:06) roam y -64
+\i (00:15:06) roam y -48
+\i (00:15:06) roam y -32
+\i (00:15:06) roam y -48
+\i (00:15:06) roam y -16
+\i (00:15:06) roam x 16
+\i (00:15:06) roam y -16
+\i (00:15:06) roam y -16
+\i (00:15:07) roam x 16
+\i (00:15:07) roam x 32
+\i (00:15:07) roam x 32
+\i (00:15:07) roam x 16
+\i (00:15:07) roam end
+\i (00:15:09) drag_start grid -47.1974 37.3850
+\i (00:15:10) drag_stop -14.1552 10.2991
+\i (00:15:11) pick grid -14.3433 10.3618
+\t (00:15:11) last pick:  -14.3510  10.3632
+\i (00:15:16) drag_start grid -45.3792 38.3882
+\i (00:15:21) drag_stop -16.4123 9.9230
+\i (00:15:30) pick grid -33.5918 40.4572
+\t (00:15:30) last pick:  -33.6042  40.4622
+\i (00:15:32) drag_start grid -34.5323 38.6390
+\i (00:15:33) drag_stop -19.9235 29.0461
+\i (00:15:34) pick grid -16.4123 28.8580
+\t (00:15:34) last pick:  -16.4084  28.8544
+\i (00:15:35) drag_start grid -43.9371 37.8239
+\i (00:15:36) drag_stop -12.7758 19.5786
+\i (00:15:37) pick grid -12.7758 19.4532
+\t (00:15:37) last pick:  -12.7762  19.4564
+\i (00:15:39) drag_start grid -39.1720 51.8057
+\i (00:15:40) drag_stop -17.4155 40.5199
+\i (00:15:41) pick grid -20.4878 41.0215
+\t (00:15:41) last pick:  -20.4978  41.0210
+\i (00:15:41) drag_start grid -40.6767 52.8089
+\i (00:15:42) drag_stop -19.0457 39.9556
+\i (00:15:45) pick grid -18.9830 40.4572
+\t (00:15:45) last pick:  -18.9738  40.4622
+\i (00:15:47) zoom in 1 
+\i (00:15:47) setwindow pcb
+\i (00:15:47) zoom in -35.0339 49.1724
+\i (00:15:47) trapsize 1567
+\i (00:15:48) zoom out 1 
+\i (00:15:48) setwindow pcb
+\i (00:15:48) zoom out -34.5009 48.2946
+\i (00:15:48) trapsize 3135
+\i (00:15:48) zoom out 1 
+\i (00:15:48) setwindow pcb
+\i (00:15:48) zoom out -34.5009 48.2320
+\i (00:15:48) trapsize 6270
+\i (00:15:49) zoom in 1 
+\i (00:15:49) setwindow pcb
+\i (00:15:49) zoom in -29.6104 52.3701
+\i (00:15:49) trapsize 3135
+\i (00:15:49) zoom in 1 
+\i (00:15:49) setwindow pcb
+\i (00:15:49) zoom in -29.6103 52.3701
+\i (00:15:49) trapsize 1567
+\i (00:15:49) zoom in 1 
+\i (00:15:49) setwindow pcb
+\i (00:15:49) zoom in -29.6103 52.3701
+\i (00:15:49) trapsize 784
+\i (00:15:50) drag_start grid -36.9460 52.5112
+\i (00:15:51) drag_stop -23.4814 42.9653
+\i (00:15:53) prepopup -28.7952 45.1754
+\i (00:16:00) pop dyn_option_select Symbol@:@Spin 
+\i (00:16:01) spin 
+\t (00:16:01) Moving C252 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:16:01) Moving TP63 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:16:01) Moving U44 / MCP3021_SOT23-5_MCP3021A5T-E/OT / SOT23-5.
+\t (00:16:01) Moving C251 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\i (00:16:02) prepopup -25.2840 45.8024
+\i (00:16:03) cancel 
+\i (00:16:04) generaledit 
+\i (00:16:04) pick grid -25.1429 45.3165
+\t (00:16:04) last pick:  -25.1460  45.3136
+\i (00:16:05) zoom out 1 
+\i (00:16:05) setwindow pcb
+\i (00:16:05) zoom out -25.0646 45.3008
+\i (00:16:05) trapsize 1567
+\i (00:16:05) zoom out 1 
+\i (00:16:05) setwindow pcb
+\i (00:16:05) zoom out -24.0300 41.5389
+\i (00:16:05) trapsize 3135
+\i (00:16:06) roam start
+\i (00:16:06) roam y 80
+\i (00:16:06) roam x -16
+\i (00:16:06) roam y 80
+\i (00:16:06) roam x -16
+\i (00:16:06) roam y 112
+\i (00:16:06) roam x -16
+\i (00:16:06) roam y 80
+\i (00:16:06) roam y 48
+\i (00:16:06) roam y 32
+\i (00:16:06) roam y 16
+\i (00:16:07) roam y 16
+\i (00:16:07) roam x 48
+\i (00:16:07) roam y -16
+\i (00:16:07) roam x 16
+\i (00:16:07) roam x 64
+\i (00:16:07) roam end
+\i (00:17:06) pick grid -41.9307 23.3405
+\t (00:17:06) last pick:  -41.9354  23.3426
+\i (00:17:07) pick grid -44.9402 26.2246
+\t (00:17:07) last pick:  -44.9326  26.2128
+\i (00:17:08) move 
+\t (00:17:09) Select element(s) to move.
+\i (00:17:09) prepopup -62.1197 34.2501
+\i (00:17:10) group 
+\i (00:17:12) drag_start grid -43.8743 37.6985
+\i (00:17:14) drag_stop -16.7885 10.1737
+\i (00:17:17) setwindow form.find
+\i (00:17:17) FORM find all_on  
+\i (00:17:20) setwindow pcb
+\i (00:17:20) drag_start grid -44.2505 37.8239
+\i (00:17:23) drag_stop -16.2869 10.1110
+\i (00:17:30) prepopup -13.4655 23.3405
+\i (00:17:31) complete 
+\i (00:17:51) pick grid -28.9520 20.5190
+\t (00:17:51) last pick:  -28.9560  20.5232
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Element has no origin, using pick.
+\t (00:17:51) Moving J31 / HDR_1X9_M_HDR_1X9_MOLEX_87438-0 / HDR_1X9_MOLEX.
+\t (00:17:51) Moving R200 / RESISTOR_H_TOL_1_RES_0603_56.2K / RES_0603.
+\t (00:17:51) Moving C258 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:17:51) Moving L11 / INDUCTOR_MSS1048_3.3U / MSS1048.
+\t (00:17:51) Moving U45 / TPS54620RGY_RGY_TPS54620RGY / RGY.
+\t (00:17:51) Moving TP57 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:17:51) Moving R207 / RESISTOR_V_TOL_3_RES_0603_28.7K / RES_0603.
+\t (00:17:51) Moving C257 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:17:51) Moving R204 / RESISTOR_V_TOL_3_RES_0603_NC_ 1 / RES_0603.
+\t (00:17:51) Moving R203 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:17:51) Moving R205 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:17:51) Moving C263 / CAP NP_CAP_0603_0.33UF / CAP_0603.
+\t (00:17:51) Moving C259 / CAP NP_CAP_0805_4.7UF / CAP_0805.
+\t (00:17:51) Moving R206 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:17:51) Moving D12 / DIODE ZENER_D_0603_CDBU0520 / D_0603.
+\t (00:17:51) Moving C260 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:17:51) Moving Q16 / CSD16301Q2_U_6_SON_N-NEXTFET PO / U_6_SON.
+\t (00:17:51) Moving R201 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:17:51) Moving R208 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:17:51) Moving C265 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:17:51) Moving R210 / RESISTOR_V_TOL_3_RES_1206_20M / RES_1206.
+\t (00:17:51) Moving R202 / RESISTOR_V_TOL_3_RES_0603_NC_9. / RES_0603.
+\t (00:17:51) Moving C262 / CAP NP_CAP_0603_NC_0.1 UF / CAP_0603.
+\t (00:17:51) Moving C261 / CAP NP_CAP_0603_8.2N / CAP_0603.
+\t (00:17:51) Moving R209 / RESISTOR_V_TOL_3_RES_0603_3.48K / RES_0603.
+\t (00:17:51) Moving C264 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:17:51) Moving TP54 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:17:51) Moving TP55 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:17:51) Moving TP56 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:17:51) Moving TP58 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:17:51) Pick new location for the element(s).
+\i (00:17:53) zoom out 1 
+\i (00:17:53) setwindow pcb
+\i (00:17:53) zoom out -21.8671 23.0897
+\i (00:17:53) trapsize 6270
+\i (00:17:53) zoom out 1 
+\i (00:17:53) setwindow pcb
+\i (00:17:53) zoom out -21.9925 23.5913
+\i (00:17:53) trapsize 12540
+\i (00:17:55) zoom in 1 
+\i (00:17:55) setwindow pcb
+\i (00:17:55) zoom in -17.1647 15.8166
+\i (00:17:55) trapsize 6270
+\i (00:17:55) zoom in 1 
+\i (00:17:55) setwindow pcb
+\i (00:17:55) zoom in -17.2900 15.9420
+\i (00:17:55) trapsize 3135
+\i (00:17:56) zoom in 1 
+\i (00:17:56) setwindow pcb
+\i (00:17:56) zoom in -17.2900 15.9420
+\i (00:17:56) trapsize 1567
+\i (00:17:56) zoom out 1 
+\i (00:17:56) setwindow pcb
+\i (00:17:56) zoom out -17.3213 15.9734
+\i (00:17:56) trapsize 3135
+\i (00:17:57) pick grid -16.7570 18.6695
+\t (00:17:57) last pick:  -16.7640  18.6690
+\i (00:17:58) prepopup -15.1895 18.9830
+\i (00:18:07) pop align 
+\t (00:18:07) Select element to align with.
+\i (00:18:15) pick grid 4.3725 25.9425
+\t (00:18:15) last pick:  4.3688  25.9334
+\i (00:18:16) drag_start grid -35.6293 37.1029
+\i (00:18:17) drag_stop grid -5.0950 13.0893
+\i (00:18:17) prepopup -0.1418 22.7449
+\i (00:18:19) cancel 
+\i (00:18:19) generaledit 
+\i (00:18:20) prepopup -0.2045 24.3750
+\i (00:18:21) pick grid -0.5807 26.7576
+\t (00:18:21) last pick:  -0.5842  26.7462
+\i (00:18:23) move 
+\t (00:18:23) Select element(s) to move.
+\i (00:18:26) prepopup -41.8992 29.8925
+\i (00:18:26) group 
+\i (00:18:28) drag_start grid -31.4285 36.4132
+\i (00:18:33) drag_stop -4.4053 9.7662
+\i (00:18:34) prepopup -13.6847 18.3560
+\i (00:18:35) complete 
+\i (00:18:43) prepopup -2.6498 22.6822
+\i (00:18:56) pop dyn_option_select 'Options@:@Rotation point@:@User Pick' 
+\i (00:19:01) pick grid -32.2436 25.3155
+\t (00:19:01) last pick:  -32.2326  25.3238
+\t (00:19:01) Moving J31 / HDR_1X9_M_HDR_1X9_MOLEX_87438-0 / HDR_1X9_MOLEX.
+\t (00:19:01) Moving L11 / INDUCTOR_MSS1048_3.3U / MSS1048.
+\t (00:19:01) Moving C257 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:19:01) Moving U45 / TPS54620RGY_RGY_TPS54620RGY / RGY.
+\t (00:19:01) Moving C258 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:19:01) Moving R200 / RESISTOR_H_TOL_1_RES_0603_56.2K / RES_0603.
+\t (00:19:01) Moving C259 / CAP NP_CAP_0805_4.7UF / CAP_0805.
+\t (00:19:01) Moving R209 / RESISTOR_V_TOL_3_RES_0603_3.48K / RES_0603.
+\t (00:19:01) Moving C261 / CAP NP_CAP_0603_8.2N / CAP_0603.
+\t (00:19:01) Moving C262 / CAP NP_CAP_0603_NC_0.1 UF / CAP_0603.
+\t (00:19:01) Moving R202 / RESISTOR_V_TOL_3_RES_0603_NC_9. / RES_0603.
+\t (00:19:01) Moving R208 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:19:01) Moving C263 / CAP NP_CAP_0603_0.33UF / CAP_0603.
+\t (00:19:01) Moving R205 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:19:01) Moving R203 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:19:01) Moving R204 / RESISTOR_V_TOL_3_RES_0603_NC_ 1 / RES_0603.
+\t (00:19:01) Moving R207 / RESISTOR_V_TOL_3_RES_0603_28.7K / RES_0603.
+\t (00:19:01) Moving TP57 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:19:01) Moving C264 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:19:01) Moving R206 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:19:01) Moving TP54 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:19:01) Moving C260 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:19:01) Moving D12 / DIODE ZENER_D_0603_CDBU0520 / D_0603.
+\t (00:19:01) Moving TP56 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:19:01) Moving TP55 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:19:01) Moving R201 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:19:01) Moving Q16 / CSD16301Q2_U_6_SON_N-NEXTFET PO / U_6_SON.
+\t (00:19:01) Moving TP58 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:19:01) Moving R210 / RESISTOR_V_TOL_3_RES_1206_20M / RES_1206.
+\t (00:19:01) Moving C265 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:19:01) Pick new location for the element(s).
+\i (00:19:10) prepopup -37.8238 26.0052
+\i (00:19:12) rotate 
+\t (00:19:12) Spin the element(s).
+\i (00:19:18) prepopup -34.0618 32.7767
+\i (00:19:19) cancel 
+\i (00:19:19) generaledit 
+\i (00:19:21) prepopup -20.0173 22.1179
+\i (00:19:21) pick grid -30.7388 28.1997
+\t (00:19:21) last pick:  -30.7340  28.1940
+\i (00:19:23) move 
+\t (00:19:23) Select element(s) to move.
+\i (00:19:24) drag_start grid -30.9269 37.0402
+\i (00:19:26) drag_stop -50.1754 31.2092
+\i (00:19:27) prepopup -56.1945 35.0338
+\i (00:19:27) cancel 
+\i (00:19:27) generaledit 
+\i (00:19:28) pick grid -59.2040 39.1719
+\t (00:19:28) last pick:  -59.2074  39.1668
+\i (00:19:28) move 
+\t (00:19:28) Select element(s) to move.
+\i (00:19:28) prepopup -56.1318 40.8648
+\i (00:19:30) group 
+\i (00:19:30) drag_start grid -32.9960 36.4759
+\i (00:19:33) drag_stop -4.4680 10.1424
+\i (00:19:35) prepopup -16.6316 19.0456
+\i (00:19:38) complete 
+\i (00:19:42) pick grid -16.0673 19.1710
+\t (00:19:42) last pick:  -16.0782  19.1770
+\t (00:19:42) Moving J31 / HDR_1X9_M_HDR_1X9_MOLEX_87438-0 / HDR_1X9_MOLEX.
+\t (00:19:42) Moving L11 / INDUCTOR_MSS1048_3.3U / MSS1048.
+\t (00:19:42) Moving C257 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:19:42) Moving U45 / TPS54620RGY_RGY_TPS54620RGY / RGY.
+\t (00:19:42) Moving C258 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:19:42) Moving R200 / RESISTOR_H_TOL_1_RES_0603_56.2K / RES_0603.
+\t (00:19:42) Moving C259 / CAP NP_CAP_0805_4.7UF / CAP_0805.
+\t (00:19:42) Moving R209 / RESISTOR_V_TOL_3_RES_0603_3.48K / RES_0603.
+\t (00:19:42) Moving C261 / CAP NP_CAP_0603_8.2N / CAP_0603.
+\t (00:19:42) Moving C262 / CAP NP_CAP_0603_NC_0.1 UF / CAP_0603.
+\t (00:19:42) Moving R202 / RESISTOR_V_TOL_3_RES_0603_NC_9. / RES_0603.
+\t (00:19:42) Moving R208 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:19:42) Moving C263 / CAP NP_CAP_0603_0.33UF / CAP_0603.
+\t (00:19:42) Moving R205 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:19:42) Moving R203 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:19:42) Moving R204 / RESISTOR_V_TOL_3_RES_0603_NC_ 1 / RES_0603.
+\t (00:19:42) Moving R207 / RESISTOR_V_TOL_3_RES_0603_28.7K / RES_0603.
+\t (00:19:42) Moving TP57 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:19:42) Moving C264 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:19:42) Moving R206 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:19:42) Moving TP54 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:19:42) Moving C260 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:19:42) Moving D12 / DIODE ZENER_D_0603_CDBU0520 / D_0603.
+\t (00:19:42) Moving TP56 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:19:42) Moving TP55 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:19:42) Moving R201 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:19:42) Moving Q16 / CSD16301Q2_U_6_SON_N-NEXTFET PO / U_6_SON.
+\t (00:19:42) Moving TP58 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:19:42) Moving R210 / RESISTOR_V_TOL_3_RES_1206_20M / RES_1206.
+\t (00:19:42) Moving C265 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:19:42) Pick new location for the element(s).
+\i (00:19:43) pick grid -8.4181 26.9457
+\t (00:19:43) last pick:  -8.4074  26.9494
+\i (00:19:44) prepopup -8.2300 27.0711
+\i (00:20:05) pop dyn_option_select 'Options@:@Rotation point@:@Body Center' 
+\i (00:20:06) pick grid 0.7987 43.4355
+\t (00:20:06) last pick:  0.7874  43.4340
+\i (00:20:15) drag_start grid -25.6602 42.6204
+\i (00:20:16) drag_stop 4.5606 13.6536
+\i (00:20:17) pick grid 5.2503 13.9671
+\t (00:20:17) last pick:  5.2578  13.9700
+\t (00:20:17) Moving J31 / HDR_1X9_M_HDR_1X9_MOLEX_87438-0 / HDR_1X9_MOLEX.
+\t (00:20:17) Moving L11 / INDUCTOR_MSS1048_3.3U / MSS1048.
+\t (00:20:17) Moving C257 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:20:17) Moving R200 / RESISTOR_H_TOL_1_RES_0603_56.2K / RES_0603.
+\t (00:20:17) Moving C258 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:20:17) Moving U45 / TPS54620RGY_RGY_TPS54620RGY / RGY.
+\t (00:20:17) Moving C259 / CAP NP_CAP_0805_4.7UF / CAP_0805.
+\t (00:20:17) Moving TP57 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:20:17) Moving R207 / RESISTOR_V_TOL_3_RES_0603_28.7K / RES_0603.
+\t (00:20:17) Moving R204 / RESISTOR_V_TOL_3_RES_0603_NC_ 1 / RES_0603.
+\t (00:20:17) Moving R203 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:20:17) Moving R205 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:20:17) Moving C263 / CAP NP_CAP_0603_0.33UF / CAP_0603.
+\t (00:20:17) Moving R208 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:20:17) Moving R202 / RESISTOR_V_TOL_3_RES_0603_NC_9. / RES_0603.
+\t (00:20:17) Moving C262 / CAP NP_CAP_0603_NC_0.1 UF / CAP_0603.
+\t (00:20:17) Moving C261 / CAP NP_CAP_0603_8.2N / CAP_0603.
+\t (00:20:17) Moving R209 / RESISTOR_V_TOL_3_RES_0603_3.48K / RES_0603.
+\t (00:20:17) Moving R206 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:20:17) Moving C264 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:20:17) Moving D12 / DIODE ZENER_D_0603_CDBU0520 / D_0603.
+\t (00:20:17) Moving C260 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:20:17) Moving TP54 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:20:17) Moving Q16 / CSD16301Q2_U_6_SON_N-NEXTFET PO / U_6_SON.
+\t (00:20:17) Moving R201 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:20:17) Moving TP55 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:20:17) Moving TP56 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:20:17) Moving C265 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:20:17) Moving R210 / RESISTOR_V_TOL_3_RES_1206_20M / RES_1206.
+\t (00:20:17) Moving TP58 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:20:17) Pick new location for the element(s).
+\i (00:20:17) pick grid 7.1939 15.5345
+\t (00:20:17) last pick:  7.1882  15.5448
+\i (00:20:18) prepopup -3.9037 26.2560
+\i (00:20:20) pick grid -5.4712 15.5345
+\t (00:20:20) last pick:  -5.4610  15.5448
+\i (00:20:21) drag_start grid -23.7792 46.5077
+\i (00:20:22) drag_stop 5.8146 14.4059
+\i (00:20:23) pick grid -16.6943 11.3964
+\t (00:20:23) last pick:  -16.6878  11.4046
+\t (00:20:23) Moving J31 / HDR_1X9_M_HDR_1X9_MOLEX_87438-0 / HDR_1X9_MOLEX.
+\t (00:20:23) Moving U45 / TPS54620RGY_RGY_TPS54620RGY / RGY.
+\t (00:20:23) Moving R200 / RESISTOR_H_TOL_1_RES_0603_56.2K / RES_0603.
+\t (00:20:23) Moving C257 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:20:23) Moving C258 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:20:23) Moving L11 / INDUCTOR_MSS1048_3.3U / MSS1048.
+\t (00:20:23) Moving R205 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:20:23) Moving R203 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:20:23) Moving R204 / RESISTOR_V_TOL_3_RES_0603_NC_ 1 / RES_0603.
+\t (00:20:23) Moving R207 / RESISTOR_V_TOL_3_RES_0603_28.7K / RES_0603.
+\t (00:20:23) Moving TP57 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:20:23) Moving R206 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:20:23) Moving C263 / CAP NP_CAP_0603_0.33UF / CAP_0603.
+\t (00:20:23) Moving C259 / CAP NP_CAP_0805_4.7UF / CAP_0805.
+\t (00:20:23) Moving C260 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:20:23) Moving D12 / DIODE ZENER_D_0603_CDBU0520 / D_0603.
+\t (00:20:23) Moving TP56 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:20:23) Moving TP55 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:20:23) Moving R201 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:20:23) Moving Q16 / CSD16301Q2_U_6_SON_N-NEXTFET PO / U_6_SON.
+\t (00:20:23) Moving TP54 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:20:23) Moving TP58 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:20:23) Moving R210 / RESISTOR_V_TOL_3_RES_1206_20M / RES_1206.
+\t (00:20:23) Moving C265 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:20:23) Moving C261 / CAP NP_CAP_0603_8.2N / CAP_0603.
+\t (00:20:23) Moving C262 / CAP NP_CAP_0603_NC_0.1 UF / CAP_0603.
+\t (00:20:23) Moving R202 / RESISTOR_V_TOL_3_RES_0603_NC_9. / RES_0603.
+\t (00:20:23) Moving R208 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:20:23) Moving C264 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:20:23) Moving R209 / RESISTOR_V_TOL_3_RES_0603_3.48K / RES_0603.
+\t (00:20:23) Pick new location for the element(s).
+\i (00:20:23) prepopup -14.8760 14.6567
+\i (00:20:24) cancel 
+\i (00:20:24) generaledit 
+\i (00:20:26) undo 
+\i (00:20:26) trapsize 3135
+\i (00:20:26) generaledit 
+\i (00:20:26) undo 
+\i (00:20:26) trapsize 3135
+\i (00:20:26) generaledit 
+\i (00:20:26) undo 
+\i (00:20:26) trapsize 3135
+\i (00:20:26) generaledit 
+\i (00:20:26) undo 
+\i (00:20:27) trapsize 3135
+\i (00:20:27) generaledit 
+\i (00:20:28) undo 
+\i (00:20:28) trapsize 3135
+\i (00:20:28) generaledit 
+\i (00:20:28) undo 
+\i (00:20:28) trapsize 3135
+\i (00:20:28) generaledit 
+\i (00:20:28) undo 
+\i (00:20:29) trapsize 3135
+\i (00:20:29) generaledit 
+\i (00:20:29) undo 
+\i (00:20:29) trapsize 784
+\i (00:20:29) generaledit 
+\i (00:20:31) undo 
+\i (00:20:31) trapsize 3135
+\i (00:20:31) generaledit 
+\i (00:20:35) save 
+\i (00:20:36) fillin yes 
+\i (00:20:36) generaledit 
+\i (00:20:41) delete 
+\i (00:20:42) zoom in 1 
+\i (00:20:42) setwindow pcb
+\i (00:20:42) zoom in -25.9971 44.8466
+\i (00:20:42) trapsize 1567
+\i (00:20:42) zoom in 1 
+\i (00:20:42) setwindow pcb
+\i (00:20:42) zoom in -25.9971 44.8466
+\i (00:20:42) trapsize 784
+\i (00:20:42) zoom in 1 
+\i (00:20:42) setwindow pcb
+\i (00:20:42) zoom in -25.8090 44.8466
+\i (00:20:42) trapsize 392
+\i (00:20:43) pick grid -25.2447 45.3247
+\t (00:20:43) last pick:  -25.2476  45.3136
+\t (00:20:43) Odd-angle Line Segment "Led_Vout, Etch/3-Sig"
+\i (00:20:43) pick grid -25.0566 44.5723
+\t (00:20:43) last pick:  -25.0444  44.5770
+\t (00:20:43) Vertical Line Segment "Led_Vout, Etch/3-Sig"
+\i (00:20:44) prepopup -24.6491 44.3215
+\i (00:20:44) done 
+\i (00:20:44) generaledit 
+\i (00:20:44) zoom out 1 
+\i (00:20:44) setwindow pcb
+\i (00:20:44) zoom out -24.6177 44.2510
+\i (00:20:44) trapsize 784
+\i (00:20:44) zoom out 1 
+\i (00:20:44) setwindow pcb
+\i (00:20:44) zoom out -24.6177 44.2510
+\i (00:20:44) trapsize 1567
+\i (00:20:44) zoom out 1 
+\i (00:20:44) setwindow pcb
+\i (00:20:44) zoom out -24.6176 44.2510
+\i (00:20:44) trapsize 3135
+\i (00:20:47) prepopup -70.8266 48.7654
+\i (00:20:48) pick grid -79.6671 49.0162
+\t (00:20:48) last pick:  -79.6544  49.0220
+\i (00:20:48) move 
+\t (00:20:48) Select element(s) to move.
+\i (00:20:49) prepopup -55.2146 39.7994
+\i (00:20:50) group 
+\i (00:20:51) drag_start grid -45.0574 39.0471
+\i (00:20:55) drag_stop -16.4668 10.0803
+\i (00:20:56) prepopup -45.7471 37.1661
+\i (00:20:57) pick grid -48.6313 39.4860
+\t (00:20:57) last pick:  -48.6410  39.4970
+\i (00:20:59) setwindow form.find
+\i (00:20:59) FORM find all_on  
+\i (00:20:59) setwindow pcb
+\i (00:20:59) drag_start grid -47.8162 38.1693
+\i (00:21:02) drag_stop -15.4009 9.7041
+\i (00:21:03) prepopup -11.5136 27.9494
+\i (00:21:04) complete 
+\i (00:21:04) prepopup -13.9589 34.2820
+\i (00:21:12) pop dyn_option_select 'Options@:@Rotation point@:@User Pick' 
+\i (00:21:16) pick grid -55.1519 35.1597
+\t (00:21:16) last pick:  -55.1434  35.1536
+\t (00:21:16) Moving J31 / HDR_1X9_M_HDR_1X9_MOLEX_87438-0 / HDR_1X9_MOLEX.
+\t (00:21:16) Moving R200 / RESISTOR_H_TOL_1_RES_0603_56.2K / RES_0603.
+\t (00:21:16) Moving C258 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:21:16) Moving L11 / INDUCTOR_MSS1048_3.3U / MSS1048.
+\t (00:21:16) Moving U45 / TPS54620RGY_RGY_TPS54620RGY / RGY.
+\t (00:21:16) Moving TP57 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:21:16) Moving R207 / RESISTOR_V_TOL_3_RES_0603_28.7K / RES_0603.
+\t (00:21:16) Moving C257 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:21:16) Moving R204 / RESISTOR_V_TOL_3_RES_0603_NC_ 1 / RES_0603.
+\t (00:21:16) Moving R203 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:21:16) Moving R205 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:21:16) Moving C263 / CAP NP_CAP_0603_0.33UF / CAP_0603.
+\t (00:21:16) Moving C259 / CAP NP_CAP_0805_4.7UF / CAP_0805.
+\t (00:21:16) Moving R206 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:21:16) Moving D12 / DIODE ZENER_D_0603_CDBU0520 / D_0603.
+\t (00:21:16) Moving C260 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:21:16) Moving Q16 / CSD16301Q2_U_6_SON_N-NEXTFET PO / U_6_SON.
+\t (00:21:16) Moving R201 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:21:16) Moving R208 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:21:16) Moving C265 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:21:16) Moving R210 / RESISTOR_V_TOL_3_RES_1206_20M / RES_1206.
+\t (00:21:16) Moving R202 / RESISTOR_V_TOL_3_RES_0603_NC_9. / RES_0603.
+\t (00:21:16) Moving C262 / CAP NP_CAP_0603_NC_0.1 UF / CAP_0603.
+\t (00:21:16) Moving C261 / CAP NP_CAP_0603_8.2N / CAP_0603.
+\t (00:21:16) Moving R209 / RESISTOR_V_TOL_3_RES_0603_3.48K / RES_0603.
+\t (00:21:16) Moving C264 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:21:16) Moving TP54 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:21:16) Moving TP55 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:21:16) Moving TP56 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:21:16) Moving TP58 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:21:16) Pick new location for the element(s).
+\i (00:21:25) prepopup -54.3368 39.2352
+\i (00:21:28) rotate 
+\t (00:21:28) Spin the element(s).
+\i (00:21:30) prepopup -53.2083 32.9026
+\i (00:21:31) cancel 
+\i (00:21:31) generaledit 
+\i (00:21:32) prepopup -53.3964 33.7177
+\i (00:21:33) pick grid -51.8916 36.8526
+\t (00:21:33) last pick:  -51.8922  36.8554
+\i (00:21:35) move 
+\t (00:21:35) Select element(s) to move.
+\i (00:21:36) prepopup -47.3773 36.9780
+\i (00:21:37) group 
+\i (00:21:37) drag_start grid -47.4400 37.7304
+\i (00:21:40) drag_stop -15.3382 9.9549
+\i (00:21:41) prepopup -13.8335 23.2470
+\i (00:21:42) setwindow form.find
+\i (00:21:42) FORM find all_on  
+\i (00:21:43) setwindow pcb
+\i (00:21:43) drag_start grid -46.9384 38.2947
+\i (00:21:46) drag_stop -15.2128 9.7668
+\i (00:21:47) prepopup -25.7462 20.4882
+\i (00:21:48) complete 
+\i (00:21:49) prepopup -15.4636 26.8208
+\i (00:21:56) pop dyn_option_select 'Options@:@Rotation point@:@Body Center' 
+\i (00:21:58) prepopup -48.5059 36.6018
+\i (00:21:58) done 
+\i (00:21:58) generaledit 
+\i (00:21:59) prepopup -49.3836 34.6582
+\i (00:22:00) prepopup -54.1487 34.6582
+\i (00:22:00) pick grid -53.5218 38.0439
+\t (00:22:00) last pick:  -53.5178  38.0492
+\i (00:22:05) move 
+\t (00:22:05) Select element(s) to move.
+\i (00:22:05) prepopup -70.1369 44.1884
+\i (00:22:06) group 
+\i (00:22:07) drag_start grid -45.1828 38.6709
+\i (00:22:10) drag_stop -14.8993 9.5787
+\i (00:22:12) prepopup -13.9589 23.8740
+\i (00:22:13) complete 
+\i (00:22:14) prepopup -15.9652 30.7708
+\i (00:22:29) pop dyn_option_select 'Options@:@Rotation point@:@Body Center' 
+\i (00:22:30) prepopup -18.3478 33.7804
+\i (00:22:33) pick grid -6.1215 27.4478
+\t (00:22:33) last pick:  -6.1214  27.4574
+\t (00:22:33) Moving J31 / HDR_1X9_M_HDR_1X9_MOLEX_87438-0 / HDR_1X9_MOLEX.
+\t (00:22:33) Moving R200 / RESISTOR_H_TOL_1_RES_0603_56.2K / RES_0603.
+\t (00:22:33) Moving C258 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:22:33) Moving L11 / INDUCTOR_MSS1048_3.3U / MSS1048.
+\t (00:22:33) Moving U45 / TPS54620RGY_RGY_TPS54620RGY / RGY.
+\t (00:22:33) Moving TP57 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:22:33) Moving R207 / RESISTOR_V_TOL_3_RES_0603_28.7K / RES_0603.
+\t (00:22:33) Moving C257 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:22:33) Moving R204 / RESISTOR_V_TOL_3_RES_0603_NC_ 1 / RES_0603.
+\t (00:22:33) Moving R203 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:22:33) Moving R205 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:22:33) Moving C263 / CAP NP_CAP_0603_0.33UF / CAP_0603.
+\t (00:22:33) Moving C259 / CAP NP_CAP_0805_4.7UF / CAP_0805.
+\t (00:22:33) Moving R206 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:22:33) Moving D12 / DIODE ZENER_D_0603_CDBU0520 / D_0603.
+\t (00:22:33) Moving C260 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:22:33) Moving Q16 / CSD16301Q2_U_6_SON_N-NEXTFET PO / U_6_SON.
+\t (00:22:33) Moving R201 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:22:33) Moving R208 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:22:33) Moving C265 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:22:33) Moving R210 / RESISTOR_V_TOL_3_RES_1206_20M / RES_1206.
+\t (00:22:33) Moving R202 / RESISTOR_V_TOL_3_RES_0603_NC_9. / RES_0603.
+\t (00:22:33) Moving C262 / CAP NP_CAP_0603_NC_0.1 UF / CAP_0603.
+\t (00:22:33) Moving C261 / CAP NP_CAP_0603_8.2N / CAP_0603.
+\t (00:22:33) Moving R209 / RESISTOR_V_TOL_3_RES_0603_3.48K / RES_0603.
+\t (00:22:33) Moving C264 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:22:33) Moving TP54 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:22:33) Moving TP55 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:22:33) Moving TP56 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:22:33) Moving TP58 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:22:33) Pick new location for the element(s).
+\i (00:22:33) prepopup -12.7676 30.1438
+\i (00:22:36) rotate 
+\t (00:22:36) Spin the element(s).
+\i (00:22:42) prepopup -14.8993 36.1002
+\i (00:22:43) cancel 
+\i (00:22:43) generaledit 
+\i (00:22:46) zoom out 1 
+\i (00:22:46) setwindow pcb
+\i (00:22:46) zoom out -12.8930 34.9716
+\i (00:22:46) trapsize 6270
+\i (00:22:47) roam start
+\i (00:22:47) roam x 144
+\i (00:22:47) roam x 64
+\i (00:22:47) roam y 16
+\i (00:22:48) roam x 16
+\i (00:22:48) roam x 32
+\i (00:22:48) roam x 32
+\i (00:22:48) roam x 64
+\i (00:22:48) roam x 80
+\i (00:22:48) roam x 48
+\i (00:22:48) roam end
+\i (00:22:51) move 
+\t (00:22:51) Select element(s) to move.
+\i (00:22:52) prepopup -50.7712 38.7017
+\i (00:22:54) group 
+\i (00:22:56) drag_start grid -48.5140 38.2001
+\i (00:22:57) drag_stop -14.2805 10.1111
+\i (00:22:58) prepopup -6.6313 24.4064
+\i (00:22:59) done 
+\i (00:23:00) pick grid -27.5727 21.3968
+\t (00:23:00) last pick:  -27.5844  21.3868
+\t (00:23:00) Moving J31 / HDR_1X9_M_HDR_1X9_MOLEX_87438-0 / HDR_1X9_MOLEX.
+\t (00:23:00) Moving R200 / RESISTOR_H_TOL_1_RES_0603_56.2K / RES_0603.
+\t (00:23:00) Moving C258 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:23:00) Moving L11 / INDUCTOR_MSS1048_3.3U / MSS1048.
+\t (00:23:00) Moving U45 / TPS54620RGY_RGY_TPS54620RGY / RGY.
+\t (00:23:00) Moving TP57 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:23:00) Moving R207 / RESISTOR_V_TOL_3_RES_0603_28.7K / RES_0603.
+\t (00:23:00) Moving C257 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:23:00) Moving R204 / RESISTOR_V_TOL_3_RES_0603_NC_ 1 / RES_0603.
+\t (00:23:00) Moving R203 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:23:00) Moving R205 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:23:00) Moving C263 / CAP NP_CAP_0603_0.33UF / CAP_0603.
+\t (00:23:00) Moving C259 / CAP NP_CAP_0805_4.7UF / CAP_0805.
+\t (00:23:00) Moving R206 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:23:00) Moving D12 / DIODE ZENER_D_0603_CDBU0520 / D_0603.
+\t (00:23:00) Moving C260 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:23:00) Moving Q16 / CSD16301Q2_U_6_SON_N-NEXTFET PO / U_6_SON.
+\t (00:23:00) Moving R201 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:23:00) Moving R208 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:23:00) Moving C265 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:23:00) Moving R210 / RESISTOR_V_TOL_3_RES_1206_20M / RES_1206.
+\t (00:23:00) Moving R202 / RESISTOR_V_TOL_3_RES_0603_NC_9. / RES_0603.
+\t (00:23:00) Moving C262 / CAP NP_CAP_0603_NC_0.1 UF / CAP_0603.
+\t (00:23:00) Moving C261 / CAP NP_CAP_0603_8.2N / CAP_0603.
+\t (00:23:00) Moving R209 / RESISTOR_V_TOL_3_RES_0603_3.48K / RES_0603.
+\t (00:23:00) Moving C264 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:23:00) Moving TP54 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:23:00) Moving TP55 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:23:00) Moving TP56 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:23:00) Moving TP58 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:23:00) Pick new location for the element(s).
+\i (00:23:02) pick grid 33.8721 41.4604
+\t (00:23:02) last pick:  33.8836  41.4528
+\i (00:23:03) prepopup 29.6086 26.6635
+\i (00:23:03) done 
+\i (00:23:03) generaledit 
+\i (00:23:03) pick grid 23.3387 25.7857
+\t (00:23:03) last pick:  23.3426  25.7810
+\i (00:23:04) zoom in 1 
+\i (00:23:04) setwindow pcb
+\i (00:23:04) zoom in -38.1060 12.9952
+\i (00:23:04) trapsize 3135
+\i (00:23:04) zoom in 1 
+\i (00:23:04) setwindow pcb
+\i (00:23:04) zoom in -38.1060 12.9952
+\i (00:23:04) trapsize 1567
+\i (00:23:04) zoom in 1 
+\i (00:23:04) setwindow pcb
+\i (00:23:04) zoom in -38.1060 12.9953
+\i (00:23:04) trapsize 784
+\i (00:23:05) zoom out 1 
+\i (00:23:05) setwindow pcb
+\i (00:23:05) zoom out -38.1060 12.9953
+\i (00:23:05) trapsize 1567
+\i (00:23:05) zoom out 1 
+\i (00:23:05) setwindow pcb
+\i (00:23:05) zoom out -38.1059 12.9953
+\i (00:23:05) trapsize 3135
+\i (00:23:05) zoom out 1 
+\i (00:23:05) setwindow pcb
+\i (00:23:05) zoom out 1.6451 21.2088
+\i (00:23:05) trapsize 6270
+\i (00:23:05) zoom out 1 
+\i (00:23:05) setwindow pcb
+\i (00:23:05) zoom out 1.5196 21.2088
+\i (00:23:05) trapsize 12540
+\i (00:23:05) zoom out 1 
+\i (00:23:05) setwindow pcb
+\i (00:23:05) zoom out 32.7435 21.2087
+\i (00:23:05) trapsize 23366
+\i (00:23:07) zoom in 1 
+\i (00:23:07) setwindow pcb
+\i (00:23:07) zoom in 34.0261 88.1111
+\i (00:23:07) trapsize 11683
+\i (00:23:07) zoom in 1 
+\i (00:23:07) setwindow pcb
+\i (00:23:07) zoom in 30.7550 80.4004
+\i (00:23:07) trapsize 5841
+\i (00:23:07) zoom in 1 
+\i (00:23:07) setwindow pcb
+\i (00:23:07) zoom in 33.7926 43.8330
+\i (00:23:07) trapsize 2921
+\i (00:23:08) zoom out 1 
+\i (00:23:08) setwindow pcb
+\i (00:23:08) zoom out 34.2015 43.7162
+\i (00:23:08) trapsize 5841
+\i (00:23:11) pick grid 2.8914 86.4756
+\t (00:23:11) last pick:  2.8956  86.4870
+\i (00:23:11) move 
+\t (00:23:11) Select element(s) to move.
+\i (00:23:12) prepopup 4.8775 70.5869
+\i (00:23:13) group 
+\i (00:23:13) drag_start grid 4.5270 74.0918
+\i (00:23:14) drag_stop 7.2141 49.9082
+\i (00:23:15) drag_start grid 12.8219 57.0347
+\i (00:23:15) drag_stop 42.7301 25.9582
+\i (00:23:15) pick grid 55.2308 27.4770
+\t (00:23:15) last pick:  55.2196  27.4828
+\i (00:23:17) prepopup 15.2753 62.6425
+\i (00:23:18) oops 
+\i (00:23:18) pick grid 10.7190 62.9930
+\t (00:23:18) last pick:  10.7188  62.9920
+\i (00:23:18) prepopup 13.6397 62.9930
+\i (00:23:19) oops 
+\i (00:23:20) drag_start grid 10.3685 61.9416
+\i (00:23:21) drag_stop 53.5952 23.8553
+\i (00:23:23) prepopup 34.6689 40.0945
+\i (00:23:27) cancel 
+\i (00:23:27) generaledit 
+\i (00:23:27) pick grid 42.6133 40.4450
+\t (00:23:27) last pick:  42.6212  40.4368
+\i (00:23:28) pick grid 56.9832 37.4075
+\t (00:23:28) last pick:  56.9722  37.4142
+\i (00:23:29) zoom in 1 
+\i (00:23:29) setwindow pcb
+\i (00:23:29) zoom in 49.8567 36.5897
+\i (00:23:29) trapsize 2921
+\i (00:23:29) zoom in 1 
+\i (00:23:29) setwindow pcb
+\i (00:23:29) zoom in 49.8567 36.5897
+\i (00:23:29) trapsize 1460
+\i (00:23:29) zoom out 1 
+\i (00:23:29) setwindow pcb
+\i (00:23:29) zoom out 45.9429 37.2031
+\i (00:23:29) trapsize 2921
+\i (00:23:29) zoom out 1 
+\i (00:23:29) setwindow pcb
+\i (00:23:29) zoom out 45.9430 37.2030
+\i (00:23:29) trapsize 5841
+\i (00:23:31) move 
+\t (00:23:31) Select element(s) to move.
+\i (00:23:31) prepopup 11.1279 70.8499
+\i (00:23:33) group 
+\i (00:23:33) drag_start grid 14.3991 60.9194
+\i (00:23:34) drag_stop 46.1766 24.7024
+\i (00:23:35) prepopup 30.7552 41.4089
+\i (00:23:36) complete 
+\i (00:23:37) prepopup 52.0180 44.2128
+\i (00:23:42) pop dyn_option_select 'Options@:@Rotation point@:@User Pick' 
+\i (00:23:44) pick grid 47.6954 40.4743
+\t (00:23:44) last pick:  47.7012  40.4622
+\t (00:23:44) Moving J31 / HDR_1X9_M_HDR_1X9_MOLEX_87438-0 / HDR_1X9_MOLEX.
+\t (00:23:44) Moving R200 / RESISTOR_H_TOL_1_RES_0603_56.2K / RES_0603.
+\t (00:23:44) Moving L11 / INDUCTOR_MSS1048_3.3U / MSS1048.
+\t (00:23:44) Moving R205 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:23:44) Moving C257 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:23:44) Moving C263 / CAP NP_CAP_0603_0.33UF / CAP_0603.
+\t (00:23:44) Moving R203 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:23:44) Moving R204 / RESISTOR_V_TOL_3_RES_0603_NC_ 1 / RES_0603.
+\t (00:23:44) Moving R207 / RESISTOR_V_TOL_3_RES_0603_28.7K / RES_0603.
+\t (00:23:44) Moving U45 / TPS54620RGY_RGY_TPS54620RGY / RGY.
+\t (00:23:44) Moving C258 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:23:44) Moving R206 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:23:44) Moving C259 / CAP NP_CAP_0805_4.7UF / CAP_0805.
+\t (00:23:44) Moving C260 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:23:44) Moving D12 / DIODE ZENER_D_0603_CDBU0520 / D_0603.
+\t (00:23:44) Moving R202 / RESISTOR_V_TOL_3_RES_0603_NC_9. / RES_0603.
+\t (00:23:44) Moving R210 / RESISTOR_V_TOL_3_RES_1206_20M / RES_1206.
+\t (00:23:44) Moving R201 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:23:44) Moving Q16 / CSD16301Q2_U_6_SON_N-NEXTFET PO / U_6_SON.
+\t (00:23:44) Moving R209 / RESISTOR_V_TOL_3_RES_0603_3.48K / RES_0603.
+\t (00:23:44) Moving C261 / CAP NP_CAP_0603_8.2N / CAP_0603.
+\t (00:23:44) Moving C262 / CAP NP_CAP_0603_NC_0.1 UF / CAP_0603.
+\t (00:23:44) Moving C265 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:23:44) Moving R208 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:23:44) Moving TP57 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:23:44) Moving C264 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:23:44) Moving TP54 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:23:44) Moving TP58 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:23:44) Moving TP56 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:23:44) Moving TP55 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:23:44) Pick new location for the element(s).
+\i (00:23:46) prepopup 46.4102 45.6148
+\i (00:23:48) rotate 
+\t (00:23:48) Spin the element(s).
+\i (00:23:51) iangle -90.000
+\t (00:23:51) last angle:  +270.000 Degrees
+\i (00:23:51) prepopup 46.4102 45.7316
+\i (00:23:52) done 
+\i (00:23:52) generaledit 
+\i (00:24:07) prepopup 52.0180 41.5258
+\i (00:24:08) pick grid 51.6676 22.2490
+\t (00:24:08) last pick:  51.6636  22.2504
+\i (00:24:10) move 
+\t (00:24:10) Select element(s) to move.
+\i (00:24:10) prepopup 0.0291 76.2240
+\i (00:24:11) group 
+\i (00:24:11) drag_start grid 0.4964 74.9389
+\i (00:24:12) drag_stop 18.0208 52.2740
+\i (00:24:13) drag_start grid 15.3337 57.1809
+\i (00:24:13) drag_stop 40.2183 28.5577
+\i (00:24:13) pick grid 54.9388 26.8053
+\t (00:24:13) last pick:  54.9402  26.7970
+\i (00:24:14) prepopup 55.8734 40.3575
+\i (00:24:14) oops 
+\i (00:24:15) prepopup 54.2378 44.4465
+\i (00:24:15) oops 
+\i (00:24:17) setwindow form.find
+\i (00:24:17) FORM find all_on  
+\i (00:24:17) setwindow pcb
+\i (00:24:17) drag_start grid 13.3476 59.6343
+\i (00:24:18) drag_stop 48.3963 28.5577
+\i (00:24:19) prepopup 32.2739 41.0584
+\i (00:24:23) pick grid 58.6773 24.2351
+\t (00:24:23) last pick:  58.6740  24.2316
+\t (00:24:23) Moving J31 / HDR_1X9_M_HDR_1X9_MOLEX_87438-0 / HDR_1X9_MOLEX.
+\t (00:24:23) Moving R200 / RESISTOR_H_TOL_1_RES_0603_56.2K / RES_0603.
+\t (00:24:23) Moving L11 / INDUCTOR_MSS1048_3.3U / MSS1048.
+\t (00:24:23) Moving R205 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:24:23) Moving C257 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:24:23) Moving C263 / CAP NP_CAP_0603_0.33UF / CAP_0603.
+\t (00:24:23) Moving R203 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:24:23) Moving R204 / RESISTOR_V_TOL_3_RES_0603_NC_ 1 / RES_0603.
+\t (00:24:23) Moving R207 / RESISTOR_V_TOL_3_RES_0603_28.7K / RES_0603.
+\t (00:24:23) Moving U45 / TPS54620RGY_RGY_TPS54620RGY / RGY.
+\t (00:24:23) Moving C258 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:24:23) Moving R206 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:24:23) Moving C259 / CAP NP_CAP_0805_4.7UF / CAP_0805.
+\t (00:24:23) Moving C260 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:24:23) Moving D12 / DIODE ZENER_D_0603_CDBU0520 / D_0603.
+\t (00:24:23) Moving R202 / RESISTOR_V_TOL_3_RES_0603_NC_9. / RES_0603.
+\t (00:24:23) Moving R210 / RESISTOR_V_TOL_3_RES_1206_20M / RES_1206.
+\t (00:24:23) Moving R201 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:24:23) Moving Q16 / CSD16301Q2_U_6_SON_N-NEXTFET PO / U_6_SON.
+\t (00:24:23) Moving R209 / RESISTOR_V_TOL_3_RES_0603_3.48K / RES_0603.
+\t (00:24:23) Moving C261 / CAP NP_CAP_0603_8.2N / CAP_0603.
+\t (00:24:23) Moving C262 / CAP NP_CAP_0603_NC_0.1 UF / CAP_0603.
+\t (00:24:23) Moving C265 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:24:23) Moving R208 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:24:23) Moving TP57 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:24:23) Moving C264 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:24:23) Moving TP54 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:24:23) Moving TP58 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:24:23) Moving TP56 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:24:23) Moving TP55 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:24:23) Pick new location for the element(s).
+\i (00:24:26) pick grid 62.7663 25.7538
+\t (00:24:26) last pick:  62.7634  25.7556
+\i (00:24:27) prepopup 56.4575 29.1419
+\i (00:24:28) cancel 
+\i (00:24:28) generaledit 
+\i (00:24:30) move 
+\t (00:24:30) Select element(s) to move.
+\i (00:24:31) prepopup 2.9498 71.5508
+\i (00:24:32) group 
+\i (00:24:33) setwindow form.find
+\i (00:24:33) FORM find all_on  
+\i (00:24:35) setwindow pcb
+\i (00:24:35) drag_start grid 11.1279 59.5174
+\i (00:24:35) drag_stop 50.0319 25.1697
+\i (00:24:36) prepopup 35.3115 40.2406
+\i (00:24:37) complete 
+\i (00:24:38) prepopup 55.5229 42.4604
+\i (00:24:41) pop dyn_option_select 'Options@:@Rotation point@:@User Pick' 
+\i (00:24:44) pick grid 47.6954 41.0584
+\t (00:24:44) last pick:  47.7012  41.0464
+\t (00:24:44) Moving J31 / HDR_1X9_M_HDR_1X9_MOLEX_87438-0 / HDR_1X9_MOLEX.
+\t (00:24:44) Moving R200 / RESISTOR_H_TOL_1_RES_0603_56.2K / RES_0603.
+\t (00:24:44) Moving L11 / INDUCTOR_MSS1048_3.3U / MSS1048.
+\t (00:24:44) Moving R205 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:24:44) Moving C257 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:24:44) Moving C263 / CAP NP_CAP_0603_0.33UF / CAP_0603.
+\t (00:24:44) Moving R203 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:24:44) Moving R204 / RESISTOR_V_TOL_3_RES_0603_NC_ 1 / RES_0603.
+\t (00:24:44) Moving R207 / RESISTOR_V_TOL_3_RES_0603_28.7K / RES_0603.
+\t (00:24:44) Moving U45 / TPS54620RGY_RGY_TPS54620RGY / RGY.
+\t (00:24:44) Moving C258 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:24:44) Moving R206 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:24:44) Moving C259 / CAP NP_CAP_0805_4.7UF / CAP_0805.
+\t (00:24:44) Moving C260 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:24:44) Moving D12 / DIODE ZENER_D_0603_CDBU0520 / D_0603.
+\t (00:24:44) Moving R202 / RESISTOR_V_TOL_3_RES_0603_NC_9. / RES_0603.
+\t (00:24:44) Moving R210 / RESISTOR_V_TOL_3_RES_1206_20M / RES_1206.
+\t (00:24:44) Moving R201 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:24:44) Moving Q16 / CSD16301Q2_U_6_SON_N-NEXTFET PO / U_6_SON.
+\t (00:24:44) Moving R209 / RESISTOR_V_TOL_3_RES_0603_3.48K / RES_0603.
+\t (00:24:44) Moving C261 / CAP NP_CAP_0603_8.2N / CAP_0603.
+\t (00:24:44) Moving C262 / CAP NP_CAP_0603_NC_0.1 UF / CAP_0603.
+\t (00:24:44) Moving C265 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:24:44) Moving R208 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:24:44) Moving TP57 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:24:44) Moving C264 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:24:44) Moving TP54 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:24:44) Moving TP58 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:24:44) Moving TP56 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:24:44) Moving TP55 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:24:44) Pick new location for the element(s).
+\i (00:24:52) prepopup 49.0973 40.5911
+\i (00:24:55) rotate 
+\t (00:24:55) Spin the element(s).
+\i (00:24:56) prepopup 49.9151 29.9597
+\i (00:24:57) done 
+\i (00:24:57) generaledit 
+\i (00:24:59) prepopup 48.9805 30.1933
+\i (00:25:00) pick grid 36.2461 27.7399
+\t (00:25:00) last pick:  36.2458  27.7368
+\i (00:25:02) move 
+\t (00:25:02) Select element(s) to move.
+\i (00:25:02) prepopup 12.6466 61.6204
+\i (00:25:03) group 
+\i (00:25:04) drag_start grid 12.9971 62.2045
+\i (00:25:05) drag_stop 49.2141 25.5202
+\i (00:25:06) prepopup 52.2517 37.2031
+\i (00:25:07) complete 
+\i (00:25:08) prepopup 49.2141 49.9375
+\i (00:25:12) pop dyn_option_select 'Options@:@Rotation point@:@User Pick' 
+\i (00:25:13) prepopup 50.4993 38.6050
+\i (00:25:33) pick grid 41.3866 20.8470
+\t (00:25:33) last pick:  41.3766  20.8534
+\t (00:25:33) Moving J31 / HDR_1X9_M_HDR_1X9_MOLEX_87438-0 / HDR_1X9_MOLEX.
+\t (00:25:33) Moving R200 / RESISTOR_H_TOL_1_RES_0603_56.2K / RES_0603.
+\t (00:25:33) Moving L11 / INDUCTOR_MSS1048_3.3U / MSS1048.
+\t (00:25:33) Moving R205 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:25:33) Moving C257 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:25:33) Moving C263 / CAP NP_CAP_0603_0.33UF / CAP_0603.
+\t (00:25:33) Moving R203 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:25:33) Moving R204 / RESISTOR_V_TOL_3_RES_0603_NC_ 1 / RES_0603.
+\t (00:25:33) Moving R207 / RESISTOR_V_TOL_3_RES_0603_28.7K / RES_0603.
+\t (00:25:33) Moving U45 / TPS54620RGY_RGY_TPS54620RGY / RGY.
+\t (00:25:33) Moving C258 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:25:33) Moving R206 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:25:33) Moving C259 / CAP NP_CAP_0805_4.7UF / CAP_0805.
+\t (00:25:33) Moving C260 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:25:33) Moving D12 / DIODE ZENER_D_0603_CDBU0520 / D_0603.
+\t (00:25:33) Moving R202 / RESISTOR_V_TOL_3_RES_0603_NC_9. / RES_0603.
+\t (00:25:33) Moving R210 / RESISTOR_V_TOL_3_RES_1206_20M / RES_1206.
+\t (00:25:33) Moving R201 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:25:33) Moving Q16 / CSD16301Q2_U_6_SON_N-NEXTFET PO / U_6_SON.
+\t (00:25:33) Moving R209 / RESISTOR_V_TOL_3_RES_0603_3.48K / RES_0603.
+\t (00:25:33) Moving C261 / CAP NP_CAP_0603_8.2N / CAP_0603.
+\t (00:25:33) Moving C262 / CAP NP_CAP_0603_NC_0.1 UF / CAP_0603.
+\t (00:25:33) Moving C265 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:25:33) Moving R208 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:25:33) Moving TP57 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:25:33) Moving C264 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:25:33) Moving TP54 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:25:33) Moving TP58 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:25:33) Moving TP56 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:25:33) Moving TP55 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:25:33) Pick new location for the element(s).
+\i (00:25:34) prepopup 44.4242 26.1043
+\i (00:25:35) cancel 
+\i (00:25:35) generaledit 
+\i (00:25:36) pick grid 48.0459 25.0529
+\t (00:25:36) last pick:  48.0568  25.0444
+\i (00:25:39) move 
+\t (00:25:39) Select element(s) to move.
+\i (00:25:40) prepopup 73.1641 63.9569
+\i (00:25:41) group 
+\i (00:25:42) setwindow form.find
+\i (00:25:42) FORM find all_on  
+\i (00:25:44) setwindow pcb
+\i (00:25:44) drag_start grid 12.7635 59.6343
+\i (00:25:45) drag_stop 49.5646 28.2072
+\i (00:25:45) prepopup 53.5368 33.1141
+\i (00:25:47) complete 
+\i (00:25:47) prepopup 58.3268 27.2726
+\i (00:25:51) pop dyn_option_select 'Options@:@Rotation point@:@User Pick' 
+\i (00:25:52) prepopup 56.1071 27.5063
+\i (00:25:54) pick grid 35.1947 40.1238
+\t (00:25:54) last pick:  35.2044  40.1320
+\t (00:25:54) Moving J31 / HDR_1X9_M_HDR_1X9_MOLEX_87438-0 / HDR_1X9_MOLEX.
+\t (00:25:54) Moving R200 / RESISTOR_H_TOL_1_RES_0603_56.2K / RES_0603.
+\t (00:25:54) Moving L11 / INDUCTOR_MSS1048_3.3U / MSS1048.
+\t (00:25:54) Moving R205 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:25:54) Moving C257 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:25:54) Moving C263 / CAP NP_CAP_0603_0.33UF / CAP_0603.
+\t (00:25:54) Moving R203 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:25:54) Moving R204 / RESISTOR_V_TOL_3_RES_0603_NC_ 1 / RES_0603.
+\t (00:25:54) Moving R207 / RESISTOR_V_TOL_3_RES_0603_28.7K / RES_0603.
+\t (00:25:54) Moving U45 / TPS54620RGY_RGY_TPS54620RGY / RGY.
+\t (00:25:54) Moving C258 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:25:54) Moving R206 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:25:54) Moving C259 / CAP NP_CAP_0805_4.7UF / CAP_0805.
+\t (00:25:54) Moving C260 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:25:54) Moving D12 / DIODE ZENER_D_0603_CDBU0520 / D_0603.
+\t (00:25:54) Moving R202 / RESISTOR_V_TOL_3_RES_0603_NC_9. / RES_0603.
+\t (00:25:54) Moving R210 / RESISTOR_V_TOL_3_RES_1206_20M / RES_1206.
+\t (00:25:54) Moving R201 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:25:54) Moving Q16 / CSD16301Q2_U_6_SON_N-NEXTFET PO / U_6_SON.
+\t (00:25:54) Moving R209 / RESISTOR_V_TOL_3_RES_0603_3.48K / RES_0603.
+\t (00:25:54) Moving C261 / CAP NP_CAP_0603_8.2N / CAP_0603.
+\t (00:25:54) Moving C262 / CAP NP_CAP_0603_NC_0.1 UF / CAP_0603.
+\t (00:25:54) Moving C265 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:25:54) Moving R208 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:25:54) Moving TP57 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:25:54) Moving C264 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:25:54) Moving TP54 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:25:54) Moving TP58 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:25:54) Moving TP56 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:25:54) Moving TP55 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:25:54) Pick new location for the element(s).
+\i (00:25:54) prepopup 36.4798 40.8248
+\i (00:25:56) rotate 
+\t (00:25:56) Spin the element(s).
+\i (00:25:59) iangle -90.000
+\t (00:25:59) last angle:  +270.000 Degrees
+\i (00:26:02) pick grid 47.3449 44.6801
+\t (00:26:02) last pick:  47.3456  44.6786
+\i (00:26:03) prepopup 39.2837 30.3102
+\i (00:26:04) done 
+\i (00:26:04) generaledit 
+\i (00:26:04) pick grid 43.7232 26.8053
+\t (00:26:04) last pick:  43.7134  26.7970
+\i (00:26:06) save 
+\i (00:26:07) fillin yes 
+\i (00:26:07) generaledit 
+\i (00:26:08) zoom in 1 
+\i (00:26:08) setwindow pcb
+\i (00:26:08) zoom in 33.2086 38.4882
+\i (00:26:08) trapsize 2921
+\i (00:26:08) zoom in 1 
+\i (00:26:08) setwindow pcb
+\i (00:26:08) zoom in 33.1502 38.6634
+\i (00:26:08) trapsize 1460
+\i (00:26:09) zoom out 1 
+\i (00:26:09) setwindow pcb
+\i (00:26:09) zoom out 33.1502 38.6927
+\i (00:26:09) trapsize 2921
+\i (00:26:11) zoom out 1 
+\i (00:26:11) setwindow pcb
+\i (00:26:11) zoom out 64.9862 47.2796
+\i (00:26:11) trapsize 5841
+\i (00:26:11) zoom in 1 
+\i (00:26:11) setwindow pcb
+\i (00:26:11) zoom in 62.2991 46.6955
+\i (00:26:11) trapsize 2921
+\i (00:26:11) zoom in 1 
+\i (00:26:11) setwindow pcb
+\i (00:26:11) zoom in 59.6121 46.7539
+\i (00:26:11) trapsize 1460
+\i (00:26:13) zoom out 1 
+\i (00:26:13) setwindow pcb
+\i (00:26:13) zoom out 57.3339 46.9876
+\i (00:26:13) trapsize 2921
+\i (00:26:14) zoom out 1 
+\i (00:26:14) setwindow pcb
+\i (00:26:14) zoom out 36.0126 48.3311
+\i (00:26:14) trapsize 5841
+\i (00:26:24) move 
+\t (00:26:25) Select element(s) to move.
+\i (00:26:25) prepopup 91.1560 43.8916
+\i (00:26:26) group 
+\i (00:26:29) setwindow form.find
+\i (00:26:29) FORM find all_on  
+\i (00:26:30) setwindow pcb
+\i (00:26:30) drag_start grid 30.1712 65.8554
+\i (00:26:31) drag_stop 73.9821 29.9889
+\i (00:26:32) prepopup 46.6441 44.5926
+\i (00:26:34) complete 
+\i (00:26:35) pick grid 51.6678 29.2879
+\t (00:26:35) last pick:  51.6636  29.2862
+\t (00:26:35) Moving J31 / HDR_1X9_M_HDR_1X9_MOLEX_87438-0 / HDR_1X9_MOLEX.
+\t (00:26:35) Moving TP55 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:26:35) Moving TP56 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:26:35) Moving TP54 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:26:35) Moving Q16 / CSD16301Q2_U_6_SON_N-NEXTFET PO / U_6_SON.
+\t (00:26:35) Moving C260 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:26:35) Moving R201 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:26:35) Moving D12 / DIODE ZENER_D_0603_CDBU0520 / D_0603.
+\t (00:26:35) Moving L11 / INDUCTOR_MSS1048_3.3U / MSS1048.
+\t (00:26:35) Moving TP58 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:26:35) Moving C262 / CAP NP_CAP_0603_NC_0.1 UF / CAP_0603.
+\t (00:26:35) Moving C261 / CAP NP_CAP_0603_8.2N / CAP_0603.
+\t (00:26:35) Moving R210 / RESISTOR_V_TOL_3_RES_1206_20M / RES_1206.
+\t (00:26:35) Moving R202 / RESISTOR_V_TOL_3_RES_0603_NC_9. / RES_0603.
+\t (00:26:35) Moving U45 / TPS54620RGY_RGY_TPS54620RGY / RGY.
+\t (00:26:35) Moving R204 / RESISTOR_V_TOL_3_RES_0603_NC_ 1 / RES_0603.
+\t (00:26:35) Moving R203 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:26:35) Moving C257 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:26:35) Moving R205 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:26:35) Moving R200 / RESISTOR_H_TOL_1_RES_0603_56.2K / RES_0603.
+\t (00:26:35) Moving C264 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:26:35) Moving R208 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:26:35) Moving C265 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:26:35) Moving R209 / RESISTOR_V_TOL_3_RES_0603_3.48K / RES_0603.
+\t (00:26:35) Moving TP57 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:26:35) Moving C259 / CAP NP_CAP_0805_4.7UF / CAP_0805.
+\t (00:26:35) Moving R206 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:26:35) Moving C258 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:26:35) Moving R207 / RESISTOR_V_TOL_3_RES_0603_28.7K / RES_0603.
+\t (00:26:35) Moving C263 / CAP NP_CAP_0603_0.33UF / CAP_0603.
+\t (00:26:35) Pick new location for the element(s).
+\i (00:26:36) prepopup 49.5649 30.1057
+\i (00:26:38) pick grid 79.9404 5.5716
+\t (00:26:38) last pick:  79.9338  5.5626
+\i (00:26:39) prepopup 63.8180 8.2587
+\i (00:26:41) cancel 
+\i (00:26:41) generaledit 
+\i (00:28:25) prepopup 52.8361 26.2504
+\i (00:28:26) pick grid 47.5788 25.8999
+\t (00:28:26) last pick:  47.5742  25.9080
+\i (00:28:27) move 
+\t (00:28:27) Select element(s) to move.
+\i (00:28:28) prepopup 49.0975 23.4465
+\i (00:28:30) group 
+\i (00:28:31) drag_start grid 33.4425 64.9208
+\i (00:28:32) drag_stop 68.9585 31.9750
+\i (00:28:32) prepopup 56.8083 30.9236
+\i (00:28:34) complete 
+\i (00:28:34) prepopup 43.9571 31.2740
+\i (00:29:00) pop dyn_option_select 'Options@:@Rotation point@:@User Pick' 
+\i (00:29:03) pick grid 68.9585 47.7469
+\t (00:29:03) last pick:  68.9610  47.7520
+\t (00:29:03) Moving J31 / HDR_1X9_M_HDR_1X9_MOLEX_87438-0 / HDR_1X9_MOLEX.
+\t (00:29:03) Moving TP55 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:29:03) Moving TP56 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:29:03) Moving TP54 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:29:03) Moving Q16 / CSD16301Q2_U_6_SON_N-NEXTFET PO / U_6_SON.
+\t (00:29:03) Moving C260 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:29:03) Moving R201 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:29:03) Moving D12 / DIODE ZENER_D_0603_CDBU0520 / D_0603.
+\t (00:29:03) Moving L11 / INDUCTOR_MSS1048_3.3U / MSS1048.
+\t (00:29:03) Moving TP58 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:29:03) Moving C262 / CAP NP_CAP_0603_NC_0.1 UF / CAP_0603.
+\t (00:29:03) Moving C261 / CAP NP_CAP_0603_8.2N / CAP_0603.
+\t (00:29:03) Moving R210 / RESISTOR_V_TOL_3_RES_1206_20M / RES_1206.
+\t (00:29:03) Moving R202 / RESISTOR_V_TOL_3_RES_0603_NC_9. / RES_0603.
+\t (00:29:03) Moving U45 / TPS54620RGY_RGY_TPS54620RGY / RGY.
+\t (00:29:03) Moving R204 / RESISTOR_V_TOL_3_RES_0603_NC_ 1 / RES_0603.
+\t (00:29:03) Moving R203 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:29:03) Moving C257 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:29:03) Moving R205 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:29:03) Moving R200 / RESISTOR_H_TOL_1_RES_0603_56.2K / RES_0603.
+\t (00:29:03) Moving C264 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:29:03) Moving R208 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:29:03) Moving C265 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:29:03) Moving R209 / RESISTOR_V_TOL_3_RES_0603_3.48K / RES_0603.
+\t (00:29:03) Moving TP57 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:29:03) Moving C259 / CAP NP_CAP_0805_4.7UF / CAP_0805.
+\t (00:29:03) Moving R206 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:29:03) Moving C258 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:29:03) Moving R207 / RESISTOR_V_TOL_3_RES_0603_28.7K / RES_0603.
+\t (00:29:03) Moving C263 / CAP NP_CAP_0603_0.33UF / CAP_0603.
+\t (00:29:03) Pick new location for the element(s).
+\i (00:29:05) pick grid 67.2061 47.8638
+\t (00:29:05) last pick:  67.2084  47.8536
+\i (00:29:06) prepopup 67.5565 46.8123
+\i (00:29:11) cancel 
+\i (00:29:11) generaledit 
+\i (00:29:11) prepopup 70.2436 43.5411
+\i (00:29:12) pick grid 60.0795 32.6760
+\t (00:29:12) last pick:  60.0710  32.6644
+\i (00:29:13) move 
+\t (00:29:14) Select element(s) to move.
+\i (00:29:15) prepopup 81.6929 42.1391
+\i (00:29:16) group 
+\i (00:29:17) setwindow form.find
+\i (00:29:17) FORM find all_on  
+\i (00:29:18) setwindow pcb
+\i (00:29:18) drag_start grid 34.6107 66.2059
+\i (00:29:19) drag_stop 70.3604 32.9096
+\i (00:29:21) prepopup 70.0100 40.5035
+\i (00:29:22) complete 
+\i (00:29:22) prepopup 70.1268 39.2184
+\i (00:29:31) pop dyn_option_select 'Options@:@Rotation point@:@User Pick' 
+\i (00:29:32) prepopup 68.9585 39.1016
+\i (00:29:36) pick grid 67.7902 46.5786
+\t (00:29:36) last pick:  67.7926  46.5836
+\t (00:29:36) Moving J31 / HDR_1X9_M_HDR_1X9_MOLEX_87438-0 / HDR_1X9_MOLEX.
+\t (00:29:36) Moving TP55 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:29:36) Moving TP56 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:29:36) Moving TP54 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:29:36) Moving Q16 / CSD16301Q2_U_6_SON_N-NEXTFET PO / U_6_SON.
+\t (00:29:36) Moving C260 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:29:36) Moving R201 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:29:36) Moving D12 / DIODE ZENER_D_0603_CDBU0520 / D_0603.
+\t (00:29:36) Moving L11 / INDUCTOR_MSS1048_3.3U / MSS1048.
+\t (00:29:36) Moving TP58 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:29:36) Moving C262 / CAP NP_CAP_0603_NC_0.1 UF / CAP_0603.
+\t (00:29:36) Moving C261 / CAP NP_CAP_0603_8.2N / CAP_0603.
+\t (00:29:36) Moving R210 / RESISTOR_V_TOL_3_RES_1206_20M / RES_1206.
+\t (00:29:36) Moving R202 / RESISTOR_V_TOL_3_RES_0603_NC_9. / RES_0603.
+\t (00:29:36) Moving U45 / TPS54620RGY_RGY_TPS54620RGY / RGY.
+\t (00:29:36) Moving R204 / RESISTOR_V_TOL_3_RES_0603_NC_ 1 / RES_0603.
+\t (00:29:36) Moving R203 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:29:36) Moving C257 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:29:36) Moving R205 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:29:36) Moving R200 / RESISTOR_H_TOL_1_RES_0603_56.2K / RES_0603.
+\t (00:29:36) Moving C264 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:29:36) Moving R208 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:29:36) Moving C265 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:29:36) Moving R209 / RESISTOR_V_TOL_3_RES_0603_3.48K / RES_0603.
+\t (00:29:36) Moving TP57 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:29:36) Moving C259 / CAP NP_CAP_0805_4.7UF / CAP_0805.
+\t (00:29:36) Moving R206 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:29:36) Moving C258 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:29:36) Moving R207 / RESISTOR_V_TOL_3_RES_0603_28.7K / RES_0603.
+\t (00:29:36) Moving C263 / CAP NP_CAP_0603_0.33UF / CAP_0603.
+\t (00:29:36) Pick new location for the element(s).
+\i (00:29:37) prepopup 67.7902 46.5786
+\i (00:29:49) prepopup 51.4341 11.2963
+\i (00:29:50) cancel 
+\i (00:29:50) generaledit 
+\i (00:29:51) pick grid 44.5412 17.9555
+\t (00:29:51) last pick:  44.5516  17.9578
+\i (00:29:52) pick grid 45.0085 26.1336
+\t (00:29:52) last pick:  45.0088  26.1366
+\i (00:29:53) pick grid 51.3173 30.4562
+\t (00:29:53) last pick:  51.3080  30.4546
+\i (00:29:54) zoom in 1 
+\i (00:29:54) setwindow pcb
+\i (00:29:54) zoom in 53.1866 59.7803
+\i (00:29:54) trapsize 2921
+\i (00:29:54) zoom in 1 
+\i (00:29:54) setwindow pcb
+\i (00:29:54) zoom in 53.1866 59.7803
+\i (00:29:54) trapsize 1460
+\i (00:29:55) zoom out 1 
+\i (00:29:55) setwindow pcb
+\i (00:29:55) zoom out 52.7485 58.8457
+\i (00:29:55) trapsize 2921
+\i (00:33:28) zoom out 1 
+\i (00:33:28) setwindow pcb
+\i (00:33:28) zoom out 29.7917 43.3075
+\i (00:33:28) trapsize 5841
+\i (00:33:28) zoom out 1 
+\i (00:33:28) setwindow pcb
+\i (00:33:28) zoom out 28.5065 43.1906
+\i (00:33:28) trapsize 11683
+\i (00:33:30) zoom in 1 
+\i (00:33:30) setwindow pcb
+\i (00:33:30) zoom in -42.4216 48.3891
+\i (00:33:30) trapsize 5841
+\i (00:33:30) zoom in 1 
+\i (00:33:30) setwindow pcb
+\i (00:33:30) zoom in -42.6552 49.0901
+\i (00:33:30) trapsize 2921
+\i (00:33:30) zoom in 1 
+\i (00:33:30) setwindow pcb
+\i (00:33:30) zoom in -42.5384 49.6743
+\i (00:33:30) trapsize 1460
+\i (00:33:32) setwindow form.find
+\i (00:33:32) FORM find all_off  
+\i (00:33:32) FORM find symbols YES 
+\i (00:33:34) setwindow pcb
+\i (00:33:34) pick grid -33.1336 45.9650
+\t (00:33:34) last pick:  -33.1216  45.9740
+\i (00:33:34) prepopup -33.1921 45.7022
+\i (00:33:40) pop dyn_option_select @:@Spin 
+\i (00:33:40) spin 
+\t (00:33:40) Moving C252 / CAP NP_CAP_1206_10UF / CAP_1206.
+\i (00:33:47) prepopup -22.9111 44.9428
+\i (00:33:48) cancel 
+\i (00:33:48) generaledit 
+\i (00:33:49) pick grid -22.4438 45.7314
+\t (00:33:49) last pick:  -22.4536  45.7200
+\i (00:33:50) zoom out 1 
+\i (00:33:50) setwindow pcb
+\i (00:33:50) zoom out -23.5245 44.8844
+\i (00:33:50) trapsize 2921
+\i (00:33:51) drag_start grid -39.5300 53.9970
+\i (00:33:51) drag_stop -24.5175 40.6785
+\i (00:33:52) prepopup -32.6955 46.1694
+\i (00:33:54) pick grid -22.3561 43.4239
+\t (00:33:54) last pick:  -22.3520  43.4340
+\i (00:33:55) zoom out 1 
+\i (00:33:55) setwindow pcb
+\i (00:33:55) zoom out -35.1489 59.3127
+\i (00:33:55) trapsize 5841
+\i (00:33:56) zoom out 1 
+\i (00:33:56) setwindow pcb
+\i (00:33:56) zoom out -35.1489 59.3127
+\i (00:33:56) trapsize 11683
+\i (00:33:57) zoom in 1 
+\i (00:33:57) setwindow pcb
+\i (00:33:57) zoom in 82.6149 47.3962
+\i (00:33:57) trapsize 5841
+\i (00:33:57) zoom in 1 
+\i (00:33:57) setwindow pcb
+\i (00:33:57) zoom in 83.3158 47.5131
+\i (00:33:57) trapsize 2921
+\i (00:33:57) zoom in 1 
+\i (00:33:57) setwindow pcb
+\i (00:33:57) zoom in 83.3158 47.5131
+\i (00:33:57) trapsize 1460
+\i (00:33:57) zoom out 1 
+\i (00:33:57) setwindow pcb
+\i (00:33:57) zoom out 76.6858 47.8636
+\i (00:33:57) trapsize 2921
+\i (00:33:57) zoom out 1 
+\i (00:33:57) setwindow pcb
+\i (00:33:57) zoom out 76.6857 47.8636
+\i (00:33:57) trapsize 5841
+\i (00:33:58) drag_start grid 31.5897 66.0888
+\i (00:33:58) drag_stop 72.3631 29.2877
+\i (00:33:59) zoom in 1 
+\i (00:33:59) setwindow pcb
+\i (00:33:59) zoom in 50.6328 49.2655
+\i (00:33:59) trapsize 2921
+\i (00:34:00) pick grid 86.5578 52.3615
+\t (00:34:00) last pick:  86.5632  52.3494
+\i (00:34:01) setwindow form.find
+\i (00:34:01) FORM find all_on  
+\i (00:34:02) setwindow pcb
+\i (00:34:02) drag_start grid 35.3283 63.5187
+\i (00:34:03) drag_stop 66.5800 34.6035
+\i (00:34:04) prepopup 47.1280 44.8260
+\i (00:34:18) pop dyn_option_select Ratbundle@:@Mirror 
+\i (00:34:18) mirror 
+\t (00:34:19) Cannot edit Ratbundle "Bndl_1" with this command. Use Plan commands to edit route planning data.
+\t (00:34:19) No valid items selected for the current operation, exiting.
+\i (00:34:19) generaledit 
+\i (00:34:20) prepopup 62.3158 40.8538
+\i (00:34:21) pick grid 58.7525 33.1431
+\t (00:34:21) last pick:  58.7502  33.1470
+\i (00:34:21) prepopup 58.4020 33.0847
+\i (00:34:22) pick grid 56.7080 32.3837
+\t (00:34:22) last pick:  56.7182  32.3850
+\i (00:34:24) undo 
+\i (00:34:24) trapsize 2921
+\i (00:34:24) generaledit 
+\i (00:34:25) undo 
+\i (00:34:25) trapsize 1460
+\i (00:34:25) generaledit 
+\i (00:34:25) undo 
+\i (00:34:25) trapsize 5841
+\i (00:34:26) generaledit 
+\i (00:34:27) undo 
+\i (00:34:27) trapsize 5841
+\i (00:34:27) generaledit 
+\i (00:34:28) undo 
+\i (00:34:28) trapsize 5841
+\i (00:34:28) generaledit 
+\i (00:34:28) undo 
+\i (00:34:28) trapsize 5841
+\i (00:34:29) generaledit 
+\i (00:34:32) redo 
+\i (00:34:32) trapsize 5841
+\i (00:34:32) replay C:/Users/shang/AppData/Local/Temp/#Taaaaah02684.tmp 
+\i (00:34:32) scriptmode +i 
+\i (00:34:32) move 
+\t (00:34:32) Select element(s) to move.
+\i (00:34:32) prepopup 73.1641 63.9569 
+\i (00:34:32) prepopup 73.1641 63.9569
+\i (00:34:32) group 
+\i (00:34:32) setwindow form.find 
+\i (00:34:32) FORM find all_on 
+\i (00:34:32) setwindow pcb 
+\i (00:34:32) drag_start grid 12.7635 59.6343 
+\i (00:34:32) drag_stop 49.5646 28.2072 
+\i (00:34:32) prepopup 53.5368 33.1141 
+\i (00:34:32) prepopup 53.5368 33.1141
+\i (00:34:32) complete 
+\i (00:34:32) prepopup 58.3268 27.2726 
+\i (00:34:32) prepopup 58.3268 27.2726
+\i (00:34:32) pop dyn_option_select 'Options@:@Rotation point@:@User Pick' 
+\i (00:34:32) prepopup 56.1071 27.5063 
+\i (00:34:32) prepopup 56.1071 27.5063
+\i (00:34:32) pick grid 35.1947 40.1238 
+\t (00:34:32) last pick:  35.2044  40.1320
+\t (00:34:32) Moving J31 / HDR_1X9_M_HDR_1X9_MOLEX_87438-0 / HDR_1X9_MOLEX.
+\t (00:34:32) Moving R200 / RESISTOR_H_TOL_1_RES_0603_56.2K / RES_0603.
+\t (00:34:32) Moving L11 / INDUCTOR_MSS1048_3.3U / MSS1048.
+\t (00:34:32) Moving R205 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:34:32) Moving C257 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:34:32) Moving C263 / CAP NP_CAP_0603_0.33UF / CAP_0603.
+\t (00:34:32) Moving R203 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:34:32) Moving R204 / RESISTOR_V_TOL_3_RES_0603_NC_ 1 / RES_0603.
+\t (00:34:32) Moving R207 / RESISTOR_V_TOL_3_RES_0603_28.7K / RES_0603.
+\t (00:34:32) Moving U45 / TPS54620RGY_RGY_TPS54620RGY / RGY.
+\t (00:34:32) Moving C258 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:34:32) Moving R206 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:34:32) Moving C259 / CAP NP_CAP_0805_4.7UF / CAP_0805.
+\t (00:34:32) Moving C260 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:34:32) Moving D12 / DIODE ZENER_D_0603_CDBU0520 / D_0603.
+\t (00:34:32) Moving R202 / RESISTOR_V_TOL_3_RES_0603_NC_9. / RES_0603.
+\t (00:34:32) Moving R210 / RESISTOR_V_TOL_3_RES_1206_20M / RES_1206.
+\t (00:34:32) Moving R201 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:34:32) Moving Q16 / CSD16301Q2_U_6_SON_N-NEXTFET PO / U_6_SON.
+\t (00:34:32) Moving R209 / RESISTOR_V_TOL_3_RES_0603_3.48K / RES_0603.
+\t (00:34:32) Moving C261 / CAP NP_CAP_0603_8.2N / CAP_0603.
+\t (00:34:32) Moving C262 / CAP NP_CAP_0603_NC_0.1 UF / CAP_0603.
+\t (00:34:32) Moving C265 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:34:32) Moving R208 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:34:32) Moving TP57 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:34:32) Moving C264 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:34:32) Moving TP54 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:34:32) Moving TP58 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:34:32) Moving TP56 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:34:32) Moving TP55 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:34:32) Pick new location for the element(s).
+\i (00:34:32) prepopup 36.4798 40.8248 
+\i (00:34:32) prepopup 36.4798 40.8248
+\i (00:34:32) rotate 
+\t (00:34:32) Spin the element(s).
+\i (00:34:32) iangle -90.000 
+\t (00:34:32) last angle:  +270.000 Degrees
+\i (00:34:32) pick grid 47.3449 44.6801 
+\t (00:34:32) last pick:  47.3456  44.6786
+\i (00:34:32) prepopup 39.2837 30.3102 
+\i (00:34:32) prepopup 39.2837 30.3102
+\i (00:34:32) done 
+\i (00:34:32) trapsize 5841
+\i (00:34:32) generaledit 
+\i (00:34:33) prepopup 20.7079 58.4660
+\i (00:34:33) pick grid 11.1279 60.5689
+\t (00:34:33) last pick:  11.1252  60.5790
+\i (00:34:34) drc update 
+\t (00:34:34) Performing DRC...
+\t (00:34:34) Multithreaded DRC update (4 threads).
+\t (00:34:35) DRC done; 780 errors detected.
+\i (00:34:35) generaledit 
+\i (00:34:36) save 
+\i (00:34:38) fillin yes 
+\i (00:34:38) generaledit 
+\i (00:34:55) zoom out 1 
+\i (00:34:55) setwindow pcb
+\i (00:34:55) zoom out 44.7746 27.9736
+\i (00:34:55) trapsize 11683
+\i (00:34:56) zoom in 1 
+\i (00:34:56) setwindow pcb
+\i (00:34:56) zoom in 33.0500 26.1915
+\i (00:34:56) trapsize 5841
+\i (00:34:58) drag_start grid 33.5174 65.4461
+\i (00:34:59) drag_stop 72.6551 23.5045
+\i (00:35:00) pick grid 61.2059 29.2291
+\t (00:35:00) last pick:  61.2140  29.2354
+\i (00:35:00) prepopup 61.7900 28.8786
+\i (00:35:01) pick grid 58.0515 28.4113
+\t (00:35:01) last pick:  58.0390  28.4226
+\i (00:35:01) setwindow form.find
+\i (00:35:01) FORM find all_on  
+\i (00:35:02) setwindow pcb
+\i (00:35:02) drag_start grid 34.6857 64.6283
+\i (00:35:03) drag_stop 73.8234 27.8272
+\i (00:35:04) pick grid 24.6384 28.1777
+\t (00:35:04) last pick:  24.6380  28.1686
+\i (00:35:05) drag_start grid 32.1154 63.9274
+\i (00:35:05) drag_stop 84.5717 25.6074
+\i (00:35:06) pick grid 62.8415 25.3738
+\t (00:35:06) last pick:  62.8396  25.3746
+\i (00:35:07) prepopup 3.4923 67.5491
+\i (00:35:07) pick grid -1.8818 65.4461
+\t (00:35:07) last pick:  -1.8796  65.4558
+\i (00:35:08) move 
+\t (00:35:08) Select element(s) to move.
+\i (00:35:08) prepopup -0.4799 64.9788
+\i (00:35:09) group 
+\i (00:35:11) drag_start grid 33.1669 64.8620
+\i (00:35:12) drag_stop 67.9819 34.0191
+\i (00:35:12) prepopup 70.2017 42.6645
+\i (00:35:13) complete 
+\i (00:35:14) pick grid 47.6537 45.5852
+\t (00:35:14) last pick:  47.6504  45.5930
+\t (00:35:14) Moving J31 / HDR_1X9_M_HDR_1X9_MOLEX_87438-0 / HDR_1X9_MOLEX.
+\t (00:35:14) Moving TP55 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:35:14) Moving TP56 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:35:14) Moving TP54 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:35:14) Moving Q16 / CSD16301Q2_U_6_SON_N-NEXTFET PO / U_6_SON.
+\t (00:35:14) Moving C260 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:35:14) Moving R201 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:35:14) Moving D12 / DIODE ZENER_D_0603_CDBU0520 / D_0603.
+\t (00:35:14) Moving L11 / INDUCTOR_MSS1048_3.3U / MSS1048.
+\t (00:35:14) Moving TP58 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:35:14) Moving C262 / CAP NP_CAP_0603_NC_0.1 UF / CAP_0603.
+\t (00:35:14) Moving C261 / CAP NP_CAP_0603_8.2N / CAP_0603.
+\t (00:35:14) Moving R210 / RESISTOR_V_TOL_3_RES_1206_20M / RES_1206.
+\t (00:35:14) Moving R202 / RESISTOR_V_TOL_3_RES_0603_NC_9. / RES_0603.
+\t (00:35:14) Moving U45 / TPS54620RGY_RGY_TPS54620RGY / RGY.
+\t (00:35:14) Moving R204 / RESISTOR_V_TOL_3_RES_0603_NC_ 1 / RES_0603.
+\t (00:35:14) Moving R203 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:35:14) Moving C257 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:35:14) Moving R205 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:35:14) Moving R200 / RESISTOR_H_TOL_1_RES_0603_56.2K / RES_0603.
+\t (00:35:14) Moving C264 / CAP NP_CAP_0603_0.1 UF / CAP_0603.
+\t (00:35:14) Moving R208 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:35:14) Moving C265 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:35:14) Moving R209 / RESISTOR_V_TOL_3_RES_0603_3.48K / RES_0603.
+\t (00:35:14) Moving TP57 / TESTPIN_TP40_TESTPIN / TP40.
+\t (00:35:14) Moving C259 / CAP NP_CAP_0805_4.7UF / CAP_0805.
+\t (00:35:14) Moving R206 / RESISTOR_V_TOL_3_RES_0603_1K / RES_0603.
+\t (00:35:14) Moving C258 / CAP NP_CAP_1206_10UF / CAP_1206.
+\t (00:35:14) Moving R207 / RESISTOR_V_TOL_3_RES_0603_28.7K / RES_0603.
+\t (00:35:14) Moving C263 / CAP NP_CAP_0603_0.33UF / CAP_0603.
+\t (00:35:14) Pick new location for the element(s).
+\i (00:35:15) zoom out 1 
+\i (00:35:15) setwindow pcb
+\i (00:35:15) zoom out 21.7176 35.4211
+\i (00:35:15) trapsize 11683
+\i (00:35:34) prepopup 10.6188 43.8327
+\i (00:35:35) cancel 
+\i (00:35:35) generaledit 
+\i (00:35:36) zoom in 1 
+\i (00:35:36) setwindow pcb
+\i (00:35:36) zoom in -4.5689 -7.3384
+\i (00:35:36) trapsize 5841
+\i (00:35:36) zoom in 1 
+\i (00:35:36) setwindow pcb
+\i (00:35:36) zoom in -4.5689 -7.3384
+\i (00:35:36) trapsize 2921
+\i (00:35:36) zoom in 1 
+\i (00:35:36) setwindow pcb
+\i (00:35:36) zoom in -4.5689 -7.3383
+\i (00:35:36) trapsize 1460
+\i (00:35:36) zoom out 1 
+\i (00:35:36) setwindow pcb
+\i (00:35:36) zoom out -4.5981 -6.0824
+\i (00:35:36) trapsize 2921
+\i (00:35:37) zoom out 1 
+\i (00:35:37) setwindow pcb
+\i (00:35:37) zoom out 2.5869 -5.7903
+\i (00:35:37) trapsize 5841
+\i (00:35:45) zoom in 1 
+\i (00:35:45) setwindow pcb
+\i (00:35:45) zoom in 56.9123 61.6200
+\i (00:35:45) trapsize 2921
+\i (00:35:45) zoom in 1 
+\i (00:35:45) setwindow pcb
+\i (00:35:45) zoom in 56.9123 61.6201
+\i (00:35:45) trapsize 1460
+\i (00:35:47) zoom out 1 
+\i (00:35:47) setwindow pcb
+\i (00:35:47) zoom out 55.1307 59.5756
+\i (00:35:47) trapsize 2921
+\i (00:35:50) zoom out 1 
+\i (00:35:50) setwindow pcb
+\i (00:35:50) zoom out 34.9777 46.5492
+\i (00:35:50) trapsize 5841
+\i (00:35:56) zoom in 1 
+\i (00:35:56) setwindow pcb
+\i (00:35:56) zoom in 57.1753 59.2836
+\i (00:35:56) trapsize 2921
+\i (00:35:56) zoom in 1 
+\i (00:35:56) setwindow pcb
+\i (00:35:56) zoom in 57.1753 59.2836
+\i (00:35:56) trapsize 1460
+\i (00:35:56) zoom out 1 
+\i (00:35:56) setwindow pcb
+\i (00:35:56) zoom out 55.4521 58.1445
+\i (00:35:56) trapsize 2921
+\i (00:35:59) setwindow form.find
+\i (00:35:59) FORM find all_on  
+\i (00:36:00) FORM find all_off  
+\i (00:36:00) FORM find all_on  
+\i (00:36:01) FORM find all_on  
+\i (00:36:03) FORM find all_off  
+\i (00:36:04) FORM find symbols YES 
+\i (00:36:05) setwindow pcb
+\i (00:36:05) pick grid 46.6898 59.0207
+\t (00:36:05) last pick:  46.6852  59.0296
+\i (00:36:07) zoom in 1 
+\i (00:36:07) setwindow pcb
+\i (00:36:07) zoom in 55.8025 58.5534
+\i (00:36:07) trapsize 1460
+\i (00:36:08) prepopup 57.5841 59.9846
+\i (00:36:09) pick grid 64.9444 59.6341
+\t (00:36:09) last pick:  64.9478  59.6392
+\i (00:36:10) prepopup 64.9736 59.6341
+\i (00:36:10) pick grid 62.5202 57.5604
+\t (00:36:10) last pick:  62.5094  57.5564
+\i (00:36:11) zoom out 1 
+\i (00:36:11) setwindow pcb
+\i (00:36:11) zoom out 62.3449 57.2683
+\i (00:36:11) trapsize 2921
+\i (00:36:15) zoom in 1 
+\i (00:36:15) setwindow pcb
+\i (00:36:15) zoom in 56.9124 55.9248
+\i (00:36:15) trapsize 1460
+\i (00:36:15) zoom in 1 
+\i (00:36:15) setwindow pcb
+\i (00:36:15) zoom in 56.9125 55.9249
+\i (00:36:15) trapsize 730
+\i (00:36:15) zoom in 1 
+\i (00:36:15) setwindow pcb
+\i (00:36:15) zoom in 56.9125 55.9250
+\i (00:36:15) trapsize 365
+\i (00:36:16) zoom out 1 
+\i (00:36:16) setwindow pcb
+\i (00:36:16) zoom out 56.7227 55.9469
+\i (00:36:16) trapsize 730
+\i (00:36:16) zoom out 1 
+\i (00:36:16) setwindow pcb
+\i (00:36:16) zoom out 56.7227 55.9470
+\i (00:36:16) trapsize 1460
+\i (00:36:16) zoom out 1 
+\i (00:36:16) setwindow pcb
+\i (00:36:16) zoom out 56.6935 55.9470
+\i (00:36:16) trapsize 2921
+\i (00:36:19) zoom out 1 
+\i (00:36:19) setwindow pcb
+\i (00:36:19) zoom out 43.1996 49.6381
+\i (00:36:19) trapsize 5841
+\i (00:36:20) roam start
+\i (00:36:20) roam x -48
+\i (00:36:20) roam y 32
+\i (00:36:20) roam x -64
+\i (00:36:20) roam y 48
+\i (00:36:20) roam y 16
+\i (00:36:20) roam x -16
+\i (00:36:20) roam x -16
+\i (00:36:20) roam y 16
+\i (00:36:21) roam x -32
+\i (00:36:21) roam y 48
+\i (00:36:21) roam y 48
+\i (00:36:21) roam y 16
+\i (00:36:21) roam y 32
+\i (00:36:21) roam x 16
+\i (00:36:21) roam y -16
+\i (00:36:22) roam end
+\i (00:36:26) zoom out 1 
+\i (00:36:26) setwindow pcb
+\i (00:36:26) zoom out 29.9388 10.0708
+\i (00:36:26) trapsize 11683
+\i (00:36:27) zoom out 1 
+\i (00:36:27) setwindow pcb
+\i (00:36:27) zoom out 29.9388 10.0707
+\i (00:36:27) trapsize 23366
+\i (00:36:34) prepopup -217.8572 145.5909
+\i (00:36:35) pick grid -244.0269 150.7314
+\t (00:36:35) last pick:  -244.0178  150.7236
+\i (00:36:36) undo 
+\i (00:36:36) trapsize 5841
+\i (00:36:36) generaledit 
+\i (00:36:38) pick grid -1.5314 89.3961
+\t (00:36:38) last pick:  -1.5240  89.4080
+\i (00:36:42) exit 
+\e (00:36:42) Do you want to save the changes you made to D:/Dropbox/Design/allegroProject/designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd?
+\i (00:36:43) fillin no 
+\t (00:36:43)     Journal end - Fri Aug 01 09:32:28 2014
