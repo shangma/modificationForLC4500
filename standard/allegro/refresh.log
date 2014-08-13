@@ -1,0 +1,73 @@
+Mon Aug 11 12:30:38 2014				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Mon Aug 11 12:30:38 2014
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : STANDARD.brd                                  )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Mon Aug 11 12:30:40 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Mon Aug 11 12:30:40 2014				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design = 'C:/USERS/MA/DROPBOX/DESIGN/ALLEGROPROJECT/DESIGNONGIT/MODIFICATIONFORLC4500/STANDARD/allegro/STANDARD.brd'
+Output design = ''
+Update mechanical symbols = 'NO'
+Update format symbols = 'NO'
+Update package symbols = 'NO'
+Update shape/flash symbols = 'NO'
+Update symbol padstacks = 'NO'
+Reset symbol text and size locations = 'NO'
+Reset Pin Escapes (fanouts) = 'NO'
+Ripup Etch = 'NO'
+Reset custom drill data = 'NO'
+Symbol list file = 'C:/Users/ma/AppData/Local/Temp/#Taaaalj04536.tmp'
+
+
+------ Library Paths ------
+PSMPATH =  C:/USERS/MA/DROPBOX/DESIGN/ALLEGROPROJECT/MSLIB/ 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/padstacks 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+           C:\users\ma\dropbox\design\allegroproject\symbolsLib\Ch9_SymbolsLib\ 
+
+
+------ Symbol Refresh Messages ------
+
+'OUTLINE'  symbol refreshed successfully.
+
+
+----- Symbol Update Summary ----
+
+Completed refreshing all symbols successfully.
