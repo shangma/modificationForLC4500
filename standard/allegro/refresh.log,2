@@ -1,0 +1,29 @@
+Mon Aug 25 22:29:31 2014				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Mon Aug 25 22:29:31 2014
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : STANDARD.brd                                  )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Mon Aug 25 22:29:32 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ERROR(SPMHA1-318): Error while saving the drawing. Occurred during saving the design.
+
+Symbols NOT updated, design not updated.
