@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001Jun-23-2014 at 09:12:24}
+{ Using PSTWRITER 16.6.0 d001Aug-29-2014 at 14:13:53}
 primitive 'CAP NP_CAP_0402_0.1UF';
   pin
     '1':
@@ -448,6 +448,66 @@ primitive 'CAP NP_CAP_0603_0.33UF';
     PART_NAME='CAP NP';
     JEDEC_TYPE='CAP_0603';
     VALUE='0.33uF';
+  end_body;
+end_primitive;
+primitive 'CAP NP_CAP_0603_1UF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='cap_0603';
+    VALUE='1uF';
+  end_body;
+end_primitive;
+primitive 'CAP NP_CAP_0402_15PF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='cap_0402';
+    VALUE='15pF';
+  end_body;
+end_primitive;
+primitive 'CAP NP_CAP_0402_100NF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='cap_0402';
+    VALUE='100nF';
+  end_body;
+end_primitive;
+primitive 'CAP NP_CAP_0402_220NF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='cap_0402';
+    VALUE='220nF';
   end_body;
 end_primitive;
 primitive 'CAP NP_CAP_0805_0.1 UF';
@@ -1495,6 +1555,39 @@ primitive 'HDR_1X6_M_HDR_1X6_MOLEX_87438-0';
     PART_NAME='HDR_1X6_M';
     JEDEC_TYPE='HDR_1X6_Molex';
     VALUE='87438-0643';
+  end_body;
+end_primitive;
+primitive 'CON4_0_CONN_5_USB_MINI_B_USBFOR';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '5':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    '6':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+    '7':
+      PIN_NUMBER='(7)';
+      PINUSE='UNSPEC';
+    '8':
+      PIN_NUMBER='(8)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CON4_0';
+    JEDEC_TYPE='CONN_5_USB_MINI_B';
+    VALUE='USBforAT90';
   end_body;
 end_primitive;
 primitive 'MHDMI CONN_0_HDMI19_MHDMI-19-02';
@@ -2592,6 +2685,51 @@ primitive 'RESISTOR_RES_0201_750';
     VALUE='750';
   end_body;
 end_primitive;
+primitive 'RES_RES_0402_22';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='RES';
+    JEDEC_TYPE='res_0402';
+    VALUE='22';
+  end_body;
+end_primitive;
+primitive 'RES_RES_0402_0';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='RES';
+    JEDEC_TYPE='res_0402';
+    VALUE='0';
+  end_body;
+end_primitive;
+primitive 'RES_RES_0402_47K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='RES';
+    JEDEC_TYPE='res_0402';
+    VALUE='47k';
+  end_body;
+end_primitive;
 primitive 'R_RES_0402_33.2';
   pin
     '1':
@@ -2848,6 +2986,21 @@ primitive 'SWITCH,SPDT_NKK-B12AH_B12AH';
     PART_NAME='SWITCH,SPDT';
     JEDEC_TYPE='NKK-B12AH';
     VALUE='B12AH';
+  end_body;
+end_primitive;
+primitive 'SW SPST_1_SW_GT12_SW SPST_1';
+  pin
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='SW SPST_1';
+    JEDEC_TYPE='SW_GT12';
+    VALUE='SW SPST_1';
   end_body;
 end_primitive;
 primitive 'ACH3218_FILTER_1210_ACH3218';
@@ -4585,6 +4738,42 @@ primitive 'SN74LVC1G17DBV_TI_DBV_SN74LVC1G';
     VALUE='SN74LVC1G17DBV';
   end_body;
 end_primitive;
+primitive 'MAX6326_SOT23-3_FC_MAX6326';
+  pin
+    'GND':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'R\E\S\E\T\':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'VCC':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='MAX6326';
+    JEDEC_TYPE='sot23-3_fc';
+    VALUE='MAX6326';
+  end_body;
+end_primitive;
+primitive 'FDN340P_SSOT-3_FDN340P';
+  pin
+    'G':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'S':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'D':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='FDN340P';
+    JEDEC_TYPE='ssot-3';
+    VALUE='FDN340P';
+  end_body;
+end_primitive;
 primitive 'SN74AVC32T245ZKE_96LFBGA_SN74AV';
   pin
     '1A1':
@@ -5024,6 +5213,311 @@ primitive 'SN74AVC32T245ZKE_96LFBGA_SN74AV';
     PART_NAME='SN74AVC32T245ZKE';
     JEDEC_TYPE='96LFBGA';
     VALUE='SN74AVC32T245ZKE';
+  end_body;
+end_primitive;
+primitive 'AT90USB1286_0_TQFP64_AT90USB128';
+  pin
+    'PB0 (S\S\)':
+      PIN_NUMBER='(10)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    'PB1 (SCK)':
+      PIN_NUMBER='(11)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    'PB2 (MOSI)':
+      PIN_NUMBER='(12)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    'PB3 (MISO)':
+      PIN_NUMBER='(13)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    'PB4 (OC.2A)':
+      PIN_NUMBER='(14)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    'PB5 (OC.1A)':
+      PIN_NUMBER='(15)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    'PB6 (OC.1B)':
+      PIN_NUMBER='(16)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    'PB7 (OC.0A/OC.1C)':
+      PIN_NUMBER='(17)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    'PC0 (A8)':
+      PIN_NUMBER='(35)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    'PC1 (A9)':
+      PIN_NUMBER='(36)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    'PC2 (A10)':
+      PIN_NUMBER='(37)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    'PC3 (A11)':
+      PIN_NUMBER='(38)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    'PC4 (A12)':
+      PIN_NUMBER='(39)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    'PC5 (A13)':
+      PIN_NUMBER='(40)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    'PC6 (A14)':
+      PIN_NUMBER='(41)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    'PC7 (A15)':
+      PIN_NUMBER='(42)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    '(SCL/INT0) PD0':
+      PIN_NUMBER='(25)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    '(SDA/INT1) PD1':
+      PIN_NUMBER='(26)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    '(RXD1/INT2) PD2':
+      PIN_NUMBER='(27)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    '(TXD1/INT3) PD3':
+      PIN_NUMBER='(28)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    '(ICP1) PD4':
+      PIN_NUMBER='(29)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    '(XCK1) PD5':
+      PIN_NUMBER='(30)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    '(T1) PD6':
+      PIN_NUMBER='(31)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    '(T2) PD7':
+      PIN_NUMBER='(32)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    'PE7':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    'UVCC':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    'D-':
+      PIN_NUMBER='(4)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    'D+':
+      PIN_NUMBER='(5)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    'UGND':
+      PIN_NUMBER='(6)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    'UCAP':
+      PIN_NUMBER='(7)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    'VBUS':
+      PIN_NUMBER='(8)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    'PE3':
+      PIN_NUMBER='(9)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    '(TDI/ADC7) PF7':
+      PIN_NUMBER='(54)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    '(TDO/ADC6) PF6':
+      PIN_NUMBER='(55)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    '(TMS/ADC5) PF5':
+      PIN_NUMBER='(56)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    '(TCK/ADC4) PF4':
+      PIN_NUMBER='(57)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    '(ADC3) PF3':
+      PIN_NUMBER='(58)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    '(ADC2) PF2':
+      PIN_NUMBER='(59)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    '(ADC1) PF1':
+      PIN_NUMBER='(60)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    '(ADC0) PF0':
+      PIN_NUMBER='(61)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    'PA7 (AD7)':
+      PIN_NUMBER='(44)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    'PA6 (AD6)':
+      PIN_NUMBER='(45)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    'PA5 (AD5)':
+      PIN_NUMBER='(46)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    'PA4 (AD4)':
+      PIN_NUMBER='(47)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    'PA3 (AD3)':
+      PIN_NUMBER='(48)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    'PA2 (AD2)':
+      PIN_NUMBER='(49)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    'PA1 (AD1)':
+      PIN_NUMBER='(50)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    'PA0 (AD0)':
+      PIN_NUMBER='(51)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    '(W\R\) PE0':
+      PIN_NUMBER='(33)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    '(R\D\) PE1':
+      PIN_NUMBER='(34)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    '(ALE/H\W\B\) PE2':
+      PIN_NUMBER='(43)';
+      INPUT_LOAD='(*)';
+    'PE4':
+      PIN_NUMBER='(18)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    'PE5':
+      PIN_NUMBER='(19)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      OUTPUT_TYPE='(TS,TS)';
+    'AVCC':
+      PIN_NUMBER='(64)';
+      INPUT_LOAD='(*)';
+    'AREF':
+      PIN_NUMBER='(62)';
+      PINUSE='UNSPEC';
+    'R\E\S\E\T\':
+      PIN_NUMBER='(20)';
+      INPUT_LOAD='(*)';
+    'PE6':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'XTAL1':
+      PIN_NUMBER='(24)';
+      INPUT_LOAD='(*)';
+    'XTAL2':
+      PIN_NUMBER='(23)';
+      INPUT_LOAD='(*)';
+    'VCC1':
+      PIN_NUMBER='(21)';
+      INPUT_LOAD='(*)';
+    'VCC2':
+      PIN_NUMBER='(52)';
+      INPUT_LOAD='(*)';
+    'GND1':
+      PIN_NUMBER='(22)';
+      INPUT_LOAD='(*)';
+    'GND2':
+      PIN_NUMBER='(53)';
+      INPUT_LOAD='(*)';
+    'AGND':
+      PIN_NUMBER='(63)';
+      INPUT_LOAD='(*)';
+  end_pin;
+  body
+    PART_NAME='AT90USB1286_0';
+    JEDEC_TYPE='tqfp64';
+    VALUE='AT90USB128';
   end_body;
 end_primitive;
 primitive 'DLPC350_BGA_419_DLPC350';
@@ -6461,6 +6955,27 @@ primitive 'CRYSTAL_0_3_2MM_2_5MM_32.0 MHZ';
     PART_NAME='CRYSTAL_0';
     JEDEC_TYPE='3_2mm_2_5mm';
     VALUE='32.0 MHZ';
+  end_body;
+end_primitive;
+primitive 'CRYSTAL_4_PINS_3_2MM_2_5MM_8MHZ';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CRYSTAL_4_Pins';
+    JEDEC_TYPE='3_2mm_2_5mm';
+    VALUE='8MHz';
   end_body;
 end_primitive;
 END.

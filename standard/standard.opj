@@ -2,7 +2,9 @@
   (ProjectVersion "19981106")
   (ProjectType "PCB")
   (Folder "Design Resources"
-    (Folder "Library")
+    (Folder "Library"
+      (File "D:\Dropbox\Design\allegroProject\MsLib_Sch\LC4500.OLB"
+        (Type "Schematic Library")))
     (File ".\standard.dsn"
       (Type "Schematic Design"))
     (BuildFileAddedOrDeleted "x")
@@ -11,13 +13,12 @@
     (DOCKING_POSITION "59420")
     (NoModify)
     (DRC_Scope "0")
-    (DRC_Action "1")
+    (DRC_Action "0")
     (DRC_Create_Warnings "FALSE")
     (DRC_View_Output "FALSE")
     (DRC_Run_Electrical_Rules "TRUE")
     (DRC_Run_Physical_Rules "FALSE")
-    (DRC_Report_File
-       "C:\USERS\MA\DROPBOX\DESIGN\ALLEGROPROJECT\HELPS\STANDARD\STANDARD.DRC")
+    (DRC_Report_File "C:\Users\shang\Documents\test.DRC")
     (DRC_Check_Ports "FALSE")
     (DRC_Check_Off-Page_Connectors "FALSE")
     (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
@@ -49,8 +50,9 @@
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "TRUE")
     ("Allegro Netlist Input Board File"
-       "C:\Users\ma\Dropbox\Design\allegroProject\designOnGit\modificationForLC4500\standard\allegro\STANDARD.brd")
-    ("Allegro Netlist Output Board File" "allegro\STANDARD.brd")
+       "D:\Dropbox\Design\allegroProject\helps\untouch\allegro\untouch.brd")
+    ("Allegro Netlist Output Board File"
+       "C:\Users\shang\Documents\test\untouched.brd")
     ("Allegro Netlist Remove Etch" "FALSE")
     ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
     ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
@@ -61,7 +63,27 @@
     ("Allegro Netlist Combine Property String" "PCB Footprint")
     ("Allegro Netlist Ignore Fixed Property" "FALSE")
     ("Allegro Netlist User Defined Property" "FALSE")
-    (Netlist_TAB "0"))
+    (Netlist_TAB "0")
+    (EXPORT_Scope "0")
+    (EXPORT_Contents "1")
+    (EXPORT_File_Name "C:\Users\shang\Documents\data\exportedLIb.EXP")
+    (ANNOTATE_Scope "1")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "1")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    (Board_sim_option "VHDL_flow"))
   (Folder "Outputs"
     (File ".\standard.drc"
       (Type "Report"))
@@ -73,9 +95,63 @@
       (DisplayName "pstxprt.dat"))
     (File ".\allegro\pstchip.dat"
       (Type "Report")
-      (DisplayName "pstchip.dat")))
+      (DisplayName "pstchip.dat"))
+    (File "c:\users\shang\documents\data\exportedlib.exp"
+      (Type "Report"))
+    (File "c:\users\shang\documents\test.drc"
+      (Type "Report")))
   (Folder "Referenced Projects")
-  (PartMRUSelector)
+  (PartMRUSelector
+    (FDN340P
+      (FullPartName "FDN340P.Normal")
+      (LibraryName "D:\DROPBOX\DESIGN\ALLEGROPROJECT\MSLIB_SCH\LC4500.OLB")
+      (DeviceIndex "0"))
+    (MAX6326
+      (FullPartName "MAX6326.Normal")
+      (LibraryName "D:\DROPBOX\DESIGN\ALLEGROPROJECT\MSLIB_SCH\LC4500.OLB")
+      (DeviceIndex "0"))
+    ("SW SPST_1"
+      (FullPartName "SW SPST_1.Normal")
+      (LibraryName "D:\DROPBOX\DESIGN\ALLEGROPROJECT\MSLIB_SCH\LC4500.OLB")
+      (DeviceIndex "0"))
+    ("CAP NP"
+      (FullPartName "CAP NP.Normal")
+      (LibraryName "D:\DROPBOX\DESIGN\ALLEGROPROJECT\MSLIB_SCH\LC4500.OLB")
+      (DeviceIndex "0"))
+    (RES
+      (FullPartName "RES.Normal")
+      (LibraryName "D:\DROPBOX\DESIGN\ALLEGROPROJECT\MSLIB_SCH\LC4500.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_16.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GND_POWER
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (CRYSTAL_4_Pins
+      (FullPartName "CRYSTAL_4_Pins.Normal")
+      (LibraryName "D:\DROPBOX\DESIGN\ALLEGROPROJECT\MSLIB_SCH\LC4500.OLB")
+      (DeviceIndex "0"))
+    (CRYSTAL_0
+      (FullPartName "CRYSTAL_0.Normal")
+      (LibraryName "D:\DROPBOX\DESIGN\ALLEGROPROJECT\MSLIB_SCH\LC4500.OLB")
+      (DeviceIndex "0"))
+    (PGB001
+      (FullPartName "PGB001.Normal")
+      (LibraryName "D:\DROPBOX\DESIGN\ALLEGROPROJECT\MSLIB_SCH\LC4500.OLB")
+      (DeviceIndex "0"))
+    (CON4_0
+      (FullPartName "CON4_0.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\A0045522\MY DOCUMENTS\ORCAD\LIGHTCRAFTER4500\DRIVER\4500_DRIVER_110612AM.DSN")
+      (DeviceIndex "0"))
+    (AT90USB1286
+      (FullPartName "AT90USB1286.Normal")
+      (LibraryName "D:\DROPBOX\DESIGN\ALLEGROPROJECT\MSLIB_SCH\LC4500.OLB")
+      (DeviceIndex "0")))
   (GlobalState
     (FileView
       (Path "Design Resources")
@@ -86,19 +162,40 @@
          "SCHEMATIC1")
       (Path "Outputs")
       (Select "Design Resources"
-         "d:\dropbox\design\allegroproject\designongit\modificationforlc4500\standard\standard.dsn"
-         "SCHEMATIC1" "PAGE-07  INTERFACE CONNECTORS"))
+         "d:\dropbox\design\allegroproject\designongit\modificationforlc4500\standard\standard.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 662"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 450 0 1022"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 50 869 50 310")
-        (Scroll "0 551")
+        (Placement "44 0 1 -1 -1 -8 -30 125 1492 125 699")
+        (Scroll "838 546")
+        (Zoom "140")
+        (Occurrence "/"))
+      (Path
+         "D:\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE-30  MODULATION"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 25 1192 25 599")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE-18  TP, ARM JTAG, RESET"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 100 1317 100 518")
+        (Scroll "0 210")
         (Zoom "100")
         (Occurrence "/"))
       (Path
@@ -108,8 +205,19 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 125 898 125 500")
-        (Scroll "269 389")
+        (Placement "44 0 1 -1 -1 -8 -30 225 1392 225 739")
+        (Scroll "0 100")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE-17  FAN, POWER SUPPLIES"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 1167 0 514")
+        (Scroll "0 360")
         (Zoom "100")
         (Occurrence "/"))
       (Path
@@ -119,13 +227,14 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 150 923 150 525")
-        (Scroll "0 0")
+        (Placement "44 2 3 -1 -1 -8 -30 25 1192 25 539")
+        (Scroll "0 250")
         (Zoom "100")
         (Occurrence "/"))
       (Path
          "D:\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE-15  GPIO, I2C, LED CONTROL")))
+      (Page "PAGE-27  LED DRIVER BLUE/GREEN")))
   (MPSSessionName "shang")
-  (ISPCBBASICLICENSE "false"))
+  (ISPCBBASICLICENSE "false")
+  (LastUsedLibraryBrowseDirectory "D:\Dropbox\Design\allegroProject\MsLib_Sch"))
