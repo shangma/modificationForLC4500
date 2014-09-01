@@ -50,9 +50,9 @@
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "TRUE")
     ("Allegro Netlist Input Board File"
-       "D:\Dropbox\Design\allegroProject\helps\untouch\allegro\untouch.brd")
+       "D:\Dropbox\Design\allegroProject\designOnGIt\modificationForLC4500\standard\allegro\STANDARD.brd")
     ("Allegro Netlist Output Board File"
-       "C:\Users\shang\Documents\test\untouched.brd")
+       "C:\Users\shang\Documents\test2\test2.brd")
     ("Allegro Netlist Remove Etch" "FALSE")
     ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
     ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
@@ -167,74 +167,19 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 450 0 1022"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 1022"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 125 1492 125 699")
-        (Scroll "838 546")
-        (Zoom "140")
+        (Placement "44 2 3 -1 -1 -8 -30 25 819 25 335")
+        (Scroll "-181 0")
+        (Zoom "74")
         (Occurrence "/"))
       (Path
          "D:\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE-30  MODULATION"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 25 1192 25 599")
-        (Scroll "0 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE-18  TP, ARM JTAG, RESET"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 100 1317 100 518")
-        (Scroll "0 210")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE-09  FRONT END INTERFACE"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 225 1392 225 739")
-        (Scroll "0 100")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE-17  FAN, POWER SUPPLIES"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 0 1167 0 514")
-        (Scroll "0 360")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE-26  LED DRIVER - RED"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 25 1192 25 539")
-        (Scroll "0 250")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE-27  LED DRIVER BLUE/GREEN")))
+      (Page "PAGE-30  MODULATION")))
   (MPSSessionName "shang")
   (ISPCBBASICLICENSE "false")
   (LastUsedLibraryBrowseDirectory "D:\Dropbox\Design\allegroProject\MsLib_Sch"))

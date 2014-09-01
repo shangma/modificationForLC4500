@@ -1,318 +1,153 @@
-\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:00:00)     Journal start - Fri Aug 29 09:48:05 2014
-\t (00:00:00)         Host=SHANG-X201 User=shang Pid=4784 CPUs=4
-\t (00:00:00) 
-\t (00:00:01) Opening existing design...
-\d (00:00:01) Database opened: D:/Dropbox/Design/allegroProject/designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd
-\i (00:00:01) trapsize 11385
-\i (00:00:01) trapsize 11177
-\i (00:00:01) trapsize 11421
-\i (00:00:02) trapsize 11683
-\i (00:00:02) trapsize 11683
-\i (00:00:03) generaledit 
-\i (00:02:21) new 
-\i (00:02:36) newdrawfillin "menu_cancel"
-\i (00:02:36) generaledit 
-\i (00:02:39) trapsize 30944
-\i (00:02:49) xhilite 
-\i (00:02:49) xname_flush 
-\i (00:02:49) done 
-\i (00:02:49) generaledit 
-\i (00:05:34) xdehilite 
-\i (00:05:34) xname_flush 
-\i (00:05:34) done 
-\i (00:05:34) generaledit 
-\i (00:05:35) xhilite 
-\i (00:05:35) xname_flush 
-\i (00:05:35) done 
-\i (00:05:35) generaledit 
-\i (00:05:36) xdehilite 
-\i (00:05:37) xname_flush 
+\t (00:00:21) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:21)     Journal start - Mon Sep 01 15:47:24 2014
+\t (00:00:21)         Host=SHANG-X201 User=shang Pid=4908 CPUs=4
+\t (00:00:21) 
+\d (00:00:21) Database opened: D:/Dropbox/Design/allegroProject/designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd
+\i (00:00:22) generaledit 
+\i (00:00:26) trapsize 30944
+\i (00:04:52) trapsize 11683
+\i (00:04:53) zoom in 1 
+\i (00:04:53) setwindow pcb
+\i (00:04:53) zoom in -46.8040 -113.5350
+\i (00:04:53) trapsize 5841
+\i (00:04:53) roam start
+\i (00:04:53) roam x -32
+\i (00:04:53) roam y -32
+\i (00:04:53) roam x -16
+\i (00:04:53) roam y -16
+\i (00:04:53) roam x 128
+\i (00:04:53) roam y -64
+\i (00:04:53) roam x 176
+\i (00:04:53) roam y -96
+\i (00:04:54) roam x 64
+\i (00:04:54) roam y -64
+\i (00:04:54) roam x -80
+\i (00:04:54) roam y 144
+\i (00:04:54) roam x -80
+\i (00:04:54) roam y 144
+\i (00:04:54) roam x -16
+\i (00:04:54) roam y 144
+\i (00:04:54) roam y 96
+\i (00:04:54) roam x 64
+\i (00:04:54) roam y 48
+\i (00:04:54) roam x 48
+\i (00:04:54) roam y 32
+\i (00:04:54) roam x 32
+\i (00:04:54) roam y 16
+\i (00:04:54) roam x 64
+\i (00:04:54) roam y 32
+\i (00:04:54) roam x 48
+\i (00:04:54) roam y -48
+\i (00:04:54) roam x -16
+\i (00:04:54) roam y -80
+\i (00:04:54) roam x -64
+\i (00:04:54) roam y -144
+\i (00:04:54) roam x -48
+\i (00:04:54) roam y -112
+\i (00:04:54) roam x -16
+\i (00:04:54) roam y -96
+\i (00:04:54) roam x -32
+\i (00:04:54) roam y -96
+\i (00:04:54) roam x -48
+\i (00:04:54) roam y -96
+\i (00:04:54) roam x -128
+\i (00:04:54) roam y -176
+\i (00:04:55) roam y -96
+\i (00:04:55) roam x -144
+\i (00:04:55) roam y -240
+\i (00:04:55) roam x -176
+\i (00:04:55) roam y -96
+\i (00:04:55) roam x -80
+\i (00:04:55) roam y -64
+\i (00:04:55) roam end
+\i (00:04:58) prepopup -98.4569 24.2072
+\i (00:04:59) pick grid -109.5557 24.3240
+\t (00:04:59) last pick:  -109.5502  24.3332
+\i (00:05:00) place manual 
+\i (00:05:15) setwindow form.plc_manual
+\i (00:05:15) FORM plc_manual cancel  
+\i (00:05:15) setwindow pcb
+\i (00:05:15) generaledit 
+\i (00:05:17) zoom out 1 
+\i (00:05:17) setwindow pcb
+\i (00:05:17) zoom out 20.0083 -39.4650
+\i (00:05:17) trapsize 11683
+\i (00:05:17) zoom out 1 
+\i (00:05:17) setwindow pcb
+\i (00:05:17) zoom out 40.3367 -39.4650
+\i (00:05:17) trapsize 23366
+\i (00:05:18) zoom in 1 
+\i (00:05:18) setwindow pcb
+\i (00:05:18) zoom in -30.9308 -15.6331
+\i (00:05:18) trapsize 11683
+\i (00:05:18) zoom in 1 
+\i (00:05:18) setwindow pcb
+\i (00:05:18) zoom in -29.2952 -16.8013
+\i (00:05:18) trapsize 5841
+\i (00:05:19) roam start
+\i (00:05:19) roam x -416
+\i (00:05:19) roam y 16
+\i (00:05:20) roam x -64
+\i (00:05:20) roam end
+\i (00:05:24) setwindow form.find
+\i (00:05:24) FORM find find_name u61 
+\i (00:05:28) setwindow pcb
+\i (00:05:28) roam start
+\i (00:05:28) roam x -160
+\i (00:05:28) roam x -48
+\i (00:05:28) roam end
+\i (00:05:29) pick grid -124.1604 -17.0351
+\t (00:05:29) last pick:  -124.1552  -17.0434
+\i (00:05:31) dehilight 
+\i (00:05:33) setwindow form.find
+\i (00:05:33) FORM find all_off  
+\i (00:05:34) FORM find symbols YES 
+\i (00:05:35) setwindow pcb
+\i (00:05:35) pick grid -81.5178 -0.7958
+\t (00:05:35) last pick:  -81.5086  -0.7874
+\t (00:05:35) Symbol "C256" dehighlighted.
+\i (00:05:36) prepopup -104.5331 -2.7819
 \i (00:05:37) done 
 \i (00:05:37) generaledit 
-\i (00:05:40) xhilite 
-\i (00:05:40) xname_flush 
-\i (00:05:40) done 
-\i (00:05:40) generaledit 
-\i (00:05:41) xhilite 
-\i (00:05:41) xname_flush 
-\i (00:05:41) done 
-\i (00:05:42) generaledit 
-\i (00:05:42) xhilite 
-\i (00:05:42) xname_flush 
-\i (00:05:42) done 
-\i (00:05:42) generaledit 
-\i (00:05:43) xhilite 
-\i (00:05:43) xname_flush 
-\i (00:05:43) done 
-\i (00:05:43) generaledit 
-\i (00:05:44) xdehilite 
-\i (00:05:44) xname_flush 
-\i (00:05:44) done 
-\i (00:05:44) generaledit 
-\i (00:05:44) xhilite 
-\i (00:05:45) xname_flush 
-\i (00:05:45) done 
-\i (00:05:45) generaledit 
-\i (00:05:46) xhilite 
-\i (00:05:46) xname_flush 
-\i (00:05:46) done 
-\i (00:05:46) generaledit 
-\i (00:05:47) xhilite 
-\i (00:05:47) xname_flush 
-\i (00:05:47) done 
-\i (00:05:47) generaledit 
-\i (00:05:47) xhilite 
-\i (00:05:47) xname_flush 
-\i (00:05:47) done 
-\i (00:05:47) generaledit 
-\i (00:05:48) xhilite 
-\i (00:05:48) xname_flush 
-\i (00:05:48) done 
-\i (00:05:48) generaledit 
-\i (00:05:49) xhilite 
-\i (00:05:50) xname_flush 
-\i (00:05:50) done 
-\i (00:05:50) generaledit 
-\i (00:05:51) xhilite 
-\i (00:05:51) xname_flush 
-\i (00:05:51) done 
-\i (00:05:51) generaledit 
-\i (00:05:59) xdehilite 
-\i (00:05:59) xname_flush 
-\i (00:05:59) done 
-\i (00:05:59) generaledit 
-\i (00:06:00) xhilite 
-\i (00:06:00) xname_flush 
-\i (00:06:00) done 
-\i (00:06:00) generaledit 
-\i (00:06:01) xhilite 
-\i (00:06:01) xname_flush 
-\i (00:06:01) done 
-\i (00:06:01) generaledit 
-\i (00:06:02) xhilite 
-\i (00:06:02) xname_flush 
-\i (00:06:02) done 
-\i (00:06:02) generaledit 
-\i (00:06:03) xhilite 
-\i (00:06:03) xname_flush 
-\i (00:06:03) done 
-\i (00:06:03) generaledit 
-\i (00:06:04) xhilite 
-\i (00:06:04) xname_flush 
-\i (00:06:04) done 
-\i (00:06:04) generaledit 
-\i (00:06:50) xdehilite 
-\i (00:06:50) xname_flush 
-\i (00:06:50) done 
-\i (00:06:50) generaledit 
-\i (00:50:09) xhilite 
-\i (00:50:09) xname_flush 
-\i (00:50:09) done 
-\i (00:50:10) generaledit 
-\i (00:50:14) xdehilite 
-\i (00:50:14) xname_flush 
-\i (00:50:14) done 
-\i (00:50:14) generaledit 
-\i (00:50:15) xhilite 
-\i (00:50:15) xname_flush 
-\i (00:50:15) done 
-\i (00:50:15) generaledit 
-\i (00:50:16) xhilite 
-\i (00:50:16) xname_flush 
-\i (00:50:16) done 
-\i (00:50:16) generaledit 
-\i (00:50:48) xdehilite 
-\i (00:50:48) xname_flush 
-\i (00:50:48) done 
-\i (00:50:48) generaledit 
-\i (00:54:02) xhilite 
-\i (00:54:02) xname_flush 
-\i (00:54:02) done 
-\i (00:54:02) generaledit 
-\i (00:54:04) xdehilite 
-\i (00:54:04) xname_flush 
-\i (00:54:04) done 
-\i (00:54:04) generaledit 
-\i (00:54:05) xhilite 
-\i (00:54:05) xname_flush 
-\i (00:54:05) done 
-\i (00:54:05) generaledit 
-\i (00:54:06) xhilite 
-\i (00:54:06) xname_flush 
-\i (00:54:06) done 
-\i (00:54:06) generaledit 
-\i (00:54:33) xdehilite 
-\i (00:54:33) xname_flush 
-\i (00:54:33) done 
-\i (00:54:33) generaledit 
-\i (00:54:34) xhilite 
-\i (00:54:34) xname_flush 
-\i (00:54:34) done 
-\i (00:54:34) generaledit 
-\i (00:54:40) xdehilite 
-\i (00:54:41) xname_flush 
-\i (00:54:41) done 
-\i (00:54:41) generaledit 
-\i (00:54:42) xhilite 
-\i (00:54:42) xname_flush 
-\i (00:54:42) done 
-\i (00:54:43) generaledit 
-\i (00:55:11) xdehilite 
-\i (00:55:11) xname_flush 
-\i (00:55:11) done 
-\i (00:55:11) generaledit 
-\i (00:58:00) xhilite 
-\i (00:58:00) xname_flush 
-\i (00:58:00) done 
-\i (00:58:00) generaledit 
-\i (00:58:01) xhilite 
-\i (00:58:01) xname_flush 
-\i (00:58:01) done 
-\i (00:58:01) generaledit 
-\i (00:58:02) xhilite 
-\i (00:58:02) xname_flush 
-\i (00:58:02) done 
-\i (00:58:02) generaledit 
-\i (00:58:02) xhilite 
-\i (00:58:03) xname_flush 
-\i (00:58:03) done 
-\i (00:58:03) generaledit 
-\i (00:58:03) xhilite 
-\i (00:58:03) xname_flush 
-\i (00:58:03) done 
-\i (00:58:03) generaledit 
-\i (00:58:04) xhilite 
-\i (00:58:04) xname_flush 
-\i (00:58:04) done 
-\i (00:58:04) generaledit 
-\i (00:58:05) xhilite 
-\i (00:58:05) xname_flush 
-\i (00:58:05) done 
-\i (00:58:05) generaledit 
-\i (00:58:17) xdehilite 
-\i (00:58:17) xname_flush 
-\i (00:58:17) done 
-\i (00:58:18) generaledit 
-\i (00:58:19) xhilite 
-\i (00:58:19) xname_flush 
-\i (00:58:19) done 
-\i (00:58:19) generaledit 
-\i (00:58:20) xhilite 
-\i (00:58:20) xname_flush 
-\i (00:58:20) done 
-\i (00:58:20) generaledit 
-\i (00:58:20) xhilite 
-\i (00:58:21) xname_flush 
-\i (00:58:21) done 
-\i (00:58:21) generaledit 
-\i (00:59:11) xdehilite 
-\i (00:59:11) xname_flush 
-\i (00:59:11) done 
-\i (00:59:12) generaledit 
-\i (00:59:23) xhilite 
-\i (00:59:23) xname_flush 
-\i (00:59:23) done 
-\i (00:59:23) generaledit 
-\i (00:59:24) xhilite 
-\i (00:59:24) xname_flush 
-\i (00:59:24) done 
-\i (00:59:24) generaledit 
-\i (00:59:25) xhilite 
-\i (00:59:25) xname_flush 
-\i (00:59:25) done 
-\i (00:59:25) generaledit 
-\i (00:59:26) xhilite 
-\i (00:59:26) xname_flush 
-\i (00:59:26) done 
-\i (00:59:26) generaledit 
-\i (00:59:27) xhilite 
-\i (00:59:27) xname_flush 
-\i (00:59:27) done 
-\i (00:59:28) generaledit 
-\i (00:59:28) xdehilite 
-\i (00:59:28) xname_flush 
-\i (00:59:28) done 
-\i (00:59:28) generaledit 
-\i (01:00:11) xhilite 
-\i (01:00:11) xname_flush 
-\i (01:00:11) done 
-\i (01:00:11) generaledit 
-\i (01:00:13) xhilite 
-\i (01:00:13) xname_flush 
-\i (01:00:13) done 
-\i (01:00:13) generaledit 
-\i (01:00:14) xhilite 
-\i (01:00:14) xname_flush 
-\i (01:00:14) done 
-\i (01:00:14) generaledit 
-\i (01:00:15) xhilite 
-\i (01:00:15) xname_flush 
-\i (01:00:15) done 
-\i (01:00:15) generaledit 
-\i (01:00:17) xdehilite 
-\i (01:00:17) xname_flush 
-\i (01:00:17) done 
-\i (01:00:17) generaledit 
-\i (01:00:18) xhilite 
-\i (01:00:18) xname_flush 
-\i (01:00:18) done 
-\i (01:00:18) generaledit 
-\i (01:00:19) xhilite 
-\i (01:00:19) xname_flush 
-\i (01:00:19) done 
-\i (01:00:19) generaledit 
-\i (01:00:20) xdehilite 
-\i (01:00:20) xname_flush 
-\i (01:00:20) done 
-\i (01:00:20) xhilite 
-\i (01:00:20) xname_flush 
-\i (01:00:20) done 
-\i (01:00:20) generaledit 
-\i (01:00:23) xdehilite 
-\i (01:00:23) xname_flush 
-\i (01:00:23) done 
-\i (01:00:23) generaledit 
-\i (01:00:23) xhilite 
-\i (01:00:23) xname_flush 
-\i (01:00:23) done 
-\i (01:00:23) generaledit 
-\i (01:00:24) xhilite 
-\i (01:00:24) xname_flush 
-\i (01:00:24) done 
-\i (01:00:24) generaledit 
-\i (01:00:25) xhilite 
-\i (01:00:25) xname_flush 
-\i (01:00:25) done 
-\i (01:00:25) generaledit 
-\i (01:00:26) xhilite 
-\i (01:00:26) xname_flush 
-\i (01:00:26) done 
-\i (01:00:26) generaledit 
-\i (01:00:26) xhilite 
-\i (01:00:26) xname_flush 
-\i (01:00:26) done 
-\i (01:00:27) generaledit 
-\i (01:00:27) xhilite 
-\i (01:00:27) xname_flush 
-\i (01:00:27) done 
-\i (01:00:28) generaledit 
-\i (01:00:28) xhilite 
-\i (01:00:28) xname_flush 
-\i (01:00:28) done 
-\i (01:00:28) generaledit 
-\i (01:00:59) xdehilite 
-\i (01:01:00) xname_flush 
-\i (01:01:00) done 
-\i (01:01:00) generaledit 
-\i (01:03:28) open 
-\e (01:03:28) Do you want to save the changes you made to STANDARD.brd?
-\i (01:03:29) fillin no 
-\i (01:03:50) fillin "D:\Dropbox\Design\allegroProject\MsLib\sot23-3_fc.dra"
-\i (01:03:50) cd "D:\Dropbox\Design\allegroProject\MsLib"
-\t (01:03:50) Opening existing design...
-\i (01:03:50) trapsize 668
-\i (01:03:50) trapsize 675
-\i (01:03:50) trapsize 715
-\i (01:03:50) trapsize 766
-\t (01:03:51)     Journal end - Fri Aug 29 10:51:56 2014
+\i (00:05:38) pick grid -129.3008 -9.0907
+\t (00:05:38) last pick:  -129.3114  -9.0932
+\i (00:05:38) zoom in 1 
+\i (00:05:38) setwindow pcb
+\i (00:05:38) zoom in -137.2452 -7.3382
+\i (00:05:38) trapsize 2921
+\i (00:05:38) zoom out 1 
+\i (00:05:38) setwindow pcb
+\i (00:05:38) zoom out -137.2452 -7.5135
+\i (00:05:38) trapsize 5841
+\i (00:05:49) drc update 
+\t (00:05:49) Performing DRC...
+\t (00:05:49) Multithreaded DRC update (4 threads).
+\t (00:05:49) No DRC errors detected.
+\i (00:05:49) generaledit 
+\i (00:05:52) zoom in 1 
+\i (00:05:52) setwindow pcb
+\i (00:05:52) zoom in -63.0587 -17.0934
+\i (00:05:52) trapsize 2921
+\i (00:05:52) zoom in 1 
+\i (00:05:52) setwindow pcb
+\i (00:05:52) zoom in -63.0587 -17.0934
+\i (00:05:52) trapsize 1460
+\i (00:05:53) zoom out 1 
+\i (00:05:53) setwindow pcb
+\i (00:05:53) zoom out -63.0587 -17.0934
+\i (00:05:53) trapsize 2921
+\i (00:05:53) zoom out 1 
+\i (00:05:53) setwindow pcb
+\i (00:05:53) zoom out -63.0586 -17.0933
+\i (00:05:53) trapsize 5841
+\i (00:05:56) place manual 
+\i (00:05:58) setwindow form.plc_manual
+\i (00:05:58) FORM plc_manual tree  'Components by refdes' 
+\i (00:06:08) FORM plc_manual hide  
+\i (00:06:09) setwindow pcb
+\i (00:06:09) pick grid -126.3800 -11.1351
+\t (00:06:09) last pick:  -126.3904  -11.1252
+\i (00:06:14) exit 
+\e (00:06:15) Do you want to save the changes you made to STANDARD.brd?
+\i (00:06:16) fillin no 
+\t (00:06:16)     Journal end - Mon Sep 01 15:53:19 2014

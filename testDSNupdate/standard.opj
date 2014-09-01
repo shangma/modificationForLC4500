@@ -79,13 +79,11 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "c:\users\ma\dropbox\design\allegroproject\designongit\modificationforlc4500\standard\standard.dsn")
-      (Path "Design Resources"
-         "c:\users\ma\dropbox\design\allegroproject\designongit\modificationforlc4500\standard\standard.dsn"
-         "SCHEMATIC1")
+      (Path "Design Resources" ".\standard.dsn")
+      (Path "Design Resources" ".\standard.dsn" "SCHEMATIC1")
       (Path "Outputs")
-      (Select "Design Resources"))
+      (Select "Design Resources" ".\standard.dsn" "SCHEMATIC1"
+         "PAGE-13  TRIGGER OUTPUT"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -95,90 +93,13 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 50 1380 50 620")
-        (Scroll "0 0")
+        (Placement "44 0 1 -1 -1 -8 -30 50 1417 50 624")
+        (Scroll "0 207")
         (Zoom "100")
         (Occurrence "/"))
       (Path
-         "C:\USERS\MA\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
+         "D:\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\TESTDSNUPDATE\STANDARD.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE-10  IO MUX"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 75 1409 75 649")
-        (Scroll "0 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\MA\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE-03  RGB MUXING"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 100 1434 100 674")
-        (Scroll "0 20")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\MA\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE-06  TFP401 POWER"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 125 1459 125 699")
-        (Scroll "0 50")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\MA\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE-04  TFP401 CONNECTOR"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 150 1484 150 724")
-        (Scroll "2525 1337")
-        (Zoom "268")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\MA\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE-05  TFP401 RECEIVER"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 175 1509 175 749")
-        (Scroll "0 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\MA\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE-08  DATA PATH MUX"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 200 1534 200 774")
-        (Scroll "0 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\MA\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE-15  GPIO, I2C, LED CONTROL"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 225 1559 225 799")
-        (Scroll "0 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\MA\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE-09  FRONT END INTERFACE")))
-  (MPSSessionName "ma")
+      (Page "PAGE-13  TRIGGER OUTPUT")))
+  (MPSSessionName "shang")
   (ISPCBBASICLICENSE "false"))
