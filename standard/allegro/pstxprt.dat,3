@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 16.6.0 d001Aug-29-2014 at 15:07:33 }
+{ Using PSTWRITER 16.6.0 d001Sep-01-2014 at 18:20:52 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='STANDARD';
@@ -2258,92 +2258,110 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C301 'CAP NP_CAP_0603_1UF':;
+ C301 'CAP NP_CAP_0603_1UF':
+ ROOM='30';
 
 SECTION_NUMBER 1
  '@STANDARD.SCHEMATIC1(SCH_1):INS42027748@LC4500.CAP NP.NORMAL(CHIPS)':
  C_PATH='@standard.schematic1(sch_1):ins42027748@lc4500.\cap np.normal\(chips)',
  P_PATH='@standard.schematic1(sch_1):page_ins42027748@lc4500.\cap np.normal\(chips)',
+ ROOM='30',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C302 'CAP NP_CAP_0402_15PF':;
+ C302 'CAP NP_CAP_0402_15PF':
+ ROOM='30';
 
 SECTION_NUMBER 1
  '@STANDARD.SCHEMATIC1(SCH_1):INS42064807@LC4500.CAP NP.NORMAL(CHIPS)':
  C_PATH='@standard.schematic1(sch_1):ins42064807@lc4500.\cap np.normal\(chips)',
  P_PATH='@standard.schematic1(sch_1):page_ins42064807@lc4500.\cap np.normal\(chips)',
+ ROOM='30',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C303 'CAP NP_CAP_0402_15PF':;
+ C303 'CAP NP_CAP_0402_15PF':
+ ROOM='30';
 
 SECTION_NUMBER 1
  '@STANDARD.SCHEMATIC1(SCH_1):INS42064821@LC4500.CAP NP.NORMAL(CHIPS)':
  C_PATH='@standard.schematic1(sch_1):ins42064821@lc4500.\cap np.normal\(chips)',
  P_PATH='@standard.schematic1(sch_1):page_ins42064821@lc4500.\cap np.normal\(chips)',
+ ROOM='30',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C304 'CAP NP_CAP_0402_100NF':;
+ C304 'CAP NP_CAP_0402_100NF':
+ ROOM='30';
 
 SECTION_NUMBER 1
  '@STANDARD.SCHEMATIC1(SCH_1):INS42067156@LC4500.CAP NP.NORMAL(CHIPS)':
  C_PATH='@standard.schematic1(sch_1):ins42067156@lc4500.\cap np.normal\(chips)',
  P_PATH='@standard.schematic1(sch_1):page_ins42067156@lc4500.\cap np.normal\(chips)',
+ ROOM='30',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C305 'CAP NP_CAP_0402_100NF':;
+ C305 'CAP NP_CAP_0402_100NF':
+ ROOM='30';
 
 SECTION_NUMBER 1
  '@STANDARD.SCHEMATIC1(SCH_1):INS42067241@LC4500.CAP NP.NORMAL(CHIPS)':
  C_PATH='@standard.schematic1(sch_1):ins42067241@lc4500.\cap np.normal\(chips)',
  P_PATH='@standard.schematic1(sch_1):page_ins42067241@lc4500.\cap np.normal\(chips)',
+ ROOM='30',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C306 'CAP NP_CAP_0402_100NF':;
+ C306 'CAP NP_CAP_0402_100NF':
+ ROOM='30';
 
 SECTION_NUMBER 1
  '@STANDARD.SCHEMATIC1(SCH_1):INS42079595@LC4500.CAP NP.NORMAL(CHIPS)':
  C_PATH='@standard.schematic1(sch_1):ins42079595@lc4500.\cap np.normal\(chips)',
  P_PATH='@standard.schematic1(sch_1):page_ins42079595@lc4500.\cap np.normal\(chips)',
+ ROOM='30',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C307 'CAP NP_CAP_0402_100NF':;
+ C307 'CAP NP_CAP_0402_100NF':
+ ROOM='30';
 
 SECTION_NUMBER 1
  '@STANDARD.SCHEMATIC1(SCH_1):INS42079603@LC4500.CAP NP.NORMAL(CHIPS)':
  C_PATH='@standard.schematic1(sch_1):ins42079603@lc4500.\cap np.normal\(chips)',
  P_PATH='@standard.schematic1(sch_1):page_ins42079603@lc4500.\cap np.normal\(chips)',
+ ROOM='30',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C308 'CAP NP_CAP_0402_100NF':;
+ C308 'CAP NP_CAP_0402_100NF':
+ ROOM='30';
 
 SECTION_NUMBER 1
  '@STANDARD.SCHEMATIC1(SCH_1):INS42079611@LC4500.CAP NP.NORMAL(CHIPS)':
  C_PATH='@standard.schematic1(sch_1):ins42079611@lc4500.\cap np.normal\(chips)',
  P_PATH='@standard.schematic1(sch_1):page_ins42079611@lc4500.\cap np.normal\(chips)',
+ ROOM='30',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C309 'CAP NP_CAP_0402_220NF':;
+ C309 'CAP NP_CAP_0402_220NF':
+ ROOM='30';
 
 SECTION_NUMBER 1
  '@STANDARD.SCHEMATIC1(SCH_1):INS42079865@LC4500.CAP NP.NORMAL(CHIPS)':
  C_PATH='@standard.schematic1(sch_1):ins42079865@lc4500.\cap np.normal\(chips)',
  P_PATH='@standard.schematic1(sch_1):page_ins42079865@lc4500.\cap np.normal\(chips)',
+ ROOM='30',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -2358,12 +2376,14 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C310 'CAP NP_CAP_0402_220NF':;
+ C310 'CAP NP_CAP_0402_220NF':
+ ROOM='30';
 
 SECTION_NUMBER 1
  '@STANDARD.SCHEMATIC1(SCH_1):INS42079873@LC4500.CAP NP.NORMAL(CHIPS)':
  C_PATH='@standard.schematic1(sch_1):ins42079873@lc4500.\cap np.normal\(chips)',
  P_PATH='@standard.schematic1(sch_1):page_ins42079873@lc4500.\cap np.normal\(chips)',
+ ROOM='30',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -3598,12 +3618,14 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- J34 'CON4_0_CONN_5_USB_MINI_B_USBFOR':;
+ J34 'CON4_0_CONN_5_USB_MINI_B_USBFOR':
+ ROOM='30';
 
 SECTION_NUMBER 1
  '@STANDARD.SCHEMATIC1(SCH_1):INS42009137@4500_DRIVER_110612AM.CON4_0.NORMAL(CHIPS)':
  C_PATH='@standard.schematic1(sch_1):ins42009137@\4500_driver_110612am\.\con4_0.normal\(chips)',
  P_PATH='@standard.schematic1(sch_1):page_ins42009137@\4500_driver_110612am\.\con4_0.normal\(chips)',
+ ROOM='30',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -5548,52 +5570,74 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R241 'RES_RES_0402_22':;
+ R241 'RES_RES_0402_22':
+ ROOM='30';
 
 SECTION_NUMBER 1
  '@STANDARD.SCHEMATIC1(SCH_1):INS42021415@LC4500.RES.NORMAL(CHIPS)':
  C_PATH='@standard.schematic1(sch_1):ins42021415@lc4500.\res.normal\(chips)',
  P_PATH='@standard.schematic1(sch_1):page_ins42021415@lc4500.\res.normal\(chips)',
+ ROOM='30',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- R242 'RES_RES_0402_22':;
+ R242 'RES_RES_0402_22':
+ ROOM='30';
 
 SECTION_NUMBER 1
  '@STANDARD.SCHEMATIC1(SCH_1):INS42021423@LC4500.RES.NORMAL(CHIPS)':
  C_PATH='@standard.schematic1(sch_1):ins42021423@lc4500.\res.normal\(chips)',
  P_PATH='@standard.schematic1(sch_1):page_ins42021423@lc4500.\res.normal\(chips)',
+ ROOM='30',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- R243 'RES_RES_0402_0':;
+ R243 'RES_RES_0402_0':
+ ROOM='30';
 
 SECTION_NUMBER 1
  '@STANDARD.SCHEMATIC1(SCH_1):INS42079551@LC4500.RES.NORMAL(CHIPS)':
  C_PATH='@standard.schematic1(sch_1):ins42079551@lc4500.\res.normal\(chips)',
  P_PATH='@standard.schematic1(sch_1):page_ins42079551@lc4500.\res.normal\(chips)',
+ ROOM='30',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- R244 'RES_RES_0402_47K':;
+ R244 'RES_RES_0402_47K':
+ ROOM='30';
 
 SECTION_NUMBER 1
  '@STANDARD.SCHEMATIC1(SCH_1):INS42079844@LC4500.RES.NORMAL(CHIPS)':
  C_PATH='@standard.schematic1(sch_1):ins42079844@lc4500.\res.normal\(chips)',
  P_PATH='@standard.schematic1(sch_1):page_ins42079844@lc4500.\res.normal\(chips)',
+ ROOM='30',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- R245 'RES_RES_0402_47K':;
+ R245 'RES_RES_0402_47K':
+ ROOM='30';
 
 SECTION_NUMBER 1
  '@STANDARD.SCHEMATIC1(SCH_1):INS42079852@LC4500.RES.NORMAL(CHIPS)':
  C_PATH='@standard.schematic1(sch_1):ins42079852@lc4500.\res.normal\(chips)',
  P_PATH='@standard.schematic1(sch_1):page_ins42079852@lc4500.\res.normal\(chips)',
+ ROOM='30',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R246 'RES_RES_0402_0':
+ ROOM='30';
+
+SECTION_NUMBER 1
+ '@STANDARD.SCHEMATIC1(SCH_1):INS42109848@LC4500.RES.NORMAL(CHIPS)':
+ C_PATH='@standard.schematic1(sch_1):ins42109848@lc4500.\res.normal\(chips)',
+ P_PATH='@standard.schematic1(sch_1):page_ins42109848@lc4500.\res.normal\(chips)',
+ ROOM='30',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -6548,22 +6592,26 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- SW3 'SW SPST_1_SW_GT12_SW SPST_1':;
+ SW3 'SW SPST_1_SW_GT12_SW SPST_1':
+ ROOM='30';
 
 SECTION_NUMBER 1
  '@STANDARD.SCHEMATIC1(SCH_1):INS42079998@LC4500.SW SPST_1.NORMAL(CHIPS)':
  C_PATH='@standard.schematic1(sch_1):ins42079998@lc4500.\sw spst_1.normal\(chips)',
  P_PATH='@standard.schematic1(sch_1):page_ins42079998@lc4500.\sw spst_1.normal\(chips)',
+ ROOM='30',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- SW4 'SW SPST_1_SW_GT12_SW SPST_1':;
+ SW4 'SW SPST_1_SW_GT12_SW SPST_1':
+ ROOM='30';
 
 SECTION_NUMBER 1
  '@STANDARD.SCHEMATIC1(SCH_1):INS42080006@LC4500.SW SPST_1.NORMAL(CHIPS)':
  C_PATH='@standard.schematic1(sch_1):ins42080006@lc4500.\sw spst_1.normal\(chips)',
  P_PATH='@standard.schematic1(sch_1):page_ins42080006@lc4500.\sw spst_1.normal\(chips)',
+ ROOM='30',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -7782,22 +7830,26 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- U56 'MAX6326_SOT23-3_FC_MAX6326':;
+ U56 'MAX6326_SOT23-3_FC_MAX6326':
+ ROOM='30';
 
 SECTION_NUMBER 1
  '@STANDARD.SCHEMATIC1(SCH_1):INS42080469@LC4500.MAX6326.NORMAL(CHIPS)':
  C_PATH='@standard.schematic1(sch_1):ins42080469@lc4500.\max6326.normal\(chips)',
  P_PATH='@standard.schematic1(sch_1):page_ins42080469@lc4500.\max6326.normal\(chips)',
+ ROOM='30',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- U57 'FDN340P_SSOT-3_FDN340P':;
+ U57 'FDN340P_SSOT-3_FDN340P':
+ ROOM='30';
 
 SECTION_NUMBER 1
  '@STANDARD.SCHEMATIC1(SCH_1):INS42080570@LC4500.FDN340P.NORMAL(CHIPS)':
  C_PATH='@standard.schematic1(sch_1):ins42080570@lc4500.\fdn340p.normal\(chips)',
  P_PATH='@standard.schematic1(sch_1):page_ins42080570@lc4500.\fdn340p.normal\(chips)',
+ ROOM='30',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -7833,12 +7885,14 @@ SECTION_NUMBER 4
  SECTION='-4';
 
 PART_NAME
- U61 'AT90USB1286_0_TQFP64_AT90USB128':;
+ U61 'AT90USB1286_0_TQFP64_AT90USB128':
+ ROOM='30';
 
 SECTION_NUMBER 1
  '@STANDARD.SCHEMATIC1(SCH_1):INS41971538@STANDARD.AT90USB1286_0.NORMAL(CHIPS)':
  C_PATH='@standard.schematic1(sch_1):ins41971538@standard.\at90usb1286_0.normal\(chips)',
  P_PATH='@standard.schematic1(sch_1):page_ins41971538@standard.\at90usb1286_0.normal\(chips)',
+ ROOM='30',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -7932,12 +7986,14 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- Y1 'CRYSTAL_4_PINS_3_2MM_2_5MM_8MHZ':;
+ Y1 'CRYSTAL_4_PINS_3_2MM_2_5MM_8MHZ':
+ ROOM='30';
 
 SECTION_NUMBER 1
  '@STANDARD.SCHEMATIC1(SCH_1):INS42064631@LC4500.CRYSTAL_4_PINS.NORMAL(CHIPS)':
  C_PATH='@standard.schematic1(sch_1):ins42064631@lc4500.\crystal_4_pins.normal\(chips)',
  P_PATH='@standard.schematic1(sch_1):page_ins42064631@lc4500.\crystal_4_pins.normal\(chips)',
+ ROOM='30',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

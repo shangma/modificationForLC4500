@@ -3,153 +3,51 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
-|                                                    Fri Aug 29 15:07:35 2014  |
+|                                                    Mon Sep 01 18:20:55 2014  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  AT_VBUS      pins ADDED TO this new net
-                                 J34.1                          
-                                 U57.3                          
-                                 U61.8                          
+  AT_P5V       pins ADDED TO this new net
+                                 R246.2                         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  AVCC         pins ADDED TO this new net
-                                 C305.1                         
-                                 R243.2                         
-                                 U61.64                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  GND          pins ADDED TO this existing net (pins not previously on any net)
-                                 C301.2                         
-                                 C304.2                         
-                                 C305.2                         
-                                 C306.2                         
-                                 C307.2                         
-                                 C308.2                         
-                                 SW3.3                          
-                                 SW4.3                          
-                                 U56.1                          
-                                 U61.6                          
-                                 U61.22                         
-                                 U61.53                         
-                                 U61.63                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  GND_POWER    pins ADDED TO this new net
-                                 C302.2                         
-                                 C303.2                         
-                                 J34.5                          
-                                 J34.6                          
-                                 J34.7                          
-                                 J34.8                          
-                                 Y1.2                           
-                                 Y1.4                           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  HWB          pins ADDED TO this new net
-                                 C310.2                         
-                                 R245.2                         
-                                 SW4.1                          
-                                 U61.43                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  LEDB_EN      no longer scheduled
-               pins MOVED FROM this net (to net name listed on right)
-                                 R227.2          -21.496 -3.4318
-                                                                     BLU_LED_EN
+  P5V          pins MOVED FROM this net (to net name listed on right)
+                                 C304.1                         
+                                                                         AT_P5V
+                                 C306.1                         
+                                                                         AT_P5V
+                                 C307.1                         
+                                                                         AT_P5V
+                                 C308.1                         
+                                                                         AT_P5V
+                                 C309.1                         
+                                                                         AT_P5V
+                                 C310.1                         
+                                                                         AT_P5V
+                                 R243.1                         
+                                                                         AT_P5V
+                                 R244.1                         
+                                                                         AT_P5V
+                                 R245.1                         
+                                                                         AT_P5V
+                                 U57.2                          
+                                                                         AT_P5V
+                                 U61.3           -22.047  3.5306
+                                                                         AT_P5V
+                                 U61.21          -17.348 -8.3566
+                                                                         AT_P5V
+                                 U61.52          -10.947  6.6294
+                                                                         AT_P5V
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 R246.1                         
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
 |  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
-|                                                    Fri Aug 29 15:07:35 2014  |
-|------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  LEDG_EN      no longer scheduled
-               pins MOVED FROM this net (to net name listed on right)
-                                 R216.2          -55.228 -0.5932
-                                                                     GRN_LED_EN
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  LEDR_EN      pins MOVED FROM this net (to net name listed on right)
-                                 R205.2          -70.732 -61.118
-                                                                     RED_LED_EN
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N42021431    pins ADDED TO this new net
-                                 R241.2                         
-                                 U61.4                          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N42021434    pins ADDED TO this new net
-                                 R242.2                         
-                                 U61.5                          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N42021476    pins ADDED TO this new net
-                                 J34.2                          
-                                 R241.1                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N42021479    pins ADDED TO this new net
-                                 J34.3                          
-                                 R242.1                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N42027736    pins ADDED TO this new net
-                                 C301.1                         
-                                 U61.7                          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N42064703    pins ADDED TO this new net
-                                 C302.1                         
-                                 U61.23                         
-                                 Y1.1                           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N42064720    pins ADDED TO this new net
-                                 C303.1                         
-                                 U61.24                         
-                                 Y1.3                           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N42080505    pins ADDED TO this new net
-                                 U56.2                          
-                                 U57.1                          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  P5V          pins ADDED TO this existing net (pins not previously on any net)
-                                 C304.1                         
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   3  |
-|------------------------------------------------------------------------------|
-|  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
-|                                                    Fri Aug 29 15:07:35 2014  |
-|------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-                                 C306.1                         
-                                 C307.1                         
-                                 C308.1                         
-                                 C309.1                         
-                                 C310.1                         
-                                 R243.1                         
-                                 R244.1                         
-                                 R245.1                         
-                                 U56.3                          
-                                 U57.2                          
-                                 U61.3                          
-                                 U61.21                         
-                                 U61.52                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  RESET        pins ADDED TO this new net
-                                 C309.2                         
-                                 R244.2                         
-                                 SW3.1                          
-                                 U61.20                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  UID          pins ADDED TO this new net
-                                 J34.4                          
-                                 U61.9                          
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   4  |
-|------------------------------------------------------------------------------|
-|  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
-|                                                    Fri Aug 29 15:07:35 2014  |
+|                                                    Mon Sep 01 18:20:55 2014  |
 |------------------------------------------------------------------------------|
 | NET PROPERTIES added to board drawing                                        |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -202,10 +100,10 @@
  DMD_D14           PROPAGATION_DE R655.1:J500.P38:875 MIL:970 mil
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
-|                                                                    Page   5  |
+|                                                                    Page   3  |
 |------------------------------------------------------------------------------|
 |  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
-|                                                    Fri Aug 29 15:07:35 2014  |
+|                                                    Mon Sep 01 18:20:55 2014  |
 |------------------------------------------------------------------------------|
 | NET PROPERTIES added to board drawing                                        |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -258,10 +156,10 @@
  DMD_SAC_CLK       PROPAGATION_DE J500.M10:R630.1:1 MIL:1712 mil
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
-|                                                                    Page   6  |
+|                                                                    Page   4  |
 |------------------------------------------------------------------------------|
 |  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
-|                                                    Fri Aug 29 15:07:35 2014  |
+|                                                    Mon Sep 01 18:20:55 2014  |
 |------------------------------------------------------------------------------|
 | NET PROPERTIES added to board drawing                                        |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -314,10 +212,10 @@
  D_D17                   BUS_NAME D
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
-|                                                                    Page   7  |
+|                                                                    Page   5  |
 |------------------------------------------------------------------------------|
 |  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
-|                                                    Fri Aug 29 15:07:35 2014  |
+|                                                    Mon Sep 01 18:20:55 2014  |
 |------------------------------------------------------------------------------|
 | NET PROPERTIES added to board drawing                                        |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -370,10 +268,10 @@
  P1_B5             PROPAGATION_DE J2.70:U21.V21:4600 mil:4740 MIL
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
-|                                                                    Page   8  |
+|                                                                    Page   6  |
 |------------------------------------------------------------------------------|
 |  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
-|                                                    Fri Aug 29 15:07:35 2014  |
+|                                                    Mon Sep 01 18:20:55 2014  |
 |------------------------------------------------------------------------------|
 | NET PROPERTIES added to board drawing                                        |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -414,94 +312,41 @@
  TRACEPKT7         PROPAGATION_DE RN501.16:J21.16:2770 mil:2780 mil
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
-|                                                                    Page   9  |
+|                                                                    Page   7  |
 |------------------------------------------------------------------------------|
 |  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
-|                                                    Fri Aug 29 15:07:35 2014  |
-|------------------------------------------------------------------------------|
-| COMPONENT DEFINITION added to board drawing                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    device type                                                               |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- AT90USB1286_0_TQFP64_AT90USB128
- CAP NP_CAP_0402_100NF
- CAP NP_CAP_0402_15PF
- CAP NP_CAP_0402_220NF
- CAP NP_CAP_0603_1UF
- CON4_0_CONN_5_USB_MINI_B_USBFOR
- CRYSTAL_4_PINS_3_2MM_2_5MM_8MHZ
- FDN340P_SSOT-3_FDN340P
- MAX6326_SOT23-3_FC_MAX6326
- RES_RES_0402_0
- RES_RES_0402_22
- RES_RES_0402_47K
- SW SPST_1_SW_GT12_SW SPST_1
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page  10  |
-|------------------------------------------------------------------------------|
-|  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
-|                                                    Fri Aug 29 15:07:35 2014  |
+|                                                    Mon Sep 01 18:20:55 2014  |
 |------------------------------------------------------------------------------|
 | COMPONENTS ADDED to board drawing                                            |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    ref des        |    device type                                           |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- C301                CAP NP_CAP_0603_1UF   
- C302                CAP NP_CAP_0402_15PF  
- C303                CAP NP_CAP_0402_15PF  
- C304                CAP NP_CAP_0402_100NF 
- C305                CAP NP_CAP_0402_100NF 
- C306                CAP NP_CAP_0402_100NF 
- C307                CAP NP_CAP_0402_100NF 
- C308                CAP NP_CAP_0402_100NF 
- C309                CAP NP_CAP_0402_220NF 
- C310                CAP NP_CAP_0402_220NF 
- J34                 CON4_0_CONN_5_USB_MINI_B_USBFOR 
- R241                RES_RES_0402_22       
- R242                RES_RES_0402_22       
- R243                RES_RES_0402_0        
- R244                RES_RES_0402_47K      
- R245                RES_RES_0402_47K      
- SW3                 SW SPST_1_SW_GT12_SW SPST_1 
- SW4                 SW SPST_1_SW_GT12_SW SPST_1 
- U56                 MAX6326_SOT23-3_FC_MAX6326 
- U57                 FDN340P_SSOT-3_FDN340P 
- U61                 AT90USB1286_0_TQFP64_AT90USB128 
- Y1                  CRYSTAL_4_PINS_3_2MM_2_5MM_8MHZ 
+ R246                RES_RES_0402_0        
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
-|                                                                    Page  11  |
+|                                                                    Page   8  |
 |------------------------------------------------------------------------------|
 |  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
-|                                                    Fri Aug 29 15:07:35 2014  |
+|                                                    Mon Sep 01 18:20:55 2014  |
+|------------------------------------------------------------------------------|
+| COMPONENT PROPERTIES added to board drawing                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   ref  des   |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R246                           ROOM           30
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   9  |
+|------------------------------------------------------------------------------|
+|  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
+|                                                    Mon Sep 01 18:20:55 2014  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to board drawing                                       |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- C301.2                         PRIM_FILE      .\pstchip.dat
- C302.2                         PRIM_FILE      .\pstchip.dat
- C303.2                         PRIM_FILE      .\pstchip.dat
- C304.2                         PRIM_FILE      .\pstchip.dat
- C305.2                         PRIM_FILE      .\pstchip.dat
- C306.2                         PRIM_FILE      .\pstchip.dat
- C307.2                         PRIM_FILE      .\pstchip.dat
- C308.2                         PRIM_FILE      .\pstchip.dat
- C309.2                         PRIM_FILE      .\pstchip.dat
- C310.2                         PRIM_FILE      .\pstchip.dat
- J34.8                          PRIM_FILE      .\pstchip.dat
- R241.2                         PRIM_FILE      .\pstchip.dat
- R242.2                         PRIM_FILE      .\pstchip.dat
- R243.2                         PRIM_FILE      .\pstchip.dat
- R244.2                         PRIM_FILE      .\pstchip.dat
- R245.2                         PRIM_FILE      .\pstchip.dat
- SW3.3                          PRIM_FILE      .\pstchip.dat
- SW4.3                          PRIM_FILE      .\pstchip.dat
- U56.3                          PRIM_FILE      .\pstchip.dat
- U57.2                          PRIM_FILE      .\pstchip.dat
- U61.23                         PRIM_FILE      .\pstchip.dat
- Y1.4                           PRIM_FILE      .\pstchip.dat
+ R246.2                         PRIM_FILE      .\pstchip.dat
+ R246.2                         ROOM           30
 |------------------------------------------------------------------------------|
-|   total ECO changes reported  344                                            |
+|   total ECO changes reported  232                                            |
 |------------------------------------------------------------------------------|

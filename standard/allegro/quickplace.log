@@ -1,0 +1,38 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : STANDARD.brd                                  )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Mon Sep 01 18:36:36 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  J34 / CON4_0_CONN_5_USB_MINI_B_USBFOR / CONN_5_USB_MINI_B at (-111.2883 16.3019)
+         Placed symbol:  Y1 / CRYSTAL_4_PINS_3_2MM_2_5MM_8MHZ / 3_2MM_2_5MM at (-102.6115 15.9843)
+         Placed symbol:  SW4 / SW SPST_1_SW_GT12_SW SPST_1 / SW_GT12 at (-95.6305 16.6953)
+         Placed symbol:  SW3 / SW SPST_1_SW_GT12_SW SPST_1 / SW_GT12 at (-85.8495 16.6953)
+         Placed symbol:  R245 / RES_RES_0402_47K / RES_0402 at (-79.7050 14.8589)
+         Placed symbol:  R244 / RES_RES_0402_47K / RES_0402 at (-77.1970 14.8589)
+         Placed symbol:  R243 / RES_RES_0402_0 / RES_0402 at (-74.6890 14.8589)
+         Placed symbol:  R242 / RES_RES_0402_22 / RES_0402 at (-72.1810 14.8589)
+         Placed symbol:  R241 / RES_RES_0402_22 / RES_0402 at (-69.6730 14.8589)
+         Placed symbol:  C310 / CAP NP_CAP_0402_220NF / CAP_0402 at (-67.1645 14.8592)
+         Placed symbol:  C309 / CAP NP_CAP_0402_220NF / CAP_0402 at (-64.6555 14.8592)
+         Placed symbol:  C308 / CAP NP_CAP_0402_100NF / CAP_0402 at (-62.1465 14.8592)
+         Placed symbol:  C307 / CAP NP_CAP_0402_100NF / CAP_0402 at (-59.6375 14.8592)
+         Placed symbol:  C306 / CAP NP_CAP_0402_100NF / CAP_0402 at (-57.1285 14.8592)
+         Placed symbol:  C305 / CAP NP_CAP_0402_100NF / CAP_0402 at (-54.6195 14.8592)
+         Placed symbol:  C304 / CAP NP_CAP_0402_100NF / CAP_0402 at (-52.1105 14.8592)
+         Placed symbol:  C303 / CAP NP_CAP_0402_15PF / CAP_0402 at (-49.6015 14.8592)
+         Placed symbol:  C301 / CAP NP_CAP_0603_1UF / CAP_0603 at (-46.5314 15.1703)
+         Placed symbol:  C302 / CAP NP_CAP_0402_15PF / CAP_0402 at (-43.4613 14.8592)
+
+
+Placed 19 of 19 applicable (241 total) symbols.
+
+-----------------------------------------------------------------------
+

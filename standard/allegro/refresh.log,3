@@ -1,9 +1,9 @@
-Mon Aug 25 22:29:42 2014				Page     1
+Mon Aug 25 22:33:19 2014				Page     1
 
 
  
 Update Symbols/Modules Logfile
-	Mon Aug 25 22:29:42 2014
+	Mon Aug 25 22:33:19 2014
 
 ------ Module Refresh Messages ------
 
@@ -19,12 +19,12 @@ SUMMARY:    Updated 0 out of 0 modules
 (                                                                     )
 (    Drawing          : STANDARD.brd                                  )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Mon Aug 25 22:29:43 2014                      )
+(    Date/Time        : Mon Aug 25 22:33:19 2014                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Mon Aug 25 22:29:43 2014				Page     1
+Mon Aug 25 22:33:19 2014				Page     1
 
 
 ------ Symbol Refresh Directives ------
@@ -40,7 +40,7 @@ Reset symbol text and size locations = 'NO'
 Reset Pin Escapes (fanouts) = 'NO'
 Ripup Etch = 'NO'
 Reset custom drill data = 'NO'
-Symbol list file = 'C:/Users/shang/AppData/Local/Temp/#Taaaaap15064.tmp'
+Symbol list file = 'C:/Users/shang/AppData/Local/Temp/#Taaaaat15064.tmp'
 
 
 ------ Library Paths ------
