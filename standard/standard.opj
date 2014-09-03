@@ -155,14 +155,10 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "d:\dropbox\design\allegroproject\designongit\modificationforlc4500\standard\standard.dsn")
-      (Path "Design Resources"
-         "d:\dropbox\design\allegroproject\designongit\modificationforlc4500\standard\standard.dsn"
-         "SCHEMATIC1")
+      (Path "Design Resources" ".\standard.dsn")
+      (Path "Design Resources" ".\standard.dsn" "SCHEMATIC1")
       (Path "Outputs")
-      (Select "Design Resources"
-         "d:\dropbox\design\allegroproject\designongit\modificationforlc4500\standard\standard.dsn"))
+      (Select "Design Resources" ".\standard.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -173,7 +169,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -30 50 1413 50 620")
-        (Scroll "55 151")
+        (Scroll "55 359")
         (Zoom "134")
         (Occurrence "/"))
       (Path

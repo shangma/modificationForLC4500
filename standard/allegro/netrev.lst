@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : STANDARD.brd                                  )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Wed Sep 03 11:33:09 2014                      )
+(    Date/Time        : Wed Sep 03 12:40:15 2014                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -26,11 +26,11 @@ CmdLine: netrev.exe -y 1 -i D:\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFIC
 ------ Preparing to read pst files ------
 
 Starting to read D:/DROPBOX/DESIGN/ALLEGROPROJECT/DESIGNONGIT/MODIFICATIONFORLC4500/STANDARD/allegro/pstchip.dat 
-   Finished reading D:/DROPBOX/DESIGN/ALLEGROPROJECT/DESIGNONGIT/MODIFICATIONFORLC4500/STANDARD/allegro/pstchip.dat (00:00:00.52)
+   Finished reading D:/DROPBOX/DESIGN/ALLEGROPROJECT/DESIGNONGIT/MODIFICATIONFORLC4500/STANDARD/allegro/pstchip.dat (00:00:00.07)
 Starting to read D:/DROPBOX/DESIGN/ALLEGROPROJECT/DESIGNONGIT/MODIFICATIONFORLC4500/STANDARD/allegro/pstxprt.dat 
-   Finished reading D:/DROPBOX/DESIGN/ALLEGROPROJECT/DESIGNONGIT/MODIFICATIONFORLC4500/STANDARD/allegro/pstxprt.dat (00:00:00.09)
+   Finished reading D:/DROPBOX/DESIGN/ALLEGROPROJECT/DESIGNONGIT/MODIFICATIONFORLC4500/STANDARD/allegro/pstxprt.dat (00:00:00.05)
 Starting to read D:/DROPBOX/DESIGN/ALLEGROPROJECT/DESIGNONGIT/MODIFICATIONFORLC4500/STANDARD/allegro/pstxnet.dat 
-   Finished reading D:/DROPBOX/DESIGN/ALLEGROPROJECT/DESIGNONGIT/MODIFICATIONFORLC4500/STANDARD/allegro/pstxnet.dat (00:00:00.16)
+   Finished reading D:/DROPBOX/DESIGN/ALLEGROPROJECT/DESIGNONGIT/MODIFICATIONFORLC4500/STANDARD/allegro/pstxnet.dat (00:00:00.03)
 
 ------ Oversights/Warnings/Errors ------
 
@@ -385,7 +385,7 @@ PADPATH =  .
 ------ Summary Statistics ------
 
 
-netrev run on Sep 3 11:33:09 2014
+netrev run on Sep 3 12:40:15 2014
    DESIGN NAME : 'STANDARD'
    PACKAGING ON Sep 10 2012 04:46:09
 
@@ -410,6 +410,6 @@ netrev run on Sep 3 11:33:09 2014
  No oversight detected
  81 warnings detected
 
-cpu time      0:24:46
-elapsed time  0:00:06
+cpu time      0:01:40
+elapsed time  0:00:01
 
