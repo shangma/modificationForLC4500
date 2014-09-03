@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : STANDARD.brd                                  )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Tue Sep 02 16:44:08 2014                      )
+(    Date/Time        : Tue Sep 02 17:01:24 2014                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -20,10 +20,7 @@
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
 
- ..... Total number of DRC errors  0
-
-
-WARNING: 1 dynamic shape(s) out of date; checking skipped on these elements.
+ ..... Total number of DRC errors  1
 
  ..... DRC update completed, total CPU time   0:00:02
  *************************************************************************
