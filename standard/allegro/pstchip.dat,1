@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001Sep-01-2014 at 19:57:11}
+{ Using PSTWRITER 16.6.0 d001Sep-04-2014 at 15:55:37}
 primitive 'CAP NP_CAP_0402_0.1UF';
   pin
     '1':
