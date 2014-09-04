@@ -1,0 +1,557 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Wed Sep 03 16:57:37 2014
+\t (00:00:00)         Host=SHANG-X201 User=shang Pid=6104 CPUs=4
+\t (00:00:00) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Database opened: D:/Dropbox/Design/allegroProject/designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd
+\t (00:00:02) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:00:02) trapsize 357
+\i (00:00:02) trapsize 351
+\i (00:00:02) trapsize 358
+\i (00:00:02) trapsize 367
+\i (00:00:03) trapsize 367
+\i (00:00:03) generaledit 
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out -14.6825 -1.7499
+\i (00:00:04) trapsize 733
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out -14.6972 -1.7205
+\t (00:00:04) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
+\i (00:00:04) trapsize 1467
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in -10.7371 9.9248
+\t (00:00:09) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:00:09) trapsize 733
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out -10.7664 9.9249
+\t (00:00:10) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
+\i (00:00:10) trapsize 1467
+\i (00:00:12) drc update 
+\t (00:00:12) Performing DRC...
+\t (00:00:12) Multithreaded DRC update (4 threads).
+\t (00:00:13) No DRC errors detected.
+\i (00:00:13) generaledit 
+\i (00:00:14) roam start
+\i (00:00:14) roam x 64
+\i (00:00:14) roam y 48
+\i (00:00:14) roam x 192
+\i (00:00:14) roam y 48
+\i (00:00:14) roam x 80
+\i (00:00:14) roam y 16
+\i (00:00:14) roam x 32
+\i (00:00:14) roam y 32
+\i (00:00:14) roam x 32
+\i (00:00:14) roam end
+\i (00:00:15) roam start
+\i (00:00:15) roam x -80
+\i (00:00:15) roam y 144
+\i (00:00:15) roam x -64
+\i (00:00:15) roam y 160
+\i (00:00:15) roam y 32
+\i (00:00:15) roam end
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in -14.0151 -11.3273
+\t (00:00:16) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:00:16) trapsize 733
+\i (00:01:14) zoom in 1 
+\i (00:01:14) setwindow pcb
+\i (00:01:14) zoom in -13.5018 -12.6033
+\i (00:01:14) trapsize 367
+\i (00:01:14) zoom in 1 
+\i (00:01:14) setwindow pcb
+\i (00:01:14) zoom in -13.5018 -12.6033
+\i (00:01:14) trapsize 183
+\i (00:01:15) zoom out 1 
+\i (00:01:15) setwindow pcb
+\i (00:01:15) zoom out -13.3661 -12.5703
+\i (00:01:15) trapsize 367
+\i (00:01:15) roam start
+\i (00:01:15) roam x 64
+\i (00:01:15) roam y -16
+\i (00:01:15) roam x 112
+\i (00:01:15) roam x 16
+\i (00:01:16) roam end
+\i (00:01:20) zoom out 1 
+\i (00:01:20) setwindow pcb
+\i (00:01:20) zoom out -12.3223 -11.7390
+\i (00:01:20) trapsize 733
+\i (00:01:21) pick grid -6.2944 -10.5951
+\t (00:01:21) last pick:  -6.2992  -10.5918
+\i (00:01:23) delete 
+\i (00:01:25) pick grid -10.6650 -11.3284
+\t (00:01:25) last pick:  -10.6680  -11.3284
+\t (00:01:25) Horizontal Line Segment "At_P5v, Etch/Bottom"
+\i (00:01:26) pick grid -11.7064 -11.1524
+\t (00:01:26) last pick:  -11.7094  -11.1506
+\t (00:01:26) Horizontal Line Segment "At_P5v, Etch/Bottom"
+\i (00:01:27) pick grid -12.2490 -11.0791
+\t (00:01:27) last pick:  -12.2428  -11.0744
+\t (00:01:27) Odd-angle Line Segment "At_P5v, Etch/Bottom"
+\i (00:01:28) prepopup -6.4850 -9.6271
+\i (00:01:28) done 
+\i (00:01:29) generaledit 
+\i (00:01:31) delete 
+\i (00:01:32) pick grid -11.3690 -11.0937
+\t (00:01:32) last pick:  -11.3792  -11.0998
+\t (00:01:32) Odd-angle Line Segment "At_P5v, Etch/Bottom"
+\i (00:01:32) prepopup -6.8224 -9.7737
+\i (00:01:32) done 
+\i (00:01:32) generaledit 
+\i (00:01:33) zoom in 1 
+\i (00:01:33) setwindow pcb
+\i (00:01:33) zoom in -11.1930 -10.5364
+\i (00:01:33) trapsize 367
+\i (00:01:34) zoom out 1 
+\i (00:01:34) setwindow pcb
+\i (00:01:34) zoom out -11.2957 -10.5878
+\i (00:01:34) trapsize 733
+\i (00:01:37) move 
+\t (00:01:37) Select element(s) to move.
+\i (00:01:38) pick grid -11.5744 -10.4263
+\t (00:01:38) last pick:  -11.5824  -10.4140
+\t (00:01:38) Cannot edit Symbol "U61". It has the FIXED property.
+\t (00:01:38) Pick user-pick origin.
+\i (00:01:38) pick grid -11.5304 -10.4850
+\t (00:01:38) last pick:  -11.5316  -10.4902
+\t (00:01:38) Moving C308 / CAP NP_CAP_0402_100NF / CAP_0402.
+\t (00:01:38) Pick new location for the element(s).
+\i (00:01:39) pick grid -11.5304 -10.0597
+\t (00:01:39) last pick:  -11.5316  -10.0584
+\i (00:01:40) zoom in 1 
+\i (00:01:40) setwindow pcb
+\i (00:01:40) zoom in -11.4864 -10.7050
+\i (00:01:40) trapsize 367
+\i (00:01:40) zoom in 1 
+\i (00:01:40) setwindow pcb
+\i (00:01:40) zoom in -11.4864 -10.7050
+\i (00:01:40) trapsize 183
+\i (00:01:41) pick grid -11.4644 -10.2503
+\t (00:01:41) last pick:  -11.4554  -10.2616
+\t (00:01:41) Cannot edit Symbol "U61". It has the FIXED property.
+\t (00:01:41) Pick user-pick origin.
+\i (00:01:41) pick grid -11.4718 -10.2907
+\t (00:01:41) last pick:  -11.4808  -10.2870
+\t (00:01:41) Moving C308 / CAP NP_CAP_0402_100NF / CAP_0402.
+\t (00:01:41) Pick new location for the element(s).
+\i (00:01:42) pick grid -11.4718 -10.3530
+\t (00:01:42) last pick:  -11.4808  -10.3632
+\i (00:01:44) pick grid -11.4681 -10.3640
+\t (00:01:44) last pick:  -11.4554  -10.3632
+\t (00:01:44) Cannot edit Symbol "U61". It has the FIXED property.
+\t (00:01:44) Pick user-pick origin.
+\i (00:01:44) pick grid -11.4644 -10.3823
+\t (00:01:44) last pick:  -11.4554  -10.3886
+\t (00:01:44) Moving C308 / CAP NP_CAP_0402_100NF / CAP_0402.
+\t (00:01:44) Pick new location for the element(s).
+\i (00:01:47) pick grid -11.4534 -10.6317
+\t (00:01:47) last pick:  -11.4554  -10.6426
+\i (00:01:48) prepopup -10.6981 -10.4520
+\i (00:01:48) done 
+\i (00:01:48) generaledit 
+\i (00:01:50) zoom out 1 
+\i (00:01:50) setwindow pcb
+\i (00:01:50) zoom out -10.7604 -10.4777
+\i (00:01:50) trapsize 367
+\i (00:01:54) zoom out 1 
+\i (00:01:54) setwindow pcb
+\i (00:01:54) zoom out -11.0904 -12.2156
+\i (00:01:54) trapsize 733
+\i (00:02:02) roam start
+\i (00:02:02) roam x 112
+\i (00:02:02) roam x 176
+\i (00:02:02) roam x 96
+\i (00:02:03) roam x 80
+\i (00:02:03) roam x 64
+\i (00:02:03) roam end
+\i (00:02:03) zoom out 1 
+\i (00:02:03) setwindow pcb
+\i (00:02:03) zoom out -5.6698 -12.5383
+\t (00:02:03) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
+\i (00:02:03) trapsize 1467
+\i (00:02:06) add connect 
+\t (00:02:06) Pick first element.
+\i (00:02:07) pick grid -1.2404 0.3096
+\t (00:02:07) last pick:  -1.2446  0.3048
+\t (00:02:07) last pick:  -0.9896  0.2338
+\t (00:02:07) Target Via is defined from TOP to BOTTOM.
+\t (00:02:07) last pick:  -0.9896  0.2338
+\i (00:02:08) prepopup -0.0670 -3.4744
+\i (00:02:09) oops 
+\t (00:02:09) last pick:  -0.9896  0.2338
+\t (00:02:09) Pick first element.
+\i (00:02:11) setwindow form.mini
+\i (00:02:11) FORM mini acon_line_width 0.5080 
+\i (00:02:12) setwindow pcb
+\i (00:02:12) pick grid -0.9470 0.4269
+\t (00:02:12) last pick:  -0.9398  0.4318
+\t (00:02:12) last pick:  -0.9896  0.2338
+\t (00:02:12) Target Via is defined from TOP to BOTTOM.
+\t (00:02:12) last pick:  -0.9896  0.2338
+\i (00:02:18) pick grid -1.8857 -4.0611
+\t (00:02:18) last pick:  -1.8796  -4.0640
+\t (00:02:18) No DRC errors detected.
+\i (00:02:20) pick grid -6.3737 -4.8531
+\t (00:02:20) last pick:  -6.3754  -4.8514
+\t (00:02:20) No DRC errors detected.
+\i (00:02:22) zoom in 1 
+\i (00:02:22) setwindow pcb
+\i (00:02:22) zoom in -7.3710 -13.4477
+\t (00:02:22) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:02:22) trapsize 733
+\i (00:02:22) zoom in 1 
+\i (00:02:22) setwindow pcb
+\i (00:02:22) zoom in -7.3710 -13.4477
+\i (00:02:22) trapsize 367
+\i (00:02:25) pick grid -6.4177 -11.9737
+\t (00:02:25) last pick:  -6.4262  -11.9634
+\t (00:02:25) No DRC errors detected.
+\t (00:02:25) last pick:  -6.3754  -11.9126
+\i (00:02:26) prepopup -6.3150 -11.9591
+\i (00:02:26) done 
+\i (00:02:26) generaledit 
+\i (00:02:27) zoom out 1 
+\i (00:02:27) setwindow pcb
+\i (00:02:27) zoom out -7.0410 -12.3184
+\i (00:02:27) trapsize 733
+\i (00:02:27) roam start
+\i (00:02:27) roam x -144
+\i (00:02:27) roam y -32
+\i (00:02:27) roam x -80
+\i (00:02:27) roam y -16
+\i (00:02:28) roam x -32
+\i (00:02:28) roam end
+\i (00:02:30) zoom in 1 
+\i (00:02:30) setwindow pcb
+\i (00:02:30) zoom in -12.2257 -11.4300
+\i (00:02:30) trapsize 367
+\i (00:02:31) zoom in 1 
+\i (00:02:31) setwindow pcb
+\i (00:02:31) zoom in -12.8343 -11.0486
+\i (00:02:31) trapsize 183
+\i (00:02:33) add connect 
+\t (00:02:33) Pick first element.
+\i (00:02:35) setwindow form.mini
+\i (00:02:35) FORM mini active_subclass BOTTOM 
+\t (00:02:35) Pick first element.
+\i (00:02:36) FORM mini alt_subclass TOP 
+\t (00:02:36) Pick first element.
+\i (00:02:37) setwindow pcb
+\i (00:02:37) pick grid -12.3247 -11.0303
+\t (00:02:37) last pick:  -12.3190  -11.0236
+\t (00:02:37) last pick:  -12.2884  -11.0363
+\t (00:02:37) Target Symbol Pin is defined on BOTTOM.
+\t (00:02:37) last pick:  -12.2884  -11.0363
+\i (00:02:37) mouse_pos -11.7820 -11.0669
+\i (00:02:38) pick grid -11.5950 -11.0633
+\t (00:02:38) last pick:  -11.5824  -11.0744
+\t (00:02:38) No DRC errors detected.
+\t (00:02:38) Pick first element.
+\i (00:02:38) prepopup -11.5877 -11.0633
+\i (00:02:39) done 
+\i (00:02:39) generaledit 
+\i (00:02:39) zoom out 1 
+\i (00:02:39) setwindow pcb
+\i (00:02:39) zoom out -11.6390 -11.0669
+\i (00:02:39) trapsize 367
+\i (00:02:41) zoom in 1 
+\i (00:02:41) setwindow pcb
+\i (00:02:41) zoom in -10.5097 -11.1183
+\i (00:02:41) trapsize 183
+\i (00:02:42) pick grid -10.3080 -11.1660
+\t (00:02:42) last pick:  -10.3124  -11.1760
+\i (00:02:44) add connect 
+\t (00:02:44) Pick first element.
+\i (00:02:46) pick grid -10.2860 -11.1953
+\t (00:02:46) last pick:  -10.2870  -11.2014
+\t (00:02:46) last pick:  -10.2616  -11.1760
+\t (00:02:46) Target Symbol Pin is defined on BOTTOM.
+\t (00:02:46) last pick:  -10.2616  -11.1760
+\i (00:02:47) mouse_pos -11.1403 -10.9826
+\i (00:02:49) pick grid -11.4996 -10.9533
+\t (00:02:49) last pick:  -11.5062  -10.9474
+\t (00:02:49) No DRC errors detected.
+\t (00:02:49) Pick first element.
+\i (00:02:49) pick grid dbl -11.4996 -10.9533
+\t (00:02:49) last pick:  -11.5062  -10.9474
+\t (00:02:49) Pick first element.
+\t (00:02:49) last pick:  -11.4808  -11.0363
+\t (00:02:49) Target Via is defined from TOP to BOTTOM.
+\t (00:02:49) last pick:  -11.4808  -11.0363
+\i (00:02:49) mouse_pos -11.4996 -10.9533
+\i (00:02:50) prepopup -11.4996 -10.9496
+\i (00:02:50) done 
+\i (00:02:50) generaledit 
+\i (00:02:51) zoom out 1 
+\i (00:02:51) setwindow pcb
+\i (00:02:51) zoom out -11.5106 -10.9716
+\i (00:02:51) trapsize 367
+\i (00:02:52) zoom out 1 
+\i (00:02:52) setwindow pcb
+\i (00:02:52) zoom out -10.6966 -10.8837
+\i (00:02:52) trapsize 733
+\i (00:02:54) zoom out 1 
+\i (00:02:54) setwindow pcb
+\i (00:02:54) zoom out -5.6807 -10.9863
+\t (00:02:54) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
+\i (00:02:54) trapsize 1467
+\i (00:02:54) roam start
+\i (00:02:54) roam x 48
+\i (00:02:54) roam y -32
+\i (00:02:54) roam x 16
+\i (00:02:54) roam y -16
+\i (00:02:55) roam end
+\i (00:02:56) zoom in 1 
+\i (00:02:56) setwindow pcb
+\i (00:02:56) zoom in -5.3031 -10.2714
+\t (00:02:56) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:02:56) trapsize 733
+\i (00:02:56) zoom in 1 
+\i (00:02:56) setwindow pcb
+\i (00:02:56) zoom in -5.3030 -10.2713
+\i (00:02:56) trapsize 367
+\i (00:02:56) zoom out 1 
+\i (00:02:56) setwindow pcb
+\i (00:02:56) zoom out -5.6477 -10.0953
+\i (00:02:56) trapsize 733
+\i (00:02:59) delete 
+\i (00:03:00) pick grid -6.1904 -6.5752
+\t (00:03:00) last pick:  -6.1976  -6.5786
+\t (00:03:00) Vertical Line Segment "Hwb, Etch/Top"
+\i (00:03:00) prepopup -5.0318 -6.6192
+\i (00:03:00) done 
+\i (00:03:01) generaledit 
+\i (00:03:04) add connect 
+\t (00:03:05) Pick first element.
+\i (00:03:06) pick grid -14.1104 -11.9579
+\t (00:03:06) last pick:  -14.1224  -11.9634
+\t (00:03:06) last pick:  -14.0970  -11.9761
+\t (00:03:06) Target Odd-angle Line Segment is defined on TOP.
+\t (00:03:06) last pick:  -14.0970  -11.9761
+\i (00:03:13) pick grid -6.3664 -11.2832
+\t (00:03:13) last pick:  -6.3754  -11.2776
+\t (00:03:13) No DRC errors detected.
+\i (00:03:14) prepopup -6.3811 -11.2686
+\i (00:03:15) pop bbdrill 
+\t (00:03:15) VIA16C8 used for drill.
+\t (00:03:15) No DRC errors detected.
+\i (00:03:16) mouse_pos -6.3811 -5.1526
+\i (00:03:17) pick grid -6.3958 -4.9326
+\t (00:03:17) last pick:  -6.4008  -4.9276
+\t (00:03:17) No DRC errors detected.
+\t (00:03:17) Pick first element.
+\i (00:03:17) prepopup -6.4104 -4.9033
+\i (00:03:17) done 
+\i (00:03:17) generaledit 
+\i (00:03:19) zoom in 1 
+\i (00:03:19) setwindow pcb
+\i (00:03:19) zoom in -6.5424 -12.1632
+\i (00:03:19) trapsize 367
+\i (00:03:19) zoom in 1 
+\i (00:03:19) setwindow pcb
+\i (00:03:19) zoom in -6.5425 -12.1632
+\i (00:03:19) trapsize 183
+\i (00:03:20) zoom out 1 
+\i (00:03:20) setwindow pcb
+\i (00:03:20) zoom out -6.5424 -12.1595
+\i (00:03:20) trapsize 367
+\i (00:03:21) zoom out 1 
+\i (00:03:21) setwindow pcb
+\i (00:03:21) zoom out -6.3518 -12.2034
+\i (00:03:21) trapsize 733
+\i (00:03:22) zoom in 1 
+\i (00:03:22) setwindow pcb
+\i (00:03:22) zoom in -15.3571 -12.0421
+\i (00:03:22) trapsize 367
+\i (00:03:23) zoom out 1 
+\i (00:03:23) setwindow pcb
+\i (00:03:23) zoom out -15.3205 -12.0421
+\i (00:03:23) trapsize 733
+\i (00:03:41) delete 
+\i (00:03:43) pick grid -14.6458 -12.5114
+\t (00:03:43) last pick:  -14.6558  -12.5222
+\t (00:03:43) Odd-angle Line Segment "Hwb, Etch/Bottom"
+\i (00:03:44) pick grid -14.8658 -12.5114
+\t (00:03:44) last pick:  -14.8590  -12.5222
+\t (00:03:44) Horizontal Line Segment "Hwb, Etch/Bottom"
+\i (00:03:44) pick grid -15.2911 -12.4967
+\t (00:03:44) last pick:  -15.2908  -12.4968
+\t (00:03:44) Odd-angle Line Segment "Hwb, Etch/Bottom"
+\i (00:03:44) pick grid -15.7311 -12.3500
+\t (00:03:44) last pick:  -15.7226  -12.3444
+\t (00:03:45) Vertical Line Segment "Hwb, Etch/Bottom"
+\i (00:03:45) pick grid -15.7751 -11.9687
+\t (00:03:45) last pick:  -15.7734  -11.9634
+\i (00:03:46) pick grid -14.1765 -12.3940
+\t (00:03:46) last pick:  -14.1732  -12.3952
+\t (00:03:46) Vertical Line Segment "Hwb, Etch/Bottom"
+\i (00:03:47) pick grid -13.4432 -12.0274
+\t (00:03:47) last pick:  -13.4366  -12.0396
+\t (00:03:47) Horizontal Line Segment "Hwb, Etch/Bottom"
+\i (00:03:48) prepopup -5.8458 -12.3060
+\i (00:03:48) done 
+\i (00:03:48) generaledit 
+\i (00:03:49) zoom in 1 
+\i (00:03:49) setwindow pcb
+\i (00:03:49) zoom in -7.4445 -12.7314
+\i (00:03:49) trapsize 367
+\i (00:03:51) zoom out 1 
+\i (00:03:51) setwindow pcb
+\i (00:03:51) zoom out -7.3345 -12.7827
+\i (00:03:51) trapsize 733
+\i (00:03:52) add connect 
+\t (00:03:53) Pick first element.
+\i (00:03:54) pick grid -7.1585 -11.9906
+\t (00:03:54) last pick:  -7.1628  -11.9888
+\t (00:03:54) last pick:  -7.0739  -11.9761
+\t (00:03:54) Target Symbol Pin is defined on BOTTOM.
+\t (00:03:54) last pick:  -7.0739  -11.9761
+\i (00:03:58) pick grid -12.9812 -12.1960
+\t (00:03:58) last pick:  -12.9794  -12.1920
+\t (00:03:58) No DRC errors detected.
+\i (00:03:59) mouse_pos -14.0665 -13.0173
+\i (00:04:00) pick grid -14.1105 -13.0906
+\t (00:04:00) last pick:  -14.1224  -13.0810
+\t (00:04:00) No DRC errors detected.
+\t (00:04:00) Pick first element.
+\i (00:04:01) zoom in 1 
+\i (00:04:01) setwindow pcb
+\i (00:04:01) zoom in -13.6265 -12.1080
+\i (00:04:01) trapsize 367
+\i (00:04:01) zoom in 1 
+\i (00:04:01) setwindow pcb
+\i (00:04:01) zoom in -13.6265 -12.1079
+\i (00:04:01) trapsize 183
+\i (00:04:02) pick grid -13.2048 -12.1115
+\t (00:04:02) last pick:  -13.2080  -12.1158
+\t (00:04:02) Pick first element.
+\t (00:04:02) last pick:  -13.1318  -12.1920
+\t (00:04:02) Target Symbol Pin is defined on BOTTOM.
+\t (00:04:02) last pick:  -13.1318  -12.1920
+\i (00:04:02) mouse_pos -13.7585 -12.0089
+\i (00:04:03) pick grid -14.0408 -11.9722
+\t (00:04:03) last pick:  -14.0462  -11.9634
+\t (00:04:03) No DRC errors detected.
+\t (00:04:03) Pick first element.
+\i (00:04:05) pick grid -15.7531 -11.9539
+\t (00:04:05) last pick:  -15.7480  -11.9634
+\t (00:04:05) Pick first element.
+\t (00:04:05) last pick:  -15.7480  -11.9761
+\t (00:04:05) Target Via is defined from TOP to BOTTOM.
+\t (00:04:05) last pick:  -15.7480  -11.9761
+\i (00:04:05) mouse_pos -14.2865 -12.0052
+\i (00:04:06) mouse_pos -14.7705 -12.0052
+\i (00:04:07) mouse_pos -14.4331 -11.9942
+\i (00:04:07) mouse_pos -14.5688 -12.0015
+\i (00:04:07) prepopup -14.5761 -11.9905
+\i (00:04:08) oops 
+\t (00:04:08) last pick:  -15.7480  -11.9761
+\t (00:04:08) Pick first element.
+\i (00:04:08) pick grid -14.1178 -11.9759
+\t (00:04:08) last pick:  -14.1224  -11.9634
+\t (00:04:08) last pick:  -14.0970  -11.9761
+\t (00:04:08) Target Symbol Pin is defined on BOTTOM.
+\t (00:04:08) last pick:  -14.0970  -11.9761
+\i (00:04:09) mouse_pos -15.4598 -11.9539
+\i (00:04:10) mouse_pos -15.3938 -12.0235
+\i (00:04:10) mouse_pos -15.4635 -12.0015
+\i (00:04:11) mouse_pos -15.3425 -12.0822
+\i (00:04:12) mouse_pos -15.5845 -12.0235
+\i (00:04:14) mouse_pos -15.3425 -12.0419
+\i (00:04:15) pick grid -15.2655 -12.0235
+\t (00:04:15) last pick:  -15.2654  -12.0142
+\t (00:04:15) No DRC errors detected.
+\t (00:04:15) last pick:  -15.2273  -11.9761
+\i (00:04:15) mouse_pos -15.4121 -12.0052
+\i (00:04:16) pick grid -15.5845 -11.9905
+\t (00:04:16) last pick:  -15.5956  -11.9888
+\t (00:04:16) No DRC errors detected.
+\t (00:04:16) Pick first element.
+\i (00:04:16) prepopup -15.5991 -11.9869
+\i (00:04:17) done 
+\i (00:04:17) generaledit 
+\i (00:04:18) zoom out 1 
+\i (00:04:18) setwindow pcb
+\i (00:04:18) zoom out -12.9702 -12.3022
+\i (00:04:18) trapsize 367
+\i (00:04:22) delete 
+\i (00:04:24) pick grid -13.9234 -12.1262
+\t (00:04:24) last pick:  -13.9192  -12.1158
+\t (00:04:24) Horizontal Line Segment "Hwb, Etch/Bottom"
+\i (00:04:24) pick grid -13.7768 -12.2142
+\t (00:04:24) last pick:  -13.7668  -12.2174
+\t (00:04:24) Odd-angle Line Segment "Hwb, Etch/Bottom"
+\i (00:04:25) pick grid -13.6668 -12.2362
+\t (00:04:25) last pick:  -13.6652  -12.2428
+\t (00:04:25) Horizontal Line Segment "Hwb, Etch/Bottom"
+\i (00:04:25) pick grid -13.5568 -12.2949
+\t (00:04:25) last pick:  -13.5636  -12.2936
+\t (00:04:25) Odd-angle Line Segment "Hwb, Etch/Bottom"
+\i (00:04:26) pick grid -13.4541 -12.3462
+\t (00:04:26) last pick:  -13.4620  -12.3444
+\t (00:04:26) Odd-angle Line Segment "Hwb, Etch/Bottom"
+\i (00:04:26) pick grid -13.3514 -12.3242
+\t (00:04:26) last pick:  -13.3604  -12.3190
+\t (00:04:26) Odd-angle Line Segment "Hwb, Etch/Bottom"
+\i (00:04:27) pick grid -13.1828 -12.2509
+\t (00:04:27) last pick:  -13.1826  -12.2428
+\t (00:04:27) Horizontal Line Segment "Hwb, Etch/Bottom"
+\i (00:04:27) pick grid -13.0361 -12.1922
+\t (00:04:27) last pick:  -13.0302  -12.1920
+\t (00:04:27) Odd-angle Line Segment "Hwb, Etch/Bottom"
+\i (00:04:28) pick grid -13.3954 -12.1849
+\t (00:04:28) last pick:  -13.3858  -12.1920
+\t (00:04:28) Odd-angle Line Segment "Not On A Net, Etch/Bottom"
+\i (00:04:29) prepopup -11.4741 -12.5075
+\i (00:04:30) done 
+\i (00:04:30) generaledit 
+\i (00:04:32) delete 
+\i (00:04:33) pick grid -13.1388 -12.1409
+\t (00:04:33) last pick:  -13.1318  -12.1412
+\t (00:04:33) Odd-angle Line Segment "Hwb, Etch/Bottom"
+\i (00:04:33) prepopup -12.4494 -12.5955
+\i (00:04:34) done 
+\i (00:04:34) generaledit 
+\i (00:04:34) zoom in 1 
+\i (00:04:34) setwindow pcb
+\i (00:04:34) zoom in -12.4714 -12.5735
+\i (00:04:34) trapsize 183
+\i (00:04:36) zoom out 1 
+\i (00:04:36) setwindow pcb
+\i (00:04:36) zoom out -12.4861 -12.5881
+\i (00:04:36) trapsize 367
+\i (00:04:39) zoom out 1 
+\i (00:04:39) setwindow pcb
+\i (00:04:39) zoom out -12.5447 -12.6102
+\i (00:04:39) trapsize 733
+\i (00:04:40) zoom in 1 
+\i (00:04:40) setwindow pcb
+\i (00:04:40) zoom in -12.5448 -12.6395
+\i (00:04:40) trapsize 367
+\i (00:04:42) roam start
+\i (00:04:42) roam x 32
+\i (00:04:42) roam x 16
+\i (00:04:42) roam x 48
+\i (00:04:42) roam x 32
+\i (00:04:42) roam end
+\i (00:04:45) delete 
+\i (00:04:46) pick grid -11.9556 -12.3314
+\t (00:04:46) last pick:  -11.9634  -12.3190
+\t (00:04:46) Horizontal Line Segment "Hwb, Etch/Bottom"
+\i (00:04:49) prepopup -11.9923 -12.6321
+\i (00:04:50) cancel 
+\i (00:04:50) generaledit 
+\i (00:04:51) add connect 
+\t (00:04:51) Pick first element.
+\i (00:04:53) pick grid -13.2903 -12.2214
+\t (00:04:53) last pick:  -13.2842  -12.2174
+\t (00:04:53) last pick:  -13.1400  -12.1920
+\t (00:04:53) Target Symbol Pin is defined on BOTTOM.
+\t (00:04:53) last pick:  -13.1400  -12.1920
+\i (00:04:53) mouse_pos -13.6203 -12.1628
+\i (00:04:53) mouse_pos -13.7083 -12.1334
+\i (00:04:53) mouse_pos -1
