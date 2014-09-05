@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 16.6.0 d001Sep-04-2014 at 16:09:01 }
+{ Using PSTWRITER 16.6.0 d001Sep-04-2014 at 17:27:33 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='STANDARD';
@@ -7700,12 +7700,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- U42 'SN74AVC8T245PW_PW_SN74AVC8T245P':;
+ U42 'SN74AVC8T245PW_1_PW_SN74AVC8T24':;
 
 SECTION_NUMBER 1
- '@STANDARD.SCHEMATIC1(SCH_1):INS40691459@HPC_LIBRARY.SN74AVC8T245PW.NORMAL(CHIPS)':
- C_PATH='@standard.schematic1(sch_1):ins40691459@hpc_library.\sn74avc8t245pw.normal\(chips)',
- P_PATH='@standard.schematic1(sch_1):page_ins40691459@hpc_library.\sn74avc8t245pw.normal\(chips)',
+ '@STANDARD.SCHEMATIC1(SCH_1):INS40691459@STANDARD.SN74AVC8T245PW_1.NORMAL(CHIPS)':
+ C_PATH='@standard.schematic1(sch_1):ins40691459@standard.\sn74avc8t245pw_1.normal\(chips)',
+ P_PATH='@standard.schematic1(sch_1):page_ins40691459@standard.\sn74avc8t245pw_1.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -7790,12 +7790,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- U50 'TPS79318_TI_DVB_TPS79318DBV':;
+ U50 'TPS79318_0_TI_DVB_TPS79318DBV':;
 
 SECTION_NUMBER 1
- '@STANDARD.SCHEMATIC1(SCH_1):INS41452857@HPC_LIBRARY.TPS79318.NORMAL(CHIPS)':
- C_PATH='@standard.schematic1(sch_1):ins41452857@hpc_library.\tps79318.normal\(chips)',
- P_PATH='@standard.schematic1(sch_1):page_ins41452857@hpc_library.\tps79318.normal\(chips)',
+ '@STANDARD.SCHEMATIC1(SCH_1):INS41452857@STANDARD.TPS79318_0.NORMAL(CHIPS)':
+ C_PATH='@standard.schematic1(sch_1):ins41452857@standard.\tps79318_0.normal\(chips)',
+ P_PATH='@standard.schematic1(sch_1):page_ins41452857@standard.\tps79318_0.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

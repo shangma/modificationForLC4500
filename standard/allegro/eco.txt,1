@@ -3,27 +3,21 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
-|                                                    Thu Sep 04 16:09:03 2014  |
+|                                                    Thu Sep 04 17:27:36 2014  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  LEDB_EN      no longer scheduled
-               pins MOVED FROM this net (to net name listed on right)
-                                 R227.2          -27.626 -7.6172
-                                                                     BLU_LED_EN
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  LEDG_EN      no longer scheduled
-               pins MOVED FROM this net (to net name listed on right)
-                                 R216.2          -57.395 -0.6260
-                                                                     GRN_LED_EN
+  SYS_DATA_EN  pins DELETED FROM this net (all pins deleted)
+                                 J4.17                          
+                                 U6.P1                          
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
 |  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
-|                                                    Thu Sep 04 16:09:03 2014  |
+|                                                    Thu Sep 04 17:27:36 2014  |
 |------------------------------------------------------------------------------|
 | NET PROPERTIES added to board drawing                                        |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -79,7 +73,7 @@
 |                                                                    Page   3  |
 |------------------------------------------------------------------------------|
 |  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
-|                                                    Thu Sep 04 16:09:03 2014  |
+|                                                    Thu Sep 04 17:27:36 2014  |
 |------------------------------------------------------------------------------|
 | NET PROPERTIES added to board drawing                                        |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -135,7 +129,7 @@
 |                                                                    Page   4  |
 |------------------------------------------------------------------------------|
 |  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
-|                                                    Thu Sep 04 16:09:03 2014  |
+|                                                    Thu Sep 04 17:27:36 2014  |
 |------------------------------------------------------------------------------|
 | NET PROPERTIES added to board drawing                                        |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -191,7 +185,7 @@
 |                                                                    Page   5  |
 |------------------------------------------------------------------------------|
 |  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
-|                                                    Thu Sep 04 16:09:03 2014  |
+|                                                    Thu Sep 04 17:27:36 2014  |
 |------------------------------------------------------------------------------|
 | NET PROPERTIES added to board drawing                                        |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -247,7 +241,7 @@
 |                                                                    Page   6  |
 |------------------------------------------------------------------------------|
 |  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
-|                                                    Thu Sep 04 16:09:03 2014  |
+|                                                    Thu Sep 04 17:27:36 2014  |
 |------------------------------------------------------------------------------|
 | NET PROPERTIES added to board drawing                                        |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -286,6 +280,45 @@
  TRACEPKT3         PROPAGATION_DE RN501.12:J21.24:2770 mil:2780 mil
  TRACEPKT6         PROPAGATION_DE RN501.15:J21.18:2770 mil:2780 mil
  TRACEPKT7         PROPAGATION_DE RN501.16:J21.16:2770 mil:2780 mil
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
 |------------------------------------------------------------------------------|
-|   total ECO changes reported  217                                            |
+|  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
+|                                                    Thu Sep 04 17:27:36 2014  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to board drawing                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ SN74AVC8T245PW_1_PW_SN74AVC8T24
+ TPS79318_0_TI_DVB_TPS79318DBV
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
+|                                                    Thu Sep 04 17:27:36 2014  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in board drawing          |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ U42                 SN74AVC8T245PW_1_PW_SN74AVC8T24                 SN74AVC8T245PW_PW_SN74AVC8T245P
+ U50                 TPS79318_0_TI_DVB_TPS79318DBV                 TPS79318_TI_DVB_TPS79318DBV
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   9  |
+|------------------------------------------------------------------------------|
+|  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
+|                                                    Thu Sep 04 17:27:36 2014  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ U42.23                         PRIM_FILE      .\pstchip.dat
+ U50.5                          PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  221                                            |
 |------------------------------------------------------------------------------|

@@ -13,7 +13,7 @@
     (DOCKING_POSITION "59420")
     (NoModify)
     (DRC_Scope "0")
-    (DRC_Action "0")
+    (DRC_Action "1")
     (DRC_Create_Warnings "FALSE")
     (DRC_View_Output "FALSE")
     (DRC_Run_Electrical_Rules "TRUE")
@@ -102,6 +102,16 @@
       (Type "Report")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (OFFPAGELEFT-R
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-L
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (RES
+      (FullPartName "RES.Normal")
+      (LibraryName "D:\DROPBOX\DESIGN\ALLEGROPROJECT\MSLIB_SCH\LC4500.OLB")
+      (DeviceIndex "0"))
     (GND
       (LibraryName "C:\CADENCE\SPB_16.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
@@ -119,10 +129,6 @@
       (DeviceIndex "0"))
     ("CAP NP"
       (FullPartName "CAP NP.Normal")
-      (LibraryName "D:\DROPBOX\DESIGN\ALLEGROPROJECT\MSLIB_SCH\LC4500.OLB")
-      (DeviceIndex "0"))
-    (RES
-      (FullPartName "RES.Normal")
       (LibraryName "D:\DROPBOX\DESIGN\ALLEGROPROJECT\MSLIB_SCH\LC4500.OLB")
       (DeviceIndex "0"))
     (VCC
@@ -167,8 +173,19 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 423 0 1022"))
-      (Tab 0)))
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 1022"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 200 1567 200 774")
+        (Scroll "2525 1420")
+        (Zoom "268")
+        (Occurrence "/"))
+      (Path
+         "D:\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE-30  MODULATION")))
   (MPSSessionName "shang")
   (ISPCBBASICLICENSE "false")
   (LastUsedLibraryBrowseDirectory "D:\Dropbox\Design\allegroProject\MsLib_Sch"))

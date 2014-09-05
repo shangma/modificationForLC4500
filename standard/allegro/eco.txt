@@ -3,29 +3,29 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
-|                                                    Thu Sep 04 16:10:04 2014  |
+|                                                    Fri Sep 05 13:32:55 2014  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  BLU_LED_EN   pins MOVED FROM this net (to net name listed on right)
-                                 R227.2          -27.626 -7.6172
-                                                                        LEDB_EN
+  AT_P5V       pins ADDED TO this existing net (pins not previously on any net)
+                                 R247.2                         
+                                 R248.2                         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  GRN_LED_EN   pins MOVED FROM this net (to net name listed on right)
-                                 R216.2          -57.395 -0.6260
-                                                                        LEDG_EN
+  I2C1_SCL     pins ADDED TO this existing net (pins not previously on any net)
+                                 R247.1                         
+                                 U61.25          -23.596 -7.9756
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  LEDB_EN      no longer scheduled
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  LEDG_EN      no longer scheduled
+  I2C1_SDA     pins ADDED TO this existing net (pins not previously on any net)
+                                 R248.1                         
+                                 U61.26          -23.596 -8.7630
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
 |  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
-|                                                    Thu Sep 04 16:10:04 2014  |
+|                                                    Fri Sep 05 13:32:55 2014  |
 |------------------------------------------------------------------------------|
 | NET PROPERTIES added to board drawing                                        |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -81,7 +81,7 @@
 |                                                                    Page   3  |
 |------------------------------------------------------------------------------|
 |  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
-|                                                    Thu Sep 04 16:10:04 2014  |
+|                                                    Fri Sep 05 13:32:55 2014  |
 |------------------------------------------------------------------------------|
 | NET PROPERTIES added to board drawing                                        |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -137,7 +137,7 @@
 |                                                                    Page   4  |
 |------------------------------------------------------------------------------|
 |  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
-|                                                    Thu Sep 04 16:10:04 2014  |
+|                                                    Fri Sep 05 13:32:55 2014  |
 |------------------------------------------------------------------------------|
 | NET PROPERTIES added to board drawing                                        |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -193,7 +193,7 @@
 |                                                                    Page   5  |
 |------------------------------------------------------------------------------|
 |  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
-|                                                    Thu Sep 04 16:10:04 2014  |
+|                                                    Fri Sep 05 13:32:55 2014  |
 |------------------------------------------------------------------------------|
 | NET PROPERTIES added to board drawing                                        |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -249,7 +249,7 @@
 |                                                                    Page   6  |
 |------------------------------------------------------------------------------|
 |  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
-|                                                    Thu Sep 04 16:10:04 2014  |
+|                                                    Fri Sep 05 13:32:55 2014  |
 |------------------------------------------------------------------------------|
 | NET PROPERTIES added to board drawing                                        |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -288,6 +288,59 @@
  TRACEPKT3         PROPAGATION_DE RN501.12:J21.24:2770 mil:2780 mil
  TRACEPKT6         PROPAGATION_DE RN501.15:J21.18:2770 mil:2780 mil
  TRACEPKT7         PROPAGATION_DE RN501.16:J21.16:2770 mil:2780 mil
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
 |------------------------------------------------------------------------------|
-|   total ECO changes reported  217                                            |
+|  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
+|                                                    Fri Sep 05 13:32:55 2014  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to board drawing                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ AT90USB1286_1_TQFP64_AT90USB128
+ RES_RES_0402_10K
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
+|                                                    Fri Sep 05 13:32:55 2014  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R247                RES_RES_0402_10K      
+ R248                RES_RES_0402_10K      
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   9  |
+|------------------------------------------------------------------------------|
+|  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
+|                                                    Fri Sep 05 13:32:55 2014  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in board drawing          |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ U61                 AT90USB1286_1_TQFP64_AT90USB128 -16.103 -7.5692 AT90USB1286_0_TQFP64_AT90USB128
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  10  |
+|------------------------------------------------------------------------------|
+|  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
+|                                                    Fri Sep 05 13:32:55 2014  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R247.2                         PRIM_FILE      .\pstchip.dat
+ R248.2                         PRIM_FILE      .\pstchip.dat
+ U61.23         -16.103 -7.5692 PRIM_FILE      .\pstchip.dat
+ U61.23         -16.103 -7.5692 ROOM           30
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  228                                            |
 |------------------------------------------------------------------------------|
