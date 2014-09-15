@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001Sep-05-2014 at 13:32:52}
+{ Using PSTWRITER 16.6.0 d001Sep-05-2014 at 15:05:08}
 primitive 'CAP NP_CAP_0402_0.1UF';
   pin
     '1':
@@ -5224,7 +5224,7 @@ primitive 'SN74AVC32T245ZKE_96LFBGA_SN74AV';
     VALUE='SN74AVC32T245ZKE';
   end_body;
 end_primitive;
-primitive 'AT90USB1286_1_TQFP64_AT90USB128';
+primitive 'AT90USB1286_2_TQFP64_AT90USB128';
   pin
     'PB0 (S\S\)':
       PIN_NUMBER='(10)';
@@ -5524,7 +5524,7 @@ primitive 'AT90USB1286_1_TQFP64_AT90USB128';
       INPUT_LOAD='(*)';
   end_pin;
   body
-    PART_NAME='AT90USB1286_1';
+    PART_NAME='AT90USB1286_2';
     JEDEC_TYPE='tqfp64';
     VALUE='AT90USB128';
   end_body;

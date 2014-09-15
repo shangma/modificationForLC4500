@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 16.6.0 d001Sep-04-2014 at 17:27:33 }
+{ Using PSTWRITER 16.6.0 d001Sep-05-2014 at 14:47:31 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='STANDARD';
@@ -5642,6 +5642,26 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
+ R247 'RES_RES_0402_10K':;
+
+SECTION_NUMBER 1
+ '@STANDARD.SCHEMATIC1(SCH_1):INS42181447@LC4500.RES.NORMAL(CHIPS)':
+ C_PATH='@standard.schematic1(sch_1):ins42181447@lc4500.\res.normal\(chips)',
+ P_PATH='@standard.schematic1(sch_1):page_ins42181447@lc4500.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R248 'RES_RES_0402_10K':;
+
+SECTION_NUMBER 1
+ '@STANDARD.SCHEMATIC1(SCH_1):INS42181457@LC4500.RES.NORMAL(CHIPS)':
+ C_PATH='@standard.schematic1(sch_1):ins42181457@lc4500.\res.normal\(chips)',
+ P_PATH='@standard.schematic1(sch_1):page_ins42181457@lc4500.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
  R25 'R_RES_0201_100K':;
 
 SECTION_NUMBER 1
@@ -7885,13 +7905,13 @@ SECTION_NUMBER 4
  SECTION='-4';
 
 PART_NAME
- U61 'AT90USB1286_0_TQFP64_AT90USB128':
+ U61 'AT90USB1286_2_TQFP64_AT90USB128':
  ROOM='30';
 
 SECTION_NUMBER 1
- '@STANDARD.SCHEMATIC1(SCH_1):INS41971538@STANDARD.AT90USB1286_0.NORMAL(CHIPS)':
- C_PATH='@standard.schematic1(sch_1):ins41971538@standard.\at90usb1286_0.normal\(chips)',
- P_PATH='@standard.schematic1(sch_1):page_ins41971538@standard.\at90usb1286_0.normal\(chips)',
+ '@STANDARD.SCHEMATIC1(SCH_1):INS41971538@STANDARD.AT90USB1286_2.NORMAL(CHIPS)':
+ C_PATH='@standard.schematic1(sch_1):ins41971538@standard.\at90usb1286_2.normal\(chips)',
+ P_PATH='@standard.schematic1(sch_1):page_ins41971538@standard.\at90usb1286_2.normal\(chips)',
  ROOM='30',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';

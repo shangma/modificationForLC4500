@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001Sep-04-2014 at 16:09:01}
+{ Using PSTWRITER 16.6.0 d001Sep-04-2014 at 17:27:33}
 primitive 'CAP NP_CAP_0402_0.1UF';
   pin
     '1':
@@ -4462,7 +4462,7 @@ primitive 'TPS73025_TI_DBV_TPS73025DBV';
     VALUE='TPS73025DBV';
   end_body;
 end_primitive;
-primitive 'SN74AVC8T245PW_PW_SN74AVC8T245P';
+primitive 'SN74AVC8T245PW_1_PW_SN74AVC8T24';
   pin
     'A1':
       PIN_NUMBER='(3)';
@@ -4506,12 +4506,10 @@ primitive 'SN74AVC8T245PW_PW_SN74AVC8T245P';
       BIDIRECTIONAL='TRUE';
     'GND1':
       PIN_NUMBER='(11)';
-      PINUSE='POWER';
+      PINUSE='UNSPEC';
     'O\E\':
       PIN_NUMBER='(22)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
+      PINUSE='UNSPEC';
     'DIR':
       PIN_NUMBER='(2)';
       INPUT_LOAD='(*)';
@@ -4519,7 +4517,7 @@ primitive 'SN74AVC8T245PW_PW_SN74AVC8T245P';
       BIDIRECTIONAL='TRUE';
     'GND2':
       PIN_NUMBER='(12)';
-      PINUSE='POWER';
+      PINUSE='UNSPEC';
     'B1':
       PIN_NUMBER='(21)';
       INPUT_LOAD='(*)';
@@ -4562,19 +4560,19 @@ primitive 'SN74AVC8T245PW_PW_SN74AVC8T245P';
       BIDIRECTIONAL='TRUE';
     'VCCA':
       PIN_NUMBER='(1)';
-      PINUSE='POWER';
+      PINUSE='UNSPEC';
     'VCCB':
       PIN_NUMBER='(24)';
-      PINUSE='POWER';
+      PINUSE='UNSPEC';
     'VCCB1':
       PIN_NUMBER='(23)';
-      PINUSE='POWER';
+      PINUSE='UNSPEC';
     'GND3':
       PIN_NUMBER='(13)';
-      PINUSE='POWER';
+      PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='SN74AVC8T245PW';
+    PART_NAME='SN74AVC8T245PW_1';
     JEDEC_TYPE='PW';
     VALUE='SN74AVC8T245PW';
   end_body;
@@ -4680,13 +4678,11 @@ primitive 'SN74LVC1G04DBV_DBV_SN74LVC1G04D';
     VALUE='SN74LVC1G04DBV';
   end_body;
 end_primitive;
-primitive 'TPS79318_TI_DVB_TPS79318DBV';
+primitive 'TPS79318_0_TI_DVB_TPS79318DBV';
   pin
     'IN':
       PIN_NUMBER='(1)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
+      PINUSE='POWER';
     'OUT':
       PIN_NUMBER='(5)';
       INPUT_LOAD='(*)';
@@ -4704,12 +4700,10 @@ primitive 'TPS79318_TI_DVB_TPS79318DBV';
       BIDIRECTIONAL='TRUE';
     'EN':
       PIN_NUMBER='(3)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
+      PINUSE='POWER';
   end_pin;
   body
-    PART_NAME='TPS79318';
+    PART_NAME='TPS79318_0';
     JEDEC_TYPE='TI_DVB';
     VALUE='TPS79318DBV';
   end_body;
@@ -6934,6 +6928,123 @@ primitive 'DLPC350_BGA_419_DLPC350';
     PART_NAME='DLPC350';
     JEDEC_TYPE='BGA_419';
     VALUE='DLPC350';
+  end_body;
+end_primitive;
+primitive 'SN74AVC8T245PW_PW_SN74AVC8T245P';
+  pin
+    'A1':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'A2':
+      PIN_NUMBER='(4)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'A3':
+      PIN_NUMBER='(5)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'A4':
+      PIN_NUMBER='(6)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'A5':
+      PIN_NUMBER='(7)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'A6':
+      PIN_NUMBER='(8)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'A7':
+      PIN_NUMBER='(9)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'A8':
+      PIN_NUMBER='(10)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'GND1':
+      PIN_NUMBER='(11)';
+      PINUSE='POWER';
+    'O\E\':
+      PIN_NUMBER='(22)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'DIR':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'GND2':
+      PIN_NUMBER='(12)';
+      PINUSE='POWER';
+    'B1':
+      PIN_NUMBER='(21)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'B2':
+      PIN_NUMBER='(20)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'B3':
+      PIN_NUMBER='(19)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'B4':
+      PIN_NUMBER='(18)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'B5':
+      PIN_NUMBER='(17)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'B6':
+      PIN_NUMBER='(16)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'B7':
+      PIN_NUMBER='(15)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'B8':
+      PIN_NUMBER='(14)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'VCCA':
+      PIN_NUMBER='(1)';
+      PINUSE='POWER';
+    'VCCB':
+      PIN_NUMBER='(24)';
+      PINUSE='POWER';
+    'VCCB1':
+      PIN_NUMBER='(23)';
+      PINUSE='POWER';
+    'GND3':
+      PIN_NUMBER='(13)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    PART_NAME='SN74AVC8T245PW';
+    JEDEC_TYPE='PW';
+    VALUE='SN74AVC8T245PW';
   end_body;
 end_primitive;
 primitive 'CRYSTAL_0_3_2MM_2_5MM_32.0 MHZ';
