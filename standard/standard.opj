@@ -169,7 +169,7 @@
       (Path "Outputs")
       (Select "Design Resources"
          "d:\dropbox\design\allegroproject\designongit\modificationforlc4500\standard\standard.dsn"
-         "SCHEMATIC1" "PAGE-26  LED DRIVER - RED"))
+         "SCHEMATIC1" "PAGE-30  MODULATION"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -186,7 +186,18 @@
       (Path
          "D:\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE-26  LED DRIVER - RED")))
+      (Page "PAGE-26  LED DRIVER - RED"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 75 1367 75 731")
+        (Scroll "0 40")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE-30  MODULATION")))
   (MPSSessionName "shang")
   (ISPCBBASICLICENSE "false")
   (LastUsedLibraryBrowseDirectory "D:\Dropbox\Design\allegroProject\MsLib_Sch"))
