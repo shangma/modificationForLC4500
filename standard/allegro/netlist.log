@@ -1,4 +1,4 @@
-{ Using PSTWRITER 16.6.0 d001Sep-05-2014 at 15:05:04 }
+{ Using PSTWRITER 16.6.0 d001Sep-17-2014 at 10:24:39 }
 
 #1 WARNING(ORCAP-36038): "No_connect" property on Pin "U61.25" ignored for U61: SCHEMATIC1, PAGE-30  MODULATION (210.82, 132.08). Connecting pin to net "I2C1_SCL".
 #2 WARNING(ORCAP-36038): "No_connect" property on Pin "U61.41" ignored for U61: SCHEMATIC1, PAGE-30  MODULATION (210.82, 132.08). Connecting pin to net "LEDR_PWM".

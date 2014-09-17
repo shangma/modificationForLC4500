@@ -102,15 +102,15 @@
       (Type "Report")))
   (Folder "Referenced Projects")
   (PartMRUSelector
-    (OFFPAGELEFT-R
-      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
     (OFFPAGELEFT-L
       (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
     (RES
       (FullPartName "RES.Normal")
       (LibraryName "D:\DROPBOX\DESIGN\ALLEGROPROJECT\MSLIB_SCH\LC4500.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-R
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
     (GND
       (LibraryName "C:\CADENCE\SPB_16.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
@@ -161,22 +161,48 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\standard.dsn")
-      (Path "Design Resources" ".\standard.dsn" "SCHEMATIC1")
+      (Path "Design Resources"
+         "d:\dropbox\design\allegroproject\designongit\modificationforlc4500\standard\standard.dsn")
+      (Path "Design Resources"
+         "d:\dropbox\design\allegroproject\designongit\modificationforlc4500\standard\standard.dsn"
+         "SCHEMATIC1")
       (Path "Outputs")
-      (Select "Design Resources" ".\standard.dsn" "SCHEMATIC1" "PAGE-01  TITLE"))
+      (Select "Design Resources"
+         "d:\dropbox\design\allegroproject\designongit\modificationforlc4500\standard\standard.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 1022"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 336 0 1022"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 250 1613 250 794")
-        (Scroll "0 193")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 -8 -30 50 1331 50 624")
+        (Scroll "972 597")
+        (Zoom "134")
+        (Occurrence "/"))
+      (Path
+         "D:\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE-30  MODULATION"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 100 1138 100 530")
+        (Scroll "0 47")
+        (Zoom "102")
+        (Occurrence "/"))
+      (Path
+         "D:\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE-27  LED DRIVER BLUE/GREEN"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 125 1163 125 555")
+        (Scroll "-73 0")
+        (Zoom "51")
         (Occurrence "/"))
       (Path
          "D:\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
@@ -185,14 +211,14 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 75 1367 75 731")
-        (Scroll "0 0")
-        (Zoom "80")
+        (Placement "44 2 3 -1 -1 -8 -30 150 1188 150 580")
+        (Scroll "-41 -6")
+        (Zoom "68")
         (Occurrence "/"))
       (Path
          "D:\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE-30  MODULATION")))
+      (Page "PAGE-25  LED CONNECTORS")))
   (MPSSessionName "shang")
   (ISPCBBASICLICENSE "false")
   (LastUsedLibraryBrowseDirectory "D:\Dropbox\Design\allegroProject\MsLib_Sch"))
