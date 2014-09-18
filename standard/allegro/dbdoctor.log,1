@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : STANDARD.brd                                  )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Thu Sep 18 09:55:04 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ERROR IN NET name = P12V_SUPPLY
+  WARNING(SPMHDB-43): Ratsnest lines are out of date.
+
+WARNING IN NET name = P12V_SUPPLY
+  WARNING(SPMHDB-43): Ratsnest lines are out of date.
+
+ERROR IN DESIGN   WARNING(SPMHA1-230): Database has a non-recoverable corruption. Contact Cadence customer support.
+
+ERROR IN DESIGN   WARNING(SPMHA1-230): Database has a non-recoverable corruption. Contact Cadence customer support.
+
+1 warnings, 3 errors detected, 1 errors could be fixed.

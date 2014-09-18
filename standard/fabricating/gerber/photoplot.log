@@ -1,0 +1,1119 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : STANDARD.brd                                  )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Thu Sep 18 09:56:33 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          MM
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+================================================================
+     PROCESSING FILM < 1-TOP >
+     TO FILE < D:/Dropbox/Design/allegroProject/designOnGIt/modificationForLC4500/standard/allegro/1-TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Photoplot window (9600000 x 9000000) exceeds film size (2400000 x 1600000)
+          stated in parameter file. 
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.17780                                  DARK 
+  CIRCLE     0.18290                                  DARK 
+  CIRCLE     0.24500                                  DARK 
+  CIRCLE     0.25400                                  DARK 
+  CIRCLE     0.38000                                  DARK 
+  CIRCLE     0.38010                                  DARK 
+  CIRCLE     0.38100                                  DARK 
+  CIRCLE     0.40000                                  DARK 
+  CIRCLE     0.40640                                  DARK 
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.50800                                  DARK 
+  CIRCLE     0.76000                                  DARK 
+  CIRCLE     0.76200                                  DARK 
+  CIRCLE     0.90000                                  DARK 
+  CIRCLE     1.00000                                  DARK 
+  CIRCLE     1.01600                                  DARK 
+  CIRCLE     1.27000                                  DARK 
+  CIRCLE     1.40000                                  DARK 
+  CIRCLE     1.52400                                  DARK 
+  SQUARE     0.65000                     0.000 NO     DARK 
+  SQUARE     1.40000                     0.000 NO     DARK 
+  SQUARE     1.52400                     0.000 NO     DARK 
+  RECTANGLE  0.40000     x 0.46000       0.000 NO     DARK 
+  RECTANGLE  0.40000     x 0.46000      90.000 NO     DARK 
+  RECTANGLE  0.40000     x 0.85000       0.000 NO     DARK 
+  RECTANGLE  0.40000     x 0.85000      90.000 NO     DARK 
+  RECTANGLE  0.50800     x 2.26060       0.000 NO     DARK 
+  RECTANGLE  0.55880     x 0.50800       0.000 NO     DARK 
+  RECTANGLE  0.60000     x 1.94000       0.000 NO     DARK 
+  RECTANGLE  0.69010     x 1.30000      90.000 NO     DARK 
+  RECTANGLE  0.80000     x 0.65000       0.000 NO     DARK 
+  RECTANGLE  0.80000     x 0.65000      90.000 NO     DARK 
+  RECTANGLE  0.80000     x 0.90000      90.000 NO     DARK 
+  RECTANGLE  0.85000     x 0.28000       0.000 NO     DARK 
+  RECTANGLE  0.85000     x 0.28000      90.000 NO     DARK 
+  RECTANGLE  0.90000     x 0.42000      90.000 NO     DARK 
+  RECTANGLE  0.90000     x 0.62000      90.000 NO     DARK 
+  RECTANGLE  0.95000     x 1.00000       0.000 NO     DARK 
+  RECTANGLE  0.95000     x 1.00000      90.000 NO     DARK 
+  RECTANGLE  0.95000     x 2.90000       0.000 NO     DARK 
+  RECTANGLE  0.95000     x 2.90000      90.000 NO     DARK 
+  RECTANGLE  1.00000     x 1.40000       0.000 NO     DARK 
+  RECTANGLE  1.00000     x 1.40000      90.000 NO     DARK 
+  RECTANGLE  1.05000     x 1.10000       0.000 NO     DARK 
+  RECTANGLE  1.05000     x 1.10000      90.000 NO     DARK 
+  RECTANGLE  1.30000     x 1.40000      90.000 NO     DARK 
+  RECTANGLE  1.34620     x 1.52400       0.000 NO     DARK 
+  RECTANGLE  1.34620     x 1.52400      90.000 NO     DARK 
+  RECTANGLE  1.40000     x 1.20000      90.000 NO     DARK 
+  RECTANGLE  1.40000     x 1.94000       0.000 NO     DARK 
+  RECTANGLE  1.40000     x 3.56000      90.000 NO     DARK 
+  RECTANGLE  1.59990     x 1.80010       0.000 NO     DARK 
+  RECTANGLE  1.59990     x 1.80010      90.000 NO     DARK 
+  RECTANGLE  1.59990     x 2.70000       0.000 NO     DARK 
+  RECTANGLE  1.59990     x 2.70000      90.000 NO     DARK 
+  RECTANGLE  1.74000     x 0.30000       0.000 NO     DARK 
+  RECTANGLE  1.80000     x 0.70000       0.000 NO     DARK 
+  RECTANGLE  1.80000     x 0.70000      90.000 NO     DARK 
+  RECTANGLE  1.90500     x 0.63500       0.000 NO     DARK 
+  RECTANGLE  1.90500     x 0.63500      90.000 NO     DARK 
+  RECTANGLE  1.92000     x 2.79000       0.000 NO     DARK 
+  RECTANGLE  1.92000     x 3.48000      90.000 NO     DARK 
+  RECTANGLE  2.05740     x 3.50520       0.000 NO     DARK 
+  RECTANGLE  2.05740     x 3.98780       0.000 NO     DARK 
+  RECTANGLE  2.20000     x 1.30000       0.000 NO     DARK 
+  RECTANGLE  2.20000     x 1.30000      90.000 NO     DARK 
+  RECTANGLE  2.62000     x 3.52000      90.000 NO     DARK 
+  RECTANGLE  2.65000     x 0.85000      90.000 NO     DARK 
+  RECTANGLE  3.00000     x 2.00000       0.000 NO     DARK 
+  RECTANGLE  3.00000     x 2.00000      90.000 NO     DARK 
+  RECTANGLE  3.55000     x 0.85000      90.000 NO     DARK 
+  RECTANGLE  3.56000     x 1.78000      90.000 NO     DARK 
+  RECTANGLE  3.70000     x 1.45000      90.000 NO     DARK 
+  OBLONG     3.81000     x 1.77800       0.000 NO     DARK 
+  OBLONG     3.81000     x 1.77800      90.000 NO     DARK 
+  OBLONG     4.57200     x 1.77800       0.000 NO     DARK 
+
+     1-TOP created.
+
+
+================================================================
+     PROCESSING FILM < 8-BOTTOM >
+     TO FILE < D:/Dropbox/Design/allegroProject/designOnGIt/modificationForLC4500/standard/allegro/8-BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Photoplot window (9600000 x 9000000) exceeds film size (2400000 x 1600000)
+          stated in parameter file. 
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.17780                                  DARK 
+  CIRCLE     0.18290                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.24500                                  DARK 
+  CIRCLE     0.25400                                  DARK 
+  CIRCLE     0.30000                                  DARK 
+  CIRCLE     0.38000                                  DARK 
+  CIRCLE     0.38100                                  DARK 
+  CIRCLE     0.40000                                  DARK 
+  CIRCLE     0.40640                                  DARK 
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.50800                                  DARK 
+  CIRCLE     0.76000                                  DARK 
+  CIRCLE     0.76200                                  DARK 
+  CIRCLE     0.90000                                  DARK 
+  CIRCLE     1.00000                                  DARK 
+  CIRCLE     1.01600                                  DARK 
+  CIRCLE     1.27000                                  DARK 
+  CIRCLE     1.40000                                  DARK 
+  CIRCLE     1.52400                                  DARK 
+  SQUARE     0.65000                     0.000 NO     DARK 
+  SQUARE     0.65000                    45.000 NO     DARK 
+  SQUARE     1.20000                     0.000 NO     DARK 
+  SQUARE     1.40000                     0.000 NO     DARK 
+  SQUARE     1.52400                     0.000 NO     DARK 
+  RECTANGLE  0.25000     x 0.57500       0.000 NO     DARK 
+  RECTANGLE  0.30000     x 0.57500       0.000 NO     DARK 
+  RECTANGLE  0.30000     x 0.80000       0.000 NO     DARK 
+  RECTANGLE  0.40000     x 0.46000      90.000 NO     DARK 
+  RECTANGLE  0.40000     x 0.85000      90.000 NO     DARK 
+  RECTANGLE  0.45000     x 0.80000       0.000 NO     DARK 
+  RECTANGLE  0.50800     x 2.26060      90.000 NO     DARK 
+  RECTANGLE  0.55880     x 0.50800       0.000 NO     DARK 
+  RECTANGLE  0.55880     x 0.50800      90.000 NO     DARK 
+  RECTANGLE  0.63000     x 0.35000       0.000 NO     DARK 
+  RECTANGLE  0.70000     x 1.80000      90.000 NO     DARK 
+  RECTANGLE  0.80000     x 0.23000       0.000 NO     DARK 
+  RECTANGLE  0.80000     x 0.23000      90.000 NO     DARK 
+  RECTANGLE  0.85000     x 0.28000       0.000 NO     DARK 
+  RECTANGLE  0.85000     x 0.28000      90.000 NO     DARK 
+  RECTANGLE  0.90000     x 0.42000       0.000 NO     DARK 
+  RECTANGLE  0.90000     x 0.62000       0.000 NO     DARK 
+  RECTANGLE  0.90000     x 0.65000       0.000 NO     DARK 
+  RECTANGLE  0.95000     x 1.00000       0.000 NO     DARK 
+  RECTANGLE  0.95000     x 1.00000      90.000 NO     DARK 
+  RECTANGLE  1.00000     x 0.38000      90.000 NO     DARK 
+  RECTANGLE  1.00000     x 1.40000       0.000 NO     DARK 
+  RECTANGLE  1.00000     x 1.40000      90.000 NO     DARK 
+  RECTANGLE  1.05000     x 1.05000       0.000 NO     DARK 
+  RECTANGLE  1.05000     x 1.10000      90.000 NO     DARK 
+  RECTANGLE  1.10000     x 0.55000       0.000 NO     DARK 
+  RECTANGLE  1.10000     x 0.55000      90.000 NO     DARK 
+  RECTANGLE  1.28000     x 0.20000       0.000 NO     DARK 
+  RECTANGLE  1.30000     x 0.65000       0.000 NO     DARK 
+  RECTANGLE  1.30000     x 0.65000      90.000 NO     DARK 
+  RECTANGLE  1.34620     x 1.52400       0.000 NO     DARK 
+  RECTANGLE  1.34620     x 1.52400      90.000 NO     DARK 
+  RECTANGLE  1.40000     x 1.20000      90.000 NO     DARK 
+  RECTANGLE  1.50010     x 0.30000       0.000 NO     DARK 
+  RECTANGLE  1.59990     x 1.80010       0.000 NO     DARK 
+  RECTANGLE  1.59990     x 1.80010      90.000 NO     DARK 
+  RECTANGLE  1.59990     x 2.70000       0.000 NO     DARK 
+  RECTANGLE  1.59990     x 2.70000      90.000 NO     DARK 
+  RECTANGLE  1.60000     x 0.42000       0.000 NO     DARK 
+  RECTANGLE  1.70000     x 0.55000       0.000 NO     DARK 
+  RECTANGLE  1.70000     x 1.70000      90.000 NO     DARK 
+  RECTANGLE  1.80000     x 0.70000       0.000 NO     DARK 
+  RECTANGLE  2.05740     x 3.50520      90.000 NO     DARK 
+  RECTANGLE  2.05740     x 3.98780      90.000 NO     DARK 
+  RECTANGLE  2.40000     x 5.16000       0.000 NO     DARK 
+  RECTANGLE  2.65000     x 0.85000       0.000 NO     DARK 
+  RECTANGLE  3.00000     x 2.00000       0.000 NO     DARK 
+  RECTANGLE  3.55000     x 0.85000       0.000 NO     DARK 
+  RECTANGLE  3.56000     x 1.78000       0.000 NO     DARK 
+  RECTANGLE  3.56000     x 1.78000      90.000 NO     DARK 
+  OBLONG     3.81000     x 1.77800       0.000 NO     DARK 
+  OBLONG     3.81000     x 1.77800      90.000 NO     DARK 
+  OBLONG     4.57200     x 1.77800       0.000 NO     DARK 
+  PAD SHAPE  SHAPE2_05X2_05            180.000 YES    DARK 
+  PAD SHAPE  SHAPE2_05X2_05            270.000 YES    DARK 
+
+     8-BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < Silkscreen_Top >
+     TO FILE < D:/Dropbox/Design/allegroProject/designOnGIt/modificationForLC4500/standard/allegro/Silkscreen_Top.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1500
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Photoplot window (9600000 x 9000000) exceeds film size (2400000 x 1600000)
+          stated in parameter file. 
+
+    WARNING: 0 width line found at (-24.1046 0.4318)
+           ... using undefined line width of 0.1500
+
+    WARNING: text composed 0 width line found at (-7.1392 -21.4802)
+           ... using undefined line width of 0.1500
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.1500
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.02540                                  DARK 
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.13000                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.15010                                  DARK 
+  CIRCLE     0.15240                                  DARK 
+  CIRCLE     0.16990                                  DARK 
+  CIRCLE     0.17780                                  DARK 
+  CIRCLE     0.17800                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.24990                                  DARK 
+  CIRCLE     0.25000                                  DARK 
+  CIRCLE     0.25400                                  DARK 
+
+     Silkscreen_Top created with warnings
+
+
+================================================================
+     PROCESSING FILM < Silkscreen_Bot >
+     TO FILE < D:/Dropbox/Design/allegroProject/designOnGIt/modificationForLC4500/standard/allegro/Silkscreen_Bot.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1500
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Photoplot window (9600000 x 9000000) exceeds film size (2400000 x 1600000)
+          stated in parameter file. 
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.02540                                  DARK 
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.13000                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.15010                                  DARK 
+  CIRCLE     0.15240                                  DARK 
+  CIRCLE     0.16990                                  DARK 
+  CIRCLE     0.17780                                  DARK 
+  CIRCLE     0.17800                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.24990                                  DARK 
+  CIRCLE     0.25000                                  DARK 
+
+     Silkscreen_Bot created with warnings
+
+
+================================================================
+     PROCESSING FILM < Soldermask_Top >
+     TO FILE < D:/Dropbox/Design/allegroProject/designOnGIt/modificationForLC4500/standard/allegro/Soldermask_Top.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Photoplot window (9600000 x 9000000) exceeds film size (2400000 x 1600000)
+          stated in parameter file. 
+
+    WARNING: more than one pin class in film record
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.60000                                  DARK 
+  CIRCLE     0.76200                                  DARK 
+  CIRCLE     0.90000                                  DARK 
+  CIRCLE     1.00000                                  DARK 
+  CIRCLE     1.01600                                  DARK 
+  CIRCLE     1.10000                                  DARK 
+  CIRCLE     1.27000                                  DARK 
+  CIRCLE     1.40000                                  DARK 
+  CIRCLE     1.52400                                  DARK 
+  CIRCLE     1.62560                                  DARK 
+  SQUARE     0.65000                     0.000 NO     DARK 
+  SQUARE     0.80010                     0.000 NO     DARK 
+  SQUARE     1.40000                     0.000 NO     DARK 
+  SQUARE     1.52400                     0.000 NO     DARK 
+  SQUARE     1.62560                     0.000 NO     DARK 
+  RECTANGLE  0.40000     x 0.46000       0.000 NO     DARK 
+  RECTANGLE  0.40000     x 0.46000      90.000 NO     DARK 
+  RECTANGLE  0.40000     x 0.85000       0.000 NO     DARK 
+  RECTANGLE  0.40000     x 0.85000      90.000 NO     DARK 
+  RECTANGLE  0.50000     x 0.56000       0.000 NO     DARK 
+  RECTANGLE  0.50000     x 0.56000      90.000 NO     DARK 
+  RECTANGLE  0.50000     x 0.95000       0.000 NO     DARK 
+  RECTANGLE  0.50000     x 0.95000      90.000 NO     DARK 
+  RECTANGLE  0.50800     x 2.26060       0.000 NO     DARK 
+  RECTANGLE  0.55880     x 0.50800       0.000 NO     DARK 
+  RECTANGLE  0.60000     x 1.94000       0.000 NO     DARK 
+  RECTANGLE  0.60960     x 2.36220       0.000 NO     DARK 
+  RECTANGLE  0.69010     x 1.30000      90.000 NO     DARK 
+  RECTANGLE  0.70000     x 2.04000       0.000 NO     DARK 
+  RECTANGLE  0.80000     x 0.65000       0.000 NO     DARK 
+  RECTANGLE  0.80000     x 0.65000      90.000 NO     DARK 
+  RECTANGLE  0.80000     x 0.90000      90.000 NO     DARK 
+  RECTANGLE  0.84000     x 1.50000      90.000 NO     DARK 
+  RECTANGLE  0.85000     x 0.28000       0.000 NO     DARK 
+  RECTANGLE  0.85000     x 0.28000      90.000 NO     DARK 
+  RECTANGLE  0.90000     x 0.42000      90.000 NO     DARK 
+  RECTANGLE  0.90000     x 0.62000      90.000 NO     DARK 
+  RECTANGLE  0.90000     x 0.75000       0.000 NO     DARK 
+  RECTANGLE  0.90000     x 0.75000      90.000 NO     DARK 
+  RECTANGLE  0.95000     x 1.00000       0.000 NO     DARK 
+  RECTANGLE  0.95000     x 1.00000      90.000 NO     DARK 
+  RECTANGLE  0.95000     x 1.05000      90.000 NO     DARK 
+  RECTANGLE  0.95000     x 2.90000       0.000 NO     DARK 
+  RECTANGLE  0.95000     x 2.90000      90.000 NO     DARK 
+  RECTANGLE  1.00000     x 0.52000      90.000 NO     DARK 
+  RECTANGLE  1.00000     x 0.72000      90.000 NO     DARK 
+  RECTANGLE  1.00000     x 1.40000       0.000 NO     DARK 
+  RECTANGLE  1.00000     x 1.40000      90.000 NO     DARK 
+  RECTANGLE  1.05000     x 0.48000       0.000 NO     DARK 
+  RECTANGLE  1.05000     x 0.48000      90.000 NO     DARK 
+  RECTANGLE  1.05000     x 1.10000       0.000 NO     DARK 
+  RECTANGLE  1.05000     x 1.10000      90.000 NO     DARK 
+  RECTANGLE  1.10010     x 1.15010       0.000 NO     DARK 
+  RECTANGLE  1.10010     x 1.15010      90.000 NO     DARK 
+  RECTANGLE  1.15000     x 1.20000       0.000 NO     DARK 
+  RECTANGLE  1.15000     x 1.20000      90.000 NO     DARK 
+  RECTANGLE  1.15000     x 3.10000       0.000 NO     DARK 
+  RECTANGLE  1.15000     x 3.10000      90.000 NO     DARK 
+  RECTANGLE  1.20000     x 1.60000       0.000 NO     DARK 
+  RECTANGLE  1.20000     x 1.60000      90.000 NO     DARK 
+  RECTANGLE  1.30000     x 1.40000      90.000 NO     DARK 
+  RECTANGLE  1.34620     x 1.52400       0.000 NO     DARK 
+  RECTANGLE  1.34620     x 1.52400      90.000 NO     DARK 
+  RECTANGLE  1.40000     x 1.20000      90.000 NO     DARK 
+  RECTANGLE  1.40000     x 1.50000      90.000 NO     DARK 
+  RECTANGLE  1.40000     x 1.94000       0.000 NO     DARK 
+  RECTANGLE  1.40000     x 3.56000      90.000 NO     DARK 
+  RECTANGLE  1.50000     x 2.04000       0.000 NO     DARK 
+  RECTANGLE  1.50000     x 3.66000      90.000 NO     DARK 
+  RECTANGLE  1.59990     x 1.80010       0.000 NO     DARK 
+  RECTANGLE  1.59990     x 1.80010      90.000 NO     DARK 
+  RECTANGLE  1.59990     x 2.70000       0.000 NO     DARK 
+  RECTANGLE  1.59990     x 2.70000      90.000 NO     DARK 
+  RECTANGLE  1.60000     x 1.40000      90.000 NO     DARK 
+  RECTANGLE  1.74000     x 0.30000       0.000 NO     DARK 
+  RECTANGLE  1.80000     x 0.70000       0.000 NO     DARK 
+  RECTANGLE  1.80000     x 0.70000      90.000 NO     DARK 
+  RECTANGLE  1.84000     x 0.40000       0.000 NO     DARK 
+  RECTANGLE  1.84990     x 2.05000       0.000 NO     DARK 
+  RECTANGLE  1.84990     x 2.05000      90.000 NO     DARK 
+  RECTANGLE  1.84990     x 2.95000       0.000 NO     DARK 
+  RECTANGLE  1.84990     x 2.95000      90.000 NO     DARK 
+  RECTANGLE  1.90000     x 0.80000       0.000 NO     DARK 
+  RECTANGLE  1.90000     x 0.80000      90.000 NO     DARK 
+  RECTANGLE  1.90500     x 0.63500       0.000 NO     DARK 
+  RECTANGLE  1.90500     x 0.63500      90.000 NO     DARK 
+  RECTANGLE  1.92000     x 2.79000       0.000 NO     DARK 
+  RECTANGLE  1.92000     x 3.48000      90.000 NO     DARK 
+  RECTANGLE  2.02000     x 2.89000       0.000 NO     DARK 
+  RECTANGLE  2.02000     x 3.58000      90.000 NO     DARK 
+  RECTANGLE  2.03200     x 0.76200       0.000 NO     DARK 
+  RECTANGLE  2.03200     x 0.76200      90.000 NO     DARK 
+  RECTANGLE  2.05740     x 3.50520       0.000 NO     DARK 
+  RECTANGLE  2.05740     x 3.98780       0.000 NO     DARK 
+  RECTANGLE  2.15900     x 3.60680       0.000 NO     DARK 
+  RECTANGLE  2.15900     x 4.08940       0.000 NO     DARK 
+  RECTANGLE  2.20000     x 1.30000       0.000 NO     DARK 
+  RECTANGLE  2.20000     x 1.30000      90.000 NO     DARK 
+  RECTANGLE  2.40000     x 1.50000       0.000 NO     DARK 
+  RECTANGLE  2.40000     x 1.50000      90.000 NO     DARK 
+  RECTANGLE  2.62000     x 3.52000      90.000 NO     DARK 
+  RECTANGLE  2.65000     x 0.85000      90.000 NO     DARK 
+  RECTANGLE  2.72000     x 3.62000      90.000 NO     DARK 
+  RECTANGLE  2.75000     x 0.95000      90.000 NO     DARK 
+  RECTANGLE  3.00000     x 2.00000       0.000 NO     DARK 
+  RECTANGLE  3.00000     x 2.00000      90.000 NO     DARK 
+  RECTANGLE  3.55000     x 0.85000      90.000 NO     DARK 
+  RECTANGLE  3.56000     x 1.78000      90.000 NO     DARK 
+  RECTANGLE  3.65000     x 0.95000      90.000 NO     DARK 
+  RECTANGLE  3.66000     x 1.88000      90.000 NO     DARK 
+  RECTANGLE  3.70000     x 1.45000      90.000 NO     DARK 
+  RECTANGLE  3.80000     x 1.55000      90.000 NO     DARK 
+  OBLONG     3.81000     x 1.77800       0.000 NO     DARK 
+  OBLONG     3.81000     x 1.77800      90.000 NO     DARK 
+  OBLONG     3.91160     x 1.87960       0.000 NO     DARK 
+  OBLONG     3.91160     x 1.87960      90.000 NO     DARK 
+  OBLONG     4.57200     x 1.77800       0.000 NO     DARK 
+  OBLONG     4.67360     x 1.87960       0.000 NO     DARK 
+
+     Soldermask_Top created with warnings
+
+
+================================================================
+     PROCESSING FILM < Soldermask_Bot >
+     TO FILE < D:/Dropbox/Design/allegroProject/designOnGIt/modificationForLC4500/standard/allegro/Soldermask_Bot.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Photoplot window (9600000 x 9000000) exceeds film size (2400000 x 1600000)
+          stated in parameter file. 
+
+    WARNING: more than one pin class in film record
+    WARNING: Null REGULAR-PAD specified for padstack SMSHAPE4_3X2_05 at (-73.6614 -59.9498).
+    WARNING: Null REGULAR-PAD specified for padstack SMSHAPE4_3X2_05 at (-63.6996 0.4520).
+    WARNING: Null REGULAR-PAD specified for padstack SMSHAPE4_3X2_05 at (-33.9308 -6.6712).
+    WARNING: Null REGULAR-PAD specified for padstack SMS1_7 at (-0.2540 -53.5405).
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.90000                                  DARK 
+  CIRCLE     1.00000                                  DARK 
+  CIRCLE     1.01600                                  DARK 
+  CIRCLE     1.10000                                  DARK 
+  CIRCLE     1.27000                                  DARK 
+  CIRCLE     1.40000                                  DARK 
+  CIRCLE     1.52400                                  DARK 
+  CIRCLE     1.62560                                  DARK 
+  SQUARE     0.65000                     0.000 NO     DARK 
+  SQUARE     0.65000                    45.000 NO     DARK 
+  SQUARE     0.80010                     0.000 NO     DARK 
+  SQUARE     0.80010                    45.000 NO     DARK 
+  SQUARE     1.20000                     0.000 NO     DARK 
+  SQUARE     1.40000                     0.000 NO     DARK 
+  SQUARE     1.52400                     0.000 NO     DARK 
+  SQUARE     1.62560                     0.000 NO     DARK 
+  RECTANGLE  0.25000     x 0.57500       0.000 NO     DARK 
+  RECTANGLE  0.30000     x 0.57500       0.000 NO     DARK 
+  RECTANGLE  0.30000     x 0.80000       0.000 NO     DARK 
+  RECTANGLE  0.35000     x 0.67500       0.000 NO     DARK 
+  RECTANGLE  0.40000     x 0.46000      90.000 NO     DARK 
+  RECTANGLE  0.40000     x 0.67500       0.000 NO     DARK 
+  RECTANGLE  0.40000     x 0.85000      90.000 NO     DARK 
+  RECTANGLE  0.40000     x 0.90000       0.000 NO     DARK 
+  RECTANGLE  0.45000     x 0.80000       0.000 NO     DARK 
+  RECTANGLE  0.50000     x 0.56000      90.000 NO     DARK 
+  RECTANGLE  0.50000     x 0.95000      90.000 NO     DARK 
+  RECTANGLE  0.50800     x 2.26060      90.000 NO     DARK 
+  RECTANGLE  0.55000     x 0.90000       0.000 NO     DARK 
+  RECTANGLE  0.55880     x 0.50800       0.000 NO     DARK 
+  RECTANGLE  0.55880     x 0.50800      90.000 NO     DARK 
+  RECTANGLE  0.60960     x 2.36220      90.000 NO     DARK 
+  RECTANGLE  0.63000     x 0.35000       0.000 NO     DARK 
+  RECTANGLE  0.70000     x 1.80000      90.000 NO     DARK 
+  RECTANGLE  0.73000     x 0.45000       0.000 NO     DARK 
+  RECTANGLE  0.80000     x 0.23000       0.000 NO     DARK 
+  RECTANGLE  0.80000     x 0.23000      90.000 NO     DARK 
+  RECTANGLE  0.80000     x 1.90000      90.000 NO     DARK 
+  RECTANGLE  0.85000     x 0.28000       0.000 NO     DARK 
+  RECTANGLE  0.85000     x 0.28000      90.000 NO     DARK 
+  RECTANGLE  0.90000     x 0.33000       0.000 NO     DARK 
+  RECTANGLE  0.90000     x 0.33000      90.000 NO     DARK 
+  RECTANGLE  0.90000     x 0.42000       0.000 NO     DARK 
+  RECTANGLE  0.90000     x 0.62000       0.000 NO     DARK 
+  RECTANGLE  0.90000     x 0.65000       0.000 NO     DARK 
+  RECTANGLE  0.95000     x 0.38000       0.000 NO     DARK 
+  RECTANGLE  0.95000     x 0.38000      90.000 NO     DARK 
+  RECTANGLE  0.95000     x 1.00000       0.000 NO     DARK 
+  RECTANGLE  0.95000     x 1.00000      90.000 NO     DARK 
+  RECTANGLE  1.00000     x 0.38000      90.000 NO     DARK 
+  RECTANGLE  1.00000     x 0.52000       0.000 NO     DARK 
+  RECTANGLE  1.00000     x 0.72000       0.000 NO     DARK 
+  RECTANGLE  1.00000     x 0.75000       0.000 NO     DARK 
+  RECTANGLE  1.00000     x 1.40000       0.000 NO     DARK 
+  RECTANGLE  1.00000     x 1.40000      90.000 NO     DARK 
+  RECTANGLE  1.05000     x 1.05000       0.000 NO     DARK 
+  RECTANGLE  1.05000     x 1.10000      90.000 NO     DARK 
+  RECTANGLE  1.10000     x 0.48000      90.000 NO     DARK 
+  RECTANGLE  1.10000     x 0.55000       0.000 NO     DARK 
+  RECTANGLE  1.10000     x 0.55000      90.000 NO     DARK 
+  RECTANGLE  1.10010     x 1.15010       0.000 NO     DARK 
+  RECTANGLE  1.10010     x 1.15010      90.000 NO     DARK 
+  RECTANGLE  1.15000     x 1.20000      90.000 NO     DARK 
+  RECTANGLE  1.20000     x 0.65000       0.000 NO     DARK 
+  RECTANGLE  1.20000     x 0.65000      90.000 NO     DARK 
+  RECTANGLE  1.20000     x 1.60000       0.000 NO     DARK 
+  RECTANGLE  1.20000     x 1.60000      90.000 NO     DARK 
+  RECTANGLE  1.25000     x 1.25000       0.000 NO     DARK 
+  RECTANGLE  1.28000     x 0.20000       0.000 NO     DARK 
+  RECTANGLE  1.30000     x 0.65000       0.000 NO     DARK 
+  RECTANGLE  1.30000     x 0.65000      90.000 NO     DARK 
+  RECTANGLE  1.34620     x 1.52400       0.000 NO     DARK 
+  RECTANGLE  1.34620     x 1.52400      90.000 NO     DARK 
+  RECTANGLE  1.38000     x 0.30000       0.000 NO     DARK 
+  RECTANGLE  1.40000     x 1.20000      90.000 NO     DARK 
+  RECTANGLE  1.45000     x 0.80000       0.000 NO     DARK 
+  RECTANGLE  1.45000     x 0.80000      90.000 NO     DARK 
+  RECTANGLE  1.50010     x 0.30000       0.000 NO     DARK 
+  RECTANGLE  1.59990     x 1.80010       0.000 NO     DARK 
+  RECTANGLE  1.59990     x 1.80010      90.000 NO     DARK 
+  RECTANGLE  1.59990     x 2.70000       0.000 NO     DARK 
+  RECTANGLE  1.59990     x 2.70000      90.000 NO     DARK 
+  RECTANGLE  1.60000     x 0.42000       0.000 NO     DARK 
+  RECTANGLE  1.60000     x 1.40000      90.000 NO     DARK 
+  RECTANGLE  1.65000     x 0.45010       0.000 NO     DARK 
+  RECTANGLE  1.70000     x 0.52000       0.000 NO     DARK 
+  RECTANGLE  1.70000     x 0.55000       0.000 NO     DARK 
+  RECTANGLE  1.70000     x 1.70000      90.000 NO     DARK 
+  RECTANGLE  1.80000     x 0.65000       0.000 NO     DARK 
+  RECTANGLE  1.80000     x 0.70000       0.000 NO     DARK 
+  RECTANGLE  1.84990     x 2.05000       0.000 NO     DARK 
+  RECTANGLE  1.84990     x 2.05000      90.000 NO     DARK 
+  RECTANGLE  1.84990     x 2.95000       0.000 NO     DARK 
+  RECTANGLE  1.84990     x 2.95000      90.000 NO     DARK 
+  RECTANGLE  1.90000     x 0.80000       0.000 NO     DARK 
+  RECTANGLE  2.05740     x 3.50520      90.000 NO     DARK 
+  RECTANGLE  2.05740     x 3.98780      90.000 NO     DARK 
+  RECTANGLE  2.15900     x 3.60680      90.000 NO     DARK 
+  RECTANGLE  2.15900     x 4.08940      90.000 NO     DARK 
+  RECTANGLE  2.40000     x 5.16000       0.000 NO     DARK 
+  RECTANGLE  2.50000     x 5.26000       0.000 NO     DARK 
+  RECTANGLE  2.65000     x 0.85000       0.000 NO     DARK 
+  RECTANGLE  2.75000     x 0.95000       0.000 NO     DARK 
+  RECTANGLE  3.00000     x 2.00000       0.000 NO     DARK 
+  RECTANGLE  3.55000     x 0.85000       0.000 NO     DARK 
+  RECTANGLE  3.56000     x 1.78000       0.000 NO     DARK 
+  RECTANGLE  3.56000     x 1.78000      90.000 NO     DARK 
+  RECTANGLE  3.65000     x 0.95000       0.000 NO     DARK 
+  RECTANGLE  3.66000     x 1.88000       0.000 NO     DARK 
+  RECTANGLE  3.66000     x 1.88000      90.000 NO     DARK 
+  OBLONG     3.81000     x 1.77800       0.000 NO     DARK 
+  OBLONG     3.81000     x 1.77800      90.000 NO     DARK 
+  OBLONG     3.91160     x 1.87960       0.000 NO     DARK 
+  OBLONG     3.91160     x 1.87960      90.000 NO     DARK 
+  OBLONG     4.57200     x 1.77800       0.000 NO     DARK 
+  OBLONG     4.67360     x 1.87960       0.000 NO     DARK 
+  PAD SHAPE  SHAPE2_05X2_05            180.000 YES    DARK 
+  PAD SHAPE  SHAPE2_05X2_05            270.000 YES    DARK 
+
+     Soldermask_Bot created with warnings
+
+
+================================================================
+     PROCESSING FILM < Pastemask_Top >
+     TO FILE < D:/Dropbox/Design/allegroProject/designOnGIt/modificationForLC4500/standard/allegro/Pastemask_Top.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Photoplot window (9600000 x 9000000) exceeds film size (2400000 x 1600000)
+          stated in parameter file. 
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.76200                                  DARK 
+  CIRCLE     1.00000                                  DARK 
+  CIRCLE     1.01600                                  DARK 
+  SQUARE     0.65000                     0.000 NO     DARK 
+  RECTANGLE  0.40000     x 0.46000       0.000 NO     DARK 
+  RECTANGLE  0.40000     x 0.46000      90.000 NO     DARK 
+  RECTANGLE  0.40000     x 0.85000       0.000 NO     DARK 
+  RECTANGLE  0.40000     x 0.85000      90.000 NO     DARK 
+  RECTANGLE  0.50800     x 2.26060       0.000 NO     DARK 
+  RECTANGLE  0.55880     x 0.50800       0.000 NO     DARK 
+  RECTANGLE  0.60000     x 1.94000       0.000 NO     DARK 
+  RECTANGLE  0.69010     x 1.30000      90.000 NO     DARK 
+  RECTANGLE  0.80000     x 0.65000       0.000 NO     DARK 
+  RECTANGLE  0.80000     x 0.65000      90.000 NO     DARK 
+  RECTANGLE  0.80000     x 0.90000      90.000 NO     DARK 
+  RECTANGLE  0.85000     x 0.28000       0.000 NO     DARK 
+  RECTANGLE  0.85000     x 0.28000      90.000 NO     DARK 
+  RECTANGLE  0.90000     x 0.42000      90.000 NO     DARK 
+  RECTANGLE  0.90000     x 0.62000      90.000 NO     DARK 
+  RECTANGLE  0.95000     x 1.00000       0.000 NO     DARK 
+  RECTANGLE  0.95000     x 1.00000      90.000 NO     DARK 
+  RECTANGLE  0.95000     x 2.90000       0.000 NO     DARK 
+  RECTANGLE  0.95000     x 2.90000      90.000 NO     DARK 
+  RECTANGLE  1.00000     x 1.40000       0.000 NO     DARK 
+  RECTANGLE  1.00000     x 1.40000      90.000 NO     DARK 
+  RECTANGLE  1.05000     x 1.10000       0.000 NO     DARK 
+  RECTANGLE  1.05000     x 1.10000      90.000 NO     DARK 
+  RECTANGLE  1.30000     x 1.40000      90.000 NO     DARK 
+  RECTANGLE  1.34620     x 1.52400       0.000 NO     DARK 
+  RECTANGLE  1.34620     x 1.52400      90.000 NO     DARK 
+  RECTANGLE  1.40000     x 1.20000      90.000 NO     DARK 
+  RECTANGLE  1.40000     x 1.94000       0.000 NO     DARK 
+  RECTANGLE  1.40000     x 3.56000      90.000 NO     DARK 
+  RECTANGLE  1.59990     x 1.80010       0.000 NO     DARK 
+  RECTANGLE  1.59990     x 1.80010      90.000 NO     DARK 
+  RECTANGLE  1.59990     x 2.70000       0.000 NO     DARK 
+  RECTANGLE  1.59990     x 2.70000      90.000 NO     DARK 
+  RECTANGLE  1.74000     x 0.30000       0.000 NO     DARK 
+  RECTANGLE  1.80000     x 0.70000       0.000 NO     DARK 
+  RECTANGLE  1.80000     x 0.70000      90.000 NO     DARK 
+  RECTANGLE  1.92000     x 2.79000       0.000 NO     DARK 
+  RECTANGLE  1.92000     x 3.48000      90.000 NO     DARK 
+  RECTANGLE  2.05740     x 3.50520       0.000 NO     DARK 
+  RECTANGLE  2.05740     x 3.98780       0.000 NO     DARK 
+  RECTANGLE  2.20000     x 1.30000       0.000 NO     DARK 
+  RECTANGLE  2.20000     x 1.30000      90.000 NO     DARK 
+  RECTANGLE  2.62000     x 3.52000      90.000 NO     DARK 
+  RECTANGLE  2.65000     x 0.85000      90.000 NO     DARK 
+  RECTANGLE  3.00000     x 2.00000       0.000 NO     DARK 
+  RECTANGLE  3.00000     x 2.00000      90.000 NO     DARK 
+  RECTANGLE  3.55000     x 0.85000      90.000 NO     DARK 
+  RECTANGLE  3.56000     x 1.78000      90.000 NO     DARK 
+  RECTANGLE  3.70000     x 1.45000      90.000 NO     DARK 
+
+     Pastemask_Top created with warnings
+
+
+================================================================
+     PROCESSING FILM < Pastemask_Bot >
+     TO FILE < D:/Dropbox/Design/allegroProject/designOnGIt/modificationForLC4500/standard/allegro/Pastemask_Bot.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Photoplot window (9600000 x 9000000) exceeds film size (2400000 x 1600000)
+          stated in parameter file. 
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     1.00000                                  DARK 
+  SQUARE     0.65000                     0.000 NO     DARK 
+  SQUARE     0.65000                    45.000 NO     DARK 
+  SQUARE     1.20000                     0.000 NO     DARK 
+  RECTANGLE  0.25000     x 0.57500       0.000 NO     DARK 
+  RECTANGLE  0.30000     x 0.57500       0.000 NO     DARK 
+  RECTANGLE  0.30000     x 0.80000       0.000 NO     DARK 
+  RECTANGLE  0.40000     x 0.46000      90.000 NO     DARK 
+  RECTANGLE  0.40000     x 0.85000      90.000 NO     DARK 
+  RECTANGLE  0.45000     x 0.80000       0.000 NO     DARK 
+  RECTANGLE  0.50800     x 2.26060      90.000 NO     DARK 
+  RECTANGLE  0.55880     x 0.50800       0.000 NO     DARK 
+  RECTANGLE  0.55880     x 0.50800      90.000 NO     DARK 
+  RECTANGLE  0.63000     x 0.35000       0.000 NO     DARK 
+  RECTANGLE  0.70000     x 1.80000      90.000 NO     DARK 
+  RECTANGLE  0.80000     x 0.23000       0.000 NO     DARK 
+  RECTANGLE  0.80000     x 0.23000      90.000 NO     DARK 
+  RECTANGLE  0.85000     x 0.28000       0.000 NO     DARK 
+  RECTANGLE  0.85000     x 0.28000      90.000 NO     DARK 
+  RECTANGLE  0.90000     x 0.42000       0.000 NO     DARK 
+  RECTANGLE  0.90000     x 0.62000       0.000 NO     DARK 
+  RECTANGLE  0.90000     x 0.65000       0.000 NO     DARK 
+  RECTANGLE  0.95000     x 1.00000       0.000 NO     DARK 
+  RECTANGLE  0.95000     x 1.00000      90.000 NO     DARK 
+  RECTANGLE  1.00000     x 0.38000      90.000 NO     DARK 
+  RECTANGLE  1.00000     x 1.40000       0.000 NO     DARK 
+  RECTANGLE  1.00000     x 1.40000      90.000 NO     DARK 
+  RECTANGLE  1.05000     x 1.05000       0.000 NO     DARK 
+  RECTANGLE  1.05000     x 1.10000      90.000 NO     DARK 
+  RECTANGLE  1.10000     x 0.55000       0.000 NO     DARK 
+  RECTANGLE  1.10000     x 0.55000      90.000 NO     DARK 
+  RECTANGLE  1.28000     x 0.20000       0.000 NO     DARK 
+  RECTANGLE  1.30000     x 0.65000       0.000 NO     DARK 
+  RECTANGLE  1.30000     x 0.65000      90.000 NO     DARK 
+  RECTANGLE  1.34620     x 1.52400       0.000 NO     DARK 
+  RECTANGLE  1.34620     x 1.52400      90.000 NO     DARK 
+  RECTANGLE  1.40000     x 1.20000      90.000 NO     DARK 
+  RECTANGLE  1.50010     x 0.30000       0.000 NO     DARK 
+  RECTANGLE  1.59990     x 1.80010       0.000 NO     DARK 
+  RECTANGLE  1.59990     x 1.80010      90.000 NO     DARK 
+  RECTANGLE  1.59990     x 2.70000       0.000 NO     DARK 
+  RECTANGLE  1.59990     x 2.70000      90.000 NO     DARK 
+  RECTANGLE  1.60000     x 0.42000       0.000 NO     DARK 
+  RECTANGLE  1.70000     x 0.55000       0.000 NO     DARK 
+  RECTANGLE  1.80000     x 0.70000       0.000 NO     DARK 
+  RECTANGLE  2.05740     x 3.50520      90.000 NO     DARK 
+  RECTANGLE  2.05740     x 3.98780      90.000 NO     DARK 
+  RECTANGLE  2.40000     x 5.16000       0.000 NO     DARK 
+  RECTANGLE  2.65000     x 0.85000       0.000 NO     DARK 
+  RECTANGLE  3.00000     x 2.00000       0.000 NO     DARK 
+  RECTANGLE  3.55000     x 0.85000       0.000 NO     DARK 
+  RECTANGLE  3.56000     x 1.78000       0.000 NO     DARK 
+  RECTANGLE  3.56000     x 1.78000      90.000 NO     DARK 
+
+     Pastemask_Bot created with warnings
+
+
+================================================================
+     PROCESSING FILM < DRILL >
+     TO FILE < D:/Dropbox/Design/allegroProject/designOnGIt/modificationForLC4500/standard/allegro/DRILL.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1500
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Photoplot window (9600000 x 9000000) exceeds film size (2400000 x 1600000)
+          stated in parameter file. 
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+
+     DRILL created with warnings
+
+
+================================================================
+     PROCESSING FILM < 2-GND >
+     TO FILE < D:/Dropbox/Design/allegroProject/designOnGIt/modificationForLC4500/standard/allegro/2-GND.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Photoplot window (9600000 x 9000000) exceeds film size (2400000 x 1600000)
+          stated in parameter file. 
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.40640                                  DARK 
+  CIRCLE     0.50800                                  DARK 
+  CIRCLE     0.76200                                  DARK 
+  CIRCLE     0.80000                                  DARK 
+  CIRCLE     0.90000                                  DARK 
+  CIRCLE     1.01600                                  DARK 
+  CIRCLE     1.27000                                  DARK 
+  CIRCLE     1.40000                                  DARK 
+  CIRCLE     1.52400                                  DARK 
+  OBLONG     3.81000     x 1.77800       0.000 NO     DARK 
+  OBLONG     3.81000     x 1.77800      90.000 NO     DARK 
+  OBLONG     4.57200     x 1.77800       0.000 NO     DARK 
+
+     2-GND created with warnings
+
+
+================================================================
+     PROCESSING FILM < 3-SIG >
+     TO FILE < D:/Dropbox/Design/allegroProject/designOnGIt/modificationForLC4500/standard/allegro/3-SIG.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Photoplot window (9600000 x 9000000) exceeds film size (2400000 x 1600000)
+          stated in parameter file. 
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.12190                                  DARK 
+  CIRCLE     0.25400                                  DARK 
+  CIRCLE     0.38100                                  DARK 
+  CIRCLE     0.40640                                  DARK 
+  CIRCLE     0.50800                                  DARK 
+  CIRCLE     0.76200                                  DARK 
+  CIRCLE     0.80000                                  DARK 
+  CIRCLE     0.90000                                  DARK 
+  CIRCLE     1.01600                                  DARK 
+  CIRCLE     1.27000                                  DARK 
+  CIRCLE     1.40000                                  DARK 
+  CIRCLE     1.52400                                  DARK 
+  OBLONG     3.81000     x 1.77800       0.000 NO     DARK 
+  OBLONG     3.81000     x 1.77800      90.000 NO     DARK 
+  OBLONG     4.57200     x 1.77800       0.000 NO     DARK 
+
+     3-SIG created with warnings
+
+
+================================================================
+     PROCESSING FILM < 4-SIG >
+     TO FILE < D:/Dropbox/Design/allegroProject/designOnGIt/modificationForLC4500/standard/allegro/4-SIG.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Photoplot window (9600000 x 9000000) exceeds film size (2400000 x 1600000)
+          stated in parameter file. 
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.12000                                  DARK 
+  CIRCLE     0.12190                                  DARK 
+  CIRCLE     0.17780                                  DARK 
+  CIRCLE     0.25400                                  DARK 
+  CIRCLE     0.38100                                  DARK 
+  CIRCLE     0.40640                                  DARK 
+  CIRCLE     0.50800                                  DARK 
+  CIRCLE     0.76200                                  DARK 
+  CIRCLE     0.80000                                  DARK 
+  CIRCLE     0.90000                                  DARK 
+  CIRCLE     1.01600                                  DARK 
+  CIRCLE     1.27000                                  DARK 
+  CIRCLE     1.40000                                  DARK 
+  CIRCLE     1.52400                                  DARK 
+  OBLONG     3.81000     x 1.77800       0.000 NO     DARK 
+  OBLONG     3.81000     x 1.77800      90.000 NO     DARK 
+  OBLONG     4.57200     x 1.77800       0.000 NO     DARK 
+
+     4-SIG created with warnings
+
+
+================================================================
+     PROCESSING FILM < 5-VCC >
+     TO FILE < D:/Dropbox/Design/allegroProject/designOnGIt/modificationForLC4500/standard/allegro/5-VCC.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Photoplot window (9600000 x 9000000) exceeds film size (2400000 x 1600000)
+          stated in parameter file. 
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.40640                                  DARK 
+  CIRCLE     0.50800                                  DARK 
+  CIRCLE     0.76200                                  DARK 
+  CIRCLE     0.80000                                  DARK 
+  CIRCLE     0.90000                                  DARK 
+  CIRCLE     1.01600                                  DARK 
+  CIRCLE     1.27000                                  DARK 
+  CIRCLE     1.40000                                  DARK 
+  CIRCLE     1.52400                                  DARK 
+  OBLONG     3.81000     x 1.77800       0.000 NO     DARK 
+  OBLONG     3.81000     x 1.77800      90.000 NO     DARK 
+  OBLONG     4.57200     x 1.77800       0.000 NO     DARK 
+
+     5-VCC created with warnings
+
+
+================================================================
+     PROCESSING FILM < 6-SIG >
+     TO FILE < D:/Dropbox/Design/allegroProject/designOnGIt/modificationForLC4500/standard/allegro/6-SIG.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Photoplot window (9600000 x 9000000) exceeds film size (2400000 x 1600000)
+          stated in parameter file. 
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.12190                                  DARK 
+  CIRCLE     0.25400                                  DARK 
+  CIRCLE     0.38000                                  DARK 
+  CIRCLE     0.38100                                  DARK 
+  CIRCLE     0.40000                                  DARK 
+  CIRCLE     0.40640                                  DARK 
+  CIRCLE     0.50800                                  DARK 
+  CIRCLE     0.76200                                  DARK 
+  CIRCLE     0.80000                                  DARK 
+  CIRCLE     0.90000                                  DARK 
+  CIRCLE     1.01600                                  DARK 
+  CIRCLE     1.27000                                  DARK 
+  CIRCLE     1.40000                                  DARK 
+  CIRCLE     1.52400                                  DARK 
+  OBLONG     3.81000     x 1.77800       0.000 NO     DARK 
+  OBLONG     3.81000     x 1.77800      90.000 NO     DARK 
+  OBLONG     4.57200     x 1.77800       0.000 NO     DARK 
+
+     6-SIG created with warnings
+
+
+================================================================
+     PROCESSING FILM < 7-VCC >
+     TO FILE < D:/Dropbox/Design/allegroProject/designOnGIt/modificationForLC4500/standard/allegro/7-VCC.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Photoplot window (9600000 x 9000000) exceeds film size (2400000 x 1600000)
+          stated in parameter file. 
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.40640                                  DARK 
+  CIRCLE     0.50800                                  DARK 
+  CIRCLE     0.76200                                  DARK 
+  CIRCLE     0.80000                                  DARK 
+  CIRCLE     0.90000                                  DARK 
+  CIRCLE     1.01600                                  DARK 
+  CIRCLE     1.27000                                  DARK 
+  CIRCLE     1.40000                                  DARK 
+  CIRCLE     1.52400                                  DARK 
+  OBLONG     3.81000     x 1.77800       0.000 NO     DARK 
+  OBLONG     3.81000     x 1.77800      90.000 NO     DARK 
+  OBLONG     4.57200     x 1.77800       0.000 NO     DARK 
+
+     7-VCC created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+        1-TOP created.
+        8-BOTTOM created with warnings
+        Silkscreen_Top created with warnings
+        Silkscreen_Bot created with warnings
+        Soldermask_Top created with warnings
+        Soldermask_Bot created with warnings
+        Pastemask_Top created with warnings
+        Pastemask_Bot created with warnings
+        DRILL created with warnings
+        2-GND created with warnings
+        3-SIG created with warnings
+        4-SIG created with warnings
+        5-VCC created with warnings
+        6-SIG created with warnings
+        7-VCC created with warnings
+
+ ARTWORK had warnings

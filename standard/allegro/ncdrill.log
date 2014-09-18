@@ -1,0 +1,80 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : #Taaaaaj05008.tmp                             )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Thu Sep 18 10:02:22 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.5
+ MACHINE-OFFSET		x:0.000000	y:0.000000
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		ENGLISH
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	YES
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		YES
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	YES
+ SCALE			1.000000
+
+ WARNING(SPMHMF-363): Units system is being switched when generating drill output file data.
+ WARNING(SPMHMF-365): This design contains 3 slot holes that can NOT be drilled.
+ WARNING(SPMHMF-366): They can be processed by NC routing instead.
+ WARNING(SPMHMF-368): Cannot find NC Drill tool file 'nc_tools.txt'
+ WARNING(SPMHMF-369): ... will auto-generate tool file 'nc_tools_auto.txt'.
+
+
+     Auto-generating tool file 'nc_tools_auto.txt' ...
+
+           Size  Plating  Tool        + Tolerance  - Tolerance
+
+         0.2032  P        T01            0.000000     0.000000
+         0.2540  P        T02            0.000000     0.000000
+         0.3810  P        T03            0.000000     0.000000
+         0.6096  P        T04            0.000000     0.000000
+         0.9000  P        T05            0.000000     0.000000
+         1.0160  P        T06            0.076200     0.076200
+         1.2700  P        T07            0.000000     0.000000
+         0.9000  N        T08            0.000000     0.000000
+
+
+ Drill files being output to directory 'D:/Dropbox/Design/allegroProject/designOnGIt/modificationForLC4500/standard/allegro' ...
+
+
+
+     'STANDARD-1-8.drl' created for holes connecting TOP and BOTTOM
+     --------------------------------------------------------------
+
+     Tool  Num     Size      +/- Tolerance     Plating   Quantity
+
+     T01    1.   8.0000    0.0000/  0.0000      PLATED        755
+     T02    2.  10.0000    0.0000/  0.0000      PLATED        299
+     T03    3.  15.0000    0.0000/  0.0000      PLATED        233
+     T04    4.  24.0000    0.0000/  0.0000      PLATED          4
+     T05    5.  35.4331    0.0000/  0.0000      PLATED          2
+     T06    6.  40.0000    3.0000/  3.0000      PLATED         20
+     T07    7.  50.0000    0.0000/  0.0000      PLATED          4
+     T08    8.  35.4331    0.0000/  0.0000  NON_PLATED          4
+
+     ---- Total holes:                                       1321
+
+     ---- Total head travel:              67.58 feet (20.60 meters)
+

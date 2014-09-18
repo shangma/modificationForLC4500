@@ -13,7 +13,7 @@
     (DOCKING_POSITION "59420")
     (NoModify)
     (DRC_Scope "0")
-    (DRC_Action "0")
+    (DRC_Action "1")
     (DRC_Create_Warnings "FALSE")
     (DRC_View_Output "FALSE")
     (DRC_Run_Electrical_Rules "TRUE")
@@ -173,52 +173,19 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 336 0 1022"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 1022"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 50 1331 50 624")
-        (Scroll "972 597")
-        (Zoom "134")
+        (Placement "44 2 3 -1 -1 -8 -30 200 1567 200 774")
+        (Scroll "1712 980")
+        (Zoom "200")
         (Occurrence "/"))
       (Path
          "D:\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE-30  MODULATION"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 100 1138 100 530")
-        (Scroll "0 47")
-        (Zoom "102")
-        (Occurrence "/"))
-      (Path
-         "D:\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE-27  LED DRIVER BLUE/GREEN"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 125 1163 125 555")
-        (Scroll "-73 0")
-        (Zoom "51")
-        (Occurrence "/"))
-      (Path
-         "D:\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE-26  LED DRIVER - RED"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 150 1188 150 580")
-        (Scroll "-41 -6")
-        (Zoom "68")
-        (Occurrence "/"))
-      (Path
-         "D:\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE-25  LED CONNECTORS")))
+      (Page "PAGE-30  MODULATION")))
   (MPSSessionName "shang")
   (ISPCBBASICLICENSE "false")
   (LastUsedLibraryBrowseDirectory "D:\Dropbox\Design\allegroProject\MsLib_Sch"))
