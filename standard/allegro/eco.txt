@@ -3,7 +3,271 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
-|                                                    Wed Sep 17 10:24:46 2014  |
+|                                                    Wed Sep 17 16:06:01 2014  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  LEDB_MOD     pins ADDED TO this new net
+                                 R251.1                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LEDB_PWM     no longer scheduled
+               pins MOVED FROM this net (to net name listed on right)
+                                 U61.39          -17.297 -15.062
+                                                                       LEDB_MOD
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LEDG_MOD     pins ADDED TO this new net
+                                 R250.1                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LEDG_PWM     no longer scheduled
+               pins MOVED FROM this net (to net name listed on right)
+                                 U61.40          -16.510 -15.062
+                                                                       LEDG_MOD
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LEDR_MOD     pins ADDED TO this new net
+                                 R249.1                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LEDR_PWM     no longer scheduled
+               pins MOVED FROM this net (to net name listed on right)
+                                 U61.41          -15.697 -15.062
+                                                                       LEDR_MOD
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MUX_DATAEN   pins DELETED FROM this net (all pins deleted)
+                                 TP3.1                          
+                                 U7.AA16         -54.966 -42.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MUX_HSYNC    pins DELETED FROM this net (all pins deleted)
+                                 TP1.1                          
+                                 U7.AB16         -55.966 -42.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MUX_PCLK     pins DELETED FROM this net (all pins deleted)
+                                 TP7.1                          
+                                 U7.W15          -52.966 -41.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MUX_VSYNC    pins DELETED FROM this net (all pins deleted)
+                                 TP2.1                          
+                                 U7.Y15          -53.966 -41.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N40043966    pins MOVED FROM this net (to net name listed on right)
+                                 R216.1          -58.895 -0.6260
+                                                                      N40044257
+                                 U46.10          -61.974  0.9520
+                                                                      N40044257
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
+|                                                    Wed Sep 17 16:06:01 2014  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 R250.2                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N40046871    pins MOVED FROM this net (to net name listed on right)
+                                 R227.1          -29.126 -7.6172
+                                                                      N40047158
+                                 U47.10          -32.205 -6.1712
+                                                                      N40047158
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 R251.2                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N40049371    pins MOVED FROM this net (to net name listed on right)
+                                 R205.1          -72.186 -66.712
+                                                                      N40049643
+                                 U45.10          -73.161 -61.674
+                                                                      N40049643
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 R249.2                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P1_A2        pins DELETED FROM this net (all pins deleted)
+                                 U7.AB18         -55.966 -44.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P1_A3        pins DELETED FROM this net (all pins deleted)
+                                 U7.Y17          -53.966 -43.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P1_A4        pins DELETED FROM this net (all pins deleted)
+                                 U7.AA18         -54.966 -44.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P1_A5        pins DELETED FROM this net (all pins deleted)
+                                 U7.AB19         -55.966 -45.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P1_A6        pins DELETED FROM this net (all pins deleted)
+                                 U7.W17          -52.966 -43.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P1_A7        pins DELETED FROM this net (all pins deleted)
+                                 U7.Y18          -53.966 -44.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P1_A8        pins DELETED FROM this net (all pins deleted)
+                                 U7.AA19         -54.966 -45.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P1_A9        pins DELETED FROM this net (all pins deleted)
+                                 U7.AB20         -55.966 -46.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
+|                                                    Wed Sep 17 16:06:01 2014  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  P1_B2        pins DELETED FROM this net (all pins deleted)
+                                 U7.AA20         -54.966 -46.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P1_B3        pins DELETED FROM this net (all pins deleted)
+                                 U7.W21          -52.966 -47.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P1_B4        pins DELETED FROM this net (all pins deleted)
+                                 U7.W22          -52.966 -48.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P1_B5        pins DELETED FROM this net (all pins deleted)
+                                 U7.V21          -51.966 -47.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P1_B6        pins DELETED FROM this net (all pins deleted)
+                                 U7.U19          -50.966 -45.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P1_B7        pins DELETED FROM this net (all pins deleted)
+                                 U7.V22          -51.966 -48.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P1_B8        pins DELETED FROM this net (all pins deleted)
+                                 U7.U20          -50.966 -46.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P1_B9        pins DELETED FROM this net (all pins deleted)
+                                 U7.U21          -50.966 -47.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P1_C2        pins DELETED FROM this net (all pins deleted)
+                                 U7.T20          -49.966 -46.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P1_C3        pins DELETED FROM this net (all pins deleted)
+                                 U7.T21          -49.966 -47.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P1_C4        pins DELETED FROM this net (all pins deleted)
+                                 U7.R22          -48.966 -48.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P1_C5        pins DELETED FROM this net (all pins deleted)
+                                 U7.R21          -48.966 -47.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P1_C6        pins DELETED FROM this net (all pins deleted)
+                                 U7.R20          -48.966 -46.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P1_C7        pins DELETED FROM this net (all pins deleted)
+                                 U7.R19          -48.966 -45.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P1_C8        pins DELETED FROM this net (all pins deleted)
+                                 U7.P22          -47.966 -48.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
+|                                                    Wed Sep 17 16:06:01 2014  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  P1_C9        pins DELETED FROM this net (all pins deleted)
+                                 U7.P21          -47.966 -47.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P1_FIELD     pins DELETED FROM this net (all pins deleted)
+                                 TP4.1           -57.988 -37.414
+                                 U7.W14          -52.966 -40.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P2_CLK       pins DELETED FROM this net (all pins deleted)
+                                 TP6.1           -57.988 -41.605
+                                 U7.AB17         -55.966 -43.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P3_CLK       pins DELETED FROM this net (all pins deleted)
+                                 TP5.1           -59.258 -37.541
+                                 U7.Y16          -53.966 -42.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RCK_IN_N     pins DELETED FROM this net (all pins deleted)
+                                 U7.W9           -52.966 -35.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RCK_IN_P     pins DELETED FROM this net (all pins deleted)
+                                 U7.Y9           -53.966 -35.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RXE_AN       pins DELETED FROM this net (all pins deleted)
+                                 U7.AA10         -54.966 -36.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RXE_AP       pins DELETED FROM this net (all pins deleted)
+                                 U7.AB10         -55.966 -36.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RXE_BN       pins DELETED FROM this net (all pins deleted)
+                                 U7.W11          -52.966 -37.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RXE_BP       pins DELETED FROM this net (all pins deleted)
+                                 U7.Y11          -53.966 -37.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RXE_CN       pins DELETED FROM this net (all pins deleted)
+                                 U7.AA12         -54.966 -38.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RXE_CP       pins DELETED FROM this net (all pins deleted)
+                                 U7.AB12         -55.966 -38.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RXE_DN       pins DELETED FROM this net (all pins deleted)
+                                 U7.W13          -52.966 -39.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RXE_DP       pins DELETED FROM this net (all pins deleted)
+                                 U7.Y13          -53.966 -39.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
+|                                                    Wed Sep 17 16:06:01 2014  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  RXE_EN       pins DELETED FROM this net (all pins deleted)
+                                 U7.AA14         -54.966 -40.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RXE_EP       pins DELETED FROM this net (all pins deleted)
+                                 U7.AB14         -55.966 -40.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ST_USB_SEL   pins MOVED FROM this net (to net name listed on right)
+                                 R92.1           -31.673 -56.941
+                                                                      N40328715
+                                 U27.9           -32.230 -58.798
+                                                                      N40328715
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SYS_USB_DN   pins DELETED FROM this net (all pins deleted)
+                                 U27.4           -33.730 -60.073
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SYS_USB_DP   pins DELETED FROM this net (all pins deleted)
+                                 U27.3           -33.230 -60.073
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UART0_CTSZ   pins DELETED FROM this net (all pins deleted)
+                                 U7.L20          -44.966 -46.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UART0_RTSZ   pins DELETED FROM this net (all pins deleted)
+                                 U7.M19          -45.966 -45.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UART0_RXD    pins DELETED FROM this net (all pins deleted)
+                                 U7.L21          -44.966 -47.981
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UART0_TXD    pins DELETED FROM this net (all pins deleted)
+                                 U7.L19          -44.966 -45.981
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
+|                                                    Wed Sep 17 16:06:01 2014  |
 |------------------------------------------------------------------------------|
 | NET PROPERTIES added to board drawing                                        |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -56,10 +320,10 @@
  DMD_D14           PROPAGATION_DE R655.1:J500.P38:875 MIL:970 mil
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
-|                                                                    Page   2  |
+|                                                                    Page   7  |
 |------------------------------------------------------------------------------|
 |  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
-|                                                    Wed Sep 17 10:24:46 2014  |
+|                                                    Wed Sep 17 16:06:01 2014  |
 |------------------------------------------------------------------------------|
 | NET PROPERTIES added to board drawing                                        |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -112,10 +376,10 @@
  DMD_SAC_CLK       PROPAGATION_DE J500.M10:R630.1:1 MIL:1712 mil
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
-|                                                                    Page   3  |
+|                                                                    Page   8  |
 |------------------------------------------------------------------------------|
 |  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
-|                                                    Wed Sep 17 10:24:46 2014  |
+|                                                    Wed Sep 17 16:06:01 2014  |
 |------------------------------------------------------------------------------|
 | NET PROPERTIES added to board drawing                                        |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -168,10 +432,10 @@
  D_D17                   BUS_NAME D
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
-|                                                                    Page   4  |
+|                                                                    Page   9  |
 |------------------------------------------------------------------------------|
 |  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
-|                                                    Wed Sep 17 10:24:46 2014  |
+|                                                    Wed Sep 17 16:06:01 2014  |
 |------------------------------------------------------------------------------|
 | NET PROPERTIES added to board drawing                                        |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -206,66 +470,327 @@
  D_STRB                  BUS_NAME D
  D_TRC                   BUS_NAME D
  D_TRC                   BUS_NAME D
- MUX_DATAEN        PROPAGATION_DE U21.AA16:J2.87:4600 mil:4740 MIL
- MUX_HSYNC         PROPAGATION_DE U21.AB16:J2.86:4600 mil:4740 MIL
- MUX_PCLK          PROPAGATION_DE U21.W15:J2.54:4600 mil:4740 MIL
- MUX_VSYNC         PROPAGATION_DE J2.55:U21.Y15:4600 mil:4740 mil
- P1_A2             PROPAGATION_DE U21.AB18:J2.83:4600 mil:4740 MIL
- P1_A3             PROPAGATION_DE U21.Y17:J2.82:4600 mil:4740 MIL
- P1_A4             PROPAGATION_DE U21.AA18:J2.81:4600 mil:4740 MIL
- P1_A5             PROPAGATION_DE U21.AB19:J2.80:4600 mil:4740 MIL
- P1_A6             PROPAGATION_DE U21.W17:J2.79:4600 mil:4740 MIL
- P1_A7             PROPAGATION_DE U21.Y18:J2.78:4600 mil:4740 MIL
- P1_A8             PROPAGATION_DE U21.AA19:J2.77:4600 mil:4740 MIL
- P1_A9             PROPAGATION_DE U21.AB20:J2.76:4600 mil:4740 MIL
- P1_B2             PROPAGATION_DE J2.73:U21.AA20:4600 mil:4740 MIL
- P1_B3             PROPAGATION_DE J2.72:U21.W21:4600 mil:4740 MIL
- P1_B4             PROPAGATION_DE J2.71:U21.W22:4600 mil:4740 MIL
- P1_B5             PROPAGATION_DE J2.70:U21.V21:4600 mil:4740 MIL
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   5  |
-|------------------------------------------------------------------------------|
-|  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
-|                                                    Wed Sep 17 10:24:46 2014  |
-|------------------------------------------------------------------------------|
-| NET PROPERTIES added to board drawing                                        |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|     net  name   |   property   |                    value                    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- P1_B6             PROPAGATION_DE J2.69:U21.U19:4600 mil:4740 MIL
- P1_B7             PROPAGATION_DE J2.68:U21.V22:4600 mil:4740 MIL
- P1_B8             PROPAGATION_DE J2.67:U21.U20:4600 mil:4740 MIL
- P1_B9             PROPAGATION_DE J2.66:U21.U21:4600 mil:4740 MIL
- P1_C2             PROPAGATION_DE J2.63:U21.T20:4600 mil:4740 MIL
- P1_C3             PROPAGATION_DE J2.62:U21.T21:4600 mil:4740 MIL
- P1_C4             PROPAGATION_DE J2.61:U21.R22:4600 mil:4740 MIL
- P1_C5             PROPAGATION_DE J2.60:U21.R21:4600 mil:4740 MIL
- P1_C6             PROPAGATION_DE J2.59:U21.R20:4600 mil:4740 MIL
- P1_C7             PROPAGATION_DE J2.58:U21.R19:4600 mil:4740 MIL
- P1_C8             PROPAGATION_DE J2.57:U21.P22:4600 mil:4740 MIL
- P1_C9             PROPAGATION_DE J2.56:U21.P21:4600 mil:4740 MIL
- P1_FIELD          PROPAGATION_DE J2.88:U21.W14:4600 mil:4740 mil
- P2_CLK            PROPAGATION_DE U21.AB17:J2.14:4600 mil:4740 MIL
- P3_CLK            PROPAGATION_DE AD:AR:4125.00 MIL:7000.00 MIL:J1.94:U21.Y16:7050 mil:7055 mil
- RCK_IN_N          PROPAGATION_DE R13.1:U21.W9:5790 mil:5940 mil
- RCK_IN_P          PROPAGATION_DE R10.1:U21.Y9:5790 mil:5940 mil
- RXE_AN            PROPAGATION_DE AD:AR::5690.00 MIL:R19.1:U21.AA10:5790 mil:5940 mil
- RXE_AP            PROPAGATION_DE AD:AR::5690.00 MIL:R18.1:U21.AB10:5790 mil:5940 mil
- RXE_BN            PROPAGATION_DE AD:AR::5690.00 MIL:R17.1:U21.W11:5790 mil:5940 mil
- RXE_BP            PROPAGATION_DE AD:AR::5690.00 MIL:R16.1:U21.Y11:5790 mil:5940 mil
- RXE_CN            PROPAGATION_DE AD:AR::5690.00 MIL:R15.1:U21.AA12:5790 mil:5940 mil
- RXE_CP            PROPAGATION_DE AD:AR::5690.00 MIL:R14.1:U21.AB12:5790 mil:5940 mil
- RXE_DN            PROPAGATION_DE AD:AR::5690.00 MIL:R9.1:U21.W13:5790 mil:5940 mil
- RXE_DP            PROPAGATION_DE AD:AR::5690.00 MIL:R8.1:U21.Y13:5790 mil:5940 mil
- RXE_EN            PROPAGATION_DE AD:AR::5690.00 MIL:R7.1:U21.AA14:5790 mil:5940 mil
- RXE_EP            PROPAGATION_DE AD:AR::5690.00 MIL:R6.1:U21.AB14:5790 mil:5940 mil
  TRACEPKT0         PROPAGATION_DE RN501.9:J21.30:2770 mil:2780 mil
  TRACEPKT1         PROPAGATION_DE RN501.10:J21.28:2770 mil:2780 mil
  TRACEPKT2         PROPAGATION_DE RN501.11:J21.26:2770 mil:2780 mil
  TRACEPKT3         PROPAGATION_DE RN501.12:J21.24:2770 mil:2780 mil
  TRACEPKT6         PROPAGATION_DE RN501.15:J21.18:2770 mil:2780 mil
  TRACEPKT7         PROPAGATION_DE RN501.16:J21.16:2770 mil:2780 mil
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  10  |
 |------------------------------------------------------------------------------|
-|   total ECO changes reported  213                                            |
+|  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
+|                                                    Wed Sep 17 16:06:01 2014  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to board drawing                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ RES_RES_0603_1K
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  11  |
+|------------------------------------------------------------------------------|
+|  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
+|                                                    Wed Sep 17 16:06:01 2014  |
+|------------------------------------------------------------------------------|
+| COMPONENTS DELETED from board drawing                                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  CAP NP_CAP_0402_0.1UF                
+ C2                  CAP NP_CAP_0402_0.1UF                
+ C3                  CAP NP_CAP_0402_0.1UF                
+ C4                  CAP NP_CAP_0402_0.1UF                
+ C5                  CAP NP_CAP_0402_0.1UF                
+ C6                  CAP NP_CAP_0402_0.1UF                
+ C7                  SC2D2U10V3ZY_0_CAP_0603_10UF                
+ C8                  SC2D2U10V3ZY_0_CAP_0603_10UF                
+ C9                  SC2D2U10V3ZY_0_CAP_0603_10UF                
+ C10                 SC2D2U10V3ZY_0_CAP_0603_10UF                
+ C11                 CAP NP_CAP_0402_0.1UF                
+ C12                 CAP NP_CAP_0402_0.1UF                
+ C13                 SC2D2U10V3ZY_0_CAP_0603_10UF                
+ C14                 SC2D2U10V3ZY_0_CAP_0603_10UF                
+ C15                 SC2D2U10V3ZY_0_CAP_0603_10UF                
+ C16                 SC2D2U10V3ZY_0_CAP_0603_10UF                
+ C17                 CAP NP_CAP_0402_0.1UF                
+ C18                 CAP NP_CAP_0402_0.1UF                
+ C19                 CAP NP_CAP_0402_0.1UF                
+ C20                 CAP NP_CAP_0402_0.1UF                
+ C21                 CAP NP_CAP_0402_0.1UF                
+ C22                 CAP NP_CAP_0402_0.1UF                
+ C23                 CAP NP_CAP_0402_0.1UF                
+ C24                 CAP NP_CAP_0402_0.1 UF                
+ C25                 CAP NP_CAP_0402_0.1 UF                
+ C26                 CAP NP_CAP_0402_0.1 UF                
+ C27                 CAP NP_CAP_0402_0.1 UF                
+ C28                 CAP NP_CAP_0402_0.1 UF                
+ C29                 CAP NP_CAP_0402_0.1 UF                
+ C30                 CAP NP_CAP_0402_0.1 UF                
+ C31                 CAP NP_CAP_0402_0.1 UF                
+ C32                 CAP NP_CAP_0402_0.1UF                
+ C33                 CAP NP_CAP_0402_0.1UF                
+ C34                 CAP NP_CAP_0402_0.1UF                
+ C35                 CAP NP_CAP_0402_0.1UF                
+ C36                 CAP NP_CAP_0402_0.1UF                
+ C37                 CAP NP_CAP_0402_0.1UF                
+ C38                 CAP NP_CAP_0402_0.1UF                
+ C39                 CAP NP_CAP_0402_0.1UF                
+ C40                 CAP NP_CAP_0402_0.1UF                
+ C41                 CAP NP_CAP_0402_0.1UF                
+ C42                 CAP NP_CAP_0402_0.1UF                
+ C43                 CAP NP_CAP_0402_0.1UF                
+ C44                 CAP NP_CAP_0402_0.1UF                
+ C45                 CAP NP_CAP_0402_0.1UF                
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  12  |
+|------------------------------------------------------------------------------|
+|  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
+|                                                    Wed Sep 17 16:06:01 2014  |
+|------------------------------------------------------------------------------|
+| COMPONENTS DELETED from board drawing                                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C46                 CAP NP_CAP_0402_0.1UF                
+ C47                 CAP NP_CAP_0402_0.1UF                
+ C48                 CAP NP_CAP_0402_0.1UF                
+ C49                 CAP NP_CAP_0402_0.1UF                
+ C50                 CAP NP_CAP_0402_0.1UF                
+ C51                 CAP NP_CAP_0402_0.1UF                
+ C56                 CAP NP_CAP_0402_0.1UF                
+ C57                 CAP NP_CAP_0402_0.1UF                
+ C58                 CAP NP_CAP_0402_0.1 UF                
+ C59                 CAP NP_CAP_0805_0.1 UF                
+ C60                 CAP NP_CAP_0805_0.1 UF                
+ C61                 CAP NP_CAP_0805_0.1 UF                
+ C62                 CAP NP_CAP_0805_0.1 UF                
+ C63                 CAP NP_CAP_0402_0.1UF                
+ C68                 CAP NP_CAP_1210_10 UF                
+ C69                 CAP NP_CAP_1210_22 UF                
+ C72                 CAP NP_CAP_0603_0.1 UF                
+ C73                 CAP NP_CAP_0402_3.3 NF                
+ C246                CAP NP_CAP_0201_0.1UF                
+ C247                CAP NP_CAP_0201_0.1UF                
+ C248                CAP NP_CAP_0201_0.1UF                
+ C249                CAP NP_CAP_0201_0.1UF                
+ C250                CAP NP_CAP_0201_0.1UF                
+ C286                CAP NP_CAP_0402_0.1 UF                
+ C287                CAP NP_CAP_0603_2.2 UF                
+ C288                CAP NP_CAP_0402_0.1 UF                
+ C289                CAP NP_CAP_0603_2.2 UF                
+ C290                CAP NP_CAP_0402_0.1 UF                
+ C291                CAP NP_CAP_0603_2.2 UF                
+ C292                CAP NP_CAP_0201_0.1UF                
+ C293                CAP NP_CAP_0402_0.1UF                
+ C294                CAP NP_CAP_0402_0.1UF                
+ C295                CAP NP_CAP_0402_0.1UF                
+ C296                CAP NP_CAP_0402_0.1UF                
+ C297                CAP NP_CAP_0402_0.1UF                
+ C300                CAP NP_CAP_0402_0.1UF                
+ D1                  ESD9C_SOD-923_ESD9C5.0ST5G                
+ D2                  ESD9C_SOD-923_ESD9C5.0ST5G                
+ D3                  LED_0_D_0402_SML-LX0402SUGC                
+ J1                  CONN20_2X10_CONN_2X20_SFM-110-0                
+ J3                  HEADER_2X14_J_CONN_2X14_SSQ-114                
+ J4                  CONN20_2X10_CONN_2X20_SFM-110-0                
+ J6                  HEADER_2X14_J_CONN_2X14_SSQ-114                
+ J7                  MHDMI CONN_0_HDMI19_MHDMI-19-02                
+ J8                  HEADER_1X1_951102-8622-AR_95110                
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  13  |
+|------------------------------------------------------------------------------|
+|  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
+|                                                    Wed Sep 17 16:06:01 2014  |
+|------------------------------------------------------------------------------|
+| COMPONENTS DELETED from board drawing                                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ J9                  CONN20_2X10_CONN_2X10_AXK5S2004                
+ J10                 HEADER_2X3_951206-8622-AR_95120                
+ J11                 CONN_6_CONN_6_53261-0671                
+ J12                 HEADER_2X3_951206-8622-AR_95120                
+ J13                 HEADER_2X3_951206-8622-AR_95120                
+ J14                 CONN_6_CONN_6_53261-0671                
+ J15                 HEADER_2X3_951206-8622-AR_95120                
+ J16                 CON4_CONN_4_53261-0471                
+ J19                 HEADER_1X1_951102-8622-AR_95110                
+ J20                 PHONEJACK STEREO_5_PH_TG-2573_S                
+ J23                 HEADER_1X1_951102-8622-AR_95110                
+ J28                 HEADER_2X2_951204-8622-AR_95120                
+ J29                 HDR7X2_M_B14B-PHDSS_B14B-PHDSS(                
+ J30                 HEADER_1X1_951102-8622-AR_95110                
+ L1                  INDUCTOR_L0402_MMZ1005D330C                
+ L2                  INDUCTOR_L0402_MMZ1005D330C                
+ L3                  INDUCTOR_L0402_MMZ1005D330C                
+ L4                  INDUCTOR_L0402_MMZ1005D330C                
+ L6                  INDUCTOR_XFL4020_2.2 UH                
+ R1                  1KR2F_RES_0201_10K                   
+ R2                  1KR2F_RES_0201_2.2K                  
+ R3                  1KR2F_RES_0201_2.2K                  
+ R4                  1KR2F_RES_0201_10K                   
+ R5                  R_RES_0201_100K                      
+ R6                  R_RES_0201_100K                      
+ R7                  R_RES_0201_100K                      
+ R8                  R_RES_0201_100K                      
+ R9                  R_RES_0201_NC_100K                   
+ R10                 R_RES_0201_100K                      
+ R11                 R_RES_0201_100K                      
+ R12                 R_RES_0201_NC_100K                   
+ R13                 R_RES_0201_100K                      
+ R14                 R_RES_0201_100K                      
+ R15                 RESISTOR_RES_0201_22                 
+ R16                 RESISTOR_RES_0201_22                 
+ R17                 R_RES_0201_NC_100K                   
+ R18                 RESISTOR_RES_0201_22                 
+ R19                 R_RES_0201_NC_100K                   
+ R20                 R_RES_0201_100K                      
+ R21                 R_RES_0201_NC_100K                   
+ R22                 R_RES_0201_100K                      
+ R23                 RESISTOR_RES_0201_22                 
+ R24                 RESISTOR_RES_0201_750                
+ R25                 R_RES_0201_100K                      
+ R26                 1KR2F_RES_0201_10K                   
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  14  |
+|------------------------------------------------------------------------------|
+|  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
+|                                                    Wed Sep 17 16:06:01 2014  |
+|------------------------------------------------------------------------------|
+| COMPONENTS DELETED from board drawing                                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R27                 R_RES_0201_100K                      
+ R28                 1KR2F_RES_0201_10K                   
+ R29                 R_RES_0201_100K                      
+ R30                 R_RES_0201_100K                      
+ R31                 R_RES_0201_100K                      
+ R32                 R_RES_0201_100K                      
+ R33                 1KR2F_RES_0201_10K                   
+ R34                 R_RES_0201_100K                      
+ R35                 R_RES_0201_100K                      
+ R36                 R_RES_0201_100K                      
+ R37                 R_RES_0201_100K                      
+ R38                 R_RES_0201_100K                      
+ R39                 R_RES_0201_100K                      
+ R40                 R_RES_0201_100K                      
+ R41                 R_RES_0201_100K                      
+ R42                 R_RES_0201_100K                      
+ R43                 R_RES_0201_100K                      
+ R44                 R_RES_0201_100K                      
+ R45                 R_RES_0201_100K                      
+ R69                 R_RES_0402_1K                        
+ R70                 R_RES_0402_1K                        
+ R75                 R_RES_0201_100K                      
+ R76                 R_RES_0603_0                         
+ R77                 RESISTOR_RES_0201_0                  
+ R78                 RESISTOR_RES_0201_NC_0                
+ R82                 RESISTOR_RES_0201_NC_0                
+ R83                 RESISTOR_RES_0201_0                  
+ R84                 RESISTOR_RES_0201_0                  
+ R86                 R_RES_0201_100K                      
+ R87                 R_RES_0201_100K                      
+ R97                 R_RES_0402_100K                      
+ R98                 R_RES_0402_680K                      
+ R100                R_RES_0402_130K                      
+ R139                R_RES_0201_100K                      
+ R198                R_RES_0402_10K                       
+ R199                1KR2F_RES_0201_10K                   
+ R237                R_RES_0201_100K                      
+ R238                R_RES_0201_100K                      
+ R239                R_RES_0201_100K                      
+ R240                R_RES_0201_100K                      
+ RP1                 RESARR_IS_4/SM_0804_2010_METRIC                
+ RP2                 RESARR_IS_4/SM_0804_2010_METRIC                
+ RP3                 RESARR_IS_4/SM_0804_2010_METRIC                
+ RP4                 RESARR_IS_4/SM_0804_2010_METRIC                
+ RP5                 RESARR_IS_4/SM_0804_2010_METRIC                
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  15  |
+|------------------------------------------------------------------------------|
+|  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
+|                                                    Wed Sep 17 16:06:01 2014  |
+|------------------------------------------------------------------------------|
+| COMPONENTS DELETED from board drawing                                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ RP6                 RESARR_IS_4/SM_0804_2010_METRIC                
+ RP7                 RESARR_IS_4/SM_0804_2010_METRIC                
+ RP8                 RESARR_IS_4/SM_0804_2010_METRIC                
+ RP9                 RESARR_IS_4/SM_0804_2010_METRIC                
+ RP10                RESARR_IS_4/SM_0804_2010_METRIC                
+ RP11                RESARR_IS_4/SM_0804_2010_METRIC                
+ RP12                RESARR_IS_4/SM_0804_2010_METRIC                
+ RP13                RESARR_IS_4/SM_0804_2010_METRIC                
+ RP14                RESARR_IS_4/SM_0804_2010_METRIC                
+ U1                  TPD8S009_TPD8S009_TPD8S009DSM                
+ U2                  M24C08L_DSIZE_SOP8_M24C02-WMN6T                
+ U3                  TFP401APZP_PZP_100_(S1+S2+S3)_T                
+ U4                  SN74AVC1T245_DCK_SN74AVC1T45DCK                
+ U5                  SN74LVC1G04DBV_DBV_SN74LVC1G04D                
+ U6                  SN74AVC32T245ZKE_96LFBGA_SN74AV                
+ U8                  SN74AVC8T245PW_PW_SN74AVC8T245P                
+ U9                  SN74AVC8T245PW_PW_SN74AVC8T245P                
+ U10                 74LVC2G157_DCU_SN74LVC2G157DCU                
+ U11                 SN74AVC1T245_DCK_SN74AVC1T45DCK                
+ U12                 SN74AVC2T45DCU_DCU_SN74AVC2T45D                
+ U13                 SN74AVC1T245_DCK_SN74AVC1T45DCK                
+ U14                 74LVC2G157_DCU_SN74LVC2G157DCU                
+ U15                 SN74AVC1T245_DCK_SN74AVC1T45DCK                
+ U16                 SN74AVC1T245_DCK_SN74AVC1T45DCK                
+ U17                 SN74AVC1T245_DCK_SN74AVC1T45DCK                
+ U18                 SN74AVC2T45DCU_DCU_SN74AVC2T45D                
+ U21                 TPD2E001_SOP_4_TPD2E001DZD                
+ U23                 TXS0102_TXS0102_DCT_TXS0102DCT                
+ U24                 MAX3232_SOIC16-PW_TI_MAX3232CPW                
+ U25                 74LVC2G157_DCU_SN74LVC2G157DCU                
+ U28                 TLV62130_RGT_TLV62130RGT                
+ U40                 74LVC2G157_DCU_SN74LVC2G157DCU                
+ U41                 74LVC2G157_DCU_SN74LVC2G157DCU                
+ U42                 SN74AVC8T245PW_1_PW_SN74AVC8T24                
+ U43                 74LVC2G157_DCU_SN74LVC2G157DCU                
+ U48                 TPS79718_1_TI_DCK_TPS79718DCKT                
+ U49                 TPS79718_1_TI_DCK_TPS79718DCKT                
+ U50                 TPS79318_0_TI_DVB_TPS79318DBV                
+ U51                 SN74LVC1G17DBV_TI_DBV_SN74LVC1G                
+ U52                 SN74LVC1G17DBV_TI_DBV_SN74LVC1G                
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  16  |
+|------------------------------------------------------------------------------|
+|  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
+|                                                    Wed Sep 17 16:06:01 2014  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R249                RES_RES_0603_1K       
+ R250                RES_RES_0603_1K       
+ R251                RES_RES_0603_1K       
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  17  |
+|------------------------------------------------------------------------------|
+|  D:.../designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd       |
+|                                                    Wed Sep 17 16:06:01 2014  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R249.2                         PRIM_FILE      .\pstchip.dat
+ R250.2                         PRIM_FILE      .\pstchip.dat
+ R251.2                         PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  473                                            |
 |------------------------------------------------------------------------------|
