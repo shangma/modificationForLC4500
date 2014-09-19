@@ -1,6 +1,5 @@
 (ExpressProject ""
   (ProjectVersion "19981106")
-  (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library"
       (File "D:\Dropbox\Design\allegroProject\MsLib_Sch\LC4500.OLB"
@@ -102,6 +101,10 @@
       (Type "Report")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (CRYSTAL_4_Pins
+      (FullPartName "CRYSTAL_4_Pins.Normal")
+      (LibraryName "D:\DROPBOX\DESIGN\ALLEGROPROJECT\MSLIB_SCH\LC4500.OLB")
+      (DeviceIndex "0"))
     (OFFPAGELEFT-L
       (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
@@ -137,10 +140,6 @@
     (GND_POWER
       (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
-    (CRYSTAL_4_Pins
-      (FullPartName "CRYSTAL_4_Pins.Normal")
-      (LibraryName "D:\DROPBOX\DESIGN\ALLEGROPROJECT\MSLIB_SCH\LC4500.OLB")
-      (DeviceIndex "0"))
     (CRYSTAL_0
       (FullPartName "CRYSTAL_0.Normal")
       (LibraryName "D:\DROPBOX\DESIGN\ALLEGROPROJECT\MSLIB_SCH\LC4500.OLB")
@@ -161,14 +160,12 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "d:\dropbox\design\allegroproject\designongit\modificationforlc4500\standard\standard.dsn")
-      (Path "Design Resources"
-         "d:\dropbox\design\allegroproject\designongit\modificationforlc4500\standard\standard.dsn"
-         "SCHEMATIC1")
+      (Path "Design Resources" ".\standard.dsn")
+      (Path "Design Resources" ".\standard.dsn" "SCHEMATIC1")
+      (Path "Design Resources" ".\standard.dsn" "Design Cache")
       (Path "Outputs")
-      (Select "Design Resources"
-         "d:\dropbox\design\allegroproject\designongit\modificationforlc4500\standard\standard.dsn"))
+      (Select "Design Resources" ".\standard.dsn" "SCHEMATIC1"
+         "PAGE-02  BLOCK DIAGRAM"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -178,14 +175,80 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 200 1567 200 774")
-        (Scroll "1712 980")
-        (Zoom "200")
+        (Placement "44 0 1 -1 -1 -8 -30 275 1530 275 927")
+        (Scroll "0 0")
+        (Zoom "80")
         (Occurrence "/"))
       (Path
          "D:\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE-30  MODULATION")))
+      (Page "PAGE-08  DATA PATH MUX"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 300 1559 300 956")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE-07  INTERFACE CONNECTORS"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 325 1584 325 981")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE-06  TFP401 POWER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 1259 0 656")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE-05  TFP401 RECEIVER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 25 1284 25 681")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE-04  TFP401 CONNECTOR"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 50 1309 50 706")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE-03  RGB MUXING"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 75 1334 75 731")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\DROPBOX\DESIGN\ALLEGROPROJECT\DESIGNONGIT\MODIFICATIONFORLC4500\STANDARD\STANDARD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE-02  BLOCK DIAGRAM")))
   (MPSSessionName "shang")
   (ISPCBBASICLICENSE "false")
   (LastUsedLibraryBrowseDirectory "D:\Dropbox\Design\allegroProject\MsLib_Sch"))
