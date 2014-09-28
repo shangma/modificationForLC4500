@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001Sep-17-2014 at 16:05:59}
+{ Using PSTWRITER 16.6.0 d001Sep-28-2014 at 00:38:21}
 primitive 'CAP NP_CAP_0805_10 UF';
   pin
     '1':
@@ -375,21 +375,6 @@ primitive 'CAP NP_CAP_0603_8.2N';
     VALUE='8.2n';
   end_body;
 end_primitive;
-primitive 'CAP NP_CAP_0603_NC_0.1 UF';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='CAP NP';
-    JEDEC_TYPE='CAP_0603';
-    VALUE='NC_0.1 uF';
-  end_body;
-end_primitive;
 primitive 'CAP NP_CAP_0603_0.33UF';
   pin
     '1':
@@ -555,10 +540,10 @@ primitive 'DIODE ZENER_D_0603_CDBU0520';
     VALUE='CDBU0520';
   end_body;
 end_primitive;
-primitive 'DUAL_COLOR_LED_4-SMD_GULL_WING_';
+primitive 'DUAL_COLOR_LED_3_4-SMD_GULL_WIN';
   pin
     'ANODE1':
-      PIN_NUMBER='(2)';
+      PIN_NUMBER='(1)';
       PINUSE='UNSPEC';
     'ANODE2':
       PIN_NUMBER='(3)';
@@ -567,13 +552,13 @@ primitive 'DUAL_COLOR_LED_4-SMD_GULL_WING_';
       PIN_NUMBER='(4)';
       PINUSE='UNSPEC';
     'CATHODE1':
-      PIN_NUMBER='(1)';
+      PIN_NUMBER='(2)';
       PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='DUAL_COLOR_LED';
+    PART_NAME='DUAL_COLOR_LED_3';
     JEDEC_TYPE='4-SMD_Gull_Wing';
-    VALUE='LNJ107W5PRW';
+    VALUE='LN2162C68TR';
   end_body;
 end_primitive;
 primitive 'DIODE_SCHOTTKY_DSIZE_SOD_123_ST';
@@ -604,6 +589,27 @@ primitive 'DIODE_SCHOTTKY_DO-214AB_SMC_B52';
     PART_NAME='DIODE_SCHOTTKY';
     JEDEC_TYPE='DO-214AB_SMC';
     VALUE='B520C-13-F';
+  end_body;
+end_primitive;
+primitive 'DUAL_COLOR_LED_2_4-SMD_GULL_WIN';
+  pin
+    'ANODE1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'ANODE2':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'CATHODE2':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    'CATHODE1':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='DUAL_COLOR_LED_2';
+    JEDEC_TYPE='4-SMD_Gull_Wing';
+    VALUE='LN2162C68TR';
   end_body;
 end_primitive;
 primitive 'DIODE_TVS_DO-214AB_SMC_SMCJ15CA';
@@ -1956,7 +1962,7 @@ primitive 'RESISTOR_V_TOL_3_RES_0603_1K';
     VALUE='1k';
   end_body;
 end_primitive;
-primitive 'RESISTOR_V_TOL_3_RES_0603_NC_9.';
+primitive 'RESISTOR_V_TOL_3_RES_0603_9.09K';
   pin
     'N1':
       PIN_NUMBER='(1)';
@@ -1968,22 +1974,7 @@ primitive 'RESISTOR_V_TOL_3_RES_0603_NC_9.';
   body
     PART_NAME='RESISTOR_V_TOL_3';
     JEDEC_TYPE='RES_0603';
-    VALUE='NC_9.09k';
-  end_body;
-end_primitive;
-primitive 'RESISTOR_V_TOL_3_RES_0603_NC_ 1';
-  pin
-    'N1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    'N2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='RESISTOR_V_TOL_3';
-    JEDEC_TYPE='RES_0603';
-    VALUE='NC_ 1k';
+    VALUE='9.09k';
   end_body;
 end_primitive;
 primitive 'RESISTOR_V_TOL_3_RES_0603_28.7K';
@@ -2029,21 +2020,6 @@ primitive 'RESISTOR_V_TOL_3_RES_1206_20M';
     PART_NAME='RESISTOR_V_TOL_3';
     JEDEC_TYPE='RES_1206';
     VALUE='20m';
-  end_body;
-end_primitive;
-primitive 'RESISTOR_V_TOL_3_RES_0603_NC_1K';
-  pin
-    'N1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    'N2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='RESISTOR_V_TOL_3';
-    JEDEC_TYPE='RES_0603';
-    VALUE='NC_1k';
   end_body;
 end_primitive;
 primitive 'R_RES_0402_240K';
@@ -5068,7 +5044,7 @@ primitive 'DLPC350_BGA_419_DLPC350';
     VALUE='DLPC350';
   end_body;
 end_primitive;
-primitive 'CRYSTAL_0_3_2MM_2_5MM_32.0 MHZ';
+primitive 'CRYSTAL_4_PINS_3_2MM_2_5MM_CRYS';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -5084,9 +5060,9 @@ primitive 'CRYSTAL_0_3_2MM_2_5MM_32.0 MHZ';
       PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='CRYSTAL_0';
+    PART_NAME='CRYSTAL_4_Pins';
     JEDEC_TYPE='3_2mm_2_5mm';
-    VALUE='32.0 MHZ';
+    VALUE='CRYSTAL_4_Pins';
   end_body;
 end_primitive;
 primitive 'CRYSTAL_4_PINS_3_2MM_2_5MM_8MHZ';

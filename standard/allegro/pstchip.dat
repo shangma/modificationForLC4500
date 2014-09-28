@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001Sep-28-2014 at 00:38:21}
+{ Using PSTWRITER 16.6.0 d001Sep-28-2014 at 13:18:25}
 primitive 'CAP NP_CAP_0805_10 UF';
   pin
     '1':
@@ -540,25 +540,36 @@ primitive 'DIODE ZENER_D_0603_CDBU0520';
     VALUE='CDBU0520';
   end_body;
 end_primitive;
-primitive 'DUAL_COLOR_LED_3_4-SMD_GULL_WIN';
+primitive 'LED_0_D_0402_LT QH9G-Q2S2-25-1_';
   pin
-    'ANODE1':
+    'ANODE':
       PIN_NUMBER='(1)';
       PINUSE='UNSPEC';
-    'ANODE2':
-      PIN_NUMBER='(3)';
-      PINUSE='UNSPEC';
-    'CATHODE2':
-      PIN_NUMBER='(4)';
-      PINUSE='UNSPEC';
-    'CATHODE1':
+    'CATHODE':
       PIN_NUMBER='(2)';
       PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='DUAL_COLOR_LED_3';
-    JEDEC_TYPE='4-SMD_Gull_Wing';
-    VALUE='LN2162C68TR';
+    PART_NAME='LED_0';
+    JEDEC_TYPE='D_0402';
+    VALUE='LT QH9G-Q2S2-25-1';
+    PART_NUMBER='LT QH9G-Q2S2-25-1';
+  end_body;
+end_primitive;
+primitive 'LED_0_D_0402_LR QH9F-P2R1-1_LR';
+  pin
+    'ANODE':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'CATHODE':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='LED_0';
+    JEDEC_TYPE='D_0402';
+    VALUE='LR QH9F-P2R1-1';
+    PART_NUMBER='LR QH9F-P2R1-1';
   end_body;
 end_primitive;
 primitive 'DIODE_SCHOTTKY_DSIZE_SOD_123_ST';
@@ -589,27 +600,6 @@ primitive 'DIODE_SCHOTTKY_DO-214AB_SMC_B52';
     PART_NAME='DIODE_SCHOTTKY';
     JEDEC_TYPE='DO-214AB_SMC';
     VALUE='B520C-13-F';
-  end_body;
-end_primitive;
-primitive 'DUAL_COLOR_LED_2_4-SMD_GULL_WIN';
-  pin
-    'ANODE1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    'ANODE2':
-      PIN_NUMBER='(3)';
-      PINUSE='UNSPEC';
-    'CATHODE2':
-      PIN_NUMBER='(4)';
-      PINUSE='UNSPEC';
-    'CATHODE1':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='DUAL_COLOR_LED_2';
-    JEDEC_TYPE='4-SMD_Gull_Wing';
-    VALUE='LN2162C68TR';
   end_body;
 end_primitive;
 primitive 'DIODE_TVS_DO-214AB_SMC_SMCJ15CA';
@@ -2157,7 +2147,7 @@ primitive 'R_RES_0603_0';
     VALUE='0';
   end_body;
 end_primitive;
-primitive 'R_RES_0201_330';
+primitive 'R_RES_0201_220';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -2169,7 +2159,7 @@ primitive 'R_RES_0201_330';
   body
     PART_NAME='R';
     JEDEC_TYPE='RES_0201';
-    VALUE='330';
+    VALUE='220';
   end_body;
 end_primitive;
 primitive 'R_RES_0201_100K';

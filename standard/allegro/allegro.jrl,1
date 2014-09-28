@@ -1,142 +1,210 @@
 \t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:00:00)     Journal start - Thu Sep 18 09:55:51 2014
-\t (00:00:00)         Host=SHANG-X201 User=shang Pid=5008 CPUs=4
+\t (00:00:00)     Journal start - Sun Sep 28 13:18:34 2014
+\t (00:00:00)         Host=SHANG-X201 User=shang Pid=7656 CPUs=4
 \t (00:00:00) 
 \t (00:00:02) Opening existing design...
 \d (00:00:02) Database opened: D:/Dropbox/Design/allegroProject/designOnGIt/modificationForLC4500/standard/allegro/STANDARD.brd
-\t (00:00:02) Grids are drawn 1.6000, 1.6000 apart for enhanced viewability.
-\i (00:00:02) trapsize 5717
-\i (00:00:02) trapsize 5613
-\i (00:00:02) trapsize 5735
-\i (00:00:03) trapsize 5867
-\i (00:00:03) trapsize 5867
+\t (00:00:02) Grids are drawn 0.0400, 0.0400 apart for enhanced viewability.
+\i (00:00:02) trapsize 490
+\i (00:00:02) trapsize 481
+\i (00:00:02) trapsize 492
+\t (00:00:03) Grids are drawn 0.1600, 0.1600 apart for enhanced viewability.
+\i (00:00:03) trapsize 503
+\i (00:00:03) trapsize 503
+\i (00:00:03) zoom out 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom out -27.6001 -54.8474
+\i (00:00:03) trapsize 1006
 \i (00:00:04) generaledit 
-\i (00:00:10) artwork 
-\i (00:00:16) setwindow form.film_control
-\i (00:00:16) FORM film_control apertures  
-\i (00:00:18) setwindow form.apt_wheels
-\i (00:00:18) FORM apt_wheels 1 edit  
-\i (00:00:20) setwindow form.apt_stations
-\i (00:00:20) FORM apt_stations auto 'Without Rotation' 
-\i (00:00:21) FORM apt_stations apt_done  
-\i (00:00:22) setwindow form.apt_wheels
-\i (00:00:22) FORM apt_wheels done  
-\t (00:00:22) Saving aperture: D:/Dropbox/Design/allegroProject/designOnGIt/modificationForLC4500/standard/allegro/art_aper.txt
-\i (00:00:24) setwindow form.film_control
-\i (00:00:24) FORM film_control create  
-\w (00:00:24) No film records selected.
-\i (00:00:27) FORM film_control cancel  
-\i (00:00:28) setwindow pcb
-\i (00:00:28) generaledit 
-\i (00:00:29) artwork 
-\i (00:00:31) setwindow form.film_control
-\i (00:00:31) FORM film_control apertures  
-\i (00:00:32) setwindow form.apt_wheels
-\i (00:00:32) FORM apt_wheels 1 edit  
-\i (00:00:34) setwindow form.apt_stations
-\i (00:00:34) FORM apt_stations auto 'Without Rotation' 
-\i (00:00:36) FORM apt_stations apt_done  
-\i (00:00:37) setwindow form.apt_wheels
-\i (00:00:37) FORM apt_wheels done  
-\t (00:00:37) Saving aperture: D:/Dropbox/Design/allegroProject/designOnGIt/modificationForLC4500/standard/allegro/art_aper.txt
-\i (00:00:38) setwindow form.film_control
-\i (00:00:38) FORM film_control select_all  
-\i (00:00:40) FORM film_control create  
-\t (00:00:40) Checking db records
-\t (00:00:40)     checking for orphans...
-\t (00:00:40)     Checked  15 percent
-\t (00:00:40)     Checked  30 percent
-\t (00:00:40)     Checked  45 percent
-\t (00:00:40)     Checked  60 percent
-\t (00:00:40)     Checked  76 percent
-\t (00:00:40)     Checked  91 percent
-\t (00:00:41)     Checked 100 percent
-\t (00:00:41) Done dbdoctor.
-\t (00:00:41) Starting Create artwork films...
-\w (00:00:42) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
-\w (00:00:43) Artwork generated with warnings.
-\i (00:00:54) FORM film_control general_parameters  
-\i (00:00:58) FORM film_control film_control  
-\i (00:01:34) FORM film_control ok  
-\i (00:01:34) setwindow pcb
-\i (00:01:34) generaledit 
-\i (00:04:42) ncdrill param 
-\i (00:04:43) generaledit 
-\i (00:04:46) setwindow form.nc_parameters
-\i (00:04:46) FORM nc_parameters done  
-\i (00:05:01) setwindow pcb
-\i (00:05:01) nctape_full 
-\i (00:05:19) setwindow form.nc_drill
-\i (00:05:19) FORM nc_drill scale 1.0000 
-\i (00:06:12) FORM nc_drill auto_tool_select YES 
-\i (00:06:30) FORM nc_drill execute  
-\w (00:06:30) WARNING(SPMHMF-269): Design contains slot holes that can not be drilled. They can be processed by NC Route instead.
-\t (00:06:30) Starting NC Drill...
-\i (00:06:35) FORM nc_drill close  
-\i (00:06:35) setwindow pcb
-\i (00:06:35) generaledit 
-\i (00:12:33) setwindow text
-\i (00:12:33) close 
-\i (00:12:35) setwindow form.vf_vis
-\i (00:12:35) FORM vf_vis all_all_visible_pln YES 
-\i (00:12:37) FORM vf_vis all_all_visible YES 
-\i (00:12:38) FORM vf_vis all_all_visible NO 
-\i (00:12:39) FORM vf_vis 2 all_colorvisible NO 
-\i (00:12:40) FORM vf_vis 2 all_colorvisible YES 
-\i (00:12:41) FORM vf_vis 2 all_colorvisible NO 
-\i (00:12:42) FORM vf_vis 5 all_colorvisible NO 
-\i (00:12:43) FORM vf_vis 5 all_colorvisible YES 
-\i (00:12:46) FORM vf_vis 7 all_colorvisible NO 
-\i (00:12:47) FORM vf_vis 7 all_colorvisible YES 
-\i (00:12:49) FORM vf_vis 7 all_colorvisible NO 
-\i (00:12:50) FORM vf_vis 7 all_colorvisible YES 
-\i (00:12:51) FORM vf_vis 5 all_colorvisible NO 
-\i (00:12:56) setwindow pcb
-\i (00:12:56) zoom in 1 
-\i (00:12:56) setwindow pcb
-\i (00:12:56) zoom in -93.1777 -32.3210
-\t (00:12:56) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
-\i (00:12:56) trapsize 2933
-\i (00:12:56) zoom in 1 
-\i (00:12:56) setwindow pcb
-\i (00:12:56) zoom in -94.2338 -32.5556
-\i (00:12:56) trapsize 1467
-\i (00:12:57) zoom out 1 
-\i (00:12:57) setwindow pcb
-\i (00:12:57) zoom out -94.2631 -32.4676
-\i (00:12:57) trapsize 2933
-\i (00:12:57) zoom out 1 
-\i (00:12:57) setwindow pcb
-\i (00:12:57) zoom out -94.2631 -32.4675
-\t (00:12:57) Grids are drawn 1.6000, 1.6000 apart for enhanced viewability.
-\i (00:12:57) trapsize 5867
-\i (00:13:00) exit 
-\e (00:13:00) Do you want to save the changes you made to STANDARD.brd?
-\i (00:13:01) fillin menu_cancel 
-\i (00:13:01) generaledit 
-\i (00:13:03) drc update 
-\t (00:13:04) Performing DRC...
-\t (00:13:04) Multithreaded DRC update (4 threads).
-\t (00:13:04) No DRC errors detected.
-\i (00:13:04) generaledit 
-\i (00:13:05) save 
-\i (00:13:06) fillin yes 
-\i (00:13:06) generaledit 
-\i (00:27:10) pick grid 29.9976 -58.3992
-\t (00:27:10) last pick:  30.0000  -58.4000
-\i (00:27:12) setwindow form.vf_vis
-\i (00:27:12) FORM vf_vis all_all_visible YES 
-\i (00:27:12) FORM vf_vis all_all_visible_pln YES 
-\i (00:27:12) FORM vf_vis all_all_visible NO 
-\i (00:27:14) FORM vf_vis all_all_visible YES 
-\i (00:27:15) setwindow pcb
-\i (00:27:15) drc update 
-\t (00:27:15) Performing DRC...
-\t (00:27:15) Multithreaded DRC update (4 threads).
-\t (00:27:16) No DRC errors detected.
-\i (00:27:16) generaledit 
-\i (00:27:17) save 
-\i (00:27:19) fillin yes 
-\i (00:27:19) generaledit 
-\i (00:27:21) exit 
-\t (00:27:21)     Journal end - Thu Sep 18 10:23:12 2014
+\i (00:00:06) drc update 
+\t (00:00:06) Performing DRC...
+\t (00:00:06) Multithreaded DRC update (4 threads).
+\t (00:00:07) No DRC errors detected.
+\i (00:00:07) generaledit 
+\i (00:00:22) setwindow form.find
+\i (00:00:22) FORM find find_name R72 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) pick grid -38.1252 -57.2824
+\t (00:00:24) last pick:  -38.1300  -57.2800
+\i (00:00:24) zoom in 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom in -32.4702 -56.4372
+\i (00:00:24) trapsize 503
+\i (00:00:24) zoom in 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom in -32.4702 -56.4472
+\t (00:00:24) Grids are drawn 0.0400, 0.0400 apart for enhanced viewability.
+\i (00:00:24) trapsize 252
+\i (00:00:26) pick grid -32.2186 -56.4522
+\t (00:00:26) last pick:  -32.2200  -56.4500
+\i (00:00:26) pick grid dbl -32.2186 -56.4522
+\t (00:00:26) last pick:  -32.2200  -56.4500
+\t (00:00:27) Cannot edit Symbol "R72". Component Instance "R72" has the FIXED property.
+\i (00:00:27) prepopup -32.2437 -56.4371
+\i (00:00:29) pop dyn_option_select '@:@Show element' 
+\i (00:00:29) show element 
+\i (00:00:29) generaledit 
+\i (00:00:37) setwindow text
+\i (00:00:37) close 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) pick grid -33.1695 -56.5025
+\t (00:00:42) last pick:  -33.1700  -56.5000
+\t (00:00:42) Cannot edit Symbol "R73". Component Instance "R73" has the FIXED property.
+\i (00:00:42) prepopup -33.1695 -56.5025
+\i (00:00:46) pop dyn_option_select '@:@Show element' 
+\i (00:00:46) show element 
+\i (00:00:46) generaledit 
+\i (00:00:53) setwindow text
+\i (00:00:53) close 
+\i (00:01:01) setwindow form.find
+\i (00:01:01) FORM find find_name R132 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) pick grid -30.3973 -56.2761
+\t (00:01:04) last pick:  -30.4000  -56.2800
+\i (00:01:07) setwindow form.find
+\i (00:01:07) FORM find find_name R132 
+\t (00:01:09) > Symbol "R132"
+\i (00:01:09) setwindow worldview
+\i (00:01:09) trapsize 326
+\i (00:01:10) setwindow pcb
+\i (00:01:10) pick grid -26.4983 -59.8441
+\t (00:01:10) last pick:  -26.5000  -59.8400
+\i (00:01:11) pick grid -27.2016 -59.0496
+\t (00:01:11) last pick:  -27.2000  -59.0500
+\t (00:01:11) Cannot edit Symbol "R132". Component Instance "R132" has the FIXED property.
+\i (00:01:11) prepopup -27.2081 -59.0496
+\i (00:01:12) pop dyn_option_select '@:@Show element' 
+\i (00:01:12) show element 
+\i (00:01:12) generaledit 
+\i (00:01:15) zoom out 1 
+\i (00:01:15) setwindow pcb
+\i (00:01:15) zoom out -28.9470 -58.8998
+\t (00:01:15) Grids are drawn 0.1600, 0.1600 apart for enhanced viewability.
+\i (00:01:15) trapsize 651
+\i (00:01:15) zoom out 1 
+\i (00:01:15) setwindow pcb
+\i (00:01:15) zoom out -28.9470 -58.8999
+\i (00:01:15) trapsize 1302
+\i (00:01:16) zoom in 1 
+\i (00:01:16) setwindow pcb
+\i (00:01:16) zoom in -28.9469 -58.8998
+\i (00:01:16) trapsize 651
+\i (00:01:16) zoom in 1 
+\i (00:01:16) setwindow pcb
+\i (00:01:16) zoom in -28.9469 -58.8998
+\t (00:01:16) Grids are drawn 0.0400, 0.0400 apart for enhanced viewability.
+\i (00:01:16) trapsize 326
+\i (00:01:27) xrefdes R133 
+\i (00:01:27) xname_flush 
+\i (00:01:34) xrefdes R72 
+\i (00:01:34) xname_flush 
+\i (00:01:49) setwindow text
+\i (00:01:49) close 
+\i (00:01:50) setwindow pcb
+\i (00:01:50) pick grid -28.6017 -59.9938
+\t (00:01:50) last pick:  -28.6000  -59.9900
+\i (00:02:01) setwindow form.find
+\i (00:02:01) FORM find find_name R133 
+\i (00:02:02) setwindow pcb
+\i (00:02:02) pick grid -28.7906 -59.9808
+\t (00:02:02) last pick:  -28.7900  -59.9800
+\i (00:02:03) roam start
+\i (00:02:03) roam y -48
+\i (00:02:03) roam y -16
+\i (00:02:03) roam y -64
+\i (00:02:03) roam x 16
+\i (00:02:03) roam y -64
+\i (00:02:03) roam y -48
+\i (00:02:03) roam y -16
+\i (00:02:03) roam x 16
+\i (00:02:03) roam y -32
+\i (00:02:03) roam x 16
+\i (00:02:03) roam y -64
+\i (00:02:03) roam y -48
+\i (00:02:04) roam y -48
+\i (00:02:04) roam end
+\i (00:02:06) zoom out 1 
+\i (00:02:06) setwindow pcb
+\i (00:02:06) zoom out -28.1742 -56.6613
+\t (00:02:06) Grids are drawn 0.1600, 0.1600 apart for enhanced viewability.
+\i (00:02:06) trapsize 651
+\i (00:02:09) zoom out 1 
+\i (00:02:09) setwindow pcb
+\i (00:02:09) zoom out -27.5881 -59.0189
+\i (00:02:09) trapsize 1302
+\i (00:02:11) zoom in 1 
+\i (00:02:11) setwindow pcb
+\i (00:02:11) zoom in -33.3972 -56.9609
+\i (00:02:11) trapsize 651
+\i (00:02:16) pick grid -38.3597 -57.8336
+\t (00:02:16) last pick:  -38.3600  -57.8300
+\i (00:02:18) place manual 
+\i (00:02:24) setwindow form.plc_manual
+\i (00:02:24) FORM plc_manual tree 'MULTISEL YES' D15 'Components by refdes' 
+\t (00:02:24) Placing D15 / LED_0_D_0402_LT QH9G-Q2S2-25-1_ / D_0402 on Top.
+\i (00:02:24) FORM plc_manual tree  D15 'Components by refdes' 
+\i (00:02:24) FORM plc_manual tree 'MULTISEL YES' D16 'Components by refdes' 
+\i (00:02:24) FORM plc_manual tree  D16 'Components by refdes' 
+\i (00:02:25) FORM plc_manual tree 'MULTISEL YES' D17 'Components by refdes' 
+\i (00:02:25) FORM plc_manual tree  D17 'Components by refdes' 
+\i (00:02:25) FORM plc_manual tree 'MULTISEL YES' D18 'Components by refdes' 
+\i (00:02:25) FORM plc_manual tree  D18 'Components by refdes' 
+\i (00:02:27) setwindow pcb
+\i (00:02:27) prepopup -35.7416 -56.0882
+\i (00:02:28) oops 
+\t (00:02:28) Placing D15 / LED_0_D_0402_LT QH9G-Q2S2-25-1_ / D_0402 on Top.
+\i (00:02:29) prepopup -37.5130 -56.5311
+\i (00:02:29) cancel 
+\i (00:02:30) generaledit 
+\i (00:02:30) pick grid -37.8908 -56.7134
+\t (00:02:30) last pick:  -37.8900  -56.7100
+\i (00:02:30) zoom out 1 
+\i (00:02:30) setwindow pcb
+\i (00:02:30) zoom out -37.8908 -56.7134
+\i (00:02:30) trapsize 1302
+\i (00:02:30) zoom out 1 
+\i (00:02:30) setwindow pcb
+\i (00:02:30) zoom out -37.8907 -56.7135
+\t (00:02:30) Grids are drawn 0.6400, 0.6400 apart for enhanced viewability.
+\i (00:02:30) trapsize 2605
+\i (00:02:31) zoom in 1 
+\i (00:02:31) setwindow pcb
+\i (00:02:31) zoom in -37.9429 -56.7135
+\t (00:02:31) Grids are drawn 0.1600, 0.1600 apart for enhanced viewability.
+\i (00:02:31) trapsize 1302
+\i (00:02:32) zoom in 1 
+\i (00:02:32) setwindow pcb
+\i (00:02:32) zoom in -37.9950 -57.2084
+\i (00:02:32) trapsize 651
+\i (00:02:41) delete 
+\i (00:02:43) setwindow form.find
+\i (00:02:43) FORM find all_off  
+\i (00:02:43) FORM find cline_segs YES 
+\i (00:02:44) setwindow pcb
+\i (00:02:44) pick grid -23.8628 -55.8538
+\t (00:02:44) last pick:  -23.8600  -55.8500
+\t (00:02:44) Odd-angle Line Segment "N19812982, Etch/Bottom"
+\i (00:02:45) pick grid -25.2956 -55.4240
+\t (00:02:45) last pick:  -25.3000  -55.4200
+\t (00:02:45) Horizontal Line Segment "N19812982, Etch/Bottom"
+\i (00:02:46) pick grid -26.8976 -55.6324
+\t (00:02:46) last pick:  -26.9000  -55.6300
+\t (00:02:46) Odd-angle Line Segment "N19812982, Etch/Bottom"
+\i (00:02:46) pick grid -27.4056 -55.8538
+\t (00:02:46) last pick:  -27.4100  -55.8500
+\t (00:02:46) Horizontal Line Segment "N19812982, Etch/Bottom"
+\i (00:02:48) setwindow form.find
+\i (00:02:48) FORM find symbols YES 
+\i (00:02:50) setwindow pcb
+\i (00:02:50) pick grid -28.0048 -55.9710
+\t (00:02:50) last pick:  -28.0000  -55.9700
+\t (00:02:50) Cannot edit Symbol "R133". Component Instance "R133" has the FIXED property.
+\i (00:02:55) zoom in 1 
+\i (00:02:55) setwindow pcb
+\i (00:02:55) zoom in -25.7124 -56.5962
+\t (00:02:55) Grids are drawn 0.0400, 0.0400 apart for enhanced viewability.
+\i (00:02:55) trapsize 326
+\i (00:02:57) zoom out 1 
+\i (00:02:57) setwindow pcb
+\i (00:02:57) zoom out -25.0937 -56.6158
+\t (00:02:57) G

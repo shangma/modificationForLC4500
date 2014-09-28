@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 16.6.0 d001Sep-28-2014 at 00:38:21 }
+{ Using PSTWRITER 16.6.0 d001Sep-28-2014 at 13:18:25 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='STANDARD';
@@ -2368,12 +2368,42 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- D4 'DUAL_COLOR_LED_3_4-SMD_GULL_WIN':;
+ D15 'LED_0_D_0402_LT QH9G-Q2S2-25-1_':;
 
 SECTION_NUMBER 1
- '@STANDARD.SCHEMATIC1(SCH_1):INS41724778@STANDARD.DUAL_COLOR_LED_3.NORMAL(CHIPS)':
- C_PATH='@standard.schematic1(sch_1):ins41724778@standard.\dual_color_led_3.normal\(chips)',
- P_PATH='@standard.schematic1(sch_1):page_ins41724778@standard.\dual_color_led_3.normal\(chips)',
+ '@STANDARD.SCHEMATIC1(SCH_1):INS42446673@LC4500.LED_0.NORMAL(CHIPS)':
+ C_PATH='@standard.schematic1(sch_1):ins42446673@lc4500.\led_0.normal\(chips)',
+ P_PATH='@standard.schematic1(sch_1):page_ins42446673@lc4500.\led_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D16 'LED_0_D_0402_LR QH9F-P2R1-1_LR':;
+
+SECTION_NUMBER 1
+ '@STANDARD.SCHEMATIC1(SCH_1):INS42446683@LC4500.LED_0.NORMAL(CHIPS)':
+ C_PATH='@standard.schematic1(sch_1):ins42446683@lc4500.\led_0.normal\(chips)',
+ P_PATH='@standard.schematic1(sch_1):page_ins42446683@lc4500.\led_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D17 'LED_0_D_0402_LT QH9G-Q2S2-25-1_':;
+
+SECTION_NUMBER 1
+ '@STANDARD.SCHEMATIC1(SCH_1):INS42447075@LC4500.LED_0.NORMAL(CHIPS)':
+ C_PATH='@standard.schematic1(sch_1):ins42447075@lc4500.\led_0.normal\(chips)',
+ P_PATH='@standard.schematic1(sch_1):page_ins42447075@lc4500.\led_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D18 'LED_0_D_0402_LT QH9G-Q2S2-25-1_':;
+
+SECTION_NUMBER 1
+ '@STANDARD.SCHEMATIC1(SCH_1):INS42447085@LC4500.LED_0.NORMAL(CHIPS)':
+ C_PATH='@standard.schematic1(sch_1):ins42447085@lc4500.\led_0.normal\(chips)',
+ P_PATH='@standard.schematic1(sch_1):page_ins42447085@lc4500.\led_0.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -2394,16 +2424,6 @@ SECTION_NUMBER 1
  '@STANDARD.SCHEMATIC1(SCH_1):INS40161942@LC4500.DIODE_SCHOTTKY.NORMAL(CHIPS)':
  C_PATH='@standard.schematic1(sch_1):ins40161942@lc4500.\diode_schottky.normal\(chips)',
  P_PATH='@standard.schematic1(sch_1):page_ins40161942@lc4500.\diode_schottky.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- D7 'DUAL_COLOR_LED_2_4-SMD_GULL_WIN':;
-
-SECTION_NUMBER 1
- '@STANDARD.SCHEMATIC1(SCH_1):INS19810483@STANDARD.DUAL_COLOR_LED_2.NORMAL(CHIPS)':
- C_PATH='@standard.schematic1(sch_1):ins19810483@standard.\dual_color_led_2.normal\(chips)',
- P_PATH='@standard.schematic1(sch_1):page_ins19810483@standard.\dual_color_led_2.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -4552,7 +4572,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R72 'R_RES_0201_330':;
+ R72 'R_RES_0201_220':;
 
 SECTION_NUMBER 1
  '@STANDARD.SCHEMATIC1(SCH_1):INS40250532@LC4500.R.NORMAL(CHIPS)':
@@ -4562,7 +4582,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R73 'R_RES_0201_330':;
+ R73 'R_RES_0201_220':;
 
 SECTION_NUMBER 1
  '@STANDARD.SCHEMATIC1(SCH_1):INS41083358@LC4500.R.NORMAL(CHIPS)':

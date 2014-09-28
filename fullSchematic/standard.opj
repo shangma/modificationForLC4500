@@ -8,7 +8,7 @@
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
     (DOCKED "TRUE")
-    (DOCKING_POSITION "59420")
+    (DOCKING_POSITION "59421")
     (NoModify)
     (DRC_Scope "0")
     (DRC_Action "1")
@@ -160,12 +160,14 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources" ".\standard.dsn")
-      (Path "Design Resources" ".\standard.dsn" "SCHEMATIC1"))
+      (Path "Design Resources" ".\standard.dsn" "SCHEMATIC1")
+      (Select "Design Resources" ".\standard.dsn" "SCHEMATIC1"
+         "PAGE-15  GPIO, I2C, LED CONTROL"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 266 0 1022"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 902"))
       (Tab 0)))
   (MPSSessionName "shang")
   (ISPCBBASICLICENSE "false")
